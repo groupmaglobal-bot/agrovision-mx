@@ -1,0 +1,472 @@
+<!doctype html>
+<html lang="es-MX">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>AGROVISION_MX — Del campo al dato</title>
+<meta name="description" content="Explicamos cómo la tecnología está cambiando el campo mexicano: drones, IA, sensores, riego inteligente y los números detrás de cada hectárea.">
+<meta name="theme-color" content="#0B141B">
+<meta property="og:type" content="website">
+<meta property="og:title" content="AGROVISION_MX — Del campo al dato">
+<meta property="og:description" content="Agro + Tech + Negocio. Cómo la tecnología está cambiando el campo mexicano.">
+<meta property="og:locale" content="es_MX">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%2316A34A'/%3E%3Cpath d='M16 25V13M16 17c-4 0-6.5-2.5-6.5-6.5 4 0 6.5 2.5 6.5 6.5zm0-2c0-4 2.5-6.5 6.5-6.5 0 4-2.5 6.5-6.5 6.5z' stroke='%230B141B' stroke-width='2.2' fill='none' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+<script>document.documentElement.classList.add('js')</script>
+<style>
+:root{
+  --accent:#16A34A; --accent-hi:#4ADE80; --ink:#0B141B; --ink-2:#0F1A22; --ink-3:#111D26;
+  --blue:#5B8CFF; --yellow:#FACC15; --paper:#F5F7F4; --text-2:#C4CFD8; --muted:#A3B1BD; --dim:#7E8D99;
+  --line:rgba(245,247,244,.08); --line-2:rgba(245,247,244,.14);
+  --mono:"JetBrains Mono",ui-monospace,SFMono-Regular,Consolas,monospace;
+  --sans:Inter,"Segoe UI",system-ui,-apple-system,sans-serif;
+  /* Emil Kowalski easing tokens */
+  --ease-out:cubic-bezier(0.23,1,0.32,1);
+  --ease-in-out:cubic-bezier(0.77,0,0.175,1);
+  --pad:clamp(20px,5.5vw,80px);
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--ink);color:var(--paper);font-family:var(--sans);line-height:1.55;-webkit-font-smoothing:antialiased;padding-bottom:env(safe-area-inset-bottom,0px)}
+h1,h2,h3,p,figure,ol{margin:0}
+a{color:inherit;text-decoration:none}
+svg{display:block;flex-shrink:0}
+:focus-visible{outline:2px solid var(--accent-hi);outline-offset:3px;border-radius:6px}
+.wrap{max-width:1440px;margin:0 auto;padding-inline:var(--pad)}
+.mono{font-family:var(--mono);font-weight:700;letter-spacing:.15em;text-transform:uppercase}
+.eyebrow{font-size:13px;color:var(--accent-hi)}
+.h2{font-size:clamp(38px,5vw,60px);line-height:1.02;font-weight:800;letter-spacing:-.03em;text-wrap:balance}
+
+/* ---------- Buttons: press feedback (scale .97, 160ms ease-out) ---------- */
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:12px;min-height:56px;padding:0 28px;border-radius:999px;font-weight:800;font-size:17px;
+  transition:transform 160ms var(--ease-out),background-color 200ms ease,border-color 200ms ease,color 200ms ease;-webkit-tap-highlight-color:transparent}
+.btn:active{transform:scale(.97)}
+.btn-accent{background:var(--accent);color:var(--ink)}
+.btn-ghost{border:1px solid rgba(245,247,244,.2);font-weight:600}
+.btn-light{background:var(--paper);color:var(--ink);min-height:48px;padding:0 22px;font-size:15px;font-weight:700}
+.btn-dark{background:var(--ink);color:var(--paper)}
+.btn .arrow{transition:transform 200ms var(--ease-out)}
+@media (hover:hover) and (pointer:fine){
+  .btn-accent:hover{background:#1DB954}
+  .btn-ghost:hover{border-color:rgba(245,247,244,.45)}
+  .btn-light:hover{background:#fff}
+  .btn-dark:hover{background:#15232E}
+  .btn:hover .arrow{transform:translateX(3px)}
+}
+
+/* ---------- Nav ---------- */
+header{position:sticky;top:0;z-index:30;background:rgba(11,20,27,.78);backdrop-filter:saturate(1.4) blur(14px);-webkit-backdrop-filter:saturate(1.4) blur(14px);border-bottom:1px solid transparent;transition:border-color 200ms ease;padding-top:env(safe-area-inset-top,0px)}
+header.scrolled{border-bottom-color:var(--line)}
+.nav{height:76px;display:flex;align-items:center;justify-content:space-between;gap:24px}
+.logo{display:flex;align-items:center;gap:12px;font-weight:900;font-size:18px;letter-spacing:.02em}
+.logo b{color:var(--accent);font-weight:900}
+.nav-links{display:flex;gap:40px;font-size:15px;font-weight:500;color:var(--muted)}
+.nav-links a{transition:color 200ms ease}
+@media (hover:hover) and (pointer:fine){.nav-links a:hover{color:var(--paper)}}
+.ig-icon-only{display:none}
+@media (max-width:860px){.nav-links{display:none}}
+@media (max-width:520px){.nav .btn-light{display:none}.ig-icon-only{display:flex;width:44px;height:44px;border-radius:50%;background:var(--paper);color:var(--ink);align-items:center;justify-content:center;transition:transform 160ms var(--ease-out)}.ig-icon-only:active{transform:scale(.95)}}
+
+/* ---------- Hero ---------- */
+.hero{background-image:linear-gradient(rgba(245,247,244,.035) 1px,transparent 1px),linear-gradient(90deg,rgba(245,247,244,.035) 1px,transparent 1px);background-size:48px 48px}
+.hero .wrap{padding-block:clamp(48px,7vw,96px) clamp(56px,6vw,80px);display:grid;grid-template-columns:minmax(0,1.08fr) minmax(0,.92fr);gap:clamp(40px,5vw,72px);align-items:center}
+@media (max-width:1024px){.hero .wrap{grid-template-columns:1fr}}
+.hero-copy{display:flex;flex-direction:column;gap:28px}
+.live{display:flex;align-items:center;gap:12px}
+.live i{width:8px;height:8px;border-radius:50%;background:var(--accent-hi);box-shadow:0 0 0 0 rgba(74,222,128,.5);animation:ping 2.4s var(--ease-out) infinite}
+@keyframes ping{0%{box-shadow:0 0 0 0 rgba(74,222,128,.45)}70%,100%{box-shadow:0 0 0 10px rgba(74,222,128,0)}}
+.hero h1{font-size:clamp(56px,8.2vw,120px);line-height:.92;font-weight:900;letter-spacing:-.045em}
+.hero h1 span{color:var(--accent)}.hero h1 .nw{color:inherit;white-space:nowrap}
+.lead{font-size:clamp(18px,1.6vw,22px);line-height:1.5;color:var(--text-2);max-width:560px;text-wrap:pretty}
+.ctas{display:flex;gap:14px;flex-wrap:wrap}
+@media (max-width:520px){.ctas .btn{width:100%}}
+
+/* Signature card */
+.sig{border-radius:28px;overflow:hidden;border:1px solid rgba(245,247,244,.12);background:var(--ink-3);box-shadow:0 40px 100px -40px rgba(0,0,0,.8)}
+.field{position:relative;aspect-ratio:560/540;overflow:hidden}
+.field>svg{width:100%;height:100%}
+.scan{position:absolute;left:0;right:0;top:0;height:30%;background:linear-gradient(to bottom,transparent,rgba(74,222,128,.13) 85%,rgba(74,222,128,.55) 100%);pointer-events:none;
+  animation:scan 5.5s linear infinite;will-change:transform}
+@keyframes scan{from{transform:translateY(-100%)}to{transform:translateY(340%)}}
+.tag{position:absolute;padding:12px 16px;border-radius:14px;background:rgba(11,20,27,.88);border:1px solid rgba(245,247,244,.16);display:flex;flex-direction:column;gap:4px;backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px)}
+.tag .mono{font-size:11px;letter-spacing:.14em}
+.tag strong{font-size:clamp(22px,2.2vw,30px);font-weight:800;letter-spacing:-.02em;font-variant-numeric:tabular-nums;transition:filter 200ms ease,opacity 200ms ease}
+.tag strong.swap{filter:blur(2px);opacity:.6}
+.t1{top:12%;left:50%;translate:-50% 0}.t1 .mono{color:var(--muted)}
+.t2{bottom:9%;left:6%}.t2 .mono{color:#93B4FF}
+.t3{bottom:28%;right:6%;border-color:var(--yellow)}.t3 .mono{color:var(--yellow)}
+.sig figcaption{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:20px 26px;border-top:1px solid rgba(245,247,244,.1)}
+.sig figcaption b{font-weight:900;font-size:17px;letter-spacing:.02em}
+.sig figcaption .mono{font-size:13px;color:var(--accent-hi);white-space:nowrap}
+@media (max-width:520px){.sig figcaption{padding:16px 18px}.sig figcaption b{font-size:14px}.sig figcaption .mono{font-size:11px}.tag{padding:10px 12px}}
+
+/* ---------- Ticker (constant motion → linear) ---------- */
+.ticker{background:var(--accent);color:var(--ink);overflow:hidden;height:64px;display:flex;align-items:center}
+.ticker-track{display:flex;gap:40px;padding-right:40px;white-space:nowrap;font-size:15px;animation:marquee 32s linear infinite;will-change:transform}
+.ticker-track span{display:flex;align-items:center;gap:40px}.ticker-track em{font-style:normal}
+@keyframes marquee{to{transform:translateX(-50%)}}
+
+/* ---------- Sections ---------- */
+section.block{border-top:1px solid var(--line)}
+section.block .wrap{padding-block:clamp(72px,9vw,128px)}
+.manifesto .wrap{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr);gap:clamp(28px,5vw,72px)}
+@media (max-width:860px){.manifesto .wrap{grid-template-columns:1fr}}
+.manifesto .body{display:flex;flex-direction:column;gap:40px}
+.manifesto h2 .soft{color:var(--dim)}
+.equation{display:flex;flex-wrap:wrap;align-items:center;gap:14px 26px;font-size:clamp(28px,3.4vw,44px);font-weight:900;letter-spacing:-.02em}
+.equation .p{color:#52616D;font-weight:400}
+.manifesto p{font-size:clamp(17px,1.4vw,20px);color:var(--muted);max-width:720px}
+
+.head{display:flex;justify-content:space-between;align-items:end;gap:24px 40px;flex-wrap:wrap;margin-bottom:clamp(36px,5vw,64px)}
+.head>div{display:flex;flex-direction:column;gap:18px}
+.head p{font-size:18px;color:var(--muted);max-width:420px}
+
+.pillars{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));border-top:1px solid var(--line-2)}
+.pillar{padding:32px 28px 8px;display:flex;flex-direction:column;gap:16px;border-right:1px solid var(--line);position:relative}
+.pillar:first-child{padding-left:0}.pillar:last-child{border-right:0;padding-right:0}
+.pillar::before{content:"";position:absolute;top:-1px;left:0;right:0;height:2px;background:var(--c,var(--accent));transform:scaleX(0);transform-origin:left;transition:transform 300ms var(--ease-out)}
+@media (hover:hover) and (pointer:fine){.pillar:hover::before{transform:scaleX(1)}}
+.pillar .n{font-size:13px;color:var(--dim)}
+.pillar h3{font-size:26px;font-weight:800;letter-spacing:-.02em}
+.pillar p{font-size:16px;color:var(--muted)}
+@media (max-width:1024px){
+  .pillars{grid-template-columns:1fr;border-top:0}
+  .pillar,.pillar:first-child,.pillar:last-child{display:grid;grid-template-columns:40px minmax(0,1fr);column-gap:16px;row-gap:6px;padding:22px 0;border-right:0;border-top:1px solid var(--line-2)}
+  .pillar:last-child{border-bottom:1px solid var(--line-2)}
+  .pillar .n{display:none}
+  .pillar svg{grid-row:span 2;width:32px;height:32px}
+  .pillar h3{font-size:21px}.pillar p{font-size:15px}
+}
+
+.formats{background:var(--ink-2)}
+.posts{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:32px}
+.post{display:flex;flex-direction:column;gap:18px}
+.card{aspect-ratio:4/5;border-radius:20px;padding:clamp(24px,2.6vw,36px);display:flex;flex-direction:column;justify-content:space-between;position:relative;overflow:hidden;transition:transform 300ms var(--ease-out)}
+@media (hover:hover) and (pointer:fine){.post:hover .card{transform:translateY(-4px)}}
+.card .top{display:flex;justify-content:space-between;align-items:center;font-size:12px}
+.card h3{font-size:clamp(28px,2.6vw,40px);line-height:1.03;font-weight:900;letter-spacing:-.03em;position:relative}
+.c-dark{background:var(--ink);border:1px solid rgba(245,247,244,.12)}
+.c-yellow{background:var(--yellow);color:var(--ink)}
+.c-green{background:var(--accent);color:var(--ink)}
+.rows{display:flex;flex-direction:column;gap:10px;font-size:15px;font-weight:600}
+.rows div{display:flex;justify-content:space-between;gap:12px;padding-bottom:10px;border-bottom:1px solid rgba(245,247,244,.1)}
+.rows div:last-child{border:0;padding:0;color:var(--yellow);font-weight:800}
+.rows span:last-child{font-family:var(--mono);color:var(--dim);white-space:nowrap}
+.rows div:last-child span:last-child{color:var(--yellow)}
+.qmark{position:absolute;right:-10px;top:30px;font-size:clamp(200px,20vw,300px);line-height:1;font-weight:900;color:rgba(11,20,27,.08)}
+.stats{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.stats div{padding:14px;border-radius:12px;background:rgba(11,20,27,.12);display:flex;flex-direction:column}
+.stats b{font-size:24px;font-weight:900}.stats small{font-size:13px;font-weight:600}
+.post>p{font-size:15px;color:var(--muted)}.post>p b{color:var(--paper)}
+@media (max-width:1024px){
+  .posts{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scroll-padding-inline:var(--pad);gap:14px;margin-inline:calc(var(--pad)*-1);padding-inline:var(--pad);scrollbar-width:none}
+  .posts::-webkit-scrollbar{display:none}
+  .post{flex:0 0 min(78vw,340px);scroll-snap-align:start}
+}
+
+.route{list-style:none;padding:0;display:grid;grid-template-columns:repeat(5,minmax(0,1fr))}
+.route li{display:flex;flex-direction:column;gap:12px;padding:28px 24px 0 0;border-top:3px solid var(--line-2)}
+.route li.on{border-top-color:var(--accent)}
+.route .mono{font-size:12px;color:var(--dim)}.route li.on .mono{color:var(--accent-hi)}
+.route strong{font-size:26px;font-weight:800}
+.route span:last-child{font-size:15px;color:var(--muted)}
+@media (max-width:1024px){
+  .route{grid-template-columns:1fr;gap:26px;border-left:2px solid var(--line-2);padding-left:22px}
+  .route li{border-top:0;padding:0;position:relative;gap:4px}
+  .route li::before{content:"";position:absolute;left:-29px;top:4px;width:12px;height:12px;border-radius:50%;background:var(--ink);border:2px solid var(--line-2)}
+  .route li.on::before{background:var(--accent);border-color:var(--accent)}
+  .route strong{font-size:21px}
+}
+
+.cta .wrap{padding-block:clamp(16px,3vw,40px) clamp(56px,7vw,100px)}
+.cta-box{border-radius:clamp(26px,3vw,36px);background:var(--accent);color:var(--ink);padding:clamp(44px,6vw,88px) clamp(26px,5.5vw,80px);display:grid;grid-template-columns:minmax(0,1.4fr) minmax(0,1fr);gap:clamp(22px,4vw,48px);align-items:end}
+.cta-box h2{font-size:clamp(44px,6.2vw,88px);line-height:.95;font-weight:900;letter-spacing:-.045em}
+.cta-box .side{display:flex;flex-direction:column;gap:28px;align-items:flex-start}
+.cta-box p{font-size:clamp(17px,1.5vw,20px);font-weight:500}
+@media (max-width:860px){.cta-box{grid-template-columns:1fr}.cta-box .btn{width:100%}}
+
+footer .wrap{padding-block:40px 48px;border-top:1px solid var(--line);display:flex;justify-content:space-between;gap:8px 24px;flex-wrap:wrap;font-size:15px;color:var(--dim)}
+footer b{color:var(--paper)}
+
+/* ---------- Motion (only transform/opacity/filter/clip-path) ---------- */
+/* Hero entrance: rare, first-load → a bit of delight, 30–80ms stagger */
+.js .in{opacity:0;transform:translateY(10px);filter:blur(4px);animation:enter 700ms var(--ease-out) forwards;animation-delay:calc(var(--i,0) * 70ms + 80ms)}
+@keyframes enter{to{opacity:1;transform:none;filter:blur(0)}}
+.js .sig.in{transform:translateY(16px) scale(.98)}
+.js .tag{opacity:0;scale:.95;transition:opacity 400ms var(--ease-out),scale 400ms var(--ease-out)}
+.js .tags-on .tag{opacity:1;scale:1}
+.js .tags-on .t2{transition-delay:90ms}.js .tags-on .t3{transition-delay:180ms}
+
+/* Scroll reveals (transitions, interruptible) */
+.js .reveal{opacity:0;transform:translateY(16px);transition:opacity 700ms var(--ease-out),transform 700ms var(--ease-out);transition-delay:calc(var(--i,0) * 60ms)}
+.js .reveal.seen{opacity:1;transform:none}
+/* Image-style reveal for feed cards: clip-path inset from bottom */
+.js .card.rcard{clip-path:inset(0 0 100% 0 round 20px);transition:clip-path 900ms var(--ease-in-out),transform 300ms var(--ease-out);transition-delay:calc(var(--i,0) * 80ms),0ms}
+.js .card.rcard.seen{clip-path:inset(0 0 0 0 round 20px)}
+
+/* Reduced motion: fewer & gentler, not zero — keep opacity, drop movement */
+@media (prefers-reduced-motion:reduce){
+  html{scroll-behavior:auto}
+  .scan,.ticker-track,.live i{animation:none}
+  .js .in{animation:fade 300ms ease forwards;transform:none;filter:none}
+  @keyframes fade{to{opacity:1}}
+  .js .reveal,.js .reveal.seen{transform:none;transition:opacity 300ms ease}
+  .js .card.rcard{clip-path:none;opacity:0;transition:opacity 300ms ease}
+  .js .card.rcard.seen{opacity:1}
+  .js .tag{scale:1}
+  .btn,.card,.pillar::before{transition:none}
+}
+</style>
+</head>
+<body>
+
+<header id="top-bar">
+  <div class="wrap nav">
+    <a href="#top" class="logo" aria-label="AGROVISION_MX, inicio">
+      <svg width="32" height="32" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="8" fill="#16A34A"/><path d="M16 25V13M16 17c-4 0-6.5-2.5-6.5-6.5 4 0 6.5 2.5 6.5 6.5zm0-2c0-4 2.5-6.5 6.5-6.5 0 4-2.5 6.5-6.5 6.5z" stroke="#0B141B" stroke-width="2.2" fill="none" stroke-linecap="round"/></svg>
+      <span>AGROVISION<b>_MX</b></span>
+    </a>
+    <nav class="nav-links" aria-label="Secciones">
+      <a href="#manifiesto">Qué es</a><a href="#pilares">Pilares</a><a href="#formatos">Contenido</a><a href="#ruta">Ruta</a>
+    </nav>
+    <a class="btn btn-light" href="https://www.instagram.com/agrovision_mx/" target="_blank" rel="noopener">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor"/></svg>Síguenos
+    </a>
+    <a class="ig-icon-only" href="https://www.instagram.com/agrovision_mx/" target="_blank" rel="noopener" aria-label="Instagram de AGROVISION_MX">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor"/></svg>
+    </a>
+  </div>
+</header>
+
+<main id="top">
+<!-- HERO -->
+<div class="hero">
+  <div class="wrap">
+    <div class="hero-copy">
+      <div class="live mono eyebrow in" style="--i:0"><i></i>Agro · Tech · Negocio · México</div>
+      <h1 class="in" style="--i:1"><span class="nw">Del campo</span><br>al <span>dato.</span></h1>
+      <p class="lead in" style="--i:2">Explicamos cómo la tecnología está cambiando el campo mexicano: drones, IA, sensores, riego inteligente y los números detrás de cada hectárea.</p>
+      <div class="ctas in" style="--i:3">
+        <a class="btn btn-accent" href="https://www.instagram.com/agrovision_mx/" target="_blank" rel="noopener">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor"/></svg>
+          Seguir @agrovision_mx
+        </a>
+        <a class="btn btn-ghost" href="#pilares">De qué hablamos
+          <svg class="arrow" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+        </a>
+      </div>
+    </div>
+
+    <figure class="sig in" style="--i:3" id="sig">
+      <div class="field">
+        <svg viewBox="0 0 560 540" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Cultivo al atardecer escaneado por un dron">
+          <defs>
+            <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#16324A"/><stop offset="1" stop-color="#C77A1A"/></linearGradient>
+            <linearGradient id="soil" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#14532D"/><stop offset="1" stop-color="#04210F"/></linearGradient>
+          </defs>
+          <rect width="560" height="230" fill="url(#sky)"/>
+          <circle cx="420" cy="196" r="46" fill="#FACC15" opacity=".9"/>
+          <path d="M0 214 Q140 186 280 206 T560 198 V240 H0Z" fill="#0F3B22"/>
+          <rect y="228" width="560" height="312" fill="url(#soil)"/>
+          <g stroke="#22C55E" stroke-width="3" opacity=".55">
+            <line x1="280" y1="230" x2="-200" y2="540"/><line x1="280" y1="230" x2="-60" y2="540"/>
+            <line x1="280" y1="230" x2="80" y2="540"/><line x1="280" y1="230" x2="210" y2="540"/>
+            <line x1="280" y1="230" x2="350" y2="540"/><line x1="280" y1="230" x2="480" y2="540"/>
+            <line x1="280" y1="230" x2="620" y2="540"/><line x1="280" y1="230" x2="760" y2="540"/>
+          </g>
+          <g transform="translate(140 96)">
+            <rect x="-20" y="-4" width="40" height="8" rx="4" fill="#E2E8F0"/>
+            <line x1="-34" y1="-10" x2="-12" y2="-10" stroke="#E2E8F0" stroke-width="2.5"/>
+            <line x1="12" y1="-10" x2="34" y2="-10" stroke="#E2E8F0" stroke-width="2.5"/>
+            <path d="M-14 4 L-60 150 L60 150 L14 4Z" fill="#2563EB" opacity=".2"/>
+          </g>
+          <g fill="none" stroke-width="1.5">
+            <rect x="80" y="330" width="120" height="86" stroke="#2563EB" opacity=".5"/>
+            <rect x="200" y="330" width="120" height="86" stroke="#2563EB" opacity=".5"/>
+            <rect x="320" y="330" width="120" height="86" stroke="#FACC15"/>
+          </g>
+        </svg>
+        <div class="scan" aria-hidden="true"></div>
+        <div class="tag t1"><span class="mono">Humedad</span><strong id="hum">68%</strong></div>
+        <div class="tag t2"><span class="mono">Temp. suelo</span><strong id="temp">21.4 °C</strong></div>
+        <div class="tag t3"><span class="mono">NDVI · Zona C</span><strong>0.72</strong></div>
+      </div>
+      <figcaption><b>AGROVISION_MX</b><span class="mono">Del campo al dato.</span></figcaption>
+    </figure>
+  </div>
+</div>
+
+<!-- TICKER -->
+<div class="ticker mono" aria-label="Temas: drones, inteligencia artificial, sensores e IoT, riego inteligente, agricultura de precisión, negocio">
+  <div class="ticker-track" aria-hidden="true">
+    <span>Drones<em>✦</em>Inteligencia artificial<em>✦</em>Sensores e IoT<em>✦</em>Riego inteligente<em>✦</em>Agricultura de precisión<em>✦</em>Negocio<em>✦</em></span>
+    <span>Drones<em>✦</em>Inteligencia artificial<em>✦</em>Sensores e IoT<em>✦</em>Riego inteligente<em>✦</em>Agricultura de precisión<em>✦</em>Negocio<em>✦</em></span>
+  </div>
+</div>
+
+<!-- MANIFIESTO -->
+<section class="block manifesto" id="manifiesto">
+  <div class="wrap">
+    <div class="mono eyebrow reveal">01 — Qué es AGROVISION_MX</div>
+    <div class="body">
+      <h2 class="h2 reveal">No publicamos noticias del campo. <span class="soft">Explicamos cómo la tecnología lo está cambiando.</span></h2>
+      <div class="equation reveal" style="--i:1" aria-label="Agro más Tech más Negocio">
+        <span style="color:var(--accent)">AGRO</span><span class="p">+</span><span style="color:var(--blue)">TECH</span><span class="p">+</span><span style="color:var(--yellow)">NEGOCIO</span>
+      </div>
+      <p class="reveal" style="--i:2">Para productores, ingenieros, estudiantes, empresarios y cualquiera que quiera entender hacia dónde va la agricultura en México.</p>
+    </div>
+  </div>
+</section>
+
+<!-- PILARES -->
+<section class="block" id="pilares">
+  <div class="wrap">
+    <div class="head">
+      <div><div class="mono eyebrow reveal">02 — Los 5 pilares</div><h2 class="h2 reveal">De qué hablamos.</h2></div>
+      <p class="reveal">Cinco categorías de contenido para entender el campo de hoy y el de mañana.</p>
+    </div>
+    <div class="pillars">
+      <article class="pillar reveal" style="--i:0;--c:#4ADE80"><span class="n mono">01</span>
+        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#4ADE80" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="7" cy="17" r="3"/><circle cx="18" cy="18" r="2"/><path d="M4 14V8h7l2 6M11 8V5h4l3 6v5M10 17h6"/></svg>
+        <h3>Agro</h3><p>Maquinaria, cultivos, riego y cómo se produce realmente en el campo.</p></article>
+      <article class="pillar reveal" style="--i:1;--c:#5B8CFF"><span class="n mono">02</span>
+        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#5B8CFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="6" y="6" width="12" height="12" rx="2"/><rect x="9.5" y="9.5" width="5" height="5"/><path d="M9 2v4M15 2v4M9 18v4M15 18v4M2 9h4M2 15h4M18 9h4M18 15h4"/></svg>
+        <h3>AgroTech</h3><p>Drones, IA, sensores, IoT y agricultura de precisión explicados fácil.</p></article>
+      <article class="pillar reveal" style="--i:2;--c:#FACC15"><span class="n mono">03</span>
+        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#FACC15" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 20h18M6 16v-4M11 16V8M16 16v-6M20 5l-5 4-4-2-5 4"/></svg>
+        <h3>Agro Business</h3><p>Costos, márgenes, inversiones, startups y exportación.</p></article>
+      <article class="pillar reveal" style="--i:3;--c:#4ADE80"><span class="n mono">04</span>
+        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#4ADE80" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 22v-9"/><path d="M12 13C12 8 9 5 4 5c0 5 3 8 8 8z"/><path d="M12 11c0-4 3-7 8-7 0 4-3 7-8 7z"/></svg>
+        <h3>¿Sabías que…?</h3><p>Un dato sorprendente, una imagen potente y una explicación sencilla.</p></article>
+      <article class="pillar reveal" style="--i:4;--c:#F5F7F4"><span class="n mono">05</span>
+        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#F5F7F4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 22s7-6.2 7-12a7 7 0 1 0-14 0c0 5.8 7 12 7 12z"/><circle cx="12" cy="10" r="2.5"/></svg>
+        <h3>México</h3><p>Innovación mexicana, regiones productoras y las empresas que mueven el sector.</p></article>
+    </div>
+  </div>
+</section>
+
+<!-- FORMATOS -->
+<section class="block formats" id="formatos">
+  <div class="wrap">
+    <div class="head"><div><div class="mono eyebrow reveal">03 — En tu feed</div><h2 class="h2 reveal">Así se ve AGROVISION.</h2></div></div>
+    <div class="posts">
+      <div class="post">
+        <div class="card c-dark rcard" style="--i:0">
+          <div class="top mono"><span style="color:var(--yellow)">Agro Business</span><span style="color:var(--dim)">1 / 8</span></div>
+          <h3>¿Cuánto cuesta producir una hectárea de maíz?</h3>
+          <div class="rows">
+            <div><span>Semilla</span><span>[$ MXN]</span></div>
+            <div><span>Fertilizante</span><span>[$ MXN]</span></div>
+            <div><span>Riego · Mano de obra · Maquinaria</span><span>[$ MXN]</span></div>
+            <div><span>UTILIDAD</span><span>[$ MXN]</span></div>
+          </div>
+        </div>
+        <p><b>Carrusel.</b> Los números reales del agro, slide por slide.</p>
+      </div>
+      <div class="post">
+        <div class="card c-yellow rcard" style="--i:1">
+          <span class="top mono">¿Sabías que…?</span>
+          <span class="qmark" aria-hidden="true">?</span>
+          <h3>Una planta puede “avisar” cuando tiene estrés hídrico.</h3>
+          <span style="font-size:15px;font-weight:700;position:relative">AGROVISION_MX</span>
+        </div>
+        <p><b>Dato viral.</b> Algo sorprendente, explicado en segundos.</p>
+      </div>
+      <div class="post">
+        <div class="card c-green rcard" style="--i:2">
+          <div class="top mono"><span>AGROVISION México</span>
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 22s7-6.2 7-12a7 7 0 1 0-14 0c0 5.8 7 12 7 12z"/><circle cx="12" cy="10" r="2.5"/></svg></div>
+          <h3>El campo mexicano en números.</h3>
+          <div class="stats"><div><b>[DATO]</b><small>hectáreas sembradas</small></div><div><b>[DATO]</b><small>exportaciones agro</small></div></div>
+        </div>
+        <p><b>México.</b> Regiones, empresas e innovación hecha aquí.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- RUTA -->
+<section class="block" id="ruta">
+  <div class="wrap">
+    <div class="head"><div><div class="mono eyebrow reveal">04 — Hacia dónde vamos</div><h2 class="h2 reveal">Instagram es solo la puerta de entrada.</h2></div></div>
+    <ol class="route">
+      <li class="on reveal" style="--i:0"><span class="mono">Ahora</span><strong>Instagram</strong><span>Carruseles e imágenes que explican el agro con datos.</span></li>
+      <li class="on reveal" style="--i:1"><span class="mono">Ahora</span><strong>Web</strong><span>Esta página: el punto de encuentro de AGROVISION.</span></li>
+      <li class="reveal" style="--i:2"><span class="mono">Próximo</span><strong>Newsletter</strong><span>Lo más relevante del agro mexicano en tu correo.</span></li>
+      <li class="reveal" style="--i:3"><span class="mono">Después</span><strong>Comunidad</strong><span>Productores, empresas y talento conectados.</span></li>
+      <li class="reveal" style="--i:4"><span class="mono">Después</span><strong>Eventos</strong><span>Encuentros donde el campo y la tecnología se conocen.</span></li>
+    </ol>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="cta">
+  <div class="wrap">
+    <div class="cta-box reveal">
+      <h2>El futuro del campo comienza hoy.</h2>
+      <div class="side">
+        <p>Cada semana, cómo la tecnología está transformando la agricultura en México. En imágenes, sin rodeos.</p>
+        <a class="btn btn-dark" href="https://www.instagram.com/agrovision_mx/" target="_blank" rel="noopener">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor"/></svg>
+          Seguir @agrovision_mx
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="wrap"><span><b>AGROVISION_MX</b> · Del campo al dato.</span><span>Hecho en México · © <span id="y">2026</span></span></div>
+</footer>
+
+<script>
+(function(){
+  var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  document.getElementById('y').textContent = new Date().getFullYear();
+
+  // Nav hairline appears once the page scrolls
+  var bar = document.getElementById('top-bar');
+  var onScroll = function(){ bar.classList.toggle('scrolled', window.scrollY > 8); };
+  window.addEventListener('scroll', onScroll, {passive:true}); onScroll();
+
+  // Sensor tags pop in after the hero card lands
+  var sig = document.getElementById('sig');
+  setTimeout(function(){ sig.classList.add('tags-on'); }, reduce ? 0 : 750);
+
+  // Scroll reveals (once)
+  var els = document.querySelectorAll('.reveal');
+  if (!('IntersectionObserver' in window)) { document.querySelectorAll('.reveal,.rcard').forEach(function(e){ e.classList.add('seen'); }); }
+  else {
+    var io = new IntersectionObserver(function(entries){
+      entries.forEach(function(en){ if (en.isIntersecting){ en.target.classList.add('seen'); io.unobserve(en.target); } });
+    }, {rootMargin:'0px 0px -12% 0px', threshold:0.05});
+    els.forEach(function(e){ io.observe(e); });
+    // Feed cards: observe the row (clip-path on the card itself hides it from IO)
+    var posts = document.querySelector('.posts');
+    var io2 = new IntersectionObserver(function(entries){
+      if (entries[0].isIntersecting){ posts.querySelectorAll('.rcard').forEach(function(c){ c.classList.add('seen'); }); io2.disconnect(); }
+    }, {rootMargin:'0px 0px -12% 0px', threshold:0.05});
+    io2.observe(posts);
+  }
+
+  // Subtle "live" sensor reading: blur-masked value swap every few seconds
+  if (reduce) return;
+  var hum = document.getElementById('hum'), temp = document.getElementById('temp');
+  var hv = [68,67,68,69,68], tv = ['21.4','21.5','21.4','21.3','21.4'], k = 0;
+  setInterval(function(){
+    if (document.hidden) return;
+    k = (k + 1) % hv.length;
+    [hum, temp].forEach(function(el){ el.classList.add('swap'); });
+    setTimeout(function(){
+      hum.textContent = hv[k] + '%'; temp.textContent = tv[k] + ' °C';
+      [hum, temp].forEach(function(el){ el.classList.remove('swap'); });
+    }, 200);
+  }, 3200);
+})();
+</script>
+</body>
+</html>
