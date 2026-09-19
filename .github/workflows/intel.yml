@@ -1,0 +1,78 @@
+# AGROVISION INTELLIGENCE — automatización
+# Horarios en America/Mexico_City (UTC-6, sin horario de verano desde 2022):
+#   06:00 búsqueda diaria      → 12:00 UTC
+#   12:00 tendencias           → 18:00 UTC
+#   18:00 resumen diario       → 00:00 UTC (día siguiente)
+#   Domingo 18:00 WEEKLY       → Lunes 00:00 UTC (corre tras el resumen)
+# Push a intel/inbox, config o lib → rebuild (reconstruye data/db.json).
+# Nada se publica en redes: el workflow sólo actualiza la base y genera borradores.
+name: Intel · motor editorial
+
+on:
+  schedule:
+    - cron: '0 12 * * *'
+    - cron: '0 18 * * *'
+    - cron: '0 0 * * *'
+  push:
+    branches: [main]
+    paths: ['intel/inbox/**', 'intel/config/**', 'intel/lib/**']
+  workflow_dispatch:
+    inputs:
+      task:
+        description: 'daily | trends | summary | weekly | search | rebuild'
+        default: daily
+        required: true
+      query:
+        description: 'Tema (sólo para search)'
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: intel
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Elegir tarea
+        id: pick
+        run: |
+          if [ "${{ github.event_name }}" = "push" ]; then
+            echo "task=rebuild" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "task=${{ github.event.inputs.task }}" >> "$GITHUB_OUTPUT"
+          else
+            case "${{ github.event.schedule }}" in
+              '0 12 * * *') echo "task=daily" >> "$GITHUB_OUTPUT" ;;
+              '0 18 * * *') echo "task=trends" >> "$GITHUB_OUTPUT" ;;
+              '0 0 * * *')  echo "task=summary" >> "$GITHUB_OUTPUT" ;;
+            esac
+          fi
+      - name: Pruebas del motor
+        run: node --test intel/test/core.test.js
+      - name: Ejecutar
+        env:
+          TZ: America/Mexico_City
+          QUERY: ${{ github.event.inputs.query }}
+        run: |
+          TASK="${{ steps.pick.outputs.task }}"
+          if [ "$TASK" = "search" ]; then node intel/cli.js search "$QUERY" --fetch;
+          elif [ "$TASK" = "daily" ]; then node intel/cli.js daily --fetch;
+          else node intel/cli.js "$TASK"; fi
+          # Domingo (hora CDMX) después del resumen: AGROVISION WEEKLY
+          if [ "$TASK" = "summary" ] && [ "$(date +%u)" = "7" ]; then node intel/cli.js weekly; fi
+      - name: Guardar cambios
+        run: |
+          git config user.name "agrovision-intel[bot]"
+          git config user.email "agrovision-intel@users.noreply.github.com"
+          git add intel/data intel/output
+          git diff --cached --quiet || git commit -m "intel: ${{ steps.pick.outputs.task }} $(TZ=America/Mexico_City date +%F)"
+          git push
