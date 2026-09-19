@@ -195,7 +195,8 @@ test('googleNewsUrl arma la consulta con idioma y país', () => {
 test('db.json del repositorio: todo ítem publicable tiene fuente https, fecha y evidencia ≠ BAJO', { skip: !fs.existsSync(new URL('../data/db.json', import.meta.url)) && 'db.json aún no generado' }, () => {
   const db = J('../data/db.json');
   const pub = db.articles.filter((a) => a.publishable);
-  assert.ok(pub.length > 0);
+  // Una base recién creada (sin ítems) es válida; si hay ítems, debe haber publicables.
+  if (db.articles.length) assert.ok(pub.length > 0, 'hay ítems pero ninguno publicable');
   for (const a of pub) {
     assert.match(a.url, /^https:\/\//, a.id);
     assert.ok(a.published_at, a.id + ' sin fecha');

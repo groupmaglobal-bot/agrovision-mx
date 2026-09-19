@@ -69,6 +69,8 @@ jobs:
           else node intel/cli.js "$TASK"; fi
           # Domingo (hora CDMX) después del resumen: AGROVISION WEEKLY
           if [ "$TASK" = "summary" ] && [ "$(date +%u)" = "7" ]; then node intel/cli.js weekly; fi
+      - name: Validar base generada
+        run: node --test intel/test/core.test.js
       - name: Guardar cambios
         run: |
           git config user.name "agrovision-intel[bot]"
