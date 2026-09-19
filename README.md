@@ -20,6 +20,10 @@ AGROVISION_MX es un medio digital que explica cómo la tecnología está transfo
 | Fotos | Unsplash (Unsplash License), servidas desde su CDN oficial | Con créditos en el sitio |
 | Tipografía | Inter (800/700/600/400-500) + JetBrains Mono para etiquetas de datos | |
 
+## AGROVISION INTELLIGENCE (motor editorial)
+
+`/intel` contiene el motor que busca, verifica, clasifica y convierte en borradores la información de AGRO + TECH + NEGOCIO + MÉXICO. Tiene un dashboard interno (`/intel/`, noindex), una CLI (`npm run intel -- daily|trends|summary|weekly|search "tema"`) y automatización con GitHub Actions. La guía completa está en [`intel/README.md`](intel/README.md).
+
 ## Ejecutar localmente (Windows / macOS / Linux)
 
 Requisito: [Node.js 20+](https://nodejs.org).
