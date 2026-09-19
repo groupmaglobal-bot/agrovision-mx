@@ -8,7 +8,13 @@
     "build": "node scripts/build.mjs",
     "serve": "node scripts/serve.mjs",
     "test": "playwright test",
-    "check": "npm run build && npm test"
+    "check": "npm run build && npm run intel:test && npm test",
+    "intel": "node intel/cli.js",
+    "intel:daily": "node intel/cli.js daily",
+    "intel:trends": "node intel/cli.js trends",
+    "intel:summary": "node intel/cli.js summary",
+    "intel:weekly": "node intel/cli.js weekly",
+    "intel:test": "node --test intel/test/core.test.js"
   },
   "devDependencies": {
     "@playwright/test": "^1.55.0"
