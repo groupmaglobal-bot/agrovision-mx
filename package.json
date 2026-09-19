@@ -1,0 +1,19 @@
+{
+  "name": "agrovision-mx",
+  "version": "2.0.0",
+  "private": true,
+  "description": "AGROVISION_MX — Del campo al dato. Sitio estático para GitHub Pages.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "serve": "node scripts/serve.mjs",
+    "test": "playwright test",
+    "check": "npm run build && npm test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
