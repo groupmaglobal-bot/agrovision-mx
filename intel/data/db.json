@@ -1,0 +1,364 @@
+{
+ "articles": [],
+ "sources": [],
+ "topics": [
+  {
+   "id": "ia-agricola",
+   "label": "IA agrícola",
+   "terms": [
+    "inteligencia artificial",
+    "ia generativa",
+    "generative ai",
+    "machine learning",
+    "copiloto",
+    "modelo de ia",
+    "ai assistant",
+    "ia"
+   ]
+  },
+  {
+   "id": "drones",
+   "label": "Drones agrícolas",
+   "terms": [
+    "dron",
+    "drones",
+    "drone",
+    "uav",
+    "aspersion"
+   ]
+  },
+  {
+   "id": "riego-inteligente",
+   "label": "Riego y agua",
+   "terms": [
+    "riego",
+    "irrigation",
+    "tecnificacion",
+    "pozos",
+    "presas",
+    "sequia",
+    "drought",
+    "agua"
+   ]
+  },
+  {
+   "id": "robotica",
+   "label": "Robótica agrícola",
+   "terms": [
+    "robot",
+    "robotica",
+    "robotics",
+    "autonomo",
+    "autonomous",
+    "autonomia",
+    "tractor autonomo"
+   ]
+  },
+  {
+   "id": "sanidad",
+   "label": "Sanidad animal y vegetal",
+   "terms": [
+    "gusano barrenador",
+    "screwworm",
+    "plaga",
+    "plagas",
+    "micotoxinas",
+    "sanidad",
+    "senasica",
+    "roya"
+   ]
+  },
+  {
+   "id": "comercio-tmec",
+   "label": "Comercio y T-MEC",
+   "terms": [
+    "t-mec",
+    "usmca",
+    "arancel",
+    "aranceles",
+    "tariff",
+    "antidumping",
+    "exportaciones",
+    "exportacion",
+    "balanza"
+   ]
+  },
+  {
+   "id": "fertilizantes",
+   "label": "Costo de fertilizantes",
+   "terms": [
+    "fertilizante",
+    "fertilizantes",
+    "fertilizer",
+    "urea",
+    "ormuz"
+   ]
+  },
+  {
+   "id": "inversion-agtech",
+   "label": "Inversión AgTech",
+   "terms": [
+    "agfunder",
+    "pitchbook",
+    "venture capital",
+    "capital de riesgo",
+    "startup",
+    "startups",
+    "ronda",
+    "adquisicion",
+    "acquisition"
+   ]
+  },
+  {
+   "id": "biotecnologia",
+   "label": "Biotecnología y semillas",
+   "terms": [
+    "edicion genetica",
+    "gene editing",
+    "biotecnologia",
+    "germoplasma",
+    "semillas",
+    "biologicos",
+    "bioinsumos"
+   ]
+  },
+  {
+   "id": "agricultura-digital",
+   "label": "Agricultura digital y datos",
+   "terms": [
+    "agricultura digital",
+    "digital agriculture",
+    "agricultura de precision",
+    "precision agriculture",
+    "satelite",
+    "sensores",
+    "datos",
+    "plataforma digital"
+   ]
+  },
+  {
+   "id": "precios-alimentos",
+   "label": "Precios de alimentos",
+   "terms": [
+    "indice de precios",
+    "precios de los alimentos",
+    "food price index",
+    "precio de garantia",
+    "precio objetivo"
+   ]
+  },
+  {
+   "id": "maiz",
+   "label": "Maíz y granos",
+   "terms": [
+    "maiz",
+    "maize",
+    "corn",
+    "granos",
+    "grains",
+    "trigo"
+   ]
+  }
+ ],
+ "trends": [
+  {
+   "id": "ia-agricola",
+   "label": "IA agrícola",
+   "score": 0,
+   "mentions": 0,
+   "recent": 0,
+   "prior": 0,
+   "direction": "estable",
+   "source_kinds": [],
+   "primary_sources": 0,
+   "item_ids": [],
+   "computed_at": "2026-09-19T15:08:14.367Z"
+  },
+  {
+   "id": "drones",
+   "label": "Drones agrícolas",
+   "score": 0,
+   "mentions": 0,
+   "recent": 0,
+   "prior": 0,
+   "direction": "estable",
+   "source_kinds": [],
+   "primary_sources": 0,
+   "item_ids": [],
+   "computed_at": "2026-09-19T15:08:14.367Z"
+  },
+  {
+   "id": "riego-inteligente",
+   "label": "Riego y agua",
+   "score": 0,
+   "mentions": 0,
+   "recent": 0,
+   "prior": 0,
+   "direction": "estable",
+   "source_kinds": [],
+   "primary_sources": 0,
+   "item_ids": [],
+   "computed_at": "2026-09-19T15:08:14.367Z"
+  },
+  {
+   "id": "robotica",
+   "label": "Robótica agrícola",
+   "score": 0,
+   "mentions": 0,
+   "recent": 0,
+   "prior": 0,
+   "direction": "estable",
+   "source_kinds": [],
+   "primary_sources": 0,
+   "item_ids": [],
+   "computed_at": "2026-09-19T15:08:14.367Z"
+  },
+  {
+   "id": "sanidad",
+   "label": "Sanidad animal y vegetal",
+   "score": 0,
+   "mentions": 0,
+   "recent": 0,
+   "prior": 0,
+   "direction": "estable",
+   "source_kinds": [],
+   "primary_sources": 0,
+   "item_ids": [],
+   "computed_at": "2026-09-19T15:08:14.367Z"
+  },
+  {
+   "id": "comercio-tmec",
+   "label": "Comercio y T-MEC",
+   "score": 0,
+   "mentions": 0,
+   "recent": 0,
+   "prior": 0,
+   "direction": "estable",
+   "source_kinds": [],
+   "primary_sources": 0,
+   "item_ids": [],
+   "computed_at": "2026-09-19T15:08:14.367Z"
+  },
+  {
+   "id": "fertilizantes",
+   "label": "Costo de fertilizantes",
+   "score": 0,
+   "mentions": 0,
+   "recent": 0,
+   "prior": 0,
+   "direction": "estable",
+   "source_kinds": [],
+   "primary_sources": 0,
+   "item_ids": [],
+   "computed_at": "2026-09-19T15:08:14.367Z"
+  },
+  {
+   "id": "inversion-agtech",
+   "label": "Inversión AgTech",
+   "score": 0,
+   "mentions": 0,
+   "recent": 0,
+   "prior": 0,
+   "direction": "estable",
+   "source_kinds": [],
+   "primary_sources": 0,
+   "item_ids": [],
+   "computed_at": "2026-09-19T15:08:14.367Z"
+  },
+  {
+   "id": "biotecnologia",
+   "label": "Biotecnología y semillas",
+   "score": 0,
+   "mentions": 0,
+   "recent": 0,
+   "prior": 0,
+   "direction": "estable",
+   "source_kinds": [],
+   "primary_sources": 0,
+   "item_ids": [],
+   "computed_at": "2026-09-19T15:08:14.367Z"
+  },
+  {
+   "id": "agricultura-digital",
+   "label": "Agricultura digital y datos",
+   "score": 0,
+   "mentions": 0,
+   "recent": 0,
+   "prior": 0,
+   "direction": "estable",
+   "source_kinds": [],
+   "primary_sources": 0,
+   "item_ids": [],
+   "computed_at": "2026-09-19T15:08:14.367Z"
+  },
+  {
+   "id": "precios-alimentos",
+   "label": "Precios de alimentos",
+   "score": 0,
+   "mentions": 0,
+   "recent": 0,
+   "prior": 0,
+   "direction": "estable",
+   "source_kinds": [],
+   "primary_sources": 0,
+   "item_ids": [],
+   "computed_at": "2026-09-19T15:08:14.367Z"
+  },
+  {
+   "id": "maiz",
+   "label": "Maíz y granos",
+   "score": 0,
+   "mentions": 0,
+   "recent": 0,
+   "prior": 0,
+   "direction": "estable",
+   "source_kinds": [],
+   "primary_sources": 0,
+   "item_ids": [],
+   "computed_at": "2026-09-19T15:08:14.367Z"
+  }
+ ],
+ "companies": [],
+ "startups": [],
+ "technologies": [],
+ "markets": [],
+ "countries": [],
+ "mexican_states": [],
+ "metrics": [],
+ "content_generated": [],
+ "saved_articles": [],
+ "newsletter_issues": [],
+ "social_posts": [],
+ "runs": [
+  {
+   "id": "rebuild-2026-09-19T15:08:14.367Z",
+   "type": "rebuild",
+   "at": "2026-09-19T15:08:14.374Z",
+   "files": 0,
+   "duplicates": 0
+  }
+ ],
+ "meta": {
+  "schema_version": 1,
+  "created_at": "2026-09-19T15:08:14.372Z",
+  "updated_at": "2026-09-19T15:08:14.374Z",
+  "counts": {
+   "articles": 0,
+   "sources": 0,
+   "topics": 12,
+   "trends": 12,
+   "companies": 0,
+   "startups": 0,
+   "technologies": 0,
+   "markets": 0,
+   "countries": 0,
+   "mexican_states": 0,
+   "metrics": 0,
+   "content_generated": 0,
+   "saved_articles": 0,
+   "newsletter_issues": 0,
+   "social_posts": 0,
+   "runs": 1
+  }
+ }
+}
