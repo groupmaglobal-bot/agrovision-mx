@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="es-MX">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>AGROVISION INTELLIGENCE</title>
+<meta name="description" content="Motor de inteligencia editorial de AGROVISION_MX: descubrir, verificar, entender y convertir en contenido.">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#0B141B">
+<meta name="color-scheme" content="light dark">
+<link rel="icon" type="image/png" sizes="64x64" href="../assets/img/favicon-64.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+<script>
+(function(){try{var t=localStorage.getItem('agv-theme');if(!t){t=matchMedia('(prefers-color-scheme: light)').matches?'light':'dark'}document.documentElement.dataset.theme=t}catch(e){document.documentElement.dataset.theme='dark'}})();
+</script>
+<link rel="stylesheet" href="intel.css">
+</head>
+<body>
+<header class="top">
+  <div class="top__in">
+    <a class="brand" href="../index.html" title="Ir al sitio AGROVISION_MX">
+      <img src="../assets/img/logo-96.webp" width="36" height="36" alt="">
+      <span><strong>AGROVISION</strong> INTELLIGENCE<small>Del campo al dato.</small></span>
+    </a>
+    <div class="top__meta" id="meta" aria-live="polite">Cargando base…</div>
+    <div class="top__actions">
+      <button class="btn btn--ghost" id="btn-weekly" type="button">Weekly</button>
+      <div class="menu">
+        <button class="btn btn--ghost" id="btn-export" type="button" aria-haspopup="true" aria-expanded="false">Exportar</button>
+        <div class="menu__list" id="export-menu" hidden>
+          <button type="button" data-export="json">JSON</button>
+          <button type="button" data-export="csv">CSV</button>
+          <button type="button" data-export="md">Markdown</button>
+        </div>
+      </div>
+      <button class="btn btn--icon" id="btn-theme" type="button" aria-label="Cambiar tema">◐</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap" id="contenido">
+  <section class="searchbar" aria-label="Buscar">
+    <label class="sr" for="q">Buscar tema</label>
+    <input id="q" type="search" placeholder="Buscar tema… (p. ej. drones, aguacate, Sinaloa, inversión)" autocomplete="off">
+    <nav class="tabs" role="tablist" aria-label="Categoría">
+      <button role="tab" data-cat="" aria-selected="true">Todo</button>
+      <button role="tab" data-cat="AGRO">Agro</button>
+      <button role="tab" data-cat="TECH">Tech</button>
+      <button role="tab" data-cat="BUSINESS">Business</button>
+      <button role="tab" data-cat="MEXICO">México</button>
+      <button role="tab" data-cat="__saved">Guardados <span id="saved-count">0</span></button>
+      <button role="tab" data-cat="__data">Datos</button>
+    </nav>
+  </section>
+
+  <section class="trends" aria-labelledby="trends-h">
+    <div class="trends__head">
+      <h2 id="trends-h">🔥 Tendencias</h2>
+      <p class="hint" id="trends-note"></p>
+    </div>
+    <ol class="trends__list" id="trends"></ol>
+  </section>
+
+  <div class="layout">
+    <aside class="filters">
+      <details id="filters-box" open>
+        <summary>Filtros <span id="active-filters"></span></summary>
+        <form id="filters" autocomplete="off">
+          <label>Desde <input type="date" name="from"></label>
+          <label>Hasta <input type="date" name="to"></label>
+          <label>País <select name="country"><option value="">Todos</option></select></label>
+          <label>Estado <select name="state"><option value="">Todos</option></select></label>
+          <label>Tecnología <select name="tech"><option value="">Todas</option></select></label>
+          <label>Fuente <select name="source"><option value="">Todas</option></select></label>
+          <label>Evidencia <select name="evidence"><option value="">Todas</option><option>ALTO</option><option>MEDIO</option><option>BAJO</option></select></label>
+          <label>Tipo de contenido
+            <select name="ctype"><option value="">Cualquiera</option><option value="publishable">Listo para contenido</option><option value="reel">Apto para reel (con cifras)</option><option value="review">Requiere revisión</option><option value="formats:El dato de la semana">El dato de la semana</option><option value="formats:AgroTech de la semana">AgroTech de la semana</option><option value="formats:Startup que debes conocer">Startup que debes conocer</option><option value="formats:¿Quién está invirtiendo?">¿Quién está invirtiendo?</option><option value="formats:¿Cuánto cuesta?">¿Cuánto cuesta?</option><option value="formats:Campo mexicano en números">Campo mexicano en números</option></select>
+          </label>
+          <label>Orden <select name="sort"><option value="priority">Potencial editorial</option><option value="date">Más recientes</option></select></label>
+          <label class="check"><input type="checkbox" name="dups"> Mostrar duplicados</label>
+          <button class="btn btn--ghost btn--sm" type="reset">Limpiar filtros</button>
+        </form>
+      </details>
+      <div class="note">
+        <strong>¿No aparece un tema?</strong> La búsqueda en vivo corre fuera del navegador:
+        <code>npm run intel -- search "tema"</code> o el workflow <em>Intel · motor editorial</em> (tarea <code>search</code>) en GitHub Actions.
+      </div>
+    </aside>
+
+    <section class="results" aria-labelledby="res-h">
+      <div class="results__head">
+        <h2 id="res-h">Noticias relevantes</h2>
+        <span class="count" id="count"></span>
+      </div>
+      <div id="list" class="list"></div>
+      <div id="data" class="data" hidden></div>
+    </section>
+  </div>
+</main>
+
+<dialog id="panel" class="panel" aria-labelledby="panel-title">
+  <div class="panel__head">
+    <h2 id="panel-title">Análisis</h2>
+    <div class="panel__tools" id="panel-tools"></div>
+    <button class="btn btn--icon" type="button" data-close aria-label="Cerrar">✕</button>
+  </div>
+  <div class="panel__body" id="panel-body"></div>
+</dialog>
+
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+<script type="module" src="app.js"></script>
+</body>
+</html>
