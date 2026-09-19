@@ -159,8 +159,15 @@ export function dailySummary(db, { now = Date.now() } = {}) {
     `## Relevantes que requieren análisis o segunda fuente`, ...(review.length ? review.map((a) => `- ${a.title_original} — ${a.source_name} · ${a.url}`) : ['- Ninguno']), ``
   ].join('\n');
 }
+function lastWeeklyIssue(dir = P('output')) {
+  let max = 0;
+  const walk = (d) => { if (!fs.existsSync(d)) return; for (const e of fs.readdirSync(d, { withFileTypes: true })) { if (e.isDirectory()) walk(path.join(d, e.name)); else { const m = e.name.match(/^agrovision-weekly-(\d{3})\.md$/); if (m) max = Math.max(max, +m[1]); } } };
+  walk(dir);
+  return max;
+}
 export function writeWeekly(db, { now = Date.now(), upcoming } = {}) {
-  const issue = db.newsletter_issues.length + 1;
+  // El número de edición continúa desde la mayor encontrada (base o archivos ya escritos, incluida la edición editorial)
+  const issue = Math.max(db.newsletter_issues.length, lastWeeklyIssue()) + 1;
   const md = core.buildWeekly(db.articles, db.trends, { issue, now, upcoming });
   const date = new Date(now).toISOString().slice(0, 10);
   const f = P('output', date, `agrovision-weekly-${String(issue).padStart(3, '0')}.md`);
