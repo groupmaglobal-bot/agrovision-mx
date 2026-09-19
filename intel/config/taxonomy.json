@@ -1,0 +1,86 @@
+{
+  "_doc": "Taxonomía de AGROVISION INTELLIGENCE. Las palabras clave se comparan sin acentos y en minúsculas (ES + EN). Para ampliar: agrega términos a la subcategoría correcta. No hace falta tocar código.",
+  "categories": {
+    "AGRO": {
+      "label": "Agro",
+      "subcategories": {
+        "Agricultura": ["agricultura", "agricola", "agricolas", "agriculture", "agricultural", "farming", "farm", "farms", "campo", "siembra", "cosecha", "harvest", "parcela", "hectareas", "hectares"],
+        "Ganadería": ["ganaderia", "ganado", "bovino", "bovinos", "cattle", "livestock", "porcino", "avicola", "leche", "lechero", "dairy", "carne", "beef", "gusano barrenador", "screwworm", "miel", "apicola"],
+        "Pesca": ["pesca", "pesquero", "acuacultura", "aquaculture", "fisheries", "camaron"],
+        "Agroindustria": ["agroindustria", "agroindustrial", "agribusiness", "ingenio", "procesadora", "agroalimentario", "agroalimentaria", "agrifood"],
+        "Alimentos": ["alimentos", "alimentaria", "alimentario", "food", "precios de los alimentos", "seguridad alimentaria", "food security", "canasta basica", "nutricion"],
+        "Cultivos": ["maiz", "corn", "maize", "trigo", "wheat", "frijol", "soya", "soybean", "sorgo", "aguacate", "avocado", "tomate", "jitomate", "tomato", "berries", "fresa", "arandano", "cafe", "coffee", "cana de azucar", "sugarcane", "azucar", "sugar", "agave", "chile", "limon", "granos", "grains", "cereales", "cereals", "semillas", "seeds", "germoplasma", "cultivo", "cultivos", "crop", "crops", "hortalizas", "frutas"],
+        "Riego": ["riego", "irrigation", "goteo", "drip", "tecnificacion", "tecnificado", "pozos", "distritos de riego"],
+        "Suelo": ["suelo", "suelos", "soil", "fertilizante", "fertilizantes", "fertilizer", "fertilizers", "urea", "nutrientes", "regenerativa", "regenerative"],
+        "Agua": ["agua", "water", "presas", "presa", "almacenamiento", "acuiferos", "conagua", "cutzamala", "hidrico", "hidrica"],
+        "Clima": ["clima", "climate", "sequia", "drought", "lluvias", "heladas", "temperatura", "el nino", "la nina", "monitor de sequia", "cambio climatico", "climate change"],
+        "Sustentabilidad": ["sustentabilidad", "sostenibilidad", "sustainability", "sustainable", "emisiones", "carbono", "carbon", "biodiversidad", "agroecologia", "biologicos", "biologicals", "conservacion"]
+      }
+    },
+    "TECH": {
+      "label": "Tech",
+      "subcategories": {
+        "Inteligencia Artificial": ["inteligencia artificial", "ia", "ai", "artificial intelligence", "ia generativa", "generative ai", "genai", "copiloto", "copilot", "asistente de ia", "llm", "modelo de lenguaje"],
+        "Machine Learning": ["machine learning", "aprendizaje automatico", "deep learning", "aprendizaje profundo", "red neuronal", "neural network", "modelo predictivo"],
+        "Drones": ["dron", "drones", "drone", "uav", "vehiculo aereo no tripulado", "aspersion aerea", "fumigacion con dron"],
+        "Satélites": ["satelite", "satelites", "satellite", "satellites", "sentinel", "landsat", "imagenes satelitales", "teledeteccion", "remote sensing", "percepcion remota", "ndvi"],
+        "IoT": ["iot", "internet de las cosas", "internet of things", "conectividad rural", "telemetria"],
+        "Sensores": ["sensor", "sensores", "sensors", "estacion meteorologica", "sonda de humedad"],
+        "Robótica": ["robot", "robots", "robotica", "robotics", "autonomo", "autonoma", "autonomous", "autonomia", "autonomy", "tractor autonomo"],
+        "Automatización": ["automatizacion", "automatizado", "automation", "automated", "mecanizacion", "mechanization"],
+        "Agricultura de precisión": ["agricultura de precision", "precision agriculture", "precision farming", "dosis variable", "variable rate", "smart farming", "agricultura inteligente", "agricultura digital", "digital agriculture"],
+        "Software": ["software", "plataforma digital", "platform", "app", "aplicacion movil", "saas", "digitalizacion", "digital"],
+        "Datos": ["datos", "data", "big data", "analitica", "analytics", "trazabilidad", "traceability", "gemelo digital"],
+        "Computer Vision": ["vision por computadora", "vision artificial", "computer vision", "reconocimiento de imagenes", "image recognition", "deteccion de enfermedades", "camaras"],
+        "Blockchain": ["blockchain", "cadena de bloques"],
+        "Biotecnología": ["biotecnologia", "biotechnology", "biotech", "edicion genetica", "gene editing", "crispr", "transgenico", "gmo", "mejoramiento genetico", "breeding", "bioinsumos"]
+      }
+    },
+    "BUSINESS": {
+      "label": "Business",
+      "subcategories": {
+        "Startups": ["startup", "startups", "emprendimiento", "scaleup", "empresa emergente"],
+        "Inversión": ["inversion", "investment", "invest", "financiamiento", "funding", "credito", "financing", "capital"],
+        "Venture Capital": ["venture capital", "capital de riesgo", "ronda", "serie a", "series a", "series b", "seed", "semilla", "pitchbook", "agfunder"],
+        "Fusiones": ["fusion", "merger", "consolidacion", "consolidation"],
+        "Adquisiciones": ["adquisicion", "adquiere", "compra de", "acquisition", "acquires", "acquired"],
+        "Precios": ["precio", "precios", "price", "prices", "indice de precios", "cotizacion", "precio de garantia", "precio objetivo"],
+        "Mercados": ["mercado", "mercados", "market", "markets", "demanda", "oferta", "ventas", "sales", "ingresos", "revenue", "utilidades", "net income"],
+        "Exportaciones": ["exportacion", "exportaciones", "export", "exports", "exportar"],
+        "Importaciones": ["importacion", "importaciones", "import", "imports"],
+        "Costos": ["costo", "costos", "cost", "costs", "insumos", "inputs"],
+        "Rentabilidad": ["rentabilidad", "margen", "margin", "profitability", "ebitda", "utilidad"],
+        "Logística": ["logistica", "logistics", "transporte", "frontera", "cruce", "aduana", "puerto"],
+        "Supply Chain": ["cadena de suministro", "supply chain", "cadena de valor", "value chain", "abasto"],
+        "Emprendimiento": ["emprendedor", "emprendedores", "entrepreneur", "pyme", "pymes"]
+      }
+    },
+    "MEXICO": {
+      "label": "México",
+      "subcategories": {
+        "Aguascalientes": ["aguascalientes"],
+        "Jalisco": ["jalisco", "guadalajara"],
+        "Guanajuato": ["guanajuato", "bajio", "celaya", "irapuato"],
+        "Michoacán": ["michoacan", "uruapan"],
+        "Sinaloa": ["sinaloa", "culiacan"],
+        "Sonora": ["sonora", "hermosillo", "agua prieta", "yaqui"],
+        "Chihuahua": ["chihuahua", "ciudad juarez", "santa teresa"],
+        "Baja California": ["baja california", "mexicali", "san quintin"],
+        "Nuevo León": ["nuevo leon", "monterrey"],
+        "Querétaro": ["queretaro"],
+        "Veracruz": ["veracruz"],
+        "Chiapas": ["chiapas"],
+        "Oaxaca": ["oaxaca"],
+        "Yucatán": ["yucatan", "merida"],
+        "Nacional": ["mexico", "mexicano", "mexicana", "mexicanos", "mexican", "sader", "siap", "inegi", "senasica", "conagua", "banxico", "gcma", "t-mec", "usmca", "cdmx", "sembrando vida", "cosechando soberania"]
+      }
+    }
+  },
+  "technologies": ["Inteligencia Artificial", "Machine Learning", "Drones", "Satélites", "IoT", "Sensores", "Robótica", "Automatización", "Agricultura de precisión", "Software", "Datos", "Computer Vision", "Blockchain", "Biotecnología"],
+  "producer_terms": ["productor", "productores", "agricultor", "agricultores", "ganadero", "ganaderos", "farmer", "farmers", "growers", "campesino", "campesinos", "ejidatario", "pequenos productores", "smallholder"],
+  "practical_terms": ["aplicacion", "aplica", "implementa", "implementacion", "piloto", "pilot", "despliegue", "deploy", "en campo", "adopcion", "adoption", "utiliza", "en uso"],
+  "innovation_terms": ["lanza", "lanzamiento", "launch", "launches", "presenta", "desarrolla", "develops", "nuevo modelo", "prototipo", "patente", "patent", "innovacion", "innovation", "unveils"],
+  "economic_terms": ["millones", "mil millones", "billion", "million", "usd", "dolares", "pesos", "mdp", "mdd", "pib", "gdp", "inversion", "utilidades", "ventas", "exportaciones", "arancel", "tariff", "costo", "precio"],
+  "clickbait_patterns": ["cambiara todo", "cambia todo", "lo cambia todo", "el futuro ya llego", "estan en peligro", "no creeras", "increible", "impactante", "urgente", "you won't believe", "shocking", "game changer", "revolucionara", "nadie te dice", "secreto"],
+  "no_evidence_patterns": ["se rumora", "rumor", "fuentes no confirmadas", "trascendio", "podria ser", "se dice que", "allegedly", "reportedly unconfirmed"]
+}

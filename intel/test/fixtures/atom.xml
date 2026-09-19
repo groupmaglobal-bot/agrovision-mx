@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Demo Atom</title>
+<entry><title>Robótica agrícola</title><link href="https://example.org/atom-1"/><id>tag:1</id><updated>2026-09-14T08:00:00Z</updated><summary>Resumen</summary></entry>
+</feed>
