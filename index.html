@@ -4,469 +4,500 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>AGROVISION_MX — Del campo al dato</title>
-<meta name="description" content="Explicamos cómo la tecnología está cambiando el campo mexicano: drones, IA, sensores, riego inteligente y los números detrás de cada hectárea.">
+<meta name="description" content="AGROVISION_MX conecta agricultura, tecnología, datos y negocios para explicar el futuro del campo mexicano.">
+<link rel="canonical" href="https://groupmaglobal-bot.github.io/agrovision-mx/">
 <meta name="theme-color" content="#0B141B">
+<meta name="color-scheme" content="light dark">
+<!-- Open Graph -->
 <meta property="og:type" content="website">
-<meta property="og:title" content="AGROVISION_MX — Del campo al dato">
-<meta property="og:description" content="Agro + Tech + Negocio. Cómo la tecnología está cambiando el campo mexicano.">
+<meta property="og:site_name" content="AGROVISION_MX">
 <meta property="og:locale" content="es_MX">
-<meta name="twitter:card" content="summary">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%2316A34A'/%3E%3Cpath d='M16 25V13M16 17c-4 0-6.5-2.5-6.5-6.5 4 0 6.5 2.5 6.5 6.5zm0-2c0-4 2.5-6.5 6.5-6.5 0 4-2.5 6.5-6.5 6.5z' stroke='%230B141B' stroke-width='2.2' fill='none' stroke-linecap='round'/%3E%3C/svg%3E">
+<meta property="og:title" content="AGROVISION_MX — Del campo al dato">
+<meta property="og:description" content="AGROVISION_MX conecta agricultura, tecnología, datos y negocios para explicar el futuro del campo mexicano.">
+<meta property="og:url" content="https://groupmaglobal-bot.github.io/agrovision-mx/">
+<meta property="og:image" content="https://groupmaglobal-bot.github.io/agrovision-mx/assets/img/og-image.jpg">
+<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Logo de AGROVISION_MX con el lema Del campo al dato">
+<!-- Twitter / X -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="AGROVISION_MX — Del campo al dato">
+<meta name="twitter:description" content="Agricultura, tecnología, datos y negocios para entender el futuro del campo mexicano.">
+<meta name="twitter:image" content="https://groupmaglobal-bot.github.io/agrovision-mx/assets/img/og-image.jpg">
+<link rel="icon" type="image/png" sizes="64x64" href="assets/img/favicon-64.png">
+<link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
-<script>document.documentElement.classList.add('js')</script>
-<style>
-:root{
-  --accent:#16A34A; --accent-hi:#4ADE80; --ink:#0B141B; --ink-2:#0F1A22; --ink-3:#111D26;
-  --blue:#5B8CFF; --yellow:#FACC15; --paper:#F5F7F4; --text-2:#C4CFD8; --muted:#A3B1BD; --dim:#7E8D99;
-  --line:rgba(245,247,244,.08); --line-2:rgba(245,247,244,.14);
-  --mono:"JetBrains Mono",ui-monospace,SFMono-Regular,Consolas,monospace;
-  --sans:Inter,"Segoe UI",system-ui,-apple-system,sans-serif;
-  /* Emil Kowalski easing tokens */
-  --ease-out:cubic-bezier(0.23,1,0.32,1);
-  --ease-in-out:cubic-bezier(0.77,0,0.175,1);
-  --pad:clamp(20px,5.5vw,80px);
-}
-*{box-sizing:border-box}
-html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
-body{margin:0;background:var(--ink);color:var(--paper);font-family:var(--sans);line-height:1.55;-webkit-font-smoothing:antialiased;padding-bottom:env(safe-area-inset-bottom,0px)}
-h1,h2,h3,p,figure,ol{margin:0}
-a{color:inherit;text-decoration:none}
-svg{display:block;flex-shrink:0}
-:focus-visible{outline:2px solid var(--accent-hi);outline-offset:3px;border-radius:6px}
-.wrap{max-width:1440px;margin:0 auto;padding-inline:var(--pad)}
-.mono{font-family:var(--mono);font-weight:700;letter-spacing:.15em;text-transform:uppercase}
-.eyebrow{font-size:13px;color:var(--accent-hi)}
-.h2{font-size:clamp(38px,5vw,60px);line-height:1.02;font-weight:800;letter-spacing:-.03em;text-wrap:balance}
-
-/* ---------- Buttons: press feedback (scale .97, 160ms ease-out) ---------- */
-.btn{display:inline-flex;align-items:center;justify-content:center;gap:12px;min-height:56px;padding:0 28px;border-radius:999px;font-weight:800;font-size:17px;
-  transition:transform 160ms var(--ease-out),background-color 200ms ease,border-color 200ms ease,color 200ms ease;-webkit-tap-highlight-color:transparent}
-.btn:active{transform:scale(.97)}
-.btn-accent{background:var(--accent);color:var(--ink)}
-.btn-ghost{border:1px solid rgba(245,247,244,.2);font-weight:600}
-.btn-light{background:var(--paper);color:var(--ink);min-height:48px;padding:0 22px;font-size:15px;font-weight:700}
-.btn-dark{background:var(--ink);color:var(--paper)}
-.btn .arrow{transition:transform 200ms var(--ease-out)}
-@media (hover:hover) and (pointer:fine){
-  .btn-accent:hover{background:#1DB954}
-  .btn-ghost:hover{border-color:rgba(245,247,244,.45)}
-  .btn-light:hover{background:#fff}
-  .btn-dark:hover{background:#15232E}
-  .btn:hover .arrow{transform:translateX(3px)}
-}
-
-/* ---------- Nav ---------- */
-header{position:sticky;top:0;z-index:30;background:rgba(11,20,27,.78);backdrop-filter:saturate(1.4) blur(14px);-webkit-backdrop-filter:saturate(1.4) blur(14px);border-bottom:1px solid transparent;transition:border-color 200ms ease;padding-top:env(safe-area-inset-top,0px)}
-header.scrolled{border-bottom-color:var(--line)}
-.nav{height:76px;display:flex;align-items:center;justify-content:space-between;gap:24px}
-.logo{display:flex;align-items:center;gap:12px;font-weight:900;font-size:18px;letter-spacing:.02em}
-.logo b{color:var(--accent);font-weight:900}
-.nav-links{display:flex;gap:40px;font-size:15px;font-weight:500;color:var(--muted)}
-.nav-links a{transition:color 200ms ease}
-@media (hover:hover) and (pointer:fine){.nav-links a:hover{color:var(--paper)}}
-.ig-icon-only{display:none}
-@media (max-width:860px){.nav-links{display:none}}
-@media (max-width:520px){.nav .btn-light{display:none}.ig-icon-only{display:flex;width:44px;height:44px;border-radius:50%;background:var(--paper);color:var(--ink);align-items:center;justify-content:center;transition:transform 160ms var(--ease-out)}.ig-icon-only:active{transform:scale(.95)}}
-
-/* ---------- Hero ---------- */
-.hero{background-image:linear-gradient(rgba(245,247,244,.035) 1px,transparent 1px),linear-gradient(90deg,rgba(245,247,244,.035) 1px,transparent 1px);background-size:48px 48px}
-.hero .wrap{padding-block:clamp(48px,7vw,96px) clamp(56px,6vw,80px);display:grid;grid-template-columns:minmax(0,1.08fr) minmax(0,.92fr);gap:clamp(40px,5vw,72px);align-items:center}
-@media (max-width:1024px){.hero .wrap{grid-template-columns:1fr}}
-.hero-copy{display:flex;flex-direction:column;gap:28px}
-.live{display:flex;align-items:center;gap:12px}
-.live i{width:8px;height:8px;border-radius:50%;background:var(--accent-hi);box-shadow:0 0 0 0 rgba(74,222,128,.5);animation:ping 2.4s var(--ease-out) infinite}
-@keyframes ping{0%{box-shadow:0 0 0 0 rgba(74,222,128,.45)}70%,100%{box-shadow:0 0 0 10px rgba(74,222,128,0)}}
-.hero h1{font-size:clamp(56px,8.2vw,120px);line-height:.92;font-weight:900;letter-spacing:-.045em}
-.hero h1 span{color:var(--accent)}.hero h1 .nw{color:inherit;white-space:nowrap}
-.lead{font-size:clamp(18px,1.6vw,22px);line-height:1.5;color:var(--text-2);max-width:560px;text-wrap:pretty}
-.ctas{display:flex;gap:14px;flex-wrap:wrap}
-@media (max-width:520px){.ctas .btn{width:100%}}
-
-/* Signature card */
-.sig{border-radius:28px;overflow:hidden;border:1px solid rgba(245,247,244,.12);background:var(--ink-3);box-shadow:0 40px 100px -40px rgba(0,0,0,.8)}
-.field{position:relative;aspect-ratio:560/540;overflow:hidden}
-.field>svg{width:100%;height:100%}
-.scan{position:absolute;left:0;right:0;top:0;height:30%;background:linear-gradient(to bottom,transparent,rgba(74,222,128,.13) 85%,rgba(74,222,128,.55) 100%);pointer-events:none;
-  animation:scan 5.5s linear infinite;will-change:transform}
-@keyframes scan{from{transform:translateY(-100%)}to{transform:translateY(340%)}}
-.tag{position:absolute;padding:12px 16px;border-radius:14px;background:rgba(11,20,27,.88);border:1px solid rgba(245,247,244,.16);display:flex;flex-direction:column;gap:4px;backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px)}
-.tag .mono{font-size:11px;letter-spacing:.14em}
-.tag strong{font-size:clamp(22px,2.2vw,30px);font-weight:800;letter-spacing:-.02em;font-variant-numeric:tabular-nums;transition:filter 200ms ease,opacity 200ms ease}
-.tag strong.swap{filter:blur(2px);opacity:.6}
-.t1{top:12%;left:50%;translate:-50% 0}.t1 .mono{color:var(--muted)}
-.t2{bottom:9%;left:6%}.t2 .mono{color:#93B4FF}
-.t3{bottom:28%;right:6%;border-color:var(--yellow)}.t3 .mono{color:var(--yellow)}
-.sig figcaption{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:20px 26px;border-top:1px solid rgba(245,247,244,.1)}
-.sig figcaption b{font-weight:900;font-size:17px;letter-spacing:.02em}
-.sig figcaption .mono{font-size:13px;color:var(--accent-hi);white-space:nowrap}
-@media (max-width:520px){.sig figcaption{padding:16px 18px}.sig figcaption b{font-size:14px}.sig figcaption .mono{font-size:11px}.tag{padding:10px 12px}}
-
-/* ---------- Ticker (constant motion → linear) ---------- */
-.ticker{background:var(--accent);color:var(--ink);overflow:hidden;height:64px;display:flex;align-items:center}
-.ticker-track{display:flex;gap:40px;padding-right:40px;white-space:nowrap;font-size:15px;animation:marquee 32s linear infinite;will-change:transform}
-.ticker-track span{display:flex;align-items:center;gap:40px}.ticker-track em{font-style:normal}
-@keyframes marquee{to{transform:translateX(-50%)}}
-
-/* ---------- Sections ---------- */
-section.block{border-top:1px solid var(--line)}
-section.block .wrap{padding-block:clamp(72px,9vw,128px)}
-.manifesto .wrap{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr);gap:clamp(28px,5vw,72px)}
-@media (max-width:860px){.manifesto .wrap{grid-template-columns:1fr}}
-.manifesto .body{display:flex;flex-direction:column;gap:40px}
-.manifesto h2 .soft{color:var(--dim)}
-.equation{display:flex;flex-wrap:wrap;align-items:center;gap:14px 26px;font-size:clamp(28px,3.4vw,44px);font-weight:900;letter-spacing:-.02em}
-.equation .p{color:#52616D;font-weight:400}
-.manifesto p{font-size:clamp(17px,1.4vw,20px);color:var(--muted);max-width:720px}
-
-.head{display:flex;justify-content:space-between;align-items:end;gap:24px 40px;flex-wrap:wrap;margin-bottom:clamp(36px,5vw,64px)}
-.head>div{display:flex;flex-direction:column;gap:18px}
-.head p{font-size:18px;color:var(--muted);max-width:420px}
-
-.pillars{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));border-top:1px solid var(--line-2)}
-.pillar{padding:32px 28px 8px;display:flex;flex-direction:column;gap:16px;border-right:1px solid var(--line);position:relative}
-.pillar:first-child{padding-left:0}.pillar:last-child{border-right:0;padding-right:0}
-.pillar::before{content:"";position:absolute;top:-1px;left:0;right:0;height:2px;background:var(--c,var(--accent));transform:scaleX(0);transform-origin:left;transition:transform 300ms var(--ease-out)}
-@media (hover:hover) and (pointer:fine){.pillar:hover::before{transform:scaleX(1)}}
-.pillar .n{font-size:13px;color:var(--dim)}
-.pillar h3{font-size:26px;font-weight:800;letter-spacing:-.02em}
-.pillar p{font-size:16px;color:var(--muted)}
-@media (max-width:1024px){
-  .pillars{grid-template-columns:1fr;border-top:0}
-  .pillar,.pillar:first-child,.pillar:last-child{display:grid;grid-template-columns:40px minmax(0,1fr);column-gap:16px;row-gap:6px;padding:22px 0;border-right:0;border-top:1px solid var(--line-2)}
-  .pillar:last-child{border-bottom:1px solid var(--line-2)}
-  .pillar .n{display:none}
-  .pillar svg{grid-row:span 2;width:32px;height:32px}
-  .pillar h3{font-size:21px}.pillar p{font-size:15px}
-}
-
-.formats{background:var(--ink-2)}
-.posts{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:32px}
-.post{display:flex;flex-direction:column;gap:18px}
-.card{aspect-ratio:4/5;border-radius:20px;padding:clamp(24px,2.6vw,36px);display:flex;flex-direction:column;justify-content:space-between;position:relative;overflow:hidden;transition:transform 300ms var(--ease-out)}
-@media (hover:hover) and (pointer:fine){.post:hover .card{transform:translateY(-4px)}}
-.card .top{display:flex;justify-content:space-between;align-items:center;font-size:12px}
-.card h3{font-size:clamp(28px,2.6vw,40px);line-height:1.03;font-weight:900;letter-spacing:-.03em;position:relative}
-.c-dark{background:var(--ink);border:1px solid rgba(245,247,244,.12)}
-.c-yellow{background:var(--yellow);color:var(--ink)}
-.c-green{background:var(--accent);color:var(--ink)}
-.rows{display:flex;flex-direction:column;gap:10px;font-size:15px;font-weight:600}
-.rows div{display:flex;justify-content:space-between;gap:12px;padding-bottom:10px;border-bottom:1px solid rgba(245,247,244,.1)}
-.rows div:last-child{border:0;padding:0;color:var(--yellow);font-weight:800}
-.rows span:last-child{font-family:var(--mono);color:var(--dim);white-space:nowrap}
-.rows div:last-child span:last-child{color:var(--yellow)}
-.qmark{position:absolute;right:-10px;top:30px;font-size:clamp(200px,20vw,300px);line-height:1;font-weight:900;color:rgba(11,20,27,.08)}
-.stats{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
-.stats div{padding:14px;border-radius:12px;background:rgba(11,20,27,.12);display:flex;flex-direction:column}
-.stats b{font-size:24px;font-weight:900}.stats small{font-size:13px;font-weight:600}
-.post>p{font-size:15px;color:var(--muted)}.post>p b{color:var(--paper)}
-@media (max-width:1024px){
-  .posts{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scroll-padding-inline:var(--pad);gap:14px;margin-inline:calc(var(--pad)*-1);padding-inline:var(--pad);scrollbar-width:none}
-  .posts::-webkit-scrollbar{display:none}
-  .post{flex:0 0 min(78vw,340px);scroll-snap-align:start}
-}
-
-.route{list-style:none;padding:0;display:grid;grid-template-columns:repeat(5,minmax(0,1fr))}
-.route li{display:flex;flex-direction:column;gap:12px;padding:28px 24px 0 0;border-top:3px solid var(--line-2)}
-.route li.on{border-top-color:var(--accent)}
-.route .mono{font-size:12px;color:var(--dim)}.route li.on .mono{color:var(--accent-hi)}
-.route strong{font-size:26px;font-weight:800}
-.route span:last-child{font-size:15px;color:var(--muted)}
-@media (max-width:1024px){
-  .route{grid-template-columns:1fr;gap:26px;border-left:2px solid var(--line-2);padding-left:22px}
-  .route li{border-top:0;padding:0;position:relative;gap:4px}
-  .route li::before{content:"";position:absolute;left:-29px;top:4px;width:12px;height:12px;border-radius:50%;background:var(--ink);border:2px solid var(--line-2)}
-  .route li.on::before{background:var(--accent);border-color:var(--accent)}
-  .route strong{font-size:21px}
-}
-
-.cta .wrap{padding-block:clamp(16px,3vw,40px) clamp(56px,7vw,100px)}
-.cta-box{border-radius:clamp(26px,3vw,36px);background:var(--accent);color:var(--ink);padding:clamp(44px,6vw,88px) clamp(26px,5.5vw,80px);display:grid;grid-template-columns:minmax(0,1.4fr) minmax(0,1fr);gap:clamp(22px,4vw,48px);align-items:end}
-.cta-box h2{font-size:clamp(44px,6.2vw,88px);line-height:.95;font-weight:900;letter-spacing:-.045em}
-.cta-box .side{display:flex;flex-direction:column;gap:28px;align-items:flex-start}
-.cta-box p{font-size:clamp(17px,1.5vw,20px);font-weight:500}
-@media (max-width:860px){.cta-box{grid-template-columns:1fr}.cta-box .btn{width:100%}}
-
-footer .wrap{padding-block:40px 48px;border-top:1px solid var(--line);display:flex;justify-content:space-between;gap:8px 24px;flex-wrap:wrap;font-size:15px;color:var(--dim)}
-footer b{color:var(--paper)}
-
-/* ---------- Motion (only transform/opacity/filter/clip-path) ---------- */
-/* Hero entrance: rare, first-load → a bit of delight, 30–80ms stagger */
-.js .in{opacity:0;transform:translateY(10px);filter:blur(4px);animation:enter 700ms var(--ease-out) forwards;animation-delay:calc(var(--i,0) * 70ms + 80ms)}
-@keyframes enter{to{opacity:1;transform:none;filter:blur(0)}}
-.js .sig.in{transform:translateY(16px) scale(.98)}
-.js .tag{opacity:0;scale:.95;transition:opacity 400ms var(--ease-out),scale 400ms var(--ease-out)}
-.js .tags-on .tag{opacity:1;scale:1}
-.js .tags-on .t2{transition-delay:90ms}.js .tags-on .t3{transition-delay:180ms}
-
-/* Scroll reveals (transitions, interruptible) */
-.js .reveal{opacity:0;transform:translateY(16px);transition:opacity 700ms var(--ease-out),transform 700ms var(--ease-out);transition-delay:calc(var(--i,0) * 60ms)}
-.js .reveal.seen{opacity:1;transform:none}
-/* Image-style reveal for feed cards: clip-path inset from bottom */
-.js .card.rcard{clip-path:inset(0 0 100% 0 round 20px);transition:clip-path 900ms var(--ease-in-out),transform 300ms var(--ease-out);transition-delay:calc(var(--i,0) * 80ms),0ms}
-.js .card.rcard.seen{clip-path:inset(0 0 0 0 round 20px)}
-
-/* Reduced motion: fewer & gentler, not zero — keep opacity, drop movement */
-@media (prefers-reduced-motion:reduce){
-  html{scroll-behavior:auto}
-  .scan,.ticker-track,.live i{animation:none}
-  .js .in{animation:fade 300ms ease forwards;transform:none;filter:none}
-  @keyframes fade{to{opacity:1}}
-  .js .reveal,.js .reveal.seen{transform:none;transition:opacity 300ms ease}
-  .js .card.rcard{clip-path:none;opacity:0;transition:opacity 300ms ease}
-  .js .card.rcard.seen{opacity:1}
-  .js .tag{scale:1}
-  .btn,.card,.pillar::before{transition:none}
-}
-</style>
+<link rel="preconnect" href="https://images.unsplash.com" crossorigin>
+<link rel="preload" as="image" href="https://images.unsplash.com/photo-1560198927-b31ef30c5867?w=1920&q=70&auto=format&fit=crop" fetchpriority="high">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+<script>
+/* Tema antes de pintar: evita parpadeo */
+(function(){try{var t=localStorage.getItem('agv-theme');if(!t){t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}document.documentElement.dataset.theme=t}catch(e){document.documentElement.dataset.theme='light'}document.documentElement.classList.add('js')})();
+</script>
+<link rel="stylesheet" href="assets/css/styles.css">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[
+ {"@type":"Organization","@id":"https://groupmaglobal-bot.github.io/agrovision-mx/#org","name":"AGROVISION_MX","url":"https://groupmaglobal-bot.github.io/agrovision-mx/","logo":"https://groupmaglobal-bot.github.io/agrovision-mx/assets/img/logo-320.webp","slogan":"Del campo al dato.","sameAs":["https://www.instagram.com/agrovision_mx/"]},
+ {"@type":"WebSite","@id":"https://groupmaglobal-bot.github.io/agrovision-mx/#web","url":"https://groupmaglobal-bot.github.io/agrovision-mx/","name":"AGROVISION_MX","inLanguage":"es-MX","publisher":{"@id":"https://groupmaglobal-bot.github.io/agrovision-mx/#org"}}
+]}
+</script>
 </head>
 <body>
+<a class="skip" href="#contenido">Saltar al contenido</a>
 
-<header id="top-bar">
-  <div class="wrap nav">
-    <a href="#top" class="logo" aria-label="AGROVISION_MX, inicio">
-      <svg width="32" height="32" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="8" fill="#16A34A"/><path d="M16 25V13M16 17c-4 0-6.5-2.5-6.5-6.5 4 0 6.5 2.5 6.5 6.5zm0-2c0-4 2.5-6.5 6.5-6.5 0 4-2.5 6.5-6.5 6.5z" stroke="#0B141B" stroke-width="2.2" fill="none" stroke-linecap="round"/></svg>
-      <span>AGROVISION<b>_MX</b></span>
+<!-- ICONOS (sprite) -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
+  <defs>
+    <symbol id="i-leaf" viewBox="0 0 24 24"><path d="M5 19c0-8 5-13 14-14 0 9-5 14-13 14"/><path d="M5 19 13 11"/></symbol>
+    <symbol id="i-chip" viewBox="0 0 24 24"><rect x="6" y="6" width="12" height="12" rx="2"/><rect x="9.5" y="9.5" width="5" height="5"/><path d="M9 2v4M15 2v4M9 18v4M15 18v4M2 9h4M2 15h4M18 9h4M18 15h4"/></symbol>
+    <symbol id="i-chart" viewBox="0 0 24 24"><path d="M3 20h18"/><path d="M6 16v-4M11 16V8M16 16v-6"/><path d="m20 5-5 4-4-2-5 4"/></symbol>
+    <symbol id="i-ai" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><circle cx="4" cy="6" r="1.6"/><circle cx="20" cy="6" r="1.6"/><circle cx="4" cy="18" r="1.6"/><circle cx="20" cy="18" r="1.6"/><path d="M5.4 6.8 9.4 10.4M18.6 6.8l-4 3.6M5.4 17.2l4-3.6M18.6 17.2l-4-3.6"/></symbol>
+    <symbol id="i-drone" viewBox="0 0 24 24"><rect x="9" y="10" width="6" height="4" rx="1.5"/><path d="M9 11 5 8M15 11l4-3M9 13l-4 3M15 13l4 3"/><path d="M2 8h6M16 8h6M2 16h6M16 16h6"/></symbol>
+    <symbol id="i-sensor" viewBox="0 0 24 24"><path d="M12 21v-9"/><circle cx="12" cy="9" r="2"/><path d="M8.5 5.5a5 5 0 0 1 7 0M6 3a8.5 8.5 0 0 1 12 0"/><path d="M7 21h10"/></symbol>
+    <symbol id="i-target" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="4"/><circle cx="12" cy="12" r="0.8"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/></symbol>
+    <symbol id="i-gear" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M4.9 4.9 7 7M17 17l2.1 2.1M2 12h3M19 12h3M4.9 19.1 7 17M17 7l2.1-2.1"/></symbol>
+    <symbol id="i-sat" viewBox="0 0 24 24"><rect x="9" y="9" width="6" height="6" rx="1" transform="rotate(45 12 12)"/><path d="M4 4l4 4M16 16l4 4M3 10l3-3 3 3-3 3zM15 21l-3-3 3-3 3 3z"/></symbol>
+    <symbol id="i-coin" viewBox="0 0 24 24"><ellipse cx="12" cy="7" rx="7" ry="3"/><path d="M5 7v5c0 1.7 3.1 3 7 3s7-1.3 7-3V7"/><path d="M5 12v5c0 1.7 3.1 3 7 3s7-1.3 7-3v-5"/></symbol>
+    <symbol id="i-percent" viewBox="0 0 24 24"><path d="M19 5 5 19"/><circle cx="7" cy="7" r="2.5"/><circle cx="17" cy="17" r="2.5"/></symbol>
+    <symbol id="i-trend" viewBox="0 0 24 24"><path d="m3 17 6-6 4 4 8-8"/><path d="M15 7h6v6"/></symbol>
+    <symbol id="i-market" viewBox="0 0 24 24"><path d="M4 9h16l-1 11H5z"/><path d="M8 9V7a4 4 0 0 1 8 0v2"/></symbol>
+    <symbol id="i-ship" viewBox="0 0 24 24"><path d="M3 15h18l-2 5H5z"/><path d="M6 15V9h12v6M12 9V4"/></symbol>
+    <symbol id="i-rocket" viewBox="0 0 24 24"><path d="M14 4c3 0 6 3 6 6l-7 7-6-6z"/><path d="M7 11 4 12l3 3M13 17l-1 3-3-3"/><circle cx="15" cy="9" r="1.5"/></symbol>
+    <symbol id="i-user" viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21c1-4 4-6 8-6s7 2 8 6"/></symbol>
+    <symbol id="i-building" viewBox="0 0 24 24"><rect x="5" y="3" width="14" height="18" rx="1"/><path d="M9 7h2M13 7h2M9 11h2M13 11h2M9 15h2M13 15h2"/></symbol>
+    <symbol id="i-spark" viewBox="0 0 24 24"><path d="M12 3v4M12 17v4M3 12h4M17 12h4M6 6l2.5 2.5M15.5 15.5 18 18M6 18l2.5-2.5M15.5 8.5 18 6"/></symbol>
+    <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></symbol>
+    <symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M2 12h2M20 12h2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></symbol>
+    <symbol id="i-moon" viewBox="0 0 24 24"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/></symbol>
+    <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></symbol>
+    <symbol id="i-up" viewBox="0 0 24 24"><path d="M12 19V5M6 11l6-6 6 6"/></symbol>
+    <symbol id="i-x" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6 6 18"/></symbol>
+    <symbol id="i-ig" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r=".8"/></symbol>
+    <symbol id="i-in" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="3"/><path d="M8 10v7M8 7v.01M12 17v-4a2 2 0 0 1 4 0v4M12 10v7"/></symbol>
+    <symbol id="i-yt" viewBox="0 0 24 24"><rect x="2.5" y="5.5" width="19" height="13" rx="4"/><path d="m10 9 5 3-5 3z"/></symbol>
+    <symbol id="i-mail" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></symbol>
+    <symbol id="i-ext" viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-9 9"/><path d="M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></symbol>
+  </defs>
+</svg>
+
+<!-- ================= NAVBAR ================= -->
+<header class="nav" id="nav">
+  <div class="wrap nav__in">
+    <a class="brand" href="#inicio" aria-label="AGROVISION_MX, ir al inicio">
+      <img src="assets/img/logo-96.webp" width="40" height="40" alt="" class="brand__logo">
+      <span class="brand__name">AGRO<b>VISION</b>_MX</span>
     </a>
-    <nav class="nav-links" aria-label="Secciones">
-      <a href="#manifiesto">Qué es</a><a href="#pilares">Pilares</a><a href="#formatos">Contenido</a><a href="#ruta">Ruta</a>
+    <nav class="nav__links" id="menu" aria-label="Principal">
+      <a href="#inicio">Inicio</a>
+      <a href="#agrotech">AgroTech</a>
+      <a href="#negocio">Negocios</a>
+      <a href="#mexico">México</a>
+      <a href="#datos">Datos</a>
+      <a href="#sobre">Sobre nosotros</a>
+      <a class="btn btn--primary nav__cta-m" href="#newsletter">Únete</a>
     </nav>
-    <a class="btn btn-light" href="https://www.instagram.com/agrovision_mx/" target="_blank" rel="noopener">
-      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor"/></svg>Síguenos
-    </a>
-    <a class="ig-icon-only" href="https://www.instagram.com/agrovision_mx/" target="_blank" rel="noopener" aria-label="Instagram de AGROVISION_MX">
-      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor"/></svg>
-    </a>
+    <div class="nav__tools">
+      <button class="icon-btn" type="button" data-open-search aria-label="Buscar en AGROVISION"><svg class="ic"><use href="#i-search"/></svg></button>
+      <button class="icon-btn theme-toggle" type="button" id="themeToggle" aria-label="Cambiar a modo oscuro" aria-pressed="false">
+        <svg class="ic ic-sun"><use href="#i-sun"/></svg><svg class="ic ic-moon"><use href="#i-moon"/></svg>
+      </button>
+      <a class="btn btn--primary nav__cta" href="#newsletter">Únete</a>
+      <button class="burger" type="button" id="burger" aria-label="Abrir menú" aria-expanded="false" aria-controls="menu"><span></span><span></span><span></span></button>
+    </div>
   </div>
 </header>
 
-<main id="top">
-<!-- HERO -->
-<div class="hero">
-  <div class="wrap">
-    <div class="hero-copy">
-      <div class="live mono eyebrow in" style="--i:0"><i></i>Agro · Tech · Negocio · México</div>
-      <h1 class="in" style="--i:1"><span class="nw">Del campo</span><br>al <span>dato.</span></h1>
-      <p class="lead in" style="--i:2">Explicamos cómo la tecnología está cambiando el campo mexicano: drones, IA, sensores, riego inteligente y los números detrás de cada hectárea.</p>
-      <div class="ctas in" style="--i:3">
-        <a class="btn btn-accent" href="https://www.instagram.com/agrovision_mx/" target="_blank" rel="noopener">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor"/></svg>
-          Seguir @agrovision_mx
-        </a>
-        <a class="btn btn-ghost" href="#pilares">De qué hablamos
-          <svg class="arrow" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
-        </a>
+<main id="contenido">
+
+<!-- ================= HERO ================= -->
+<section class="hero" id="inicio" aria-labelledby="hero-title">
+  <div class="hero__media" data-parallax="0.18">
+    <img src="https://images.unsplash.com/photo-1560198927-b31ef30c5867?w=1920&q=70&auto=format&fit=crop"
+         srcset="https://images.unsplash.com/photo-1560198927-b31ef30c5867?w=900&q=70&auto=format&fit=crop 900w, https://images.unsplash.com/photo-1560198927-b31ef30c5867?w=1400&q=70&auto=format&fit=crop 1400w, https://images.unsplash.com/photo-1560198927-b31ef30c5867?w=1920&q=70&auto=format&fit=crop 1920w"
+         sizes="100vw" alt="Vista aérea de campos agrícolas verdes con surcos bajo luz natural" fetchpriority="high" decoding="async">
+  </div>
+  <div class="hero__shade" aria-hidden="true"></div>
+  <canvas class="hero__particles" id="particles" aria-hidden="true"></canvas>
+
+  <div class="wrap hero__grid">
+    <div class="hero__copy">
+      <p class="kicker reveal"><span class="dot"></span>Agro · Tech · Negocio · México</p>
+      <h1 id="hero-title" class="hero__title reveal" style="--d:1">El campo que <span class="hl">imagina</span> el futuro.</h1>
+      <p class="hero__lead reveal" style="--d:2">Explicamos cómo la tecnología está transformando la agricultura: datos, IA, drones, sensores, automatización y negocios que están cambiando el agro mexicano.</p>
+      <div class="hero__ctas reveal" style="--d:3">
+        <a class="btn btn--primary btn--lg" href="#cambio">Explorar AGROVISION <svg class="ic"><use href="#i-arrow"/></svg></a>
+        <a class="btn btn--ghost-light btn--lg" href="#agrotech">Ver AgroTech</a>
       </div>
     </div>
 
-    <figure class="sig in" style="--i:3" id="sig">
-      <div class="field">
-        <svg viewBox="0 0 560 540" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Cultivo al atardecer escaneado por un dron">
-          <defs>
-            <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#16324A"/><stop offset="1" stop-color="#C77A1A"/></linearGradient>
-            <linearGradient id="soil" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#14532D"/><stop offset="1" stop-color="#04210F"/></linearGradient>
-          </defs>
-          <rect width="560" height="230" fill="url(#sky)"/>
-          <circle cx="420" cy="196" r="46" fill="#FACC15" opacity=".9"/>
-          <path d="M0 214 Q140 186 280 206 T560 198 V240 H0Z" fill="#0F3B22"/>
-          <rect y="228" width="560" height="312" fill="url(#soil)"/>
-          <g stroke="#22C55E" stroke-width="3" opacity=".55">
-            <line x1="280" y1="230" x2="-200" y2="540"/><line x1="280" y1="230" x2="-60" y2="540"/>
-            <line x1="280" y1="230" x2="80" y2="540"/><line x1="280" y1="230" x2="210" y2="540"/>
-            <line x1="280" y1="230" x2="350" y2="540"/><line x1="280" y1="230" x2="480" y2="540"/>
-            <line x1="280" y1="230" x2="620" y2="540"/><line x1="280" y1="230" x2="760" y2="540"/>
-          </g>
-          <g transform="translate(140 96)">
-            <rect x="-20" y="-4" width="40" height="8" rx="4" fill="#E2E8F0"/>
-            <line x1="-34" y1="-10" x2="-12" y2="-10" stroke="#E2E8F0" stroke-width="2.5"/>
-            <line x1="12" y1="-10" x2="34" y2="-10" stroke="#E2E8F0" stroke-width="2.5"/>
-            <path d="M-14 4 L-60 150 L60 150 L14 4Z" fill="#2563EB" opacity=".2"/>
-          </g>
-          <g fill="none" stroke-width="1.5">
-            <rect x="80" y="330" width="120" height="86" stroke="#2563EB" opacity=".5"/>
-            <rect x="200" y="330" width="120" height="86" stroke="#2563EB" opacity=".5"/>
-            <rect x="320" y="330" width="120" height="86" stroke="#FACC15"/>
-          </g>
-        </svg>
-        <div class="scan" aria-hidden="true"></div>
-        <div class="tag t1"><span class="mono">Humedad</span><strong id="hum">68%</strong></div>
-        <div class="tag t2"><span class="mono">Temp. suelo</span><strong id="temp">21.4 °C</strong></div>
-        <div class="tag t3"><span class="mono">NDVI · Zona C</span><strong>0.72</strong></div>
-      </div>
-      <figcaption><b>AGROVISION_MX</b><span class="mono">Del campo al dato.</span></figcaption>
-    </figure>
-  </div>
-</div>
+    <!-- HUD conceptual -->
+    <div class="hud reveal" style="--d:2" data-parallax-mouse="1" role="img" aria-label="Interfaz conceptual de monitoreo agrícola con mapa de cultivo, dron e indicadores ilustrativos">
+      <svg class="hud__map" viewBox="0 0 520 400" aria-hidden="true">
+        <defs>
+          <pattern id="hudgrid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="rgba(132,204,22,.16)" stroke-width="1"/></pattern>
+          <linearGradient id="scanG" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#22C55E" stop-opacity="0"/><stop offset="1" stop-color="#22C55E" stop-opacity=".35"/></linearGradient>
+        </defs>
+        <rect width="520" height="400" fill="url(#hudgrid)"/>
+        <!-- Parcelas (mapa de cultivo conceptual) -->
+        <g class="plots">
+          <path d="M40 250 L170 205 L205 300 L70 350 Z" fill="#16A34A" opacity=".55"/>
+          <path d="M170 205 L300 175 L330 270 L205 300 Z" fill="#84CC16" opacity=".5"/>
+          <path d="M300 175 L440 160 L470 250 L330 270 Z" fill="#FACC15" opacity=".45"/>
+          <path d="M70 350 L205 300 L225 370 L95 395 Z" fill="#22C55E" opacity=".45"/>
+          <path d="M205 300 L330 270 L350 350 L225 370 Z" fill="#16A34A" opacity=".6"/>
+          <path d="M330 270 L470 250 L495 335 L350 350 Z" fill="#84CC16" opacity=".4"/>
+        </g>
+        <g stroke="rgba(255,255,255,.55)" stroke-width="1" fill="none">
+          <path d="M40 250 L170 205 L300 175 L440 160"/><path d="M70 350 L205 300 L330 270 L470 250"/><path d="M170 205 L225 370M300 175 L350 350"/>
+        </g>
+        <!-- Zona de atención -->
+        <path class="alert-zone" d="M300 175 L440 160 L470 250 L330 270 Z" fill="none" stroke="#FACC15" stroke-width="2" stroke-dasharray="6 5"/>
+        <!-- Líneas de datos -->
+        <path class="dataline" d="M110 290 C 160 220, 240 140, 330 110 S 450 70, 470 60" fill="none" stroke="#22C55E" stroke-width="1.6"/>
+        <path class="dataline d2" d="M270 330 C 300 260, 360 200, 400 205" fill="none" stroke="#2563EB" stroke-width="1.6"/>
+        <!-- Sensores -->
+        <g class="sensors">
+          <g transform="translate(110 290)"><circle r="12" class="pulse"/><circle r="4" fill="#22C55E"/></g>
+          <g transform="translate(270 330)"><circle r="12" class="pulse p2"/><circle r="4" fill="#2563EB"/></g>
+          <g transform="translate(400 205)"><circle r="12" class="pulse p3"/><circle r="4" fill="#FACC15"/></g>
+          <g transform="translate(180 250)"><circle r="12" class="pulse p4"/><circle r="4" fill="#84CC16"/></g>
+        </g>
+        <!-- Dron -->
+        <g class="drone" transform="translate(360 70)">
+          <path d="M-18 14 L-70 150 L70 150 L18 14Z" fill="url(#scanG)"/>
+          <rect x="-16" y="-5" width="32" height="10" rx="5" fill="#F7F8F5"/>
+          <path d="M-16 -2 -30 -12M16 -2 30 -12M-16 2 -30 12M16 2 30 12" stroke="#F7F8F5" stroke-width="2"/>
+          <ellipse cx="-32" cy="-13" rx="12" ry="2.5" fill="rgba(247,248,245,.7)"/><ellipse cx="32" cy="-13" rx="12" ry="2.5" fill="rgba(247,248,245,.7)"/>
+        </g>
+        <!-- Retícula -->
+        <g stroke="rgba(255,255,255,.7)" stroke-width="1.2" fill="none"><path d="M20 20h22M20 20v22M500 20h-22M500 20v22M20 380h22M20 380v-22M500 380h-22M500 380v-22"/></g>
+      </svg>
 
-<!-- TICKER -->
-<div class="ticker mono" aria-label="Temas: drones, inteligencia artificial, sensores e IoT, riego inteligente, agricultura de precisión, negocio">
-  <div class="ticker-track" aria-hidden="true">
-    <span>Drones<em>✦</em>Inteligencia artificial<em>✦</em>Sensores e IoT<em>✦</em>Riego inteligente<em>✦</em>Agricultura de precisión<em>✦</em>Negocio<em>✦</em></span>
-    <span>Drones<em>✦</em>Inteligencia artificial<em>✦</em>Sensores e IoT<em>✦</em>Riego inteligente<em>✦</em>Agricultura de precisión<em>✦</em>Negocio<em>✦</em></span>
-  </div>
-</div>
-
-<!-- MANIFIESTO -->
-<section class="block manifesto" id="manifiesto">
-  <div class="wrap">
-    <div class="mono eyebrow reveal">01 — Qué es AGROVISION_MX</div>
-    <div class="body">
-      <h2 class="h2 reveal">No publicamos noticias del campo. <span class="soft">Explicamos cómo la tecnología lo está cambiando.</span></h2>
-      <div class="equation reveal" style="--i:1" aria-label="Agro más Tech más Negocio">
-        <span style="color:var(--accent)">AGRO</span><span class="p">+</span><span style="color:var(--blue)">TECH</span><span class="p">+</span><span style="color:var(--yellow)">NEGOCIO</span>
+      <div class="hud__panel hud__panel--a">
+        <span class="hud__k">Humedad</span><strong><span data-live="68" data-range="2" data-dec="0">68</span>%</strong>
+        <span class="hud__bar"><i style="--w:68%"></i></span>
       </div>
-      <p class="reveal" style="--i:2">Para productores, ingenieros, estudiantes, empresarios y cualquiera que quiera entender hacia dónde va la agricultura en México.</p>
+      <div class="hud__panel hud__panel--b">
+        <span class="hud__k">Temperatura</span><strong><span data-live="21.4" data-range="0.3" data-dec="1">21.4</span> °C</strong>
+      </div>
+      <div class="hud__panel hud__panel--c">
+        <span class="hud__k">NDVI</span><strong><span data-live="0.72" data-range="0.02" data-dec="2">0.72</span></strong>
+        <svg class="spark" viewBox="0 0 80 20" aria-hidden="true"><path d="M0 15 L12 12 L24 13 L36 8 L48 9 L60 5 L72 6 L80 3" fill="none" stroke="#84CC16" stroke-width="1.6"/></svg>
+      </div>
+      <div class="hud__panel hud__panel--d">
+        <span class="hud__k">Eficiencia</span><strong>+<span data-live="24" data-range="1" data-dec="0">24</span>%</strong>
+      </div>
+      <p class="hud__note">UI conceptual · valores ilustrativos, no corresponden a un campo real</p>
     </div>
+  </div>
+
+  <div class="hero__foot wrap">
+    <a class="scroll-cue" href="#cambio" aria-label="Bajar a la siguiente sección"><span></span></a>
+    <a class="photo-credit" href="https://unsplash.com/photos/aerial-view-of-green-field-gkzByAvMki8" target="_blank" rel="noopener">Foto: Ivan Bandura / Unsplash</a>
   </div>
 </section>
 
-<!-- PILARES -->
-<section class="block" id="pilares">
+<!-- ================= EL AGRO ESTÁ CAMBIANDO ================= -->
+<section class="section" id="cambio" aria-labelledby="cambio-title">
   <div class="wrap">
-    <div class="head">
-      <div><div class="mono eyebrow reveal">02 — Los 5 pilares</div><h2 class="h2 reveal">De qué hablamos.</h2></div>
-      <p class="reveal">Cinco categorías de contenido para entender el campo de hoy y el de mañana.</p>
+    <div class="sh">
+      <p class="eyebrow reveal">01 — Contexto</p>
+      <h2 id="cambio-title" class="sh__title reveal">El agro está cambiando.</h2>
+      <p class="sh__lead reveal">La agricultura ya no depende solamente de tierra, agua y maquinaria. Datos, inteligencia artificial, sensores, imágenes satelitales, drones y automatización están cambiando la forma de producir.</p>
     </div>
     <div class="pillars">
-      <article class="pillar reveal" style="--i:0;--c:#4ADE80"><span class="n mono">01</span>
-        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#4ADE80" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="7" cy="17" r="3"/><circle cx="18" cy="18" r="2"/><path d="M4 14V8h7l2 6M11 8V5h4l3 6v5M10 17h6"/></svg>
-        <h3>Agro</h3><p>Maquinaria, cultivos, riego y cómo se produce realmente en el campo.</p></article>
-      <article class="pillar reveal" style="--i:1;--c:#5B8CFF"><span class="n mono">02</span>
-        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#5B8CFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="6" y="6" width="12" height="12" rx="2"/><rect x="9.5" y="9.5" width="5" height="5"/><path d="M9 2v4M15 2v4M9 18v4M15 18v4M2 9h4M2 15h4M18 9h4M18 15h4"/></svg>
-        <h3>AgroTech</h3><p>Drones, IA, sensores, IoT y agricultura de precisión explicados fácil.</p></article>
-      <article class="pillar reveal" style="--i:2;--c:#FACC15"><span class="n mono">03</span>
-        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#FACC15" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 20h18M6 16v-4M11 16V8M16 16v-6M20 5l-5 4-4-2-5 4"/></svg>
-        <h3>Agro Business</h3><p>Costos, márgenes, inversiones, startups y exportación.</p></article>
-      <article class="pillar reveal" style="--i:3;--c:#4ADE80"><span class="n mono">04</span>
-        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#4ADE80" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 22v-9"/><path d="M12 13C12 8 9 5 4 5c0 5 3 8 8 8z"/><path d="M12 11c0-4 3-7 8-7 0 4-3 7-8 7z"/></svg>
-        <h3>¿Sabías que…?</h3><p>Un dato sorprendente, una imagen potente y una explicación sencilla.</p></article>
-      <article class="pillar reveal" style="--i:4;--c:#F5F7F4"><span class="n mono">05</span>
-        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#F5F7F4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 22s7-6.2 7-12a7 7 0 1 0-14 0c0 5.8 7 12 7 12z"/><circle cx="12" cy="10" r="2.5"/></svg>
-        <h3>México</h3><p>Innovación mexicana, regiones productoras y las empresas que mueven el sector.</p></article>
+      <article class="pillar reveal" style="--d:0">
+        <span class="pillar__n">01</span>
+        <span class="pillar__ic ic-anim-grow"><svg class="ic"><use href="#i-leaf"/></svg></span>
+        <h3>Agro</h3><p>Cómo se produce.</p>
+        <span class="pillar__line" aria-hidden="true"></span>
+      </article>
+      <article class="pillar pillar--tech reveal" style="--d:1">
+        <span class="pillar__n">02</span>
+        <span class="pillar__ic ic-anim-pulse"><svg class="ic"><use href="#i-chip"/></svg></span>
+        <h3>Tech</h3><p>Cómo se transforma.</p>
+        <span class="pillar__line" aria-hidden="true"></span>
+      </article>
+      <article class="pillar pillar--biz reveal" style="--d:2">
+        <span class="pillar__n">03</span>
+        <span class="pillar__ic ic-anim-rise"><svg class="ic"><use href="#i-chart"/></svg></span>
+        <h3>Negocio</h3><p>Cómo se genera valor.</p>
+        <span class="pillar__line" aria-hidden="true"></span>
+      </article>
     </div>
   </div>
 </section>
 
-<!-- FORMATOS -->
-<section class="block formats" id="formatos">
+<!-- ================= AGROTECH ================= -->
+<section class="section section--dark" id="agrotech" aria-labelledby="tech-title">
+  <div class="grid-bg" aria-hidden="true"></div>
   <div class="wrap">
-    <div class="head"><div><div class="mono eyebrow reveal">03 — En tu feed</div><h2 class="h2 reveal">Así se ve AGROVISION.</h2></div></div>
-    <div class="posts">
-      <div class="post">
-        <div class="card c-dark rcard" style="--i:0">
-          <div class="top mono"><span style="color:var(--yellow)">Agro Business</span><span style="color:var(--dim)">1 / 8</span></div>
-          <h3>¿Cuánto cuesta producir una hectárea de maíz?</h3>
-          <div class="rows">
-            <div><span>Semilla</span><span>[$ MXN]</span></div>
-            <div><span>Fertilizante</span><span>[$ MXN]</span></div>
-            <div><span>Riego · Mano de obra · Maquinaria</span><span>[$ MXN]</span></div>
-            <div><span>UTILIDAD</span><span>[$ MXN]</span></div>
-          </div>
-        </div>
-        <p><b>Carrusel.</b> Los números reales del agro, slide por slide.</p>
+    <div class="sh sh--split">
+      <div>
+        <p class="eyebrow reveal">02 — AgroTech</p>
+        <h2 id="tech-title" class="sh__title reveal">Del campo al dato.</h2>
       </div>
-      <div class="post">
-        <div class="card c-yellow rcard" style="--i:1">
-          <span class="top mono">¿Sabías que…?</span>
-          <span class="qmark" aria-hidden="true">?</span>
-          <h3>Una planta puede “avisar” cuando tiene estrés hídrico.</h3>
-          <span style="font-size:15px;font-weight:700;position:relative">AGROVISION_MX</span>
-        </div>
-        <p><b>Dato viral.</b> Algo sorprendente, explicado en segundos.</p>
+      <p class="sh__lead reveal">La tecnología no reemplaza al productor. Amplifica su capacidad para observar, decidir y actuar.</p>
+    </div>
+    <div class="tech-grid">
+      <article class="tcard reveal" style="--d:0"><span class="tcard__n">01</span><span class="tcard__ic"><svg class="ic"><use href="#i-ai"/></svg></span><h3>Inteligencia artificial</h3><p>Modelos que ayudan a analizar cultivos, detectar riesgos y apoyar decisiones.</p></article>
+      <article class="tcard reveal" style="--d:1"><span class="tcard__n">02</span><span class="tcard__ic"><svg class="ic"><use href="#i-drone"/></svg></span><h3>Drones</h3><p>Imágenes aéreas para monitorear cultivos, detectar problemas y optimizar recorridos.</p></article>
+      <article class="tcard reveal" style="--d:2"><span class="tcard__n">03</span><span class="tcard__ic"><svg class="ic"><use href="#i-sensor"/></svg></span><h3>Sensores + IoT</h3><p>Datos de humedad, temperatura, clima y suelo en tiempo real.</p></article>
+      <article class="tcard reveal" style="--d:3"><span class="tcard__n">04</span><span class="tcard__ic"><svg class="ic"><use href="#i-target"/></svg></span><h3>Agricultura de precisión</h3><p>Aplicar agua, fertilizante e insumos donde realmente se necesitan.</p></article>
+      <article class="tcard reveal" style="--d:4"><span class="tcard__n">05</span><span class="tcard__ic"><svg class="ic"><use href="#i-gear"/></svg></span><h3>Automatización</h3><p>Maquinaria, robots y sistemas capaces de ejecutar tareas con mayor precisión.</p></article>
+      <article class="tcard reveal" style="--d:5"><span class="tcard__n">06</span><span class="tcard__ic"><svg class="ic"><use href="#i-sat"/></svg></span><h3>Satélites + datos</h3><p>Imágenes geoespaciales para observar grandes superficies agrícolas.</p></article>
+    </div>
+    <figure class="feature-photo reveal">
+      <img loading="lazy" decoding="async" src="https://images.unsplash.com/photo-1713952160156-bb59cac789a9?w=1600&q=70&auto=format&fit=crop" srcset="https://images.unsplash.com/photo-1713952160156-bb59cac789a9?w=800&q=70&auto=format&fit=crop 800w, https://images.unsplash.com/photo-1713952160156-bb59cac789a9?w=1600&q=70&auto=format&fit=crop 1600w" sizes="(min-width:1024px) 1200px, 100vw" alt="Dron agrícola aplicando sobre un campo de cultivo en hileras" width="1600" height="900">
+      <figcaption><span>Los drones se usan para monitorear plantas, emitir alertas tempranas y controlar plagas.</span> <a class="src" href="https://www.fao.org/e-agriculture/news/new-publication-fao-itu-e-agriculture-action-drones-agriculture" target="_blank" rel="noopener">Fuente: FAO / UIT · 2018</a> <a class="photo-credit" href="https://unsplash.com/photos/nMDwrS1NsIE" target="_blank" rel="noopener">Foto: DRONE EFT / Unsplash</a></figcaption>
+    </figure>
+  </div>
+</section>
+
+<!-- ================= NEGOCIO ================= -->
+<section class="section" id="negocio" aria-labelledby="biz-title">
+  <div class="wrap">
+    <div class="sh sh--split">
+      <div>
+        <p class="eyebrow reveal">03 — Agro Business</p>
+        <h2 id="biz-title" class="sh__title reveal">El campo también es negocio.</h2>
       </div>
-      <div class="post">
-        <div class="card c-green rcard" style="--i:2">
-          <div class="top mono"><span>AGROVISION México</span>
-            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 22s7-6.2 7-12a7 7 0 1 0-14 0c0 5.8 7 12 7 12z"/><circle cx="12" cy="10" r="2.5"/></svg></div>
-          <h3>El campo mexicano en números.</h3>
-          <div class="stats"><div><b>[DATO]</b><small>hectáreas sembradas</small></div><div><b>[DATO]</b><small>exportaciones agro</small></div></div>
-        </div>
-        <p><b>México.</b> Regiones, empresas e innovación hecha aquí.</p>
+      <p class="sh__lead reveal">Detrás de cada hectárea existen costos, riesgos, decisiones, mercados y oportunidades.</p>
+    </div>
+
+    <div class="biz">
+      <div class="biz-grid">
+        <article class="bcard reveal" style="--d:0"><svg class="ic"><use href="#i-coin"/></svg><h3>Costos</h3><p>Semilla, insumos, agua, mano de obra y maquinaria. Conocerlos por hectárea es el punto de partida.</p></article>
+        <article class="bcard reveal" style="--d:1"><svg class="ic"><use href="#i-percent"/></svg><h3>Margen</h3><p>Lo que queda después de pagar la producción. La cifra que decide si un ciclo valió la pena.</p></article>
+        <article class="bcard reveal" style="--d:2"><svg class="ic"><use href="#i-trend"/></svg><h3>Inversión</h3><p>Tecnología, infraestructura y riego: cuánto cuesta, en cuánto se recupera y qué riesgo reduce.</p></article>
+        <article class="bcard reveal" style="--d:3"><svg class="ic"><use href="#i-market"/></svg><h3>Mercados</h3><p>Precio, temporada y canal de venta. Producir bien no basta si no se vende bien.</p></article>
+        <article class="bcard reveal" style="--d:4"><svg class="ic"><use href="#i-ship"/></svg><h3>Exportación</h3><p>México cerró 2025 con superávit agroalimentario de 3,730 millones de dólares. <a class="src" href="https://nube.agricultura.gob.mx/BalanzaComercial/diciembre2025.php" target="_blank" rel="noopener">SADER · SIAP · 2025</a></p></article>
+        <article class="bcard reveal" style="--d:5"><svg class="ic"><use href="#i-rocket"/></svg><h3>Startups</h3><p>Empresas que convierten problemas del campo en productos: software, sensores, financiamiento y logística.</p></article>
+      </div>
+
+      <div class="flow reveal" aria-label="Cómo se forma el margen de una hectárea">
+        <p class="flow__title">Cómo se forma el margen</p>
+        <ol class="flow__steps">
+          <li><span class="flow__k">01</span><strong>Costo de producción</strong><small>Lo que inviertes por hectárea</small></li>
+          <li><span class="flow__k">02</span><strong>Producción</strong><small>Toneladas por hectárea</small></li>
+          <li><span class="flow__k">03</span><strong>Precio</strong><small>Lo que paga el mercado</small></li>
+          <li><span class="flow__k">04</span><strong>Ingreso</strong><small>Producción × precio</small></li>
+          <li class="is-key"><span class="flow__k">05</span><strong>Margen</strong><small>Ingreso − costo</small></li>
+        </ol>
+        <p class="flow__note">Esquema conceptual: cada cultivo, región y ciclo tiene cifras distintas.</p>
+        <a class="btn btn--dark" href="#datos">Explorar datos <svg class="ic"><use href="#i-arrow"/></svg></a>
       </div>
     </div>
   </div>
 </section>
 
-<!-- RUTA -->
-<section class="block" id="ruta">
+<!-- ================= DATOS ================= -->
+<section class="section section--tint" id="datos" aria-labelledby="data-title">
   <div class="wrap">
-    <div class="head"><div><div class="mono eyebrow reveal">04 — Hacia dónde vamos</div><h2 class="h2 reveal">Instagram es solo la puerta de entrada.</h2></div></div>
-    <ol class="route">
-      <li class="on reveal" style="--i:0"><span class="mono">Ahora</span><strong>Instagram</strong><span>Carruseles e imágenes que explican el agro con datos.</span></li>
-      <li class="on reveal" style="--i:1"><span class="mono">Ahora</span><strong>Web</strong><span>Esta página: el punto de encuentro de AGROVISION.</span></li>
-      <li class="reveal" style="--i:2"><span class="mono">Próximo</span><strong>Newsletter</strong><span>Lo más relevante del agro mexicano en tu correo.</span></li>
-      <li class="reveal" style="--i:3"><span class="mono">Después</span><strong>Comunidad</strong><span>Productores, empresas y talento conectados.</span></li>
-      <li class="reveal" style="--i:4"><span class="mono">Después</span><strong>Eventos</strong><span>Encuentros donde el campo y la tecnología se conocen.</span></li>
-    </ol>
+    <div class="sh sh--split">
+      <div>
+        <p class="eyebrow reveal">04 — Datos</p>
+        <h2 id="data-title" class="sh__title reveal">Los números detrás del campo.</h2>
+      </div>
+      <p class="sh__lead reveal">Cada cifra de esta sección tiene fuente y año. Si un dato no se puede verificar, no aparece.</p>
+    </div>
+    <div class="data-grid" id="dataGrid"><!-- render: app.js / DataCard --></div>
   </div>
 </section>
 
-<!-- CTA -->
-<section class="cta">
+<!-- ================= MÉXICO ================= -->
+<section class="section" id="mexico" aria-labelledby="mx-title">
   <div class="wrap">
-    <div class="cta-box reveal">
-      <h2>El futuro del campo comienza hoy.</h2>
-      <div class="side">
-        <p>Cada semana, cómo la tecnología está transformando la agricultura en México. En imágenes, sin rodeos.</p>
-        <a class="btn btn-dark" href="https://www.instagram.com/agrovision_mx/" target="_blank" rel="noopener">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor"/></svg>
-          Seguir @agrovision_mx
-        </a>
+    <div class="sh sh--split">
+      <div>
+        <p class="eyebrow reveal">05 — AGROVISION México</p>
+        <h2 id="mx-title" class="sh__title reveal">El futuro también se está sembrando en México.</h2>
       </div>
+      <p class="sh__lead reveal">Ocho regiones para empezar. Pasa el cursor o toca un estado para ver su perfil agrícola con fuente.</p>
+    </div>
+    <div class="mx">
+      <div class="mx__map" id="mxMap" role="group" aria-label="Mapa estilizado de México por estados"><!-- render: MexicoMap --></div>
+      <aside class="mx__panel" id="mxPanel" aria-live="polite">
+        <p class="mx__hint">Selecciona un estado destacado</p>
+      </aside>
+    </div>
+    <div class="mx__chips" id="mxChips" role="group" aria-label="Regiones destacadas"></div>
+    <p class="mx__legend"><span class="sw sw--on"></span> Región destacada <span class="sw"></span> Próximamente · Mapa esquemático, no a escala.</p>
+  </div>
+</section>
+
+<!-- ================= ¿SABÍAS QUE? ================= -->
+<section class="section section--flush" id="sabias" aria-labelledby="fact-title">
+  <div class="wrap">
+    <div class="fact reveal">
+      <div class="fact__q" aria-hidden="true">?</div>
+      <p class="eyebrow eyebrow--dark" id="fact-title">¿Sabías que…?</p>
+      <p class="fact__text" id="factText" aria-live="polite"></p>
+      <div class="fact__foot">
+        <a class="src src--dark" id="factSrc" href="#" target="_blank" rel="noopener"></a>
+        <div class="fact__btns">
+          <button class="btn btn--dark" type="button" id="factNext">Ver más datos <svg class="ic"><use href="#i-arrow"/></svg></button>
+          <a class="btn btn--outline-dark" href="#datos">Ir a datos</a>
+        </div>
+      </div>
+      <div class="fact__dots" id="factDots" aria-hidden="true"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ================= ACTUALIDAD ================= -->
+<section class="section" id="actualidad" aria-labelledby="news-title">
+  <div class="wrap">
+    <div class="sh sh--split">
+      <div>
+        <p class="eyebrow reveal">06 — Actualidad</p>
+        <h2 id="news-title" class="sh__title reveal">Lo que está pasando.</h2>
+      </div>
+      <div class="filters reveal" role="toolbar" aria-label="Filtrar artículos por categoría" id="filters">
+        <button type="button" class="chip is-on" data-filter="all" aria-pressed="true">Todos</button>
+        <button type="button" class="chip" data-filter="AGRO" aria-pressed="false">Agro</button>
+        <button type="button" class="chip" data-filter="TECH" aria-pressed="false">Tech</button>
+        <button type="button" class="chip" data-filter="NEGOCIO" aria-pressed="false">Negocio</button>
+        <button type="button" class="chip" data-filter="MÉXICO" aria-pressed="false">México</button>
+      </div>
+    </div>
+    <div class="articles" id="articleGrid" aria-live="polite"><!-- render: ArticleGrid --></div>
+    <noscript><p><a href="articles/">Ver todos los artículos</a></p></noscript>
+    <div class="center"><a class="btn btn--outline" href="articles/">Ver todos los artículos <svg class="ic"><use href="#i-arrow"/></svg></a></div>
+  </div>
+</section>
+
+<!-- ================= INSTAGRAM ================= -->
+<section class="section section--dark" id="instagram" aria-labelledby="ig-title">
+  <div class="wrap ig">
+    <div class="ig__copy">
+      <p class="eyebrow reveal">07 — Comunidad digital</p>
+      <h2 id="ig-title" class="sh__title reveal">Instagram es solo la puerta de entrada.</h2>
+      <p class="sh__lead reveal">Carruseles e imágenes que explican el agro con datos. Una idea por post, sin rodeos.</p>
+      <a class="btn btn--primary btn--lg reveal" href="https://www.instagram.com/agrovision_mx/" target="_blank" rel="noopener"><svg class="ic"><use href="#i-ig"/></svg> Seguir @agrovision_mx</a>
+    </div>
+    <ul class="ig__grid" aria-label="Formatos de publicación en Instagram">
+      <li class="reveal" style="--d:0"><a class="post post--tech" href="https://www.instagram.com/agrovision_mx/" target="_blank" rel="noopener"><span class="post__tag">AgroTech</span><strong>¿Qué es la agricultura de precisión?</strong></a></li>
+      <li class="reveal" style="--d:1"><a class="post post--data" href="https://www.instagram.com/agrovision_mx/" target="_blank" rel="noopener"><span class="post__tag">Datos</span><strong>69 %</strong><small>del agua dulce extraída va a la agricultura · FAO</small></a></li>
+      <li class="reveal" style="--d:2"><a class="post post--biz" href="https://www.instagram.com/agrovision_mx/" target="_blank" rel="noopener"><span class="post__tag">Negocios</span><strong>¿Dónde está el margen de una hectárea?</strong></a></li>
+      <li class="reveal" style="--d:3"><a class="post post--mx post--photo" href="https://www.instagram.com/agrovision_mx/" target="_blank" rel="noopener" style="--img:url('https://images.unsplash.com/photo-1706888135824-20ec9010b7bc?w=600&q=65&auto=format&fit=crop')"><span class="post__tag">México</span><strong>El agave de Jalisco en números</strong></a></li>
+      <li class="reveal" style="--d:4"><a class="post post--inno post--photo" href="https://www.instagram.com/agrovision_mx/" target="_blank" rel="noopener" style="--img:url('https://images.unsplash.com/photo-1524486361537-8ad15938e1a3?w=600&q=65&auto=format&fit=crop')"><span class="post__tag">Innovación</span><strong>Invernaderos que miden todo</strong></a></li>
+      <li class="reveal" style="--d:5"><a class="post post--fact" href="https://www.instagram.com/agrovision_mx/" target="_blank" rel="noopener"><span class="post__tag">¿Sabías que?</span><strong>Un satélite puede volver a ver tu parcela cada 5 días.</strong></a></li>
+    </ul>
+  </div>
+</section>
+
+<!-- ================= NEWSLETTER ================= -->
+<section class="section" id="newsletter" aria-labelledby="nl-title">
+  <div class="wrap">
+    <div class="nl reveal">
+      <div class="nl__copy">
+        <p class="eyebrow">AGROVISION / Field Notes</p>
+        <h2 id="nl-title" class="nl__title">Field Notes</h2>
+        <p>Lo más relevante del agro, tecnología y negocios directamente en tu correo.</p>
+      </div>
+      <!-- TODO: conectar proveedor de newsletter (Beehiiv / MailerLite / Buttondown).
+           Sustituye el manejador en app.js → initNewsletter() por un fetch al endpoint del proveedor. -->
+      <form class="nl__form" id="nlForm" novalidate>
+        <label for="nlEmail" class="sr-only">Tu correo</label>
+        <div class="nl__row">
+          <input id="nlEmail" name="email" type="email" inputmode="email" autocomplete="email" placeholder="Tu correo" required aria-describedby="nlMsg">
+          <button class="btn btn--primary" type="submit">Quiero recibirlo</button>
+        </div>
+        <p class="nl__msg" id="nlMsg" role="status"></p>
+      </form>
+    </div>
+  </div>
+</section>
+
+<!-- ================= COMUNIDAD ================= -->
+<section class="section section--tint" id="comunidad" aria-labelledby="com-title">
+  <div class="wrap">
+    <div class="sh">
+      <p class="eyebrow reveal">08 — Comunidad</p>
+      <h2 id="com-title" class="sh__title reveal">Construyamos el futuro del agro.</h2>
+    </div>
+    <div class="community">
+      <article class="ccard reveal" style="--d:0"><svg class="ic"><use href="#i-user"/></svg><h3>Productores</h3><p>Decisiones más informadas.</p></article>
+      <article class="ccard reveal" style="--d:1"><svg class="ic"><use href="#i-building"/></svg><h3>Empresas</h3><p>Innovación que encuentra mercado.</p></article>
+      <article class="ccard reveal" style="--d:2"><svg class="ic"><use href="#i-spark"/></svg><h3>Talento</h3><p>Personas que quieren transformar el sector.</p></article>
+    </div>
+    <div class="center reveal"><a class="btn btn--primary btn--lg" href="https://ig.me/m/agrovision_mx" target="_blank" rel="noopener">Quiero formar parte <svg class="ic"><use href="#i-arrow"/></svg></a><p class="center__note">Te abrimos un mensaje directo en Instagram.</p></div>
+  </div>
+</section>
+
+<!-- ================= SOBRE ================= -->
+<section class="section" id="sobre" aria-labelledby="about-title">
+  <div class="wrap about">
+    <div class="about__media reveal">
+      <img loading="lazy" decoding="async" src="https://images.unsplash.com/photo-1492496913980-501348b61469?w=1000&q=70&auto=format&fit=crop" alt="Manos de un productor sosteniendo tierra fértil" width="1000" height="1200">
+      <img class="about__logo" loading="lazy" src="assets/img/logo-320.webp" width="160" height="160" alt="Logo de AGROVISION_MX: Agro + Tech = un mejor futuro">
+      <a class="photo-credit" href="https://unsplash.com/photos/bokeh-photography-of-person-carrying-soil-jin4W1HqgL4" target="_blank" rel="noopener">Foto: Gabriel Jimenez / Unsplash</a>
+    </div>
+    <div class="about__copy">
+      <p class="eyebrow reveal">09 — Sobre nosotros</p>
+      <h2 id="about-title" class="sh__title reveal">¿Qué es AGROVISION_MX?</h2>
+      <p class="about__big reveal">AGROVISION_MX es un medio digital enfocado en explicar cómo la tecnología está transformando el campo.</p>
+      <p class="reveal">Conectamos agricultura, tecnología, datos y negocios para ayudar a entender el presente y anticipar el futuro del sector.</p>
+      <p class="about__k reveal">Para quién escribimos</p>
+      <ul class="tags reveal">
+        <li>Productores</li><li>Ingenieros</li><li>Estudiantes</li><li>Empresarios</li><li>Innovadores</li><li>Curiosos de la tecnología y el agro</li>
+      </ul>
+      <p class="about__eq reveal"><span>AGRO</span> + <span>TECH</span> + <span>NEGOCIO</span> + <span>MÉXICO</span></p>
     </div>
   </div>
 </section>
 </main>
 
-<footer>
-  <div class="wrap"><span><b>AGROVISION_MX</b> · Del campo al dato.</span><span>Hecho en México · © <span id="y">2026</span></span></div>
+<!-- ================= FOOTER ================= -->
+<footer class="footer">
+  <div class="wrap footer__top">
+    <div class="footer__brand">
+      <img src="assets/img/logo-96.webp" width="56" height="56" alt="" loading="lazy">
+      <p class="footer__name">AGRO<b>VISION</b>_MX</p>
+      <p class="footer__tag">Del campo al dato.</p>
+    </div>
+    <nav class="footer__cols" aria-label="Pie de página">
+      <div><p class="footer__h">Explora</p><a href="#cambio">Agro</a><a href="#agrotech">AgroTech</a><a href="#negocio">Negocios</a><a href="#mexico">México</a><a href="#datos">Datos</a></div>
+      <div><p class="footer__h">Medio</p><a href="articles/">Artículos</a><a href="#newsletter">Newsletter</a><a href="https://www.instagram.com/agrovision_mx/" target="_blank" rel="noopener">Instagram</a><a href="https://ig.me/m/agrovision_mx" target="_blank" rel="noopener">Contacto</a></div>
+      <div><p class="footer__h">Redes</p>
+        <a class="social" href="https://www.instagram.com/agrovision_mx/" target="_blank" rel="noopener"><svg class="ic"><use href="#i-ig"/></svg> Instagram</a>
+        <span class="social is-off" aria-disabled="true" title="Próximamente"><svg class="ic"><use href="#i-in"/></svg> LinkedIn · pronto</span>
+        <span class="social is-off" aria-disabled="true" title="Próximamente"><svg class="ic"><use href="#i-yt"/></svg> YouTube · pronto</span>
+      </div>
+    </nav>
+  </div>
+  <div class="wrap footer__bottom">
+    <p>© <span id="year">2026</span> AGROVISION_MX · Hecho en México</p>
+    <p>Fotografías: <a href="https://unsplash.com/license" target="_blank" rel="noopener">Unsplash License</a> · Datos: fuentes citadas en cada sección</p>
+  </div>
 </footer>
 
-<script>
-(function(){
-  var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-  document.getElementById('y').textContent = new Date().getFullYear();
+<button class="to-top" id="toTop" type="button" aria-label="Volver arriba"><svg class="ic"><use href="#i-up"/></svg></button>
 
-  // Nav hairline appears once the page scrolls
-  var bar = document.getElementById('top-bar');
-  var onScroll = function(){ bar.classList.toggle('scrolled', window.scrollY > 8); };
-  window.addEventListener('scroll', onScroll, {passive:true}); onScroll();
+<!-- ================= BUSCADOR ================= -->
+<div class="search" id="search" role="dialog" aria-modal="true" aria-labelledby="search-title" hidden>
+  <div class="search__backdrop" data-close-search></div>
+  <div class="search__box">
+    <div class="search__head">
+      <svg class="ic"><use href="#i-search"/></svg>
+      <label id="search-title" for="searchInput" class="sr-only">¿Qué quieres explorar?</label>
+      <input id="searchInput" type="search" placeholder="¿Qué quieres explorar?" autocomplete="off" aria-controls="searchResults">
+      <button class="icon-btn" type="button" data-close-search aria-label="Cerrar buscador"><svg class="ic"><use href="#i-x"/></svg></button>
+    </div>
+    <div class="search__cats" role="toolbar" aria-label="Categorías">
+      <button type="button" class="chip is-on" data-cat="all" aria-pressed="true">Todo</button>
+      <button type="button" class="chip" data-cat="Agro" aria-pressed="false">Agro</button>
+      <button type="button" class="chip" data-cat="AgroTech" aria-pressed="false">AgroTech</button>
+      <button type="button" class="chip" data-cat="Negocio" aria-pressed="false">Negocio</button>
+      <button type="button" class="chip" data-cat="México" aria-pressed="false">México</button>
+      <button type="button" class="chip" data-cat="Datos" aria-pressed="false">Datos</button>
+    </div>
+    <ul class="search__results" id="searchResults" aria-live="polite"></ul>
+  </div>
+</div>
 
-  // Sensor tags pop in after the hero card lands
-  var sig = document.getElementById('sig');
-  setTimeout(function(){ sig.classList.add('tags-on'); }, reduce ? 0 : 750);
-
-  // Scroll reveals (once)
-  var els = document.querySelectorAll('.reveal');
-  if (!('IntersectionObserver' in window)) { document.querySelectorAll('.reveal,.rcard').forEach(function(e){ e.classList.add('seen'); }); }
-  else {
-    var io = new IntersectionObserver(function(entries){
-      entries.forEach(function(en){ if (en.isIntersecting){ en.target.classList.add('seen'); io.unobserve(en.target); } });
-    }, {rootMargin:'0px 0px -12% 0px', threshold:0.05});
-    els.forEach(function(e){ io.observe(e); });
-    // Feed cards: observe the row (clip-path on the card itself hides it from IO)
-    var posts = document.querySelector('.posts');
-    var io2 = new IntersectionObserver(function(entries){
-      if (entries[0].isIntersecting){ posts.querySelectorAll('.rcard').forEach(function(c){ c.classList.add('seen'); }); io2.disconnect(); }
-    }, {rootMargin:'0px 0px -12% 0px', threshold:0.05});
-    io2.observe(posts);
-  }
-
-  // Subtle "live" sensor reading: blur-masked value swap every few seconds
-  if (reduce) return;
-  var hum = document.getElementById('hum'), temp = document.getElementById('temp');
-  var hv = [68,67,68,69,68], tv = ['21.4','21.5','21.4','21.3','21.4'], k = 0;
-  setInterval(function(){
-    if (document.hidden) return;
-    k = (k + 1) % hv.length;
-    [hum, temp].forEach(function(el){ el.classList.add('swap'); });
-    setTimeout(function(){
-      hum.textContent = hv[k] + '%'; temp.textContent = tv[k] + ' °C';
-      [hum, temp].forEach(function(el){ el.classList.remove('swap'); });
-    }, 200);
-  }, 3200);
-})();
-</script>
+<script src="assets/js/data.js" defer></script>
+<script src="assets/js/app.js" defer></script>
 </body>
 </html>
