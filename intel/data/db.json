@@ -9225,15 +9225,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 50,
-    "priority": 50,
-    "base": 40,
+    "score": 47,
+    "priority": 47,
+    "base": 37,
     "breakdown": {
      "agro": 8.3,
      "tech": 20,
      "business": 0,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 2
     },
     "bonuses": {
@@ -9241,8 +9241,8 @@
     },
     "penalties": {}
    },
-   "score": 50,
-   "priority": 50,
+   "score": 47,
+   "priority": 47,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -9440,15 +9440,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 55,
-    "priority": 55,
-    "base": 45,
+    "score": 52,
+    "priority": 52,
+    "base": 42,
     "breakdown": {
      "agro": 16.7,
      "tech": 16,
      "business": 0,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 2
     },
     "bonuses": {
@@ -9456,8 +9456,8 @@
     },
     "penalties": {}
    },
-   "score": 55,
-   "priority": 55,
+   "score": 52,
+   "priority": 52,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -9850,22 +9850,22 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 41,
-    "priority": 41,
-    "base": 41,
+    "score": 38,
+    "priority": 38,
+    "base": 38,
     "breakdown": {
      "agro": 8.3,
      "tech": 0,
      "business": 3.3,
      "mexico": 12,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 41,
-   "priority": 41,
+   "score": 38,
+   "priority": 38,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -9941,22 +9941,22 @@
    },
    "evidence": "BAJO",
    "scoring": {
-    "score": 35,
-    "priority": 35,
-    "base": 35,
+    "score": 32,
+    "priority": 32,
+    "base": 32,
     "breakdown": {
      "agro": 4.2,
      "tech": 0,
      "business": 3.3,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 2
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 35,
-   "priority": 35,
+   "score": 32,
+   "priority": 32,
    "status": "NO VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -10438,22 +10438,22 @@
    },
    "evidence": "BAJO",
    "scoring": {
-    "score": 32,
-    "priority": 32,
-    "base": 32,
+    "score": 29,
+    "priority": 29,
+    "base": 29,
     "breakdown": {
      "agro": 8.3,
      "tech": 0,
      "business": 0,
      "mexico": 12,
-     "recency": 10,
+     "recency": 7,
      "source": 2
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 32,
-   "priority": 32,
+   "score": 29,
+   "priority": 29,
    "status": "NO VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -10531,22 +10531,22 @@
    },
    "evidence": "BAJO",
    "scoring": {
-    "score": 49,
-    "priority": 49,
-    "base": 49,
+    "score": 46,
+    "priority": 46,
+    "base": 46,
     "breakdown": {
      "agro": 16.7,
      "tech": 0,
      "business": 3.3,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 4
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 49,
-   "priority": 49,
+   "score": 46,
+   "priority": 46,
    "status": "NO VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -10638,22 +10638,22 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 40,
-    "priority": 40,
-    "base": 40,
+    "score": 37,
+    "priority": 37,
+    "base": 37,
     "breakdown": {
      "agro": 12.5,
      "tech": 0,
      "business": 0,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 2
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 40,
-   "priority": 40,
+   "score": 37,
+   "priority": 37,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -10742,22 +10742,22 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 39,
-    "priority": 39,
-    "base": 39,
+    "score": 36,
+    "priority": 36,
+    "base": 36,
     "breakdown": {
      "agro": 8.3,
      "tech": 0,
      "business": 3.3,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 2
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 39,
-   "priority": 39,
+   "score": 36,
+   "priority": 36,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -10941,22 +10941,22 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 40,
-    "priority": 40,
-    "base": 40,
+    "score": 37,
+    "priority": 37,
+    "base": 37,
     "breakdown": {
      "agro": 12.5,
      "tech": 0,
      "business": 0,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 2
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 40,
-   "priority": 40,
+   "score": 37,
+   "priority": 37,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -12299,14 +12299,14 @@
    "evidence": "MEDIO",
    "scoring": {
     "score": 100,
-    "priority": 122,
-    "base": 82,
+    "priority": 119,
+    "base": 79,
     "breakdown": {
      "agro": 25,
      "tech": 20,
      "business": 20,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -12318,7 +12318,7 @@
     "penalties": {}
    },
    "score": 100,
-   "priority": 122,
+   "priority": 119,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -16797,15 +16797,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 74,
-    "priority": 74,
-    "base": 54,
+    "score": 71,
+    "priority": 71,
+    "base": 51,
     "breakdown": {
      "agro": 16.7,
      "tech": 20,
      "business": 0,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -16814,8 +16814,8 @@
     },
     "penalties": {}
    },
-   "score": 74,
-   "priority": 74,
+   "score": 71,
+   "priority": 71,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -16898,15 +16898,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 59,
-    "priority": 59,
-    "base": 49,
+    "score": 56,
+    "priority": 56,
+    "base": 46,
     "breakdown": {
      "agro": 8.3,
      "tech": 20,
      "business": 3.3,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -16914,8 +16914,8 @@
     },
     "penalties": {}
    },
-   "score": 59,
-   "priority": 59,
+   "score": 56,
+   "priority": 56,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -19921,15 +19921,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 69,
-    "priority": 69,
-    "base": 59,
+    "score": 66,
+    "priority": 66,
+    "base": 56,
     "breakdown": {
      "agro": 25,
      "tech": 0,
      "business": 16.7,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -19937,8 +19937,8 @@
     },
     "penalties": {}
    },
-   "score": 69,
-   "priority": 69,
+   "score": 66,
+   "priority": 66,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -20236,6 +20236,667 @@
    ],
    "suggested_content": [],
    "interview_ideas": []
+  },
+  {
+   "id": "agv-f4997ba5",
+   "retrieved_at": "2026-09-21T12:19:28.480Z",
+   "ingested_via": "googlenews",
+   "title_original": "Carrera deslinda a Sader y señala a Conagua por PEUA en Chihuahua",
+   "title_agrovision": "",
+   "source_name": "Net Noticias",
+   "source_domain": "netnoticias.mx",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV0xzYk5wTUlBY0gzOTJONk1sXy1JOFIyZmVnaXN2QzVZWG4zOVlkQlczOUxLcmtZSGE4cmNJVkcyR0l0N2JoSVgycDlVOXAxbHBDMFBLZzJaOXVJU2p1dlFhbFI3WXlLeWMzSUNRd2Jwd2RrWHRXWjJEbExKdHUta3BGQ1BxNENWTFJVVGZ1ZXJnNElhTEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmilgfbvv95cuxpv0xzyk5wtulby0gzotjonk1sxy1jofiyzmvnaxn2qzvzwg4zovlkqlczouxlcmtzsge4cmnjvkcyr0l0n2josvgycdlvoxaxbhbdmfblzzjaoxvju2p1dlfhbfi3wxllewmzsunrd2jwd2rrwhrxwjjebexkdhuta3bgq1bxnenwtfjvvgz1zxjnnelhtee?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-09-20",
+   "country": "México",
+   "mx_state": "Chihuahua",
+   "category": "MEXICO",
+   "subcategory": "Nacional",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [],
+   "relevance": {
+    "AGRO": 0.16666666666666666,
+    "TECH": 0,
+    "BUSINESS": 0,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 31,
+    "priority": 31,
+    "base": 31,
+    "breakdown": {
+     "agro": 4.2,
+     "tech": 0,
+     "business": 0,
+     "mexico": 15,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 31,
+   "priority": 31,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": [
+    "Voz local: productor(a) u organización de Chihuahua sobre cómo les afecta este tema."
+   ]
+  },
+  {
+   "id": "agv-28f4575e",
+   "retrieved_at": "2026-09-21T12:19:28.480Z",
+   "ingested_via": "googlenews",
+   "title_original": "Chihuahua ocupa el primer lugar nacional en cinco cultivos agrícolas",
+   "title_agrovision": "",
+   "source_name": "Quadratín Michoacán",
+   "source_domain": "chihuahua.quadratin.com.mx",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUHFyUGJiNWx2UTYteGJWbXR3elB3RzRxMVE5d1pLVnBFQ21yM2dtSEVrNzJYaHBwckNlV3hKcThCLVNDNXZtd1J0TnUwZ0hLc0hWTnZiX0xva1pnMWNaTXdzUFBvc2pFS0tZb2ctdUhhSGF3TUZBZUVrdkF3alVFaHV1dmw0bi1fb0t1VVRVZ1RUU203TDZoWGVLaXVtRnV2MjlPNjh1dnZFb2NZSVF1SFZKTEc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmitafbvv95cuxpuhfyugjinwx2utytegjwbxr3elb3rzrxmve5d1plvnbfq21ym2dtsevrnzjyahbwcknlv3hkcthclvndnxztd1j0tnuwz0hlc0hwtnzix0xva1pnmwnatxdzufbvc2pfs0tzb2ctduhhsgf3tuzbzuvrdkf3alvfahv1dmw0bi1fb0t1vvrvz1ruu203tdzowgvlaxvtrnv2mjlpnjh1dnzfb2nzsvf1sfzktec?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-09-17",
+   "country": "México",
+   "mx_state": "Chihuahua",
+   "category": "MEXICO",
+   "subcategory": "Chihuahua",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [],
+   "relevance": {
+    "AGRO": 0.3333333333333333,
+    "TECH": 0,
+    "BUSINESS": 0,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 35,
+    "priority": 35,
+    "base": 35,
+    "breakdown": {
+     "agro": 8.3,
+     "tech": 0,
+     "business": 0,
+     "mexico": 15,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 35,
+   "priority": 35,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": [
+    "Voz local: productor(a) u organización de Chihuahua sobre cómo les afecta este tema."
+   ]
+  },
+  {
+   "id": "agv-9c982826",
+   "retrieved_at": "2026-09-21T12:19:28.480Z",
+   "ingested_via": "googlenews",
+   "title_original": "Condiciones de sequía repuntan a finales de agosto en México",
+   "title_agrovision": "",
+   "source_name": "El Economista",
+   "source_domain": "eleconomista.com.mx",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdlY3WWJka19IX0RkZGlqRXpPWGFseGNobkJ3V2FhS2djQkFMM0lDRUoyNmtYNC1yYnpoaWtxbFRldlhUeV9JQlNYZlZfZUFIYlZzbTEtV0RPMkoyaWRJU0E5VVV6ckhfbExiak81VGRxSXprUDZLMUpLLTNGa1JJaTNFamhnRGdBRXR3b0JhZVNCSlJBNVBpVzcxVHZYQ0hwOFdSQ3hBRTRnT29XYW1ySdIBtgFBVV95cUxQaWFwNkMtdnVHTW04UTVpSENIbWp3OGo5cWJKVnd1aTVHQnFYaWdMalZmbHdqdkhVU2NzZUdud3VXM1JGNC1CRXZ5WUVrc0tDa2RjNEhDRk1NQnotU3dZTUJpb2pReTJJLWNyX1ZRb2h5a3dVY1IyQmFnajNYY1FPaGVYbzVQYlVFV0d5N3c2b1Rvd0NkYjF4QUN5a3hvUXVvOV9OaWtTM1R1LXRWUzdZM3VjbmtFQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmisafbvv95cuxqdly3wwjka19ix0rkzglqrxppwgfsegnobkj3v2fhs2djqkfmm0ldruoynmtync1yynpoawtxbfrldlhuev9jqlnyzlzfzufiylzzbtetv0rpmkoyawrju0e5vvv6ckhfbexiak81vgrxsxprudzlmuplltnga1jjatnfamhnrgdbrxr3b0jhzvncsljbnvbpvzcxvhzyq0hwofdsq3hbrtrnt29xyw1ysdibtgfbvv95cuxqawfwnkmtdnvhtw04utvpsenibwp3ogo5cwjkvnd1atvhqnfyawdmalzmbhdqdkhvu2nzzudud3vxm1jgnc1crxz5wuvrc0tda2rjnehdrk1nqnotu3dztujpb2pretjjlwnyx1zrb2h5a3dvy1iyqmfnajnyy1fpagvybzvqylvfv0d5n3c2b1rvd0nkyjf4qun5a3hvuxvvov9oawttm1r1lxrwuzdzm3vjbmtfqq?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-09-21",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "AGRO",
+   "subcategory": "Clima",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 0.16666666666666666,
+    "TECH": 0,
+    "BUSINESS": 0,
+    "MEXICO": 0.6666666666666666
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 33,
+    "priority": 33,
+    "base": 33,
+    "breakdown": {
+     "agro": 4.2,
+     "tech": 0,
+     "business": 0,
+     "mexico": 12,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 33,
+   "priority": 33,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-ef6b3f14",
+   "retrieved_at": "2026-09-21T12:19:28.480Z",
+   "ingested_via": "googlenews",
+   "title_original": "Aumento de sequía por falta de lluvias ya afecta a 365 municipios de México",
+   "title_agrovision": "",
+   "source_name": "Diario Evolución",
+   "source_domain": "diarioevolucion.com.mx",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc29rdVdDVjByZ0EzTVdDTE5uZnFMaEhKcHNOVWdpWVdWRkZTRk4wcloxUnZxeVN4VzFyX2ZjZUpRYXpncTROU0RuZThQYWdiSWxNNmo5STIwdGJ1Sl96SUFKSTBmVmpzMXFJSU9wX2tsU2c1WkV6RnF1dktSUFZINnR2ckVLTm8zSE15QXBubUhXYTVnMTdYakxNemczSkIzVGJ6TkVObzlWYVExZkMwdQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmisafbvv95cuxpc29rdvddvjbyz0eztvddte5uznfmaehkchnovwdpwvdwrkztrk4wcloxunzxevn4vzfyx2zjzupryxpnctrou0ruzthqywdiswxnnmo5stiwdgj1sl96sufkstbmvmpzmxfjsu9wx2tsu2c1wkv6rnf1dktsufzinnr2ckvltm8zse15qxbubuhxytvnmtdyakxnemczskizvgj6tkvobzlwyvexzkmwdq?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-09-18",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "AGRO",
+   "subcategory": "Clima",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 0.3333333333333333,
+    "TECH": 0,
+    "BUSINESS": 0,
+    "MEXICO": 0.6666666666666666
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 32,
+    "priority": 32,
+    "base": 32,
+    "breakdown": {
+     "agro": 8.3,
+     "tech": 0,
+     "business": 0,
+     "mexico": 12,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 32,
+   "priority": 32,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-caf470f5",
+   "retrieved_at": "2026-09-21T12:19:28.480Z",
+   "ingested_via": "googlenews",
+   "title_original": "Sinaloa sale de la sequía, pero sus presas siguen bajas",
+   "title_agrovision": "",
+   "source_name": "Meganoticias.mx",
+   "source_domain": "meganoticias.mx",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVWdUbGhVWW9uaDBoa2hBbHBjMnlqU09DYUg2TDJIeGJHUDdQT1dmamE0S29BZ1lOUHRVNXY3M3ZMNWpqSjJuSFd6cnJ2Vk93bkZzbklBNXNIMWlNc1VhZml5c1hFRnZ3b3dPY2hrZ29VSndDdVBCUndYc2c5SkFCcVFCTmpZTGxZNlFoUjJLcnVJbVRVTm5XYXlSNmhKWTlBVTd5NW5Od0d6OUxR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmirafbvv95cuxnvwdubghvww9uadboa2hbbhbjmnlqu09dyug2tdjiegjhuddqt1dmame0s29bz1louhrvnxy3m3zmnwpqsjjusfd6cnj2vk93bkzzbklbnxnimwlnc1vhzml5c1hfrnz3b3dpy2hrz29vsndddvbcundyc2c5skfccvfctmpztgxznlfoujjlcnvjbvrvtm5xyxlsnmhkwtlbvtd5nw5od0d6ouxr?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-09-19",
+   "country": "México",
+   "mx_state": "Sinaloa",
+   "category": "MEXICO",
+   "subcategory": "Sinaloa",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [],
+   "relevance": {
+    "AGRO": 0.3333333333333333,
+    "TECH": 0,
+    "BUSINESS": 0,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 35,
+    "priority": 35,
+    "base": 35,
+    "breakdown": {
+     "agro": 8.3,
+     "tech": 0,
+     "business": 0,
+     "mexico": 15,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 35,
+   "priority": 35,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": [
+    "Voz local: productor(a) u organización de Sinaloa sobre cómo les afecta este tema."
+   ]
+  },
+  {
+   "id": "agv-1de47408",
+   "retrieved_at": "2026-09-21T12:19:28.480Z",
+   "ingested_via": "googlenews",
+   "title_original": "“Es una lástima que en Conagua para el agua potable, cero inversión para Chihuahua ”: Mario Mata",
+   "title_agrovision": "",
+   "source_name": "laparadoja.com.mx",
+   "source_domain": "laparadoja.com.mx",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeUljaXgzR3pKTVl6a29YOHY0V2QyMENORGRFS3ZYQlJKbEx5VlBreU5kbFI0SUhfOUlZV1RQRnpvNXQ1cmx4QWRKeVJFaFhUQ2VKRXRQb0J4eGtPUWRjUXppeHhhaTZZcEVBNTZBVGdSWU43aDZHZTdPM1l5UHNEaldBcG15QjlhcXpKMjl3T3A2aEJTM2lid3A1cmNxckRhZUN1S3pTcXFLb0UyNHQ0UC1VQ1N4MTMzVnN1RHdqREo3X2M?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmiwwfbvv95cuxqeuljaxgzr3pktvl6a29yohy0v2qymenorgrfs3zyqljkbex5vlbreu5kbfi0suhfoulzv1rqrnpvnxq1cmx4qwrkevjfafhuq2vkrxrqb0j4egtpuwrjuxppehhhatzzcevbntzbvgdswu43adzhztdpm1l5uhnealdbcg15qjlhcxpkmjl3t3a2aejtm2lid3a1cmnxckrhzun1s3ptcxflb0uynhq0uc1vq1n4mtmzvnn1rhdqreo3x2m?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-09-17",
+   "country": "México",
+   "mx_state": "Chihuahua",
+   "category": "MEXICO",
+   "subcategory": "Chihuahua",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [],
+   "relevance": {
+    "AGRO": 0.3333333333333333,
+    "TECH": 0,
+    "BUSINESS": 0.16666666666666666,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 39,
+    "priority": 39,
+    "base": 39,
+    "breakdown": {
+     "agro": 8.3,
+     "tech": 0,
+     "business": 3.3,
+     "mexico": 15,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 39,
+   "priority": 39,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "¿Quién está invirtiendo?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": [
+    "Voz local: productor(a) u organización de Chihuahua sobre cómo les afecta este tema."
+   ]
+  },
+  {
+   "id": "agv-099fc325",
+   "retrieved_at": "2026-09-21T12:19:28.480Z",
+   "ingested_via": "rss",
+   "title_original": "400+ crop robotics companies, but where are robots really gaining ground?",
+   "title_agrovision": "",
+   "source_name": "Future Farming",
+   "source_domain": "futurefarming.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/400-crop-robotics-companiess-but-where-are-robots-really-gaining-ground/",
+   "canonical_url": "https://futurefarming.com/tech-in-focus/field-robots/400-crop-robotics-companiess-but-where-are-robots-really-gaining-ground",
+   "published_at": "2026-09-21",
+   "country": "Global",
+   "mx_state": null,
+   "category": "TECH",
+   "subcategory": "Robótica",
+   "technologies": [
+    "Robótica"
+   ],
+   "companies": [],
+   "content": "More than 400 companies worldwide are now racing to build robots for food crop production - a jump of nearly 25% since 2024.\nThis Premium article is exclusively available for subscribers",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "AGRO"
+   ],
+   "relevance": {
+    "AGRO": 0.5,
+    "TECH": 0.8,
+    "BUSINESS": 0,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 56,
+    "priority": 56,
+    "base": 46,
+    "breakdown": {
+     "agro": 12.5,
+     "tech": 16,
+     "business": 0,
+     "mexico": 0,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 56,
+   "priority": 56,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
   }
  ],
  "sources": [
@@ -20413,7 +21074,7 @@
    "tier": 2,
    "type": "secondary",
    "kind": "medio_especializado",
-   "article_count": 15
+   "article_count": 16
   },
   {
    "domain": "newaginternational.com",
@@ -20637,7 +21298,7 @@
    "tier": 2,
    "type": "secondary",
    "kind": "medio",
-   "article_count": 1
+   "article_count": 2
   },
   {
    "domain": "noroeste.com.mx",
@@ -20706,6 +21367,46 @@
   {
    "domain": "hortalizas.com",
    "name": "hortalizas.com",
+   "tier": 0,
+   "type": "secondary",
+   "kind": "desconocido",
+   "article_count": 1
+  },
+  {
+   "domain": "netnoticias.mx",
+   "name": "Net Noticias",
+   "tier": 0,
+   "type": "secondary",
+   "kind": "desconocido",
+   "article_count": 1
+  },
+  {
+   "domain": "chihuahua.quadratin.com.mx",
+   "name": "Quadratín Michoacán",
+   "tier": 0,
+   "type": "secondary",
+   "kind": "desconocido",
+   "article_count": 1
+  },
+  {
+   "domain": "diarioevolucion.com.mx",
+   "name": "Diario Evolución",
+   "tier": 0,
+   "type": "secondary",
+   "kind": "desconocido",
+   "article_count": 1
+  },
+  {
+   "domain": "meganoticias.mx",
+   "name": "Meganoticias.mx",
+   "tier": 0,
+   "type": "secondary",
+   "kind": "desconocido",
+   "article_count": 1
+  },
+  {
+   "domain": "laparadoja.com.mx",
+   "name": "laparadoja.com.mx",
    "tier": 0,
    "type": "secondary",
    "kind": "desconocido",
@@ -20935,14 +21636,14 @@
     "agv-75b47020",
     "agv-1f87f1be"
    ],
-   "computed_at": "2026-09-21T00:11:28.085Z"
+   "computed_at": "2026-09-21T12:19:28.480Z"
   },
   {
    "id": "riego-inteligente",
    "label": "Riego y agua",
    "score": 99,
-   "mentions": 29,
-   "recent": 20,
+   "mentions": 33,
+   "recent": 24,
    "prior": 4,
    "direction": "creciendo",
    "source_kinds": [
@@ -20981,9 +21682,13 @@
     "agv-1f87f1be",
     "agv-da0a42f6",
     "agv-c4d0e41b",
-    "agv-11c0ecaf"
+    "agv-11c0ecaf",
+    "agv-9c982826",
+    "agv-ef6b3f14",
+    "agv-caf470f5",
+    "agv-1de47408"
    ],
-   "computed_at": "2026-09-21T00:11:28.085Z"
+   "computed_at": "2026-09-21T12:19:28.480Z"
   },
   {
    "id": "agricultura-digital",
@@ -21062,7 +21767,7 @@
     "agv-b3ba7ccb",
     "agv-c4d0e41b"
    ],
-   "computed_at": "2026-09-21T00:11:28.085Z"
+   "computed_at": "2026-09-21T12:19:28.480Z"
   },
   {
    "id": "maiz",
@@ -21111,7 +21816,7 @@
     "agv-1ee9131e",
     "agv-e5654e4e"
    ],
-   "computed_at": "2026-09-21T00:11:28.085Z"
+   "computed_at": "2026-09-21T12:19:28.480Z"
   },
   {
    "id": "biotecnologia",
@@ -21156,7 +21861,7 @@
     "agv-1f87f1be",
     "agv-a279a8f6"
    ],
-   "computed_at": "2026-09-21T00:11:28.085Z"
+   "computed_at": "2026-09-21T12:19:28.480Z"
   },
   {
    "id": "fertilizantes",
@@ -21189,7 +21894,7 @@
     "agv-60b5e9e3",
     "agv-8481957e"
    ],
-   "computed_at": "2026-09-21T00:11:28.085Z"
+   "computed_at": "2026-09-21T12:19:28.480Z"
   },
   {
    "id": "drones",
@@ -21221,7 +21926,7 @@
     "agv-2d272dbb",
     "agv-467a2802"
    ],
-   "computed_at": "2026-09-21T00:11:28.085Z"
+   "computed_at": "2026-09-21T12:19:28.480Z"
   },
   {
    "id": "sanidad",
@@ -21250,7 +21955,7 @@
     "agv-b3ba7ccb",
     "agv-4bc65a5d"
    ],
-   "computed_at": "2026-09-21T00:11:28.085Z"
+   "computed_at": "2026-09-21T12:19:28.480Z"
   },
   {
    "id": "inversion-agtech",
@@ -21313,14 +22018,14 @@
     "agv-8a4a260c",
     "agv-e5654e4e"
    ],
-   "computed_at": "2026-09-21T00:11:28.085Z"
+   "computed_at": "2026-09-21T12:19:28.480Z"
   },
   {
    "id": "robotica",
    "label": "Robótica agrícola",
    "score": 77,
-   "mentions": 29,
-   "recent": 22,
+   "mentions": 30,
+   "recent": 23,
    "prior": 5,
    "direction": "creciendo",
    "source_kinds": [
@@ -21357,9 +22062,10 @@
     "agv-e121a747",
     "agv-4de4c781",
     "agv-be85d1c4",
-    "agv-8a4a260c"
+    "agv-8a4a260c",
+    "agv-099fc325"
    ],
-   "computed_at": "2026-09-21T00:11:28.085Z"
+   "computed_at": "2026-09-21T12:19:28.480Z"
   },
   {
    "id": "comercio-tmec",
@@ -21390,7 +22096,7 @@
     "agv-e5c3a613",
     "agv-b3ba7ccb"
    ],
-   "computed_at": "2026-09-21T00:11:28.085Z"
+   "computed_at": "2026-09-21T12:19:28.480Z"
   },
   {
    "id": "precios-alimentos",
@@ -21410,7 +22116,7 @@
     "agv-52a0be98",
     "agv-943d446b"
    ],
-   "computed_at": "2026-09-21T00:11:28.085Z"
+   "computed_at": "2026-09-21T12:19:28.480Z"
   }
  ],
  "companies": [
@@ -22583,7 +23289,8 @@
     "agv-e121a747",
     "agv-4de4c781",
     "agv-be85d1c4",
-    "agv-8a4a260c"
+    "agv-8a4a260c",
+    "agv-099fc325"
    ]
   },
   {
@@ -23083,7 +23790,8 @@
     "agv-a279a8f6",
     "agv-1ee9131e",
     "agv-43499775",
-    "agv-11c0ecaf"
+    "agv-11c0ecaf",
+    "agv-099fc325"
    ]
   },
   {
@@ -23152,7 +23860,13 @@
     "agv-c4d0e41b",
     "agv-673aa45e",
     "agv-4bc65a5d",
-    "agv-dcef31d4"
+    "agv-dcef31d4",
+    "agv-f4997ba5",
+    "agv-28f4575e",
+    "agv-9c982826",
+    "agv-ef6b3f14",
+    "agv-caf470f5",
+    "agv-1de47408"
    ]
   },
   {
@@ -23221,7 +23935,24 @@
     "agv-e5654e4e",
     "agv-c4d0e41b",
     "agv-673aa45e",
-    "agv-dcef31d4"
+    "agv-dcef31d4",
+    "agv-9c982826",
+    "agv-ef6b3f14"
+   ]
+  },
+  {
+   "id": "chihuahua",
+   "name": "Chihuahua",
+   "article_ids": [
+    "agv-3b528108",
+    "agv-1f125245",
+    "agv-2d462b42",
+    "agv-f6e2effd",
+    "agv-0f330a30",
+    "agv-b3ba7ccb",
+    "agv-f4997ba5",
+    "agv-28f4575e",
+    "agv-1de47408"
    ]
   },
   {
@@ -23237,18 +23968,6 @@
    ]
   },
   {
-   "id": "chihuahua",
-   "name": "Chihuahua",
-   "article_ids": [
-    "agv-3b528108",
-    "agv-1f125245",
-    "agv-2d462b42",
-    "agv-f6e2effd",
-    "agv-0f330a30",
-    "agv-b3ba7ccb"
-   ]
-  },
-  {
    "id": "sinaloa",
    "name": "Sinaloa",
    "article_ids": [
@@ -23256,7 +23975,8 @@
     "agv-943d446b",
     "agv-f3be9990",
     "agv-0451ca09",
-    "agv-a51885f9"
+    "agv-a51885f9",
+    "agv-caf470f5"
    ]
   },
   {
@@ -25258,15 +25978,25 @@
    "type": "weekly",
    "at": "2026-09-21T00:11:29.327Z",
    "issue": 2
+  },
+  {
+   "id": "daily-2026-09-21T12:19:28.480Z",
+   "type": "daily",
+   "at": "2026-09-21T12:20:35.404Z",
+   "added": 7,
+   "skipped": 399,
+   "feeds_ok": 17,
+   "feeds_failed": 3,
+   "duplicates": 3
   }
  ],
  "meta": {
   "schema_version": 1,
   "created_at": "2026-09-19T15:08:14.372Z",
-  "updated_at": "2026-09-21T00:11:29.327Z",
+  "updated_at": "2026-09-21T12:20:35.404Z",
   "counts": {
-   "articles": 160,
-   "sources": 59,
+   "articles": 167,
+   "sources": 64,
    "topics": 12,
    "trends": 12,
    "companies": 111,
@@ -25280,7 +26010,7 @@
    "saved_articles": 0,
    "newsletter_issues": 1,
    "social_posts": 0,
-   "runs": 8
+   "runs": 9
   }
  }
 }
