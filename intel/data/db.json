@@ -1968,15 +1968,15 @@
    },
    "evidence": "ALTO",
    "scoring": {
-    "score": 82,
-    "priority": 82,
-    "base": 52,
+    "score": 79,
+    "priority": 79,
+    "base": 49,
     "breakdown": {
      "agro": 25,
      "tech": 0,
      "business": 6.7,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 10
     },
     "bonuses": {
@@ -1986,8 +1986,8 @@
     },
     "penalties": {}
    },
-   "score": 82,
-   "priority": 82,
+   "score": 79,
+   "priority": 79,
    "status": "VERIFICADO",
    "analysis_complete": true,
    "publishable": true,
@@ -10343,22 +10343,22 @@
    },
    "evidence": "ALTO",
    "scoring": {
-    "score": 44,
-    "priority": 44,
-    "base": 44,
+    "score": 41,
+    "priority": 41,
+    "base": 41,
     "breakdown": {
      "agro": 8.3,
      "tech": 0,
      "business": 3.3,
      "mexico": 12,
-     "recency": 10,
+     "recency": 7,
      "source": 10
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 44,
-   "priority": 44,
+   "score": 41,
+   "priority": 41,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -10835,22 +10835,22 @@
    },
    "evidence": "BAJO",
    "scoring": {
-    "score": 35,
-    "priority": 35,
-    "base": 35,
+    "score": 32,
+    "priority": 32,
+    "base": 32,
     "breakdown": {
      "agro": 8.3,
      "tech": 0,
      "business": 0,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 2
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 35,
-   "priority": 35,
+   "score": 32,
+   "priority": 32,
    "status": "NO VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -12076,15 +12076,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 100,
-    "priority": 100,
-    "base": 70,
+    "score": 97,
+    "priority": 97,
+    "base": 67,
     "breakdown": {
      "agro": 25,
      "tech": 8,
      "business": 20,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -12094,8 +12094,8 @@
     },
     "penalties": {}
    },
-   "score": 100,
-   "priority": 100,
+   "score": 97,
+   "priority": 97,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -12178,7 +12178,9 @@
     "MEXICO": 0
    },
    "duplicate_of": null,
-   "related_ids": [],
+   "related_ids": [
+    "agv-f42d898d"
+   ],
    "verification": {
     "evidence": "MEDIO",
     "computed_evidence": "MEDIO",
@@ -12190,14 +12192,14 @@
    "evidence": "MEDIO",
    "scoring": {
     "score": 100,
-    "priority": 112,
-    "base": 82,
+    "priority": 109,
+    "base": 79,
     "breakdown": {
      "agro": 25,
      "tech": 20,
      "business": 20,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -12208,7 +12210,7 @@
     "penalties": {}
    },
    "score": 100,
-   "priority": 112,
+   "priority": 109,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -19716,15 +19718,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 97,
-    "priority": 97,
-    "base": 77,
+    "score": 94,
+    "priority": 94,
+    "base": 74,
     "breakdown": {
      "agro": 25,
      "tech": 0,
      "business": 20,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -19733,8 +19735,8 @@
     },
     "penalties": {}
    },
-   "score": 97,
-   "priority": 97,
+   "score": 94,
+   "priority": 94,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -19819,14 +19821,14 @@
    "evidence": "MEDIO",
    "scoring": {
     "score": 100,
-    "priority": 112,
-    "base": 72,
+    "priority": 109,
+    "base": 69,
     "breakdown": {
      "agro": 25,
      "tech": 8,
      "business": 6.7,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -19838,7 +19840,7 @@
     "penalties": {}
    },
    "score": 100,
-   "priority": 112,
+   "priority": 109,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -20759,16 +20761,27 @@
     "MEXICO": 1
    },
    "duplicate_of": null,
-   "related_ids": [],
+   "related_ids": [
+    "agv-7454d4ad"
+   ],
    "verification": {
-    "evidence": "BAJO",
-    "computed_evidence": "BAJO",
-    "status": "NO VERIFICADO",
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
     "source_role": "fuente secundaria",
-    "corroborations": [],
+    "corroborations": [
+     {
+      "name": "EVyN Chihuahua",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT1FVOUdQS2RndmtmTHVVNGhUUXliazFNMEhkakpjM1NrRkRXeldnaWJLOWtHZ3VWbzJveU1YSnh0YmgwMzdVRmFwcmU0eHRXaVBkMl9fNml5Uzc2UVNZZ1lDUExiRHhQdHh4TWxLQm1tRHBNTDBMQWotTHJUVUd4TVFhUzdQMGJDLUtleGdZaW1hdmZDeTVIN243djE4UmJxSE1LVmZ2V2NFTjhVcnhyNzlVVlNjX2gxYU1IZ2hB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "tier": 0,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-7454d4ad"
+     }
+    ],
     "warnings": []
    },
-   "evidence": "BAJO",
+   "evidence": "MEDIO",
    "scoring": {
     "score": 39,
     "priority": 39,
@@ -20786,7 +20799,7 @@
    },
    "score": 39,
    "priority": 39,
-   "status": "NO VERIFICADO",
+   "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
    "suggested_formats": [
@@ -20897,6 +20910,1340 @@
    ],
    "suggested_content": [],
    "interview_ideas": []
+  },
+  {
+   "id": "agv-9f4e4c43",
+   "retrieved_at": "2026-09-22T12:20:17.023Z",
+   "ingested_via": "googlenews",
+   "title_original": "Considera Sader que precio de la tortilla se mantendrá, pues hay suficiente abasto de maíz",
+   "title_agrovision": "",
+   "source_name": "El Comentario",
+   "source_domain": "elcomentario.ucol.mx",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EX3lPbGcwRHlYTHVicjN6Nl80Z0hSczhlTXJVQXpoUkRVTkEtdjhOc2VKOVRRWFVidjhUUE1NVVNqSjVVVDhnTjAtX1FJU00?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmit0fvx3lxte1ex3lpbgcwrhlythvicjn6nl80z0hsczhltxjvqxpoukrvtketdjhoc2vkovrrwfvidjhuue1nvvnqsjvvvdhntjatx1fju00?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-09-22",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "BUSINESS",
+   "subcategory": "Precios",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 0.16666666666666666,
+    "TECH": 0,
+    "BUSINESS": 0.3333333333333333,
+    "MEXICO": 0.6666666666666666
+   },
+   "duplicate_of": null,
+   "related_ids": [
+    "agv-7aa5c46f",
+    "agv-8c7d6250"
+   ],
+   "verification": {
+    "evidence": "ALTO",
+    "computed_evidence": "ALTO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [
+     {
+      "name": "Imagen Agropecuaria",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbWprZEJyQjR5NHAxUHVscUx3a09sdnNtYklzZ1ZoZW5zTzdDRm5MRzIwTU16cFhWbDhTQ2RFREFFZUxna0R0dWdxNUwzVXQxSXNFV3BHejFRVDJGbXY5cGFfalhuMWZ1UG93Y1UzVEtvYW9Cb2VLMXcxUFZJQWFWZW1ET20zNVZpMmFZaGw0ZUkzZXpxb0Y3YjJ3Z1hRQ2lPcG9HR183Vl8zamF4X2htX25iX2tSSEx1ekswZzh4SQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "tier": 2,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-7aa5c46f"
+     }
+    ],
+    "warnings": []
+   },
+   "evidence": "ALTO",
+   "scoring": {
+    "score": 45,
+    "priority": 45,
+    "base": 35,
+    "breakdown": {
+     "agro": 4.2,
+     "tech": 0,
+     "business": 6.7,
+     "mexico": 12,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {
+     "impacto_economico": 10
+    },
+    "penalties": {}
+   },
+   "score": 45,
+   "priority": 45,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "¿Cuánto cuesta?",
+    "El negocio detrás del campo"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-476a4f03",
+   "retrieved_at": "2026-09-22T12:20:17.023Z",
+   "ingested_via": "googlenews",
+   "title_original": "Gestiona Maru soluciones para el agua y campo ante Conagua y Sader",
+   "title_agrovision": "",
+   "source_name": "Tiempo La Noticia Digital",
+   "source_domain": "tiempo.com.mx",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWJ1SmFodkpFLXpOOW82UGRuUXFCSTY1dXd1UThjZnJNSTdNYXJ5eFR0eUZhNDRldmRXRXpSZ3ZFbUhkZDJWaEtWVnM5Y3NTYnprRmJGeGVrYXc1Mmo4N0dhTTlrVUZWTHlwLWRvRVpvSWlYcFFjTUZ2WFNldHFRWThlYjhKR1ZVN3ZrOUdkTGhCWDdvOTdxenlvS2xkRnhO?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmioafbvv95cuxqbwj1smfodkpflxpoow82ugruuxfcsty1dxd1uthjznjnstdnyxj5efr0euzhndrldmrxrxpsz3zfbuhkzdjwaetwvnm5y3ntynprrmjgegvryxc1mmo4n0dhttlrvuzwthlwlwrvrvpvswlycffjtuz2wfnldhfrwthlyjhkr1zvn3zroudktghcwddvotdxenlvs2xkrnho?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-09-22",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "AGRO",
+   "subcategory": "Agua",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 0.5,
+    "TECH": 0,
+    "BUSINESS": 0,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 40,
+    "priority": 40,
+    "base": 40,
+    "breakdown": {
+     "agro": 12.5,
+     "tech": 0,
+     "business": 0,
+     "mexico": 15,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 40,
+   "priority": 40,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-7aa5c46f",
+   "retrieved_at": "2026-09-22T12:20:17.023Z",
+   "ingested_via": "googlenews",
+   "title_original": "Marginal el aumento al maíz, no tiene porque repercutir en precio de la tortilla: Sader",
+   "title_agrovision": "",
+   "source_name": "Imagen Agropecuaria",
+   "source_domain": "imagenagropecuaria.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbWprZEJyQjR5NHAxUHVscUx3a09sdnNtYklzZ1ZoZW5zTzdDRm5MRzIwTU16cFhWbDhTQ2RFREFFZUxna0R0dWdxNUwzVXQxSXNFV3BHejFRVDJGbXY5cGFfalhuMWZ1UG93Y1UzVEtvYW9Cb2VLMXcxUFZJQWFWZW1ET20zNVZpMmFZaGw0ZUkzZXpxb0Y3YjJ3Z1hRQ2lPcG9HR183Vl8zamF4X2htX25iX2tSSEx1ekswZzh4SQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmivwfbvv95cuxnbwprzejyqjr5nhaxuhvscux3a09sdnntyklzz1zozw5ztzddrm5mrziwtu16cfhwbdhtq2rfreffzuxna0r0dwdxnuwzvxqxsxnfv3bhejfrvdjgbxy5cgffalhumwz1ug93y1uzvetvyw9cb2vlmxcxufzjqwfwzw1et20znvzpmmfzagw0zukzzxpxb0y3yjj3z1hrq2lpcg9hr183vl8zamf4x2htx25ix2tssex1ekswzzh4sq?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-09-21",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "BUSINESS",
+   "subcategory": "Precios",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 0.16666666666666666,
+    "TECH": 0,
+    "BUSINESS": 0.16666666666666666,
+    "MEXICO": 0.6666666666666666
+   },
+   "duplicate_of": null,
+   "related_ids": [
+    "agv-9f4e4c43",
+    "agv-8c7d6250"
+   ],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [
+     {
+      "name": "El Comentario",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EX3lPbGcwRHlYTHVicjN6Nl80Z0hSczhlTXJVQXpoUkRVTkEtdjhOc2VKOVRRWFVidjhUUE1NVVNqSjVVVDhnTjAtX1FJU00?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "tier": 0,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-9f4e4c43"
+     }
+    ],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 37,
+    "priority": 37,
+    "base": 37,
+    "breakdown": {
+     "agro": 4.2,
+     "tech": 0,
+     "business": 3.3,
+     "mexico": 12,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 37,
+   "priority": 37,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "¿Cuánto cuesta?",
+    "El negocio detrás del campo"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-7454d4ad",
+   "retrieved_at": "2026-09-22T12:20:17.023Z",
+   "ingested_via": "googlenews",
+   "title_original": "Maru Campos se reúne con CONAGUA y Agricultura en CDMX para atender crisis del agua en Chihuahua",
+   "title_agrovision": "",
+   "source_name": "EVyN Chihuahua",
+   "source_domain": "evynchihuahua.com",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT1FVOUdQS2RndmtmTHVVNGhUUXliazFNMEhkakpjM1NrRkRXeldnaWJLOWtHZ3VWbzJveU1YSnh0YmgwMzdVRmFwcmU0eHRXaVBkMl9fNml5Uzc2UVNZZ1lDUExiRHhQdHh4TWxLQm1tRHBNTDBMQWotTHJUVUd4TVFhUzdQMGJDLUtleGdZaW1hdmZDeTVIN243djE4UmJxSE1LVmZ2V2NFTjhVcnhyNzlVVlNjX2gxYU1IZ2hB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmivgfbvv95cuxpt1fvoudqs2rndmtmthvvnghuuxliazfnmehkakpjm1nrrkrxeldnawjlowthz3vwbzjveu1ysnh0ymgwmzdvrmfwcmu0ehrxavbkml9fnml5uzc2uvnzz1lduexirhhqdhh4twxlqm1trhbntdbmqwotthjuvud4tvfhuzdqmgjdlutlegdzaw1hdmzdetvin243dje4umjxse1lvmz2v2nftjhvcnhynzlvvlnjx2gxyu1iz2hb?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-09-22",
+   "country": "México",
+   "mx_state": "Chihuahua",
+   "category": "AGRO",
+   "subcategory": "Agua",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 0.5,
+    "TECH": 0,
+    "BUSINESS": 0,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [
+    "agv-1de47408"
+   ],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [
+     {
+      "name": "laparadoja.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeUljaXgzR3pKTVl6a29YOHY0V2QyMENORGRFS3ZYQlJKbEx5VlBreU5kbFI0SUhfOUlZV1RQRnpvNXQ1cmx4QWRKeVJFaFhUQ2VKRXRQb0J4eGtPUWRjUXppeHhhaTZZcEVBNTZBVGdSWU43aDZHZTdPM1l5UHNEaldBcG15QjlhcXpKMjl3T3A2aEJTM2lid3A1cmNxckRhZUN1S3pTcXFLb0UyNHQ0UC1VQ1N4MTMzVnN1RHdqREo3X2M?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "tier": 0,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-1de47408"
+     }
+    ],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 40,
+    "priority": 40,
+    "base": 40,
+    "breakdown": {
+     "agro": 12.5,
+     "tech": 0,
+     "business": 0,
+     "mexico": 15,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 40,
+   "priority": 40,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": [
+    "Voz local: productor(a) u organización de Chihuahua sobre cómo les afecta este tema."
+   ]
+  },
+  {
+   "id": "agv-7bcc7ab5",
+   "retrieved_at": "2026-09-22T12:20:17.023Z",
+   "ingested_via": "googlenews",
+   "title_original": "Video.- Acude Maru Campos a Conagua y Agricultura",
+   "title_agrovision": "",
+   "source_name": "El Diario de Chihuahua",
+   "source_domain": "eldiariodechihuahua.mx",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlVjaHhkWk95VUlOLVVOajVJX0dxUEhoYnF5SXMxeFowajFjQnZTdUZjMFFESnBnUS1INFN3bmI3Vlp5SHJWalQ0TnVKWUhfRTdzampuRzJ6aWpiQTN5SnJuLWNSdGs1NlFGTGtVbVh2WWk5eEg2YVdMdm42dXZ0VU1GZDJFVTR0V0w0OHFNTmpwd01RRHlvUzdtNk1ZVFk4dVFCOU5SVFgxQlRqZ0F2b3NRaE9MeGN40gG4AUFVX3lxTE1CVWNoeGRaT3lVSU4tVU5qNUlfR3FQSGhicXlJczF4WjBqMWNCdlN1RmMwUURKcGdRLUg0U3duYjdWWnlIclZqVDROdUpZSF9FN3Nqam5HMnppamJBM3lKcm4tY1J0azU2UUZMa1VtWHZZaTl4SDZhV0x2bjZ1dnRVTUZkMkVVNHRXTDQ4cU1OanB3TVFEeW9TN202TVlUWTh1UUI5TlJUWDFCVGpnQXZvc1FoT0x4Y3g?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmiuafbvv95cuxnqlvjahhkwk95vulolvvoajvjx0dxuehoynf5sxmxefowajfjqnztduzjmffesnbnus1infn3bmi3vlp5shjwalq0tnvkwuhfrtdzampurzj6awpiqtn5snjulwnsdgs1nlfgtgtvbvh2wwk5eeg2yvdmdm42dxz0vu1gzdjfvtr0v0w0ohfntmpwd01rrhlvuzdtnk1zvfk4dvfcou5svfgxqlrqz0f2b3nrae9megn40gg4aufvx3lxte1cvwnoegrat3lvsu4tvu5qnulfr3fqsghicxljczf4wjbqmwncdln1rmmwuurkcgdrlug0u3duyjdwwnliclzqvdrodupzsf9fn3nqam5hmnppamjbm3lkcm4ty1j0azu2uuzma1vtwhzzatl4sdzhv0x2bjz1dnrvtuzkmkvvnhrxtdq4cu1oanb3tvfeew9tn202tvluwth1uui5tljuwdfcvgpnqxzvc1fot0x4y3g?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-09-22",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "AGRO",
+   "subcategory": "Agricultura",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 0.3333333333333333,
+    "TECH": 0,
+    "BUSINESS": 0,
+    "MEXICO": 0.6666666666666666
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 32,
+    "priority": 32,
+    "base": 32,
+    "breakdown": {
+     "agro": 8.3,
+     "tech": 0,
+     "business": 0,
+     "mexico": 12,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 32,
+   "priority": 32,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-8c7d6250",
+   "retrieved_at": "2026-09-22T12:20:17.023Z",
+   "ingested_via": "googlenews",
+   "title_original": "Sader descarta aumento en el precio de la tortilla por costo del maíz",
+   "title_agrovision": "",
+   "source_name": "Notigram",
+   "source_domain": "notigram.com",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV0RubTF1S2ZqUzZLeEU0em5CTnE4NGJWaXZib0JrQmVlWlB1QWg5MUQxc0NweHczNFlIRkZ6YTdubFVQVWVscHMwVWlPejhLMzdUTlBxQkxGMzNBRXVSelNIZ0lLWWYwbU5TQ0w3WXBsTWpvNmJKNThmeGRCMzRfdmNHOWpzRXF2dFB1dHc4SW9FY05zYlltQU5NR05BdHNPMi05bnNhWW9YdmcyWV8yMENjTnNqWERyaDUyT2psSmI?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmiwafbvv95cuxqv0rubtf1s2zquzzleeu0em5ctne4ngjwaxzib0jrqmvlwlb1qwg5muqxc0nwehcznflirkz6ytdubfvqvwvschmwvwlpejhlmzdutlbxqkxgmznbrxvselniz0llwwywbu5tq0w3wxbstwpvnmjknthmegrcmzrfdmnhowpzrxf2dfb1dhc4sw9fy05zylltqu5nr05bdhnpmi05bnnhww9ydmcywv8ymenjtnnqweryaduyt2pssmi?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-09-21",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "BUSINESS",
+   "subcategory": "Precios",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 0.16666666666666666,
+    "TECH": 0,
+    "BUSINESS": 0.3333333333333333,
+    "MEXICO": 0.6666666666666666
+   },
+   "duplicate_of": null,
+   "related_ids": [
+    "agv-7aa5c46f",
+    "agv-9f4e4c43"
+   ],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [
+     {
+      "name": "El Comentario",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EX3lPbGcwRHlYTHVicjN6Nl80Z0hSczhlTXJVQXpoUkRVTkEtdjhOc2VKOVRRWFVidjhUUE1NVVNqSjVVVDhnTjAtX1FJU00?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "tier": 0,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-9f4e4c43"
+     }
+    ],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 45,
+    "priority": 45,
+    "base": 35,
+    "breakdown": {
+     "agro": 4.2,
+     "tech": 0,
+     "business": 6.7,
+     "mexico": 12,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {
+     "impacto_economico": 10
+    },
+    "penalties": {}
+   },
+   "score": 45,
+   "priority": 45,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "¿Cuánto cuesta?",
+    "El negocio detrás del campo"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-1c3ff2b4",
+   "retrieved_at": "2026-09-22T12:20:17.023Z",
+   "ingested_via": "googlenews",
+   "title_original": "Prevén encarecimiento del maíz y frijol para 2027 en México",
+   "title_agrovision": "",
+   "source_name": "MVS Noticias",
+   "source_domain": "mvsnoticias.com",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPajQ0TjFTaW1ZeFBqOFotNW13RzgwNTRHVEhKYTM3VmM4X0ktZHdodEFLZHVRc18xRDEyWl9veTh5UE0zTVViVEJhNkpZaG1HQjczYmZhWXBaSmRoUURZVFgtMkNsS2pnb2gyeW9Uc1ZWOUloNTBoZVkzYWd4NVZFZnFoTGtUWXM3OWNpWHJQNGZSR2VZZnVHWEJoQ2Y5Z0FWeWpTN2lIR3FFZktveUxpbFdITW8?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmitafbvv95cuxpajq0tjftaw1zefbqofotnw13rzgwntrhvehkytm3vmm4x0ktzhdodeflzhvrc18xrdeywl9veth5ue0ztvvivejhnkpzag1hqjczymzhwxbasmrouurzvfgtmknss2pnb2gyew9uc1zwoulontbozvkzywd4nvzfznfotgtuwxm3ownpwhjqngzsr2vzznvhwejoq2y5z0fwewptn2lir3ffzktveuxpbfditw8?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-09-21",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "AGRO",
+   "subcategory": "Cultivos",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 0.3333333333333333,
+    "TECH": 0,
+    "BUSINESS": 0,
+    "MEXICO": 0.6666666666666666
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 32,
+    "priority": 32,
+    "base": 32,
+    "breakdown": {
+     "agro": 8.3,
+     "tech": 0,
+     "business": 0,
+     "mexico": 12,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 32,
+   "priority": 32,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-0cef3fe7",
+   "retrieved_at": "2026-09-22T12:20:17.023Z",
+   "ingested_via": "googlenews",
+   "title_original": "Aunque Trump minimizó a México como proveedor de “tomates y tamales”, el país abastece la mesa de EEUU con 43 mil 800 millones de dólares en productos agrícolas mientras compra maíz, carne y lácteos",
+   "title_agrovision": "",
+   "source_name": "elimparcial-elimparcial-prod.web.arc-cdn.net",
+   "source_domain": "elimparcial-elimparcial-prod.web.arc-cdn.net",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOaUIzbVpEOHNFRDNkWVlBdFZWc1hyRlBmTXBtNi1LRkVTS210T1pFVUc2VHpDalJpanpkb2xNZHRXeWI2MnduQk8wZ2RtMGl5dUMzREc4bVpPaTFpRHBRcE9uazZaRm1iVW8xeXZpdU11YnRXd0VneEpEQzl1MmdIY1lCd3JwaTBsNGQ5UHZ2NmMtVUpRREVocFUyaHl2OEtLcTZjV25VWFRVa3FwRGhhZE1rVGNNMVdaRDhDQXh5a0s0VElUeXlEblhmdWhrazhfMnQyNHI4UEFIaUhqU1NHS0JJMl9ma3YyRG5JLW1aVVJGUHAyemE3TWZiR3RIQXVkclN4YmwyQnE4S0VVbTBfU2ZSZWpubkktRlhDS2pUZXVMQnMtTVlUMFdBRHR1d0ZRTjhBYjRDV0UxWGxDS3VNRU5JcWRDWTdSd0VLYjRkcFVVR25lVUhmTndhUzEwMTVtd3RsMWV4R0xzRWs0UFVwbDNKRXVPVi14OFFRWkc1NNIB-AJBVV95cUxPc0VWTVZXRDd1dFc0cHJubHhXV1ktMXVPRkU0NE5lWWJ5NFExU05lbV9WWUd3NG1nV3duTURBOHZQUExjaDRZRWl2NlJfblRJamlKb1hTNmVNSVBOLXFDcE9sMnpfazlrOWVhVG1rMkcwclZ2UmI3dlhYb2Vjb0Y3LWJqY2FHdUExX3Vhblh3TU1PaEV0SDNFTFZidDEtMVpMQjdyZzc0dVFZV2IxTENmaXdIT09DWDhwajlRUjZrOXpxMXg4eVQ2NF9CS0xENDBTTkNxcjdlN3NpcC1MWUdvSTdCb0plNVBlVVllNVFTM05TN0NZM1BrdWsxa1NvWlM1aVVjbExKZ1F1UnVIX1ZObXBqeXhZWnZNbW9DTjhaaUo0ZkRtLUtBeHFLb1NyTmNKSW9NRDhiZDBOYi1uWkFVUjRpeWJGUTliWWxzR2RtcG1adXdCSElKVjE1NUlydTZOdzBtd0FXQ2FkdWVFMjRLaXN0eWU0ck94?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmi_wjbvv95cuxoauizbvpeohnfrdnkwvlbdfzwc1hyrlbmtxbtni1lrkvts210t1pfvuc2vhpdaljpanpkb2xnzhrxewi2mnduqk8wz2rtmgl5dumzrec4bvppatfprhbrce9uazzarm1ivw8xexzpdu11ynrxd0vneepeqzl1mmdiy1lcd3jwatbsngq5uhz2nmmtvuprrevocfuyahl2oetlctzjv25vwfrva3fwrghhze1rvgnnmvdardhdqxh5a0s0veluexleblhmdwhrazhfmnqynhi4uefiauhqu1nhs0jjml9ma3yyrg5jlw1avvjguhayeme3twzir3riqxvkcln4ymwyqne4s0vvbtbfu2zszwpubkktrlhds2puzxvmqnmttvlumfdbrhr1d0zrtjhbyjrdv0uxwgxds3vnru5jcwrdwtdsd0vlyjrkcfvvr25lvuhmtndhuzewmtvtd3rsmwv4r0xzrws0ufvwbdnkrxvpvi14offrwkc1nnib-ajbvv95cuxpc0vwtvzxrdd1dfc0chjubhhxv1ktmxvprku0ne5lwwj5nfexu05lbv9wwud3ng1nv3duturbohzquexjadrzrwl2nljfblrjamlkb1htnmvnsvbolxfdce9smnpfazlrowvhvg1rmkcwclz2umi3dlhyb2vjb0y3lwjqy2fhduexx3vhblh3tu1paev0sdnftfziddetmvpmqjdyzzc0dvfzv2ixtenmaxdit09dwdhwajlrujzroxpxmxg4evq2nf9cs0xendbttknxcjdln3npcc1mwudvstdcb0plnvblvvllnvftm05tn0nzm1brdwsxa1nvwlm1avvjbexkz1f1unvix1zobxbqexhzwnznbw9dtjhaauo0zkrtlutbehflb1nytmnksw9nrdhizdboyi1uwkfvujrpewjgutliwwxzr2rtcg1adxdcselkvje1nulydtzodzbtd0fxq2fkdwvfmjrlaxn0ewu0ck94?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-09-21",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "AGRO",
+   "subcategory": "Agricultura",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 0.5,
+    "TECH": 0,
+    "BUSINESS": 0,
+    "MEXICO": 0.6666666666666666
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 37,
+    "priority": 37,
+    "base": 37,
+    "breakdown": {
+     "agro": 12.5,
+     "tech": 0,
+     "business": 0,
+     "mexico": 12,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 37,
+   "priority": 37,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-0c41693f",
+   "retrieved_at": "2026-09-22T12:20:17.023Z",
+   "ingested_via": "googlenews",
+   "title_original": "Digital Agriculture Market Size to Reach US$ 53.04 Billion by 2033 as AI and Precision Farming Adoption Accelerate",
+   "title_agrovision": "",
+   "source_name": "openPR.com",
+   "source_domain": "openpr.com",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUHBHZm0tQkNCSVNEZmlfallTZFFob3NQSDJDR1NGa25Od0FiUkpOZHlOQnUzSVp1SlBmekZRV3ljZ2NUMFhOY3pNeWNTRnNMZTd0bUhJMHZfZVVXZ2MtM2trWVRIVW5VM2RnR29rM0FwQmZkWWRfOWZ2dWxXUUZnS2hVU041WnBoMU1mTjJjc2s0eEJnaW5DUg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmimafbvv95cuxpuhbhzm0tqkncsvnezmlfalltzffob3nqsdjdr1nga25od0fiukpozhloqnuzsvp1slbmekzrv3ljz2numfhoy3pnewntrnnmztd0buhjmhzfzvvxz2mtm2trwvrivw5vm2rnr29rm0fwqmzkwwrfowz2dwxxuuzns2hvu041wnbomu1mtjjjc2s0eejnaw5dug?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-09-21",
+   "country": "Global",
+   "mx_state": null,
+   "category": "TECH",
+   "subcategory": "Agricultura de precisión",
+   "technologies": [
+    "Inteligencia Artificial",
+    "Agricultura de precisión",
+    "Software"
+   ],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "AGRO"
+   ],
+   "relevance": {
+    "AGRO": 0.5,
+    "TECH": 1,
+    "BUSINESS": 0.16666666666666666,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 68,
+    "priority": 68,
+    "base": 48,
+    "breakdown": {
+     "agro": 12.5,
+     "tech": 20,
+     "business": 3.3,
+     "mexico": 0,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {
+     "aplicacion_practica": 10,
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 68,
+   "priority": 68,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-a310a88b",
+   "retrieved_at": "2026-09-22T12:20:17.023Z",
+   "ingested_via": "rss",
+   "title_original": "‘Bring us your difficult trait problems’: Biographica, Hudson River partner on crop genome editing",
+   "title_agrovision": "",
+   "source_name": "AgFunderNews",
+   "source_domain": "agfundernews.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://agfundernews.com/bring-us-your-difficult-trait-problems-biographica-hudson-river-partner-on-crop-genome-editing",
+   "canonical_url": "https://agfundernews.com/bring-us-your-difficult-trait-problems-biographica-hudson-river-partner-on-crop-genome-editing",
+   "published_at": "2026-09-21",
+   "country": "Global",
+   "mx_state": null,
+   "category": "TECH",
+   "subcategory": "Biotecnología",
+   "technologies": [
+    "Inteligencia Artificial",
+    "Machine Learning",
+    "Software",
+    "Datos",
+    "Biotecnología"
+   ],
+   "companies": [],
+   "content": "The collaboration combines Biographica’s computational platform for identifying high-value gene targets and Hudson River’s genome editing tech\nUK startup Biographica and Dutch genome editing specialist Hudson River Biotechnology are partnering to take crop trait development from target discovery through to edited commercial varieties.\nThe collaboration combines Biographica’s computational platform for identifying high-value gene targets associated with traits from disease resistance to drought tolerance, with Hudson River’s genome-editing, transformation and regeneration capabilities.\nThe partners will initially focus on tomatoes before expanding into other crops.\n“Hudson River has deep expertise in genome editing, and to serve a wider variety of customers, they can leverage our predictive capabilities such that a customer can say ‘I have this trait problem, give me an edited variety to solve that,” Biographica cofounder Dominic Hall, PhD, told AgFunderNews .\nThrough the new model, he said, “We anticipate customers would approach Hudson River, which would then leverage Biographica’s predictive capabilities to nominate priority genes to generate edits for.”\nBiographica uses its platform to identify the genes associated with a desired trait, ranks them according to their likelihood of working in a particular crop, and designs the edits. Hudson River would then deploy those changes using its BioMaas editing and single-cell regeneration workflow.\nThe model is particularly useful where obvious genetic targets have already been exhausted, where there is insufficient data to identify a good target, or where companies need to work around existing intellectual property, said Hall, who cofounded Biographica in 2022 with Cecily Price.\nThe partnership does not necessarily target companies that lack their own discovery or transformation capabilities but gives breeders additional capacity to pursue projects outside their core programs.\n“It’s a case of bring us your most difficult trait problems,” said Hall. These could include “a trait problem where they don’t really have the data to solve it that well right now” or cases where a company is “blocked by existing patents and they need to find a way to generate traits that go around that.”\nUnder the commercial arrangement, a customer coming through Hudson River would remain Hudson River’s customer, while Hudson and Biographica would share costs behind the scenes and any upside generated by a project, said Hall.\n“Hudson River is one of very few companies that can edit crops as difficult as strawberry, transgene-free and at a scale our clients depend on. Put those together and a customer can bring us a trait problem and get the whole way to a plant, which is not something either of us could offer alone.”\n“ By bringing our capabilities together, we want to move genome editing beyond the obvious targets and unlock traits that breeding has not yet been able to crack .” Lotte Westerhof, CSO, Hudson River Biotechnology\nTo identify targets for edits, said Hall, many firms still rely on Genome-Wide Association Studies ( GWAS ) that scan the genomes of many plants and statistically link DNA variants to traits by analyzing which variants show up most often in plants with the trait.\nQuantitative Trait Loci ( QTL ) mapping, in turn, crosses plants with different traits and tracks how DNA regions and the trait are inherited together in offspring, which narrows down regions of the genome likely influencing the trait.\nThe challenge, said Hall, is that these approaches prove correlation, not causation, and do not prioritize or rank genetic targets or “hits.”\nBiographica’s platform, by contrast, deploys multi-modal machine learning to predict which genes are most influential, how they interact with others, and which are likely to be the best targets for gene editing with fewer unwanted side effects.\nAt the root of this are foundation models trained on multi-modal genomic datasets that capture both gene/gene and gene/trait interactions. The models then predict genes most likely to causally impact a trait and then design edits accordingly. Experimental results are then fed back into the models, delivering continuous improvement.\nIn addition to identifying novel genetic targets, Biographica is also pursuing complex edit design approaches. Rather than simply switching genes on or off through knockouts, for example, it is developing models designed to predict how genetic edits could alter gene expression in different tissues, contexts or in response to different stimuli.\nThis is enabling more nuanced engineering of so-called susceptibility genes that pathogens exploit to infect plants, but which can also play an important role in normal plant development, so knocking them out impose yield or developmental penalties.\nInstead, said Hall, “We ask can we modulate expression of these genes in specific contexts so we can reduce the susceptibility of the plant without having yield a penalty? That’s a core focus area for us at the moment.”\nWhile for many customers, a straightforward knockout may still be the most appropriate approach, Biographica and Hudson River are exploring this more advanced form of editing, including changes to regulatory DNA that controls when and where a gene is active, he added.\nFocusing on susceptibility genes (as opposed to resistance genes) could also provide more durable forms of disease resistance, said Hall, although he was careful not to make sweeping claims.\nIn addition to its partnership work with large clients such as BASF, Biographica is also working on trait development in-house, said Hall, who recently raised a £7 million ($9.5 million) seed round led by Faber VC.\n“In all cases, these bets will be guided by market pull. For these deep trait bets, as well as considering simple gene knock-outs, Biographica is also pursuing more complex and subtle edit design approaches. Given Hudson River’s established expertise in genome editing, as well as pursuing some transformation and editing work in-house, Biographica and HRB will be exploring these complex edit design approaches to bring the most promising and valuable traits to market.\nRight now, disease resistance is the strongest signal from breeders and other potential customers, he said. But there are also opportunities in crop quality and nutrition.\nExclusive: Spearhead Bio lands oversubscribed seed round for faster, more precise gene editing tech\nRainbow Crops raises $11.25m to scale AI-guided multiplex gene editing\nPairwise sees ‘dramatic uptick’ in CRISPR licensing as gene editing moves beyond row crops\nUpstream Biotechnology raises seed funding for ‘on-demand’ crop defense tech\n🎥 Can editing the ‘dark genome’ make crops more heat tolerant?",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "AGRO",
+    "BUSINESS"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 1,
+    "BUSINESS": 1,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 100,
+    "priority": 112,
+    "base": 82,
+    "breakdown": {
+     "agro": 25,
+     "tech": 20,
+     "business": 20,
+     "mexico": 0,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {
+     "impacto_economico": 10,
+     "aplicacion_practica": 10,
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 100,
+   "priority": 112,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?",
+    "Startup que debes conocer",
+    "¿Quién está invirtiendo?",
+    "¿Cuánto cuesta?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-f42d898d",
+   "retrieved_at": "2026-09-22T12:20:17.023Z",
+   "ingested_via": "rss",
+   "title_original": "xFarm Technologies’ acquisition of Sibium Analytics brings it closer to defining agriculture’s data layer",
+   "title_agrovision": "",
+   "source_name": "AgFunderNews",
+   "source_domain": "agfundernews.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://agfundernews.com/xfarm-technologies-acquisition-of-sibium-analytics-brings-it-closer-to-defining-agricultures-data-layer",
+   "canonical_url": "https://agfundernews.com/xfarm-technologies-acquisition-of-sibium-analytics-brings-it-closer-to-defining-agricultures-data-layer",
+   "published_at": "2026-09-21",
+   "country": "Global",
+   "mx_state": null,
+   "category": "TECH",
+   "subcategory": "Datos",
+   "technologies": [
+    "Inteligencia Artificial",
+    "Satélites",
+    "IoT",
+    "Sensores",
+    "Software",
+    "Datos"
+   ],
+   "companies": [],
+   "content": "The deal enhances xFarm’s existing supply chain intelligence solutions and opens the door to the sugarcane and biofuel industries.\nMuch of today’s available agricultural data tells farmers only what is happening on their fields; which crops are growing, whether plants are healthy, where pests are beginning to appear. While that answer has value, it only deals with the most surface-level information. Deeper insights, around land-use efficiency, proving sustainability practices, and tracing a crop through the supply chain, remain out of reach for most farmers, buried in paperwork, scattered across disconnected systems, or simply invisible.\nxFarm Technologies has spent the past several years trying to change that. Founded by Matteo Vanotti and Matteo Cunial, both with roots in farming, the company built a platform to collect, organize, and put to work every layer of data a modern agricultural operation generates.\nToday, the platform serves more than 600,000 farmers across Europe, Brazil, and India, managing 24 million hectares of farmland.\nThe company’s latest move, the acquisition of Brazil-based Sibium Analytics , adds not only another 8 million hectares to its footprint but also a new set of capabilities xFarm believes will become central to how global agriculture gets measured, financed, and traded.\nVanotti says the company’s goal is to build “the data layer of global agriculture.” In practice, this means the ability to connect primary field data with satellite remote sensing, supply chain tracking, and compliance reporting. The system delivers all of this information through a single interface that a farmer, an agronomist, a food company, or a biofuel auditor can actually use.\nThat multi-layer approach has become the company’s defining characteristic. At the field level, xFarm collects data through IoT sensors, machinery integrations, and direct farmer input. A second layer draws in remote sensing from satellites; crop mapping, biomass analysis, yield estimation, that enriches what ground-level data alone cannot tell. A third layer turns all of that into actionable intelligence: crop-specific advice, irrigation scheduling, pest alerts, and real-time compliance monitoring across regulatory and supply-chain frameworks simultaneously.\nThe interface itself, Vanotti stresses, must be a straightforward experience for any user. The company recently launched an AI agent that lets farmers interact with the platform in plain language and via the app or directly through WhatsApp. Ask the agent which field to irrigate and it can respond: put 10 millimeters of water on that field at eight o’clock tomorrow. No dashboards to navigate, no tables to interpret.\nxFarm has completed six acquisitions over the past four years, each adding a new geography, a new crop segment, or a new technical capability. The Sibium deal addresses all three areas at once.\nSibium Analytics is one of Brazil’s leading agtech companies in the sugarcane sector, working with nine of the country’s largest producers and monitoring more than 8 million hectares annually.\nThat scale matters because Brazil’s sugarcane industry is immense: the country produces roughly half of the world’s sugarcane, exports to 145 countries, and is the world’s largest producer of sugarcane ethanol. For xFarm, which was already number one in Brazilian cotton and well-established in corn, sugar beet, and coffee, the acquisition completes its major crop coverage in what has become its second-largest market.\nBut the strategic logic goes beyond filling a gap on a crop map. Sibium has built three products (SIGMA for Crop Monitoring, AMBIUM for ESG Audits, and DATA VIEW for analytics) that xFarm intends to deploy to its existing client base across Brazil and Europe.\nTogether, these three products enhance xFarm’s existing supply chain intelligence solutions. With Sibium integrated, the platform can follow a crop from the moment it is planted, through harvest, processing, and certification, to the point where a buyer needs to verify its provenance and environmental profile. That end-to-end traceability is precisely what regulators, food companies, and increasingly, financial institutions are beginning to require.\nOne aspect of the Sibium deal that sets it apart from a conventional agtech acquisition is the biofuels exposure it creates. Brazil’s sugarcane ethanol industry is not a niche market: roughly 80 percent of ethanol produced in the country comes from sugarcane, which also generates bioelectricity for the national grid. New regulations expected in 2027 will significantly increase documentation requirements for biofuel producers, creating demand for the kind of audit-ready data trail that Sibium’s platforms are built to generate.\n“If you want to sell biofuel, you need more and more documentation and data,” Vanotti says. “That is a business that is increasing.”\nxFarm intends to take those capabilities into other sugarcane markets; India, Thailand, and others, and to expand the bioenergy offering into adjacent areas. In Europe, the company is watching biogas and biomethane closely as the regulatory environment tightens around fuel sustainability, while it already works with key players in the Agrivoltaic and Solar panel business.\nThe Sibium deal is the second Brazil acquisition xFarm has completed in two years, and Vanotti says this pace will continue, both in existing geographies and, eventually, further afield.\nAgriculture’s data market remains highly fragmented: local champions dominate individual countries, crop segments, and supply chain niches, and the regulatory complexity of each market means there is no simple global rollout. Acquisitions, when coupled with strong organic growth, accelerate this global expansion.\nWith more than 24 million hectares now under management, the company believes it has reached the scale at which its data advantage becomes self-reinforcing. More hectares mean richer training data for its agronomic models, more precise recommendations for its farmers, and a stronger value proposition for food companies and financial institutions looking for a single window into global agricultural supply chains. The addition of BlackRock as an institutional backer for this operation suggests that the consolidation strategy is drawing interest from well beyond the sector’s usual investor base.\nFor a platform that started because two farmers could not keep up with their own paperwork, that may be the most striking signal of how far the data layer has come.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "AGRO",
+    "BUSINESS"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 1,
+    "BUSINESS": 1,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [
+    "agv-f6976a0f"
+   ],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 100,
+    "priority": 122,
+    "base": 82,
+    "breakdown": {
+     "agro": 25,
+     "tech": 20,
+     "business": 20,
+     "mexico": 0,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {
+     "impacto_economico": 10,
+     "afecta_productores": 10,
+     "aplicacion_practica": 10,
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 100,
+   "priority": 122,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?",
+    "¿Quién está invirtiendo?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-5e9d353a",
+   "retrieved_at": "2026-09-22T12:20:17.023Z",
+   "ingested_via": "rss",
+   "title_original": "Oferta de maíz blanco en México aumentó 8.7% para el ciclo 2025-26, respecto al período anterior",
+   "title_agrovision": "",
+   "source_name": "Imagen Agropecuaria",
+   "source_domain": "imagenagropecuaria.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://imagenagropecuaria.com/2026/oferta-de-maiz-blanco-en-mexico-aumento-8-7-para-el-ciclo-2025-26-respecto-al-periodo-anterior/",
+   "canonical_url": "https://imagenagropecuaria.com/2026/oferta-de-maiz-blanco-en-mexico-aumento-8-7-para-el-ciclo-2025-26-respecto-al-periodo-anterior",
+   "published_at": "2026-09-22",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "AGRO",
+   "subcategory": "Agricultura",
+   "technologies": [],
+   "companies": [],
+   "content": "En México, para el ciclo mercantil 2025/26, se estima una oferta total de maíz blanco –principal insumo para la tortilla– de 24.5 millones de toneladas (t), es decir, 8.7% más con respecto al ciclo anterior, equivalente a cerca de 2 millones de t adicionales, reporta un análisis de la Dirección General del Servicio de Información &hellip;\nEn México, para el ciclo mercantil 2025/26, se estima una oferta total de maíz blanco –principal insumo para la tortilla– de 24.5 millones de toneladas (t), es decir, 8.7% más con respecto al ciclo anterior, equivalente a cerca de 2 millones de t adicionales, reporta un análisis de la Dirección General del Servicio de Información Agroalimentaria y Pesquera (DGSIAP).\nEl organismo dependiente de la Secretaría de Agricultura y Desarrollo Rural (Sader) indica que con corte al 21 de agosto, el inventario inicial se ubica en 1.6 millones de t, con lo cual se posiciona 28% por encima del registrado en el ciclo 2024/25.\nPara el ciclo 2025/26 –que abarca de octubre del año pasado a septiembre del presente año– la producción nacional de maíz blanco se estima en 22 millones de t, que significa 7.8% superior al del ciclo anterior, lo cual equivalente a 1.6 millones de t adicionales, de acuerdo con la DGSIAP.\nEl análisis explica que la mayor disponibilidad interna de maíz blanco para este periodo, “está apoyada por el incremento de la producción y por la recuperación de las precipitaciones y de los niveles de almacenamiento en presas de uso agrícola”.\nHace hincapié en que de la producción total esperada, 19 millones 382 t se destinan al consumo humano, mientras que un millón 844 mil t para el sector pecuario.\nLa dependencia asegura que también para el ciclo otoño-invierno 2026, el aumento en los niveles de almacenamiento de las presas de uso agrícola amplían las condiciones para la siembra.\nReporta que a junio de 2026, la superficie sembrada alcanzó 903 mil hectáreas, 9.4% más que en el ciclo otoño-invierno 2025, mientras que la producción se estima en 4.7 millones de t, 22% superior al ciclo previo.\nEn su análisis de la DGSIAP hace referencia que en el entorno externo, el Departamento de Agricultura de Estados Unidos (USDA, por sus siglas en inglés) estima una producción mundial de maíz grano de mil 330 millones de t para el ciclo 2025/26, 7.8% superior a la del ciclo anterior.\n“Este nivel de disponibilidad internacional constituye el principal elemento externo considerado para contextualizar el mercado nacional”.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "BUSINESS",
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 0,
+    "BUSINESS": 0.6666666666666666,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 80,
+    "priority": 80,
+    "base": 70,
+    "breakdown": {
+     "agro": 25,
+     "tech": 0,
+     "business": 13.3,
+     "mexico": 15,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {
+     "impacto_economico": 10
+    },
+    "penalties": {}
+   },
+   "score": 80,
+   "priority": 80,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-c30b1bb6",
+   "retrieved_at": "2026-09-22T12:20:17.023Z",
+   "ingested_via": "rss",
+   "title_original": "Marginal el aumento al maíz, no tiene porque repercutir en precio de la tortilla: Sader",
+   "title_agrovision": "",
+   "source_name": "Imagen Agropecuaria",
+   "source_domain": "imagenagropecuaria.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://imagenagropecuaria.com/2026/marginal-el-aumento-al-maiz-no-tiene-porque-repercutir-en-precio-de-la-tortilla-sader/",
+   "canonical_url": "https://imagenagropecuaria.com/2026/marginal-el-aumento-al-maiz-no-tiene-porque-repercutir-en-precio-de-la-tortilla-sader",
+   "published_at": "2026-09-21",
+   "country": "México",
+   "mx_state": "Veracruz",
+   "category": "BUSINESS",
+   "subcategory": "Precios",
+   "technologies": [],
+   "companies": [],
+   "content": "La Secretaría de Agricultura y Desarrollo Rural (Sader) señaló que el reciente aumento del 6% a la tonelada de maíz repercute “de manera marginal” en el precio de la tortilla, es decir, en solo 28 centavos por kilo, por lo que este alimento básico no tiene porque subir y existen inventarios suficientes del grano para &hellip;\nLa Secretaría de Agricultura y Desarrollo Rural (Sader) señaló que el reciente aumento del 6% a la tonelada de maíz repercute “de manera marginal” en el precio de la tortilla, es decir, en solo 28 centavos por kilo, por lo que este alimento básico no tiene porque subir y existen inventarios suficientes del grano para este y el siguiente año.\nEn una reunión con representantes de la industria de la masa y la tortilla, la titular de la Secretaría de Agricultura y Desarrollo Rural (Sader), Columba López Gutiérrez, informó que el precio del maíz blanco para tortilla para consumo humano está en 6 mil pesos por tonelada y subrayó que “el maíz está garantizado, no tiene porque subir, tenemos suficiente maíz para este y el siguiente año”.\nLa Sader indicó en un comunicado que “no existen motivos que justifiquen un incremento en el precio de este alimento básico”, dado que el ajuste del 6 por ciento —equivalente a 400 pesos— en el precio de la tonelada del grano en el último mes, debido a factores estacionales de oferta y demanda, tiene un impactó bajo en el precio del kilo de tortilla.\nLa depedencia explicó que “en el proceso tradicional de nixtamalización se pueden obtener 1.8 toneladas de masa, con las cuales se producen cerca de 1.45 toneladas de tortilla. Esto significa que para elaborar una tonelada de tortilla se requieren, en promedio, únicamente 700 kilogramos del grano básico”.\nIndicó que “el maíz representa al menos el 34 por ciento del costo total de elaboración de un kilogramo de tortilla. Por lo tanto, un incremento de 100 pesos en la tonelada de maíz impacta solamente en siete centavos el precio por kilogramo; de este modo, el ajuste de 400 pesos repercute de manera marginal en solo 28 centavos por kilo”.\nEsta cifra, subrayó, “resulta poco significativa en el balance operativo de la industria, al considerar que un establecimiento promedio —que produce 250 kilogramos al día— obtiene una utilidad estimada de 59 centavos por cada peso invertido”.\nLa Sader refirió que al corte del 21 de septiembre, el Sistema Nacional de Información e Integración de Mercados (SNIIM) —de la Secretaría de Economía— reportó un precio promedio por kilogramo de tortilla de 14.59 pesos en tiendas de autoservicio del país. Mientras tanto, en tortillerías tradicionales se ubica entre los 16 y 17 pesos —principalmente en Xalapa, Veracruz; Puebla y Tlaxcala—, con un promedio nacional de 24.52 pesos.\nColumba López Gutiérrez hizo un llamado, a través de un video en sus redes sociales, a “todos aquellos que tengan una tortillería formal o informal les pedimos que se acerquen a los Cader (Centros de Apoyo al Desarrollo Rural) de la Sader y se adhieran al acuerdo para este precio del maíz blanco”.\nLa dependencia también destacó que la cosecha nacional del ciclo agrícola primavera-verano 2026 ya ha comenzado,” lo que aumentará de forma sustancial la disponibilidad del grano en el mercado nacional y estabilizará los costos en muy corto plazo”.\nHizo énfasis en que del Sistema de Ordenamiento de la Producción y Comercialización del Maíz Blanco “Precio Justo”, impulsado por la administración de la Presidenta Claudia Sheinbaum, “tiene el objetivo central de eliminar la intermediación injustificada para que la industria adquiera el grano directamente en las bodegas ubicadas en el campo”.\nEsta medida asegurará precios estables, combatirá la especulación y protegerá el bolsillo de los consumidores”.\nCon esta estrategia, recalcó la Sader, “el Gobierno de México refrenda su compromiso de garantizar el abasto de maíz blanco, proteger la economía de las familias y fortalecer la soberanía alimentaria, al tiempo que procura condiciones de comercialización justas para las y los productores del campo mexicano”",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "AGRO",
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 0,
+    "BUSINESS": 1,
+    "MEXICO": 1
+   },
+   "duplicate_of": "agv-7aa5c46f",
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 67,
+    "priority": 67,
+    "base": 77,
+    "breakdown": {
+     "agro": 25,
+     "tech": 0,
+     "business": 20,
+     "mexico": 15,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {
+     "impacto_economico": 10,
+     "afecta_productores": 10
+    },
+    "penalties": {
+     "duplicado": -30
+    }
+   },
+   "score": 67,
+   "priority": 67,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "¿Cuánto cuesta?",
+    "El negocio detrás del campo"
+   ],
+   "suggested_content": [],
+   "interview_ideas": [
+    "Voz local: productor(a) u organización de Veracruz sobre cómo les afecta este tema."
+   ]
   }
  ],
  "sources": [
@@ -20954,7 +22301,7 @@
    "tier": 2,
    "type": "secondary",
    "kind": "medio_especializado",
-   "article_count": 14
+   "article_count": 17
   },
   {
    "domain": "cimmyt.org",
@@ -21002,7 +22349,7 @@
    "tier": 2,
    "type": "secondary",
    "kind": "medio_especializado",
-   "article_count": 50
+   "article_count": 52
   },
   {
    "domain": "agriculteca.com",
@@ -21411,6 +22758,70 @@
    "type": "secondary",
    "kind": "desconocido",
    "article_count": 1
+  },
+  {
+   "domain": "elcomentario.ucol.mx",
+   "name": "El Comentario",
+   "tier": 0,
+   "type": "secondary",
+   "kind": "desconocido",
+   "article_count": 1
+  },
+  {
+   "domain": "tiempo.com.mx",
+   "name": "Tiempo La Noticia Digital",
+   "tier": 0,
+   "type": "secondary",
+   "kind": "desconocido",
+   "article_count": 1
+  },
+  {
+   "domain": "evynchihuahua.com",
+   "name": "EVyN Chihuahua",
+   "tier": 0,
+   "type": "secondary",
+   "kind": "desconocido",
+   "article_count": 1
+  },
+  {
+   "domain": "eldiariodechihuahua.mx",
+   "name": "El Diario de Chihuahua",
+   "tier": 0,
+   "type": "secondary",
+   "kind": "desconocido",
+   "article_count": 1
+  },
+  {
+   "domain": "notigram.com",
+   "name": "Notigram",
+   "tier": 0,
+   "type": "secondary",
+   "kind": "desconocido",
+   "article_count": 1
+  },
+  {
+   "domain": "mvsnoticias.com",
+   "name": "MVS Noticias",
+   "tier": 0,
+   "type": "secondary",
+   "kind": "desconocido",
+   "article_count": 1
+  },
+  {
+   "domain": "elimparcial-elimparcial-prod.web.arc-cdn.net",
+   "name": "elimparcial-elimparcial-prod.web.arc-cdn.net",
+   "tier": 0,
+   "type": "secondary",
+   "kind": "desconocido",
+   "article_count": 1
+  },
+  {
+   "domain": "openpr.com",
+   "name": "openPR.com",
+   "tier": 0,
+   "type": "secondary",
+   "kind": "desconocido",
+   "article_count": 1
   }
  ],
  "topics": [
@@ -21577,8 +22988,8 @@
    "id": "ia-agricola",
    "label": "IA agrícola",
    "score": 99,
-   "mentions": 44,
-   "recent": 32,
+   "mentions": 47,
+   "recent": 35,
    "prior": 7,
    "direction": "creciendo",
    "source_kinds": [
@@ -21634,16 +23045,19 @@
     "agv-9b72e9e0",
     "agv-237dfe6d",
     "agv-75b47020",
-    "agv-1f87f1be"
+    "agv-1f87f1be",
+    "agv-0c41693f",
+    "agv-a310a88b",
+    "agv-f42d898d"
    ],
-   "computed_at": "2026-09-22T00:11:00.518Z"
+   "computed_at": "2026-09-22T12:20:17.023Z"
   },
   {
    "id": "riego-inteligente",
    "label": "Riego y agua",
    "score": 99,
-   "mentions": 33,
-   "recent": 24,
+   "mentions": 38,
+   "recent": 29,
    "prior": 4,
    "direction": "creciendo",
    "source_kinds": [
@@ -21686,16 +23100,21 @@
     "agv-9c982826",
     "agv-ef6b3f14",
     "agv-caf470f5",
-    "agv-1de47408"
+    "agv-1de47408",
+    "agv-476a4f03",
+    "agv-7454d4ad",
+    "agv-a310a88b",
+    "agv-f42d898d",
+    "agv-5e9d353a"
    ],
-   "computed_at": "2026-09-22T00:11:00.518Z"
+   "computed_at": "2026-09-22T12:20:17.023Z"
   },
   {
    "id": "agricultura-digital",
    "label": "Agricultura digital y datos",
    "score": 98,
-   "mentions": 58,
-   "recent": 40,
+   "mentions": 61,
+   "recent": 43,
    "prior": 13,
    "direction": "creciendo",
    "source_kinds": [
@@ -21765,16 +23184,19 @@
     "agv-edc357f6",
     "agv-8481957e",
     "agv-b3ba7ccb",
-    "agv-c4d0e41b"
+    "agv-c4d0e41b",
+    "agv-0c41693f",
+    "agv-a310a88b",
+    "agv-f42d898d"
    ],
-   "computed_at": "2026-09-22T00:11:00.518Z"
+   "computed_at": "2026-09-22T12:20:17.023Z"
   },
   {
    "id": "maiz",
    "label": "Maíz y granos",
    "score": 98,
-   "mentions": 29,
-   "recent": 17,
+   "mentions": 36,
+   "recent": 24,
    "prior": 6,
    "direction": "creciendo",
    "source_kinds": [
@@ -21814,16 +23236,23 @@
     "agv-7ddbccee",
     "agv-a279a8f6",
     "agv-1ee9131e",
-    "agv-e5654e4e"
+    "agv-e5654e4e",
+    "agv-9f4e4c43",
+    "agv-7aa5c46f",
+    "agv-8c7d6250",
+    "agv-1c3ff2b4",
+    "agv-0cef3fe7",
+    "agv-f42d898d",
+    "agv-5e9d353a"
    ],
-   "computed_at": "2026-09-22T00:11:00.518Z"
+   "computed_at": "2026-09-22T12:20:17.023Z"
   },
   {
    "id": "biotecnologia",
    "label": "Biotecnología y semillas",
    "score": 97,
-   "mentions": 26,
-   "recent": 16,
+   "mentions": 27,
+   "recent": 17,
    "prior": 7,
    "direction": "creciendo",
    "source_kinds": [
@@ -21859,9 +23288,10 @@
     "agv-edc357f6",
     "agv-7ddbccee",
     "agv-1f87f1be",
-    "agv-a279a8f6"
+    "agv-a279a8f6",
+    "agv-a310a88b"
    ],
-   "computed_at": "2026-09-22T00:11:00.518Z"
+   "computed_at": "2026-09-22T12:20:17.023Z"
   },
   {
    "id": "fertilizantes",
@@ -21894,7 +23324,7 @@
     "agv-60b5e9e3",
     "agv-8481957e"
    ],
-   "computed_at": "2026-09-22T00:11:00.518Z"
+   "computed_at": "2026-09-22T12:20:17.023Z"
   },
   {
    "id": "drones",
@@ -21926,7 +23356,7 @@
     "agv-2d272dbb",
     "agv-467a2802"
    ],
-   "computed_at": "2026-09-22T00:11:00.518Z"
+   "computed_at": "2026-09-22T12:20:17.023Z"
   },
   {
    "id": "sanidad",
@@ -21955,14 +23385,14 @@
     "agv-b3ba7ccb",
     "agv-4bc65a5d"
    ],
-   "computed_at": "2026-09-22T00:11:00.518Z"
+   "computed_at": "2026-09-22T12:20:17.023Z"
   },
   {
    "id": "inversion-agtech",
    "label": "Inversión AgTech",
-   "score": 81,
-   "mentions": 45,
-   "recent": 26,
+   "score": 82,
+   "mentions": 47,
+   "recent": 28,
    "prior": 17,
    "direction": "creciendo",
    "source_kinds": [
@@ -22016,9 +23446,11 @@
     "agv-237dfe6d",
     "agv-3176805c",
     "agv-8a4a260c",
-    "agv-e5654e4e"
+    "agv-e5654e4e",
+    "agv-a310a88b",
+    "agv-f42d898d"
    ],
-   "computed_at": "2026-09-22T00:11:00.518Z"
+   "computed_at": "2026-09-22T12:20:17.023Z"
   },
   {
    "id": "robotica",
@@ -22065,7 +23497,7 @@
     "agv-8a4a260c",
     "agv-099fc325"
    ],
-   "computed_at": "2026-09-22T00:11:00.518Z"
+   "computed_at": "2026-09-22T12:20:17.023Z"
   },
   {
    "id": "comercio-tmec",
@@ -22096,7 +23528,7 @@
     "agv-e5c3a613",
     "agv-b3ba7ccb"
    ],
-   "computed_at": "2026-09-22T00:11:00.518Z"
+   "computed_at": "2026-09-22T12:20:17.023Z"
   },
   {
    "id": "precios-alimentos",
@@ -22116,7 +23548,7 @@
     "agv-52a0be98",
     "agv-943d446b"
    ],
-   "computed_at": "2026-09-22T00:11:00.518Z"
+   "computed_at": "2026-09-22T12:20:17.023Z"
   }
  ],
  "companies": [
@@ -23150,7 +24582,10 @@
     "agv-75b47020",
     "agv-edc357f6",
     "agv-1f87f1be",
-    "agv-1ee9131e"
+    "agv-1ee9131e",
+    "agv-0c41693f",
+    "agv-a310a88b",
+    "agv-f42d898d"
    ]
   },
   {
@@ -23205,7 +24640,9 @@
     "agv-edc357f6",
     "agv-8481957e",
     "agv-b3ba7ccb",
-    "agv-c4d0e41b"
+    "agv-c4d0e41b",
+    "agv-a310a88b",
+    "agv-f42d898d"
    ]
   },
   {
@@ -23254,7 +24691,10 @@
     "agv-67be9508",
     "agv-237dfe6d",
     "agv-75b47020",
-    "agv-1f87f1be"
+    "agv-1f87f1be",
+    "agv-0c41693f",
+    "agv-a310a88b",
+    "agv-f42d898d"
    ]
   },
   {
@@ -23321,7 +24761,8 @@
     "agv-edc357f6",
     "agv-7ddbccee",
     "agv-1f87f1be",
-    "agv-a279a8f6"
+    "agv-a279a8f6",
+    "agv-a310a88b"
    ]
   },
   {
@@ -23380,7 +24821,8 @@
     "agv-ced5838d",
     "agv-1ee00262",
     "agv-29ac2a62",
-    "agv-8cb36837"
+    "agv-8cb36837",
+    "agv-0c41693f"
    ]
   },
   {
@@ -23394,7 +24836,8 @@
     "agv-9d121aa4",
     "agv-8cb36837",
     "agv-237dfe6d",
-    "agv-4de4c781"
+    "agv-4de4c781",
+    "agv-f42d898d"
    ]
   },
   {
@@ -23406,7 +24849,30 @@
     "agv-f6976a0f",
     "agv-f08f7330",
     "agv-773739ab",
-    "agv-61d7e381"
+    "agv-61d7e381",
+    "agv-f42d898d"
+   ]
+  },
+  {
+   "id": "iot",
+   "name": "IoT",
+   "article_ids": [
+    "agv-2b4420f8",
+    "agv-ce7aae71",
+    "agv-f6976a0f",
+    "agv-773739ab",
+    "agv-f42d898d"
+   ]
+  },
+  {
+   "id": "machine-learning",
+   "name": "Machine Learning",
+   "article_ids": [
+    "agv-2b4420f8",
+    "agv-2bfff340",
+    "agv-f533ff5b",
+    "agv-9b72e9e0",
+    "agv-a310a88b"
    ]
   },
   {
@@ -23417,26 +24883,6 @@
     "agv-2b4420f8",
     "agv-ce7aae71",
     "agv-cc6d0995"
-   ]
-  },
-  {
-   "id": "iot",
-   "name": "IoT",
-   "article_ids": [
-    "agv-2b4420f8",
-    "agv-ce7aae71",
-    "agv-f6976a0f",
-    "agv-773739ab"
-   ]
-  },
-  {
-   "id": "machine-learning",
-   "name": "Machine Learning",
-   "article_ids": [
-    "agv-2b4420f8",
-    "agv-2bfff340",
-    "agv-f533ff5b",
-    "agv-9b72e9e0"
    ]
   },
   {
@@ -23651,6 +25097,16 @@
    ]
   },
   {
+   "id": "precios",
+   "name": "Precios",
+   "article_ids": [
+    "agv-f4f3100f",
+    "agv-9f4e4c43",
+    "agv-7aa5c46f",
+    "agv-8c7d6250"
+   ]
+  },
+  {
    "id": "inversion",
    "name": "Inversión",
    "article_ids": [
@@ -23684,13 +25140,6 @@
    "article_ids": [
     "agv-0177d6c1",
     "agv-66097959"
-   ]
-  },
-  {
-   "id": "precios",
-   "name": "Precios",
-   "article_ids": [
-    "agv-f4f3100f"
    ]
   },
   {
@@ -23791,7 +25240,10 @@
     "agv-1ee9131e",
     "agv-43499775",
     "agv-11c0ecaf",
-    "agv-099fc325"
+    "agv-099fc325",
+    "agv-0c41693f",
+    "agv-a310a88b",
+    "agv-f42d898d"
    ]
   },
   {
@@ -23866,7 +25318,16 @@
     "agv-9c982826",
     "agv-ef6b3f14",
     "agv-caf470f5",
-    "agv-1de47408"
+    "agv-1de47408",
+    "agv-9f4e4c43",
+    "agv-476a4f03",
+    "agv-7aa5c46f",
+    "agv-7454d4ad",
+    "agv-7bcc7ab5",
+    "agv-8c7d6250",
+    "agv-1c3ff2b4",
+    "agv-0cef3fe7",
+    "agv-5e9d353a"
    ]
   },
   {
@@ -23937,7 +25398,15 @@
     "agv-673aa45e",
     "agv-dcef31d4",
     "agv-9c982826",
-    "agv-ef6b3f14"
+    "agv-ef6b3f14",
+    "agv-9f4e4c43",
+    "agv-476a4f03",
+    "agv-7aa5c46f",
+    "agv-7bcc7ab5",
+    "agv-8c7d6250",
+    "agv-1c3ff2b4",
+    "agv-0cef3fe7",
+    "agv-5e9d353a"
    ]
   },
   {
@@ -23952,7 +25421,8 @@
     "agv-b3ba7ccb",
     "agv-f4997ba5",
     "agv-28f4575e",
-    "agv-1de47408"
+    "agv-1de47408",
+    "agv-7454d4ad"
    ]
   },
   {
@@ -26005,15 +27475,25 @@
    "id": "summary-2026-09-22T00:11:00.518Z",
    "type": "summary",
    "at": "2026-09-22T00:11:01.751Z"
+  },
+  {
+   "id": "daily-2026-09-22T12:20:17.023Z",
+   "type": "daily",
+   "at": "2026-09-22T12:21:27.055Z",
+   "added": 13,
+   "skipped": 411,
+   "feeds_ok": 17,
+   "feeds_failed": 3,
+   "duplicates": 4
   }
  ],
  "meta": {
   "schema_version": 1,
   "created_at": "2026-09-19T15:08:14.372Z",
-  "updated_at": "2026-09-22T00:11:01.751Z",
+  "updated_at": "2026-09-22T12:21:27.055Z",
   "counts": {
-   "articles": 167,
-   "sources": 64,
+   "articles": 180,
+   "sources": 72,
    "topics": 12,
    "trends": 12,
    "companies": 111,
@@ -26027,7 +27507,7 @@
    "saved_articles": 0,
    "newsletter_issues": 1,
    "social_posts": 0,
-   "runs": 11
+   "runs": 12
   }
  }
 }
