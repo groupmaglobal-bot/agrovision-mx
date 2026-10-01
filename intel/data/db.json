@@ -33658,7 +33658,7 @@
     "agv-def5707f",
     "agv-2e6f2f66"
    ],
-   "computed_at": "2026-09-30T18:07:13.219Z"
+   "computed_at": "2026-10-01T00:12:37.831Z"
   },
   {
    "id": "maiz",
@@ -33733,7 +33733,7 @@
     "agv-899ebcb8",
     "agv-24650630"
    ],
-   "computed_at": "2026-09-30T18:07:13.219Z"
+   "computed_at": "2026-10-01T00:12:37.831Z"
   },
   {
    "id": "ia-agricola",
@@ -33821,7 +33821,7 @@
     "agv-9e3efc2a",
     "agv-940127de"
    ],
-   "computed_at": "2026-09-30T18:07:13.219Z"
+   "computed_at": "2026-10-01T00:12:37.831Z"
   },
   {
    "id": "biotecnologia",
@@ -33882,7 +33882,7 @@
     "agv-2e6f2f66",
     "agv-24650630"
    ],
-   "computed_at": "2026-09-30T18:07:13.219Z"
+   "computed_at": "2026-10-01T00:12:37.831Z"
   },
   {
    "id": "agricultura-digital",
@@ -33988,7 +33988,7 @@
     "agv-4a7defb9",
     "agv-22e6e709"
    ],
-   "computed_at": "2026-09-30T18:07:13.219Z"
+   "computed_at": "2026-10-01T00:12:37.831Z"
   },
   {
    "id": "sanidad",
@@ -34031,7 +34031,7 @@
     "agv-2e6f2f66",
     "agv-5015f95d"
    ],
-   "computed_at": "2026-09-30T18:07:13.219Z"
+   "computed_at": "2026-10-01T00:12:37.831Z"
   },
   {
    "id": "fertilizantes",
@@ -34071,7 +34071,7 @@
     "agv-2f7f475b",
     "agv-9db008e3"
    ],
-   "computed_at": "2026-09-30T18:07:13.219Z"
+   "computed_at": "2026-10-01T00:12:37.831Z"
   },
   {
    "id": "drones",
@@ -34108,7 +34108,7 @@
     "agv-6bef4b01",
     "agv-73c35ea8"
    ],
-   "computed_at": "2026-09-30T18:07:13.219Z"
+   "computed_at": "2026-10-01T00:12:37.831Z"
   },
   {
    "id": "inversion-agtech",
@@ -34185,7 +34185,7 @@
     "agv-9e3efc2a",
     "agv-22e6e709"
    ],
-   "computed_at": "2026-09-30T18:07:13.219Z"
+   "computed_at": "2026-10-01T00:12:37.831Z"
   },
   {
    "id": "robotica",
@@ -34239,7 +34239,7 @@
     "agv-73c35ea8",
     "agv-2e6f2f66"
    ],
-   "computed_at": "2026-09-30T18:07:13.219Z"
+   "computed_at": "2026-10-01T00:12:37.831Z"
   },
   {
    "id": "comercio-tmec",
@@ -34275,7 +34275,7 @@
     "agv-5abd267f",
     "agv-2e6f2f66"
    ],
-   "computed_at": "2026-09-30T18:07:13.219Z"
+   "computed_at": "2026-10-01T00:12:37.831Z"
   },
   {
    "id": "precios-alimentos",
@@ -34295,7 +34295,7 @@
     "agv-52a0be98",
     "agv-943d446b"
    ],
-   "computed_at": "2026-09-30T18:07:13.219Z"
+   "computed_at": "2026-10-01T00:12:37.831Z"
   }
  ],
  "companies": [
@@ -38717,12 +38717,17 @@
     "biotecnologia",
     "agricultura-digital"
    ]
+  },
+  {
+   "id": "summary-2026-10-01T00:12:37.831Z",
+   "type": "summary",
+   "at": "2026-10-01T00:12:39.772Z"
   }
  ],
  "meta": {
   "schema_version": 1,
   "created_at": "2026-09-19T15:08:14.372Z",
-  "updated_at": "2026-09-30T18:07:15.227Z",
+  "updated_at": "2026-10-01T00:12:39.772Z",
   "counts": {
    "articles": 278,
    "sources": 109,
@@ -38739,7 +38744,7 @@
    "saved_articles": 0,
    "newsletter_issues": 2,
    "social_posts": 0,
-   "runs": 38
+   "runs": 39
   }
  }
 }
