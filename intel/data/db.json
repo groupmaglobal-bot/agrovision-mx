@@ -25803,7 +25803,8 @@
     "agv-8b5ebe5b",
     "agv-24650630",
     "agv-9f4e4c43",
-    "agv-8c7d6250"
+    "agv-8c7d6250",
+    "agv-d5901c3a"
    ],
    "verification": {
     "evidence": "ALTO",
@@ -27772,7 +27773,8 @@
    },
    "duplicate_of": null,
    "related_ids": [
-    "agv-940127de"
+    "agv-940127de",
+    "agv-2bbbed25"
    ],
    "verification": {
     "evidence": "ALTO",
@@ -29751,12 +29753,13 @@
    },
    "duplicate_of": null,
    "related_ids": [
+    "agv-ec991a6c",
     "agv-d8b3ff2f",
     "agv-0c41693f"
    ],
    "verification": {
-    "evidence": "MEDIO",
-    "computed_evidence": "MEDIO",
+    "evidence": "ALTO",
+    "computed_evidence": "ALTO",
     "status": "VERIFICADO",
     "source_role": "fuente secundaria",
     "corroborations": [
@@ -29767,11 +29770,19 @@
       "type": "secondary",
       "via": "relacionado",
       "item_id": "agv-d8b3ff2f"
+     },
+     {
+      "name": "Future Farming",
+      "url": "https://www.futurefarming.com/smart-farming/field-validation-pushes-precision-farming-technology-closer-to-commercial-use/",
+      "tier": 2,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-ec991a6c"
      }
     ],
     "warnings": []
    },
-   "evidence": "MEDIO",
+   "evidence": "ALTO",
    "scoring": {
     "score": 52,
     "priority": 52,
@@ -29965,7 +29976,8 @@
    "duplicate_of": null,
    "related_ids": [
     "agv-8b5ebe5b",
-    "agv-243ad80c"
+    "agv-243ad80c",
+    "agv-d5901c3a"
    ],
    "verification": {
     "evidence": "ALTO",
@@ -29986,15 +29998,15 @@
    },
    "evidence": "ALTO",
    "scoring": {
-    "score": 42,
-    "priority": 42,
-    "base": 32,
+    "score": 39,
+    "priority": 39,
+    "base": 29,
     "breakdown": {
      "agro": 8.3,
      "tech": 0,
      "business": 0,
      "mexico": 12,
-     "recency": 10,
+     "recency": 7,
      "source": 2
     },
     "bonuses": {
@@ -30002,8 +30014,8 @@
     },
     "penalties": {}
    },
-   "score": 42,
-   "priority": 42,
+   "score": 39,
+   "priority": 39,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -30406,15 +30418,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 100,
-    "priority": 102,
-    "base": 82,
+    "score": 99,
+    "priority": 99,
+    "base": 79,
     "breakdown": {
      "agro": 25,
      "tech": 20,
      "business": 20,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -30423,8 +30435,8 @@
     },
     "penalties": {}
    },
-   "score": 100,
-   "priority": 102,
+   "score": 99,
+   "priority": 99,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -30518,22 +30530,22 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 39,
-    "priority": 39,
-    "base": 39,
+    "score": 36,
+    "priority": 36,
+    "base": 36,
     "breakdown": {
      "agro": 4.2,
      "tech": 8,
      "business": 0,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 2
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 39,
-   "priority": 39,
+   "score": 36,
+   "priority": 36,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -30628,22 +30640,22 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 39,
-    "priority": 39,
-    "base": 39,
+    "score": 36,
+    "priority": 36,
+    "base": 36,
     "breakdown": {
      "agro": 4.2,
      "tech": 8,
      "business": 0,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 2
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 39,
-   "priority": 39,
+   "score": 36,
+   "priority": 36,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -30719,7 +30731,8 @@
    "duplicate_of": null,
    "related_ids": [
     "agv-9f1e0b07",
-    "agv-a4814908"
+    "agv-a4814908",
+    "agv-d5901c3a"
    ],
    "verification": {
     "evidence": "MEDIO",
@@ -30740,22 +30753,22 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 41,
-    "priority": 41,
-    "base": 41,
+    "score": 38,
+    "priority": 38,
+    "base": 38,
     "breakdown": {
      "agro": 8.3,
      "tech": 0,
      "business": 3.3,
      "mexico": 12,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 41,
-   "priority": 41,
+   "score": 38,
+   "priority": 38,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -31056,15 +31069,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 90,
-    "priority": 90,
-    "base": 70,
+    "score": 87,
+    "priority": 87,
+    "base": 67,
     "breakdown": {
      "agro": 25,
      "tech": 8,
      "business": 20,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -31073,8 +31086,8 @@
     },
     "penalties": {}
    },
-   "score": 90,
-   "priority": 90,
+   "score": 87,
+   "priority": 87,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -31164,15 +31177,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 89,
-    "priority": 89,
-    "base": 69,
+    "score": 86,
+    "priority": 86,
+    "base": 66,
     "breakdown": {
      "agro": 25,
      "tech": 20,
      "business": 6.7,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -31181,8 +31194,8 @@
     },
     "penalties": {}
    },
-   "score": 89,
-   "priority": 89,
+   "score": 86,
+   "priority": 86,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -31471,15 +31484,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 52,
-    "priority": 52,
-    "base": 42,
+    "score": 49,
+    "priority": 49,
+    "base": 39,
     "breakdown": {
      "agro": 16.7,
      "tech": 8,
      "business": 0,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -31487,8 +31500,8 @@
     },
     "penalties": {}
    },
-   "score": 52,
-   "priority": 52,
+   "score": 49,
+   "priority": 49,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -31575,15 +31588,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 97,
-    "priority": 97,
-    "base": 97,
+    "score": 94,
+    "priority": 94,
+    "base": 94,
     "breakdown": {
      "agro": 25,
      "tech": 20,
      "business": 20,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -31595,8 +31608,8 @@
      "duplicado": -30
     }
    },
-   "score": 97,
-   "priority": 97,
+   "score": 94,
+   "priority": 94,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -31680,22 +31693,22 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 60,
-    "priority": 60,
-    "base": 60,
+    "score": 57,
+    "priority": 57,
+    "base": 57,
     "breakdown": {
      "agro": 25,
      "tech": 0,
      "business": 3.3,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 60,
-   "priority": 60,
+   "score": 57,
+   "priority": 57,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -31780,14 +31793,14 @@
    "evidence": "MEDIO",
    "scoring": {
     "score": 100,
-    "priority": 127,
-    "base": 97,
+    "priority": 124,
+    "base": 94,
     "breakdown": {
      "agro": 25,
      "tech": 20,
      "business": 20,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -31798,7 +31811,7 @@
     "penalties": {}
    },
    "score": 100,
-   "priority": 127,
+   "priority": 124,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -32108,22 +32121,22 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 40,
-    "priority": 40,
-    "base": 40,
+    "score": 37,
+    "priority": 37,
+    "base": 37,
     "breakdown": {
      "agro": 12.5,
      "tech": 0,
      "business": 3.3,
      "mexico": 12,
-     "recency": 10,
+     "recency": 7,
      "source": 2
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 40,
-   "priority": 40,
+   "score": 37,
+   "priority": 37,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -32213,15 +32226,15 @@
    },
    "evidence": "ALTO",
    "scoring": {
-    "score": 64,
-    "priority": 64,
-    "base": 44,
+    "score": 61,
+    "priority": 61,
+    "base": 41,
     "breakdown": {
      "agro": 8.3,
      "tech": 16,
      "business": 0,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 10
     },
     "bonuses": {
@@ -32230,8 +32243,8 @@
     },
     "penalties": {}
    },
-   "score": 64,
-   "priority": 64,
+   "score": 61,
+   "priority": 61,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -35952,22 +35965,22 @@
    },
    "evidence": "ALTO",
    "scoring": {
-    "score": 36,
-    "priority": 36,
-    "base": 36,
+    "score": 33,
+    "priority": 33,
+    "base": 33,
     "breakdown": {
      "agro": 4.2,
      "tech": 0,
      "business": 0,
      "mexico": 12,
-     "recency": 10,
+     "recency": 7,
      "source": 10
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 36,
-   "priority": 36,
+   "score": 33,
+   "priority": 33,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -36993,6 +37006,944 @@
    "suggested_formats": [],
    "suggested_content": [],
    "interview_ideas": []
+  },
+  {
+   "id": "agv-2bbbed25",
+   "retrieved_at": "2026-10-05T12:22:44.063Z",
+   "ingested_via": "googlenews",
+   "title_original": "México reúne innovación y capital para transformar la industria agroalimentaria",
+   "title_agrovision": "",
+   "source_name": "Sociedad Noticias",
+   "source_domain": "sociedad-noticias.com",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPblVvM3FPaEdWekdUb2otRTNUSm9tNlhNMjhSaTRjWTlEbWRSQnZqcFduM3ZoM2NfZUJlbExSWjFCUkJXX1J3cE9pbXRidFhGV1ZOOW1SYzZEd3B0Y0MxRng2NXVjd1VDNjNXa21FZUFoay1BcFVvUVdLNndYOGhIVzBraEJZVXAyNENvM0hobHJ5bFM2VGlPV0c1bUJqRzJBcHN2T1Q5SV9EVXB6c2o4MnlsZ3pyampLdG1KR2J3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmivgfbvv95cuxpblvvm3fpaedwekdub2otrtnusm9tnlhnmjhsatrjwtlebwrsqnzqcfdum3zom2nfzujlbexswjfcukjxx1j3ce9pbxridfhgv1zoow1syzzed3b0y0mxrng2nxvjd1vdnjnxa21fzufoay1bcfvvuvdlnndyoghivzbraejzvxaynenvm0hobhj5bfm2vglpv0c1bujqrzjbchn2t1q5sv9evxb6c2o4mnlsz3pyampldg1kr2j3?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-10-04",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "BUSINESS",
+   "subcategory": "Inversión",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 0.16666666666666666,
+    "TECH": 0,
+    "BUSINESS": 0.16666666666666666,
+    "MEXICO": 0.6666666666666666
+   },
+   "duplicate_of": null,
+   "related_ids": [
+    "agv-4c6f452d"
+   ],
+   "verification": {
+    "evidence": "ALTO",
+    "computed_evidence": "ALTO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [
+     {
+      "name": "Gob MX",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeklrR1U5WkZBU0RuWlNjak9tUV80THhydlFNb2dVb3JPRHIyZ2l5RE80QTQ5aDR1QzdwTnFiT1Vwc3l3MGwwUmlMMDR4R2Z5R0ZhOVU2MDJnZEdpUi1lTlRiS1VLQkVXTl9QTlN1ZmY1Ykx2X2dnX2t4RjVhbzEydW96dnNJYVZqRU0zLVJEYkpGN0FoZjV5dHFBTWI5bUNodnh0OVVyVzYxN3ZEZTdrMTJUalc4Y3FlLW5CRzdkYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "type": "primary",
+      "via": "relacionado",
+      "item_id": "agv-4c6f452d"
+     }
+    ],
+    "warnings": []
+   },
+   "evidence": "ALTO",
+   "scoring": {
+    "score": 32,
+    "priority": 32,
+    "base": 32,
+    "breakdown": {
+     "agro": 4.2,
+     "tech": 0,
+     "business": 3.3,
+     "mexico": 12,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 32,
+   "priority": 32,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "El negocio detrás del campo"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-8c7b2ce8",
+   "retrieved_at": "2026-10-05T12:22:44.063Z",
+   "ingested_via": "googlenews",
+   "title_original": "La Oficina Acelera Pyme Guadalajara organiza un taller práctico de inteligencia artificial aplicado a la agricultura",
+   "title_agrovision": "",
+   "source_name": "Nueva Alcarria.com",
+   "source_domain": "nuevaalcarria.com",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVkRNUjFKMlhsaXVsTjBrMGdKZF9sWG9MQ1hGVGNOdTBOUjJZaDVvWmdjemdZUkNmaE05czdzc0pCTXZfXzkzZkVONm5qckFDSklzcU5lNHFGRTFEb0oxcEFfWkpTdGFfYkZaNTAxV3FqQ1YtaUpINDJnMFRxNlBRS0N1bXd5SVR3aVJ4S25OOFZJQ2tzX1c0TmY5SGkxUkNkaGJ1bmZ5WUZTMWh6YXB1bmRFTmFRM1RWZWszWmRFZl8zMXlDck0wWVJabjZsb2xlWFEtSUN1TnBSbGl1OG5aV0xZcmVFZzA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmi5wfbvv95cuxnvkrnujfkmlhsaxvstjbrmgdkzf9swg9mq1hgvgnodtboujjzadvvwmdjemdzuknmae05czdzc0pctxzfxzkzzkvonm5qckfdsklzcu5lnhfgrtfeb0oxceffwkptdgffykzantaxv3fqq1ytaupindjnmfrxnlbrs0n1bxd5svr3avj4s25oofzjq2tzx1c0tmy5sgkxuknkagj1bmz5wuztmwh6yxb1bmrftmfrm1rwzwszwmrfzl8zmxldck0wwvjabjzsb2xlwfetsun1tnbsbgl1og5av0xzcmvfzza?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-10-05",
+   "country": "México",
+   "mx_state": "Jalisco",
+   "category": "MEXICO",
+   "subcategory": "Jalisco",
+   "technologies": [
+    "Inteligencia Artificial"
+   ],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [],
+   "relevance": {
+    "AGRO": 0.16666666666666666,
+    "TECH": 0.4,
+    "BUSINESS": 0.16666666666666666,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 43,
+    "priority": 43,
+    "base": 43,
+    "breakdown": {
+     "agro": 4.2,
+     "tech": 8,
+     "business": 3.3,
+     "mexico": 15,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 43,
+   "priority": 43,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": [
+    "Voz local: productor(a) u organización de Jalisco sobre cómo les afecta este tema."
+   ]
+  },
+  {
+   "id": "agv-d5901c3a",
+   "retrieved_at": "2026-10-05T12:22:44.063Z",
+   "ingested_via": "googlenews",
+   "title_original": "SADER: apoyos a maíz, trigo y arroz dependen de presupuest",
+   "title_agrovision": "",
+   "source_name": "Revista Comentarios",
+   "source_domain": "revistacomentarios.com",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORk1HZl9MQkZrU3E1MGpyUzVIX2JRc3pVSW84QVdzMGdfTVctWl9KZ3FFLUdVenhQOVZNRXU2Vl9aMEkwRmNpUmdSclRDN0Y5Q2c4OFBzeHVrZzdqWFdRLTJ0TlVIN25QZ1dXckdQSFRYUUQyNFk4bXBrNjRCNnFoQWdhSnB6bkpfTlI4cU8yZmE3NmM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmikwfbvv95cuxork1hzl9mqkzru3e1mgpyuzvix2jrc3pvsw84qvdzmgdftvctwl9kz3ffludvenhqovznrxu2vl9amekwrmnpumdsclrdn0y5q2c4ofbzehvrzzdqwfdrltj0tlvin25qz1dxckdqsfryuuqynfk4bxbrnjrcnnfoqwdhsnb6bkpftli4cu8yzme3nmm?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-10-01",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "AGRO",
+   "subcategory": "Cultivos",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 0.3333333333333333,
+    "TECH": 0,
+    "BUSINESS": 0,
+    "MEXICO": 0.6666666666666666
+   },
+   "duplicate_of": null,
+   "related_ids": [
+    "agv-243ad80c",
+    "agv-5f9dc3bb",
+    "agv-a4814908"
+   ],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [
+     {
+      "name": "diario.mx",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc2RqQnFmcUVBanlldDJxMjdDaHItR3pYU1V1WHgtbWl2Wm9LSFF2TUFPVVNtaFJheFZ4cW51bFdWMGNmeTBOX1pFdmNUN0FhVEhKTjVCUUJKTjlUdEk2bFNzNk9td0drdlMtR3pIVnRaS2NCRmFaOUxwQW9ibmpuSk0wM1p0MG4ySWdJNGp2TEJsM015ODlpQUdQbzRyd0dwa2dEdmR4c2bSAa4BQVVfeXFMTzBmVWhKRjNJaU1hTnVHY2FkbVowUnJRckt1blE3MHVBeWlTUm9Xd1l0d29aMkFrMngza0ZHekdoVmlpSC1MZ0R5UXRsVkQ3M3NRdGlza09PMWRGZGN3ak9HaWRrS1d1bEJ3LVJUcWl0bG1lNnFGcUp1R0s1Szk5R2lwUmwyWld0RTZTa3dGdXhKWkdXUmEzUm1iWjNnbXhiQXV1SGtySnVuU1lZZldR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "tier": 0,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-5f9dc3bb"
+     }
+    ],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 32,
+    "priority": 32,
+    "base": 32,
+    "breakdown": {
+     "agro": 8.3,
+     "tech": 0,
+     "business": 0,
+     "mexico": 12,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 32,
+   "priority": 32,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-130d7840",
+   "retrieved_at": "2026-10-05T12:22:44.063Z",
+   "ingested_via": "googlenews",
+   "title_original": "Bajos niveles en presas ponen en alerta al sector agropecuario de Querétaro",
+   "title_agrovision": "",
+   "source_name": "eleconomista.com.mx",
+   "source_domain": "eleconomista.com.mx",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTWM1RmVHOFExY0hfQUZMOXRDZGhXdV8wMmtKWE1GWkp3RFZOWmlWS1JHaEpCaThjMmI3eXpPX3NGcGY2Y0Z3YTEtQmpramR1QUEyazZTYzFlWkdFMWFqMEtwTk1lLTlITGY3ZTRaYmZwaVl2X2pZRDRlcWZsa3NnSERSTnh1Qm9SblZEUTRYRlQxWVRtZlM3c2lTTXg5R3J5em9KRkVHdEdobnJBRFlNVUF4OWN3T1F0Yk1RVU94aDJLd9IBxwFBVV95cUxNTXdCRE1lSzRBSWMyRk1XRGNwSnhwNVo2ajg4MVZ6VU5BWWotMG9YLUt5NkxzWVVET09xTmZNVl9ybE02emVGRUd0djZTMlpkUkFUeUgwbWlOQW5Wa0M3NFBIQ3hwN054cUZuYXI5SFNiOHU4X3BVTTZnN2ZKVklYeUhsTjd5b1VlQk9pSXdHVWo2YXZIakRld1o1em5BTEVFV1pCcndHWFFvUHVRT242NHFpeU00M2FEWWNHVXhnWE45Z2pHT0dN?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmiwgfbvv95cuxptwm1rmvhofexy0hfquzmoxrdzghxdv8wmmtkwe1gwkp3rfzowmlws1jhaepcathjmmi3exppx3ngcgy2y0z3ytetqmpramr1queyazztyzflwkdfmwfqmetwtk1lltlitgy3ztraymzwavl2x2pzrdrlcwzsa3nnserstnh1qm9sblzeutryrlqxwvrtzlm3c2lttxg5r3j5em9krkvhdedobnjbrflnvuf4own3t1f0yk1rvu94adjld9ibxwfbvv95cuxntxdcre1lszrbswmyrk1xrgnwsnhwnvo2ajg4mvz6vu5bwwotmg9ylut5nkxzwvvet09xtmznvl9ybe02emvgrud0djztmlpkukfueugwbwloqw5wa0m3nfbiq3hwn054cuzuyxi5sfniohu4x3bvttznn2zkvklyeuhstjd5b1vlqk9psxdhvwo2yxziakrld1o1em5btevfv1pccndhwffvuhvrt242nhfpeu00m2fewwnhvxhnwe45z2pht0dn?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-10-05",
+   "country": "México",
+   "mx_state": "Querétaro",
+   "category": "MEXICO",
+   "subcategory": "Querétaro",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [],
+   "relevance": {
+    "AGRO": 0.16666666666666666,
+    "TECH": 0,
+    "BUSINESS": 0,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 36,
+    "priority": 36,
+    "base": 36,
+    "breakdown": {
+     "agro": 4.2,
+     "tech": 0,
+     "business": 0,
+     "mexico": 15,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 36,
+   "priority": 36,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": [
+    "Voz local: productor(a) u organización de Querétaro sobre cómo les afecta este tema."
+   ]
+  },
+  {
+   "id": "agv-a15bf414",
+   "retrieved_at": "2026-10-05T12:22:44.063Z",
+   "ingested_via": "rss",
+   "title_original": "Can second-hand robots make autonomous farming affordable for smaller growers?",
+   "title_agrovision": "",
+   "source_name": "Future Farming",
+   "source_domain": "futurefarming.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/can-second-hand-robots-make-autonomous-farming-affordable-for-smaller-growers/",
+   "canonical_url": "https://futurefarming.com/tech-in-focus/field-robots/can-second-hand-robots-make-autonomous-farming-affordable-for-smaller-growers",
+   "published_at": "2026-10-05",
+   "country": "Global",
+   "mx_state": null,
+   "category": "TECH",
+   "subcategory": "Robótica",
+   "technologies": [
+    "Inteligencia Artificial",
+    "Robótica",
+    "Software"
+   ],
+   "companies": [],
+   "content": "Can second-hand robots make autonomous farming affordable for smaller growers? The first generation\nThe first generation of agricultural field robots is slowly finding its way onto the second-hand market . This raises an interesting question: what will an agricultural robot actually be worth after 5 or 10 years, or even after 30 years?\nWith tractors, combines and other farm machinery, we have a fairly good idea. Age, operating hours, maintenance, brand and technical condition all provide a reasonable indication of residual value. With agricultural robots, we still have to discover how this will work. They are a new breed in the world of farm machinery, and one that has only just learned to stand on its own feet.\nSo when does a robot actually become old? A tractor can easily last 30 years or more, particularly older, analogue machines that are not dependent on software updates. With robots, things are fundamentally different. And that immediately creates one of the biggest uncertainties for anyone considering a used robot.\nTo address those concerns, robot manufacturers promise long-term software support and opportunities to upgrade their machines. Naïo, for example, can equip older Oz robots with new hardware, GPS and a modem. Other manufacturers also try to keep their robots up to date through software and hardware upgrades. In principle, a robot built in 2022 could therefore still offer almost the same functionality as a newer machine many years later.\nBut the opposite is also possible. Cameras, GPUs, LiDAR and AI are developing at tremendous speed. At some point, new software may no longer run on older hardware. A robot that is mechanically in excellent condition could then still become technologically obsolete. Much like a smartphone: it still works, but the latest software will no longer run on it.\nA healthy second-hand market could meanwhile give robot adoption a significant boost, particularly among smaller growers. Those unwilling or unable to immediately invest €100,000 or several hundred thousand euros could get started with autonomous farming much more cheaply through a used machine. Just as generations of farmers bought their first larger tractor, self-propelled sprayer or combine second-hand.\nFor me, that is still the big unknown. Robots depend much more heavily on software, connectivity, service contracts and subscriptions than traditional farm machinery. Will software licences and subscriptions transfer without restrictions to a second or third owner? And will manufacturers continue supporting older generations?\nAnd what happens if the manufacturer no longer exists ten years from now? Many robot manufacturers are still relatively small and vulnerable companies. In recent years, the sector has already seen several manufacturers disappear or run into financial difficulties. A used tractor will usually keep running regardless. But what happens to a robot that depends on its manufacturer for updates, software or cloud connectivity?\nOperating hours may also take on a different meaning. Burro reports robots clocking up 20,000 to 30,000 hours in just four years. After all, autonomy makes it possible to accumulate many more operating hours in a relatively short period. But electric motors and gearboxes still wear out. A robot could therefore use up its technical lifespan faster than a tractor.\nManufacturers that continue supporting older machines, make upgrades possible and allow software to be transferred to new owners could therefore gain an important advantage. Just as with cars and tractors, a strong reputation on the second-hand market can also help sell new robots.\nBut ultimately, someone has to put a value on that used machine. And that makes me particularly curious about a party we rarely hear from in discussions about agricultural robots: the financier. How will a bank determine the residual value of a €200,000 or €300,000 robot that may still be mechanically sound five years from now, but for which nobody knows whether its software will still be supported?",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "AGRO",
+    "BUSINESS"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 1,
+    "BUSINESS": 0.6666666666666666,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 100,
+    "priority": 105,
+    "base": 75,
+    "breakdown": {
+     "agro": 25,
+     "tech": 20,
+     "business": 13.3,
+     "mexico": 0,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {
+     "afecta_productores": 10,
+     "aplicacion_practica": 10,
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 100,
+   "priority": 105,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-9090d7ed",
+   "retrieved_at": "2026-10-05T12:22:44.063Z",
+   "ingested_via": "rss",
+   "title_original": "Is a second-hand field robot a viable investment?",
+   "title_agrovision": "",
+   "source_name": "Future Farming",
+   "source_domain": "futurefarming.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/is-a-second-hand-field-robot-a-viable-investment/",
+   "canonical_url": "https://futurefarming.com/tech-in-focus/field-robots/is-a-second-hand-field-robot-a-viable-investment",
+   "published_at": "2026-10-05",
+   "country": "Global",
+   "mx_state": null,
+   "category": "TECH",
+   "subcategory": "Robótica",
+   "technologies": [
+    "Robótica"
+   ],
+   "companies": [],
+   "content": "Is a second-hand field robot worthwhile to consider for farmers, contractors and orchard owners looking for an affordable autonomous option?\nThis Premium article is exclusively available for subscribers",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [],
+   "relevance": {
+    "AGRO": 0,
+    "TECH": 0.8,
+    "BUSINESS": 0.16666666666666666,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 46,
+    "priority": 46,
+    "base": 36,
+    "breakdown": {
+     "agro": 0,
+     "tech": 16,
+     "business": 3.3,
+     "mexico": 0,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {
+     "afecta_productores": 10
+    },
+    "penalties": {}
+   },
+   "score": 46,
+   "priority": 46,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-476b711c",
+   "retrieved_at": "2026-10-05T12:22:44.063Z",
+   "ingested_via": "rss",
+   "title_original": "Bonsai Robotics uses AI simulation to train field robots before deployment",
+   "title_agrovision": "",
+   "source_name": "Future Farming",
+   "source_domain": "futurefarming.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/bonsai-robotics-uses-ai-simulation-to-train-field-robots-before-deployment/",
+   "canonical_url": "https://futurefarming.com/tech-in-focus/field-robots/bonsai-robotics-uses-ai-simulation-to-train-field-robots-before-deployment",
+   "published_at": "2026-10-04",
+   "country": "Global",
+   "mx_state": null,
+   "category": "TECH",
+   "subcategory": "Robótica",
+   "technologies": [
+    "Inteligencia Artificial",
+    "Satélites",
+    "Robótica",
+    "Software",
+    "Datos"
+   ],
+   "companies": [],
+   "content": "Bonsai Robotics has introduced Bonsai World, a simulation system that recreates real-world fields and operating conditions in 3D.\nBonsai Robotics has introduced Bonsai World, a simulation system that recreates real-world fields and operating conditions in 3D. By combining field data with AI-generated environments, the US company aims to train and test autonomous machines before they enter a new field, crop or working environment. This could reduce the need for extensive on-site testing and adjustments.\nBonsai World is a new component of Bonsai Intelligence, the autonomy software used on the company’s Amiga robotic platform and retrofitted machines from other manufacturers. The technology builds on more than 50 million real-world data samples collected across over 1 million acres (405,000 hectares), covering different crops, terrain, weather conditions, lighting, machines and operations.\nThe system starts with satellite imagery of a farm or other working environment. Using Google’s Gemini vision-language model, Bonsai World converts the two-dimensional imagery into a structured 3D environment in which autonomous machines can simulate routes and interactions with their surroundings.\nThe software can also generate realistic ground-level images and introduce situations that robots may encounter in practice, including dust, debris, animals, other vehicles and changing terrain. This allows Bonsai to expose its autonomy software to conditions that its machines have not yet encountered in the field. The simulations generate additional training data, supplementing information continuously collected by machines already operating in practice.\nAccording to Bonsai Robotics, the main advantage is that autonomy software can be prepared for a specific location or application before a machine arrives. Normally, introducing an autonomous machine to a new crop, terrain or task may require additional data collection, field testing and adjustments to the software. Bonsai aims to reduce these steps by recreating likely operating conditions in advance. “Every environment we operate on expands what the system understands,” says Tyler Niday, CEO and co-founder of Bonsai Robotics. He explains that the company initially focused on difficult conditions, including unreliable GPS, limited connectivity and extremely poor visibility caused by dust. Bonsai World is intended to extend that experience to new environments without having to physically encounter every possible situation first.\nBonsai developed the system using Google Cloud and NVIDIA computing technology.\nGoogle’s Gemini model interprets satellite imagery, while Bonsai’s own world model generates realistic simulations based on the company’s field data. NVIDIA GPUs are used to train the models and generate simulated environments. The technology is intended to support the development of autonomy across different crops, machines and tasks. Bonsai currently operates in specialty-crop agriculture in the United States and Australia and is expanding its technology into other sectors, including mining and defence.\nFor growers, the potential benefit is faster deployment of autonomous machines in unfamiliar fields and conditions, with less time needed for initial setup and software adjustments. However, Bonsai has not disclosed independently verified results showing how much field-testing time the new system saves or how accurately performance in simulation translates to actual field operations.\nSubscribe to our newsletter to stay updated about all the need-to-know content in the agricultural sector, two times a week.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "AGRO"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 1,
+    "BUSINESS": 0,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 82,
+    "priority": 82,
+    "base": 62,
+    "breakdown": {
+     "agro": 25,
+     "tech": 20,
+     "business": 0,
+     "mexico": 0,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {
+     "afecta_productores": 10,
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 82,
+   "priority": 82,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-397e35ab",
+   "retrieved_at": "2026-10-05T12:22:44.063Z",
+   "ingested_via": "rss",
+   "title_original": "RMH is working on autonomous electric feeding robot",
+   "title_agrovision": "",
+   "source_name": "Future Farming",
+   "source_domain": "futurefarming.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://www.futurefarming.com/smart-farmers/rmh-is-working-on-autonomous-electric-feeding-robot/",
+   "canonical_url": "https://futurefarming.com/smart-farmers/rmh-is-working-on-autonomous-electric-feeding-robot",
+   "published_at": "2026-10-04",
+   "country": "Global",
+   "mx_state": null,
+   "category": "TECH",
+   "subcategory": "Robótica",
+   "technologies": [
+    "Sensores",
+    "Robótica"
+   ],
+   "companies": [],
+   "content": "Israeli machine manufacturer RMH is developing an autonomous feeding robot called Nexus.\nIsraeli machine manufacturer RMH is developing an autonomous feeding robot called Nexus. The electrically powered robot can independently drive to the clamp to fill the mixing tub and does not require an additional feed kitchen.\nDutch importer RMH Agri confirms that the feeding robot is being developed, but at the same time says it is still allowed to communicate very little about the robot. However, the importer exclusively confirms to TREKKER that it is a feeding robot with a 6-cubic-metre mixing tub and 2 vertical augers. The autonomous electric feeding robot navigates around the yard using RTK GPS. In the barn, the robot switches to different sensors for navigation and positioning. Exactly how this works is not yet known. In addition, the robot uses Lidar sensors for obstacle detection.\nThe feeding robot has a replaceable battery pack. The system used to swap the batteries has been patented by manufacturer RMH. RMH Agri also confirms that the robot’s battery pack is indeed 48 kWh and that this allows the robot to feed continuously for 2.5 to 3 hours. The robot has 4-wheel drive and 4-wheel steering.\nThe first prototype was recently on display at the Innov’Space livestock farming trade fair in Rennes, France. Manufacturer RMH is now further developing the robot. Importer RMH Agri is aiming for a market launch in 2028 and expects to be able to provide more information about the Nexus next year.\nSubscribe to our newsletter to stay updated about all the need-to-know content in the agricultural sector, two times a week.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "AGRO"
+   ],
+   "relevance": {
+    "AGRO": 0.5,
+    "TECH": 1,
+    "BUSINESS": 0.16666666666666666,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 73,
+    "priority": 73,
+    "base": 53,
+    "breakdown": {
+     "agro": 12.5,
+     "tech": 20,
+     "business": 3.3,
+     "mexico": 0,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {
+     "innovacion_concreta": 10,
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 73,
+   "priority": 73,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-ec991a6c",
+   "retrieved_at": "2026-10-05T12:22:44.063Z",
+   "ingested_via": "rss",
+   "title_original": "Field validation pushes precision farming technology closer to commercial use",
+   "title_agrovision": "",
+   "source_name": "Future Farming",
+   "source_domain": "futurefarming.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://www.futurefarming.com/smart-farming/field-validation-pushes-precision-farming-technology-closer-to-commercial-use/",
+   "canonical_url": "https://futurefarming.com/smart-farming/field-validation-pushes-precision-farming-technology-closer-to-commercial-use",
+   "published_at": "2026-09-18",
+   "country": "Global",
+   "mx_state": null,
+   "category": "TECH",
+   "subcategory": "Agricultura de precisión",
+   "technologies": [
+    "Inteligencia Artificial",
+    "Robótica",
+    "Automatización",
+    "Agricultura de precisión"
+   ],
+   "companies": [],
+   "content": "Agricultural innovation is increasingly about refining existing concepts rather than introducing completely new machines. At the AgroTechniek Holland (ATH) show in the Netherlands, Future Farming saw how developers are using field validation, improved AI algorithms and practical experience to move precision farming and autonomous systems closer to commercial farm use. Automated potato selection is a clear example of this trend",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": false,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "AGRO"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 1,
+    "BUSINESS": 0,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [
+    "agv-26a57910"
+   ],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [
+     {
+      "name": "Garhwal Post",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaWprSGZ5enRGYWllM1ZnWUItLUs1bXR4eXpNT1JLOUlUbk8tTVhIcVpqZTVnOFltX1hrVHdKdnhPNGp6X2c2RVItUnczekRlNzZMdUZLQy04YlZmdlNHRFRJNDBZYjFrWDB3azYtNUNvX0djZXlXQlVpV2Q4R1NnVGZDMDlCTUhhNGVHX2VoalpjZTFoSnR0RUR3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "tier": 0,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-26a57910"
+     }
+    ],
+    "warnings": [
+     "La URL principal no se pudo abrir durante la verificación."
+    ]
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 39,
+    "priority": 39,
+    "base": 59,
+    "breakdown": {
+     "agro": 25,
+     "tech": 20,
+     "business": 0,
+     "mexico": 0,
+     "recency": 7,
+     "source": 7
+    },
+    "bonuses": {
+     "innovacion_concreta": 10,
+     "agro_mas_tech": 10
+    },
+    "penalties": {
+     "sin_evidencia": -40
+    }
+   },
+   "score": 39,
+   "priority": 39,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
   }
  ],
  "sources": [
@@ -37170,7 +38121,7 @@
    "tier": 2,
    "type": "secondary",
    "kind": "medio_especializado",
-   "article_count": 23
+   "article_count": 28
   },
   {
    "domain": "newaginternational.com",
@@ -37394,7 +38345,7 @@
    "tier": 2,
    "type": "secondary",
    "kind": "medio",
-   "article_count": 4
+   "article_count": 5
   },
   {
    "domain": "noroeste.com.mx",
@@ -37682,7 +38633,7 @@
    "tier": 0,
    "type": "secondary",
    "kind": "desconocido",
-   "article_count": 2
+   "article_count": 3
   },
   {
    "domain": "laverdad.com.mx",
@@ -37899,6 +38850,22 @@
    "type": "secondary",
    "kind": "desconocido",
    "article_count": 1
+  },
+  {
+   "domain": "sociedad-noticias.com",
+   "name": "Sociedad Noticias",
+   "tier": 0,
+   "type": "secondary",
+   "kind": "desconocido",
+   "article_count": 1
+  },
+  {
+   "domain": "nuevaalcarria.com",
+   "name": "Nueva Alcarria.com",
+   "tier": 0,
+   "type": "secondary",
+   "kind": "desconocido",
+   "article_count": 1
   }
  ],
  "topics": [
@@ -38065,8 +39032,8 @@
    "id": "riego-inteligente",
    "label": "Riego y agua",
    "score": 99,
-   "mentions": 70,
-   "recent": 57,
+   "mentions": 71,
+   "recent": 58,
    "prior": 8,
    "direction": "creciendo",
    "source_kinds": [
@@ -38146,9 +39113,10 @@
     "agv-94561825",
     "agv-0f5d0261",
     "agv-4d83371b",
-    "agv-919177b6"
+    "agv-919177b6",
+    "agv-130d7840"
    ],
-   "computed_at": "2026-10-05T00:12:33.762Z"
+   "computed_at": "2026-10-05T12:22:44.063Z"
   },
   {
    "id": "sanidad",
@@ -38193,14 +39161,100 @@
     "agv-07b32b7d",
     "agv-919177b6"
    ],
-   "computed_at": "2026-10-05T00:12:33.762Z"
+   "computed_at": "2026-10-05T12:22:44.063Z"
+  },
+  {
+   "id": "maiz",
+   "label": "Maíz y granos",
+   "score": 99,
+   "mentions": 66,
+   "recent": 49,
+   "prior": 11,
+   "direction": "creciendo",
+   "source_kinds": [
+    "organismo",
+    "medio",
+    "investigacion",
+    "gobierno",
+    "medio_especializado"
+   ],
+   "primary_sources": 17,
+   "item_ids": [
+    "agv-f4f3100f",
+    "agv-ca6d73b3",
+    "agv-6e7c64d4",
+    "agv-cf8e0224",
+    "agv-81342e59",
+    "agv-52a0be98",
+    "agv-66097959",
+    "agv-94aa11e1",
+    "agv-943d446b",
+    "agv-6d9267bb",
+    "agv-4279f808",
+    "agv-2b482207",
+    "agv-f3be9990",
+    "agv-0451ca09",
+    "agv-a51885f9",
+    "agv-d5f81ec8",
+    "agv-cbe5818b",
+    "agv-f533ff5b",
+    "agv-9d121aa4",
+    "agv-8cb36837",
+    "agv-60b5e9e3",
+    "agv-14a64592",
+    "agv-237dfe6d",
+    "agv-693a6a99",
+    "agv-edc357f6",
+    "agv-7ddbccee",
+    "agv-a279a8f6",
+    "agv-1ee9131e",
+    "agv-e5654e4e",
+    "agv-9f4e4c43",
+    "agv-7aa5c46f",
+    "agv-8c7d6250",
+    "agv-1c3ff2b4",
+    "agv-f42d898d",
+    "agv-5e9d353a",
+    "agv-42f7a134",
+    "agv-0e47f387",
+    "agv-256a6a49",
+    "agv-a8b1291c",
+    "agv-8b5ebe5b",
+    "agv-5f9dc3bb",
+    "agv-ae64a35c",
+    "agv-575775fb",
+    "agv-166653a2",
+    "agv-58849f63",
+    "agv-1325e163",
+    "agv-73d8c522",
+    "agv-7d32f52d",
+    "agv-e0fa80ec",
+    "agv-ccb39c05",
+    "agv-a4814908",
+    "agv-243ad80c",
+    "agv-2e6f2f66",
+    "agv-899ebcb8",
+    "agv-24650630",
+    "agv-61152c9a",
+    "agv-d0d515d6",
+    "agv-f1eabf65",
+    "agv-a37b3577",
+    "agv-750ff178",
+    "agv-a7cda260",
+    "agv-3623dc4f",
+    "agv-919177b6",
+    "agv-7a781496",
+    "agv-5105a36e",
+    "agv-d5901c3a"
+   ],
+   "computed_at": "2026-10-05T12:22:44.063Z"
   },
   {
    "id": "ia-agricola",
    "label": "IA agrícola",
    "score": 98,
-   "mentions": 71,
-   "recent": 48,
+   "mentions": 75,
+   "recent": 52,
    "prior": 17,
    "direction": "creciendo",
    "source_kinds": [
@@ -38283,9 +39337,13 @@
     "agv-b4834bc6",
     "agv-87cef2ea",
     "agv-6af27c87",
-    "agv-9a12ca95"
+    "agv-9a12ca95",
+    "agv-8c7b2ce8",
+    "agv-a15bf414",
+    "agv-476b711c",
+    "agv-ec991a6c"
    ],
-   "computed_at": "2026-10-05T00:12:33.762Z"
+   "computed_at": "2026-10-05T12:22:44.063Z"
   },
   {
    "id": "biotecnologia",
@@ -38352,14 +39410,14 @@
     "agv-b136db31",
     "agv-919177b6"
    ],
-   "computed_at": "2026-10-05T00:12:33.762Z"
+   "computed_at": "2026-10-05T12:22:44.063Z"
   },
   {
    "id": "agricultura-digital",
    "label": "Agricultura digital y datos",
    "score": 98,
-   "mentions": 91,
-   "recent": 62,
+   "mentions": 94,
+   "recent": 65,
    "prior": 23,
    "direction": "creciendo",
    "source_kinds": [
@@ -38463,94 +39521,12 @@
     "agv-87cef2ea",
     "agv-94561825",
     "agv-919177b6",
-    "agv-7a781496"
-   ],
-   "computed_at": "2026-10-05T00:12:33.762Z"
-  },
-  {
-   "id": "maiz",
-   "label": "Maíz y granos",
-   "score": 98,
-   "mentions": 65,
-   "recent": 48,
-   "prior": 11,
-   "direction": "creciendo",
-   "source_kinds": [
-    "organismo",
-    "medio",
-    "investigacion",
-    "gobierno",
-    "medio_especializado"
-   ],
-   "primary_sources": 17,
-   "item_ids": [
-    "agv-f4f3100f",
-    "agv-ca6d73b3",
-    "agv-6e7c64d4",
-    "agv-cf8e0224",
-    "agv-81342e59",
-    "agv-52a0be98",
-    "agv-66097959",
-    "agv-94aa11e1",
-    "agv-943d446b",
-    "agv-6d9267bb",
-    "agv-4279f808",
-    "agv-2b482207",
-    "agv-f3be9990",
-    "agv-0451ca09",
-    "agv-a51885f9",
-    "agv-d5f81ec8",
-    "agv-cbe5818b",
-    "agv-f533ff5b",
-    "agv-9d121aa4",
-    "agv-8cb36837",
-    "agv-60b5e9e3",
-    "agv-14a64592",
-    "agv-237dfe6d",
-    "agv-693a6a99",
-    "agv-edc357f6",
-    "agv-7ddbccee",
-    "agv-a279a8f6",
-    "agv-1ee9131e",
-    "agv-e5654e4e",
-    "agv-9f4e4c43",
-    "agv-7aa5c46f",
-    "agv-8c7d6250",
-    "agv-1c3ff2b4",
-    "agv-f42d898d",
-    "agv-5e9d353a",
-    "agv-42f7a134",
-    "agv-0e47f387",
-    "agv-256a6a49",
-    "agv-a8b1291c",
-    "agv-8b5ebe5b",
-    "agv-5f9dc3bb",
-    "agv-ae64a35c",
-    "agv-575775fb",
-    "agv-166653a2",
-    "agv-58849f63",
-    "agv-1325e163",
-    "agv-73d8c522",
-    "agv-7d32f52d",
-    "agv-e0fa80ec",
-    "agv-ccb39c05",
-    "agv-a4814908",
-    "agv-243ad80c",
-    "agv-2e6f2f66",
-    "agv-899ebcb8",
-    "agv-24650630",
-    "agv-61152c9a",
-    "agv-d0d515d6",
-    "agv-f1eabf65",
-    "agv-a37b3577",
-    "agv-750ff178",
-    "agv-a7cda260",
-    "agv-3623dc4f",
-    "agv-919177b6",
     "agv-7a781496",
-    "agv-5105a36e"
+    "agv-476b711c",
+    "agv-397e35ab",
+    "agv-ec991a6c"
    ],
-   "computed_at": "2026-10-05T00:12:33.762Z"
+   "computed_at": "2026-10-05T12:22:44.063Z"
   },
   {
    "id": "drones",
@@ -38589,7 +39565,7 @@
     "agv-87cef2ea",
     "agv-919177b6"
    ],
-   "computed_at": "2026-10-05T00:12:33.762Z"
+   "computed_at": "2026-10-05T12:22:44.063Z"
   },
   {
    "id": "fertilizantes",
@@ -38632,7 +39608,7 @@
     "agv-f1eabf65",
     "agv-3623dc4f"
    ],
-   "computed_at": "2026-10-05T00:12:33.762Z"
+   "computed_at": "2026-10-05T12:22:44.063Z"
   },
   {
    "id": "inversion-agtech",
@@ -38715,14 +39691,14 @@
     "agv-b136db31",
     "agv-9a12ca95"
    ],
-   "computed_at": "2026-10-05T00:12:33.762Z"
+   "computed_at": "2026-10-05T12:22:44.063Z"
   },
   {
    "id": "robotica",
    "label": "Robótica agrícola",
-   "score": 73,
-   "mentions": 42,
-   "recent": 22,
+   "score": 74,
+   "mentions": 47,
+   "recent": 27,
    "prior": 17,
    "direction": "creciendo",
    "source_kinds": [
@@ -38772,9 +39748,14 @@
     "agv-18c31d97",
     "agv-a37b3577",
     "agv-c39c44a8",
-    "agv-94561825"
+    "agv-94561825",
+    "agv-a15bf414",
+    "agv-9090d7ed",
+    "agv-476b711c",
+    "agv-397e35ab",
+    "agv-ec991a6c"
    ],
-   "computed_at": "2026-10-05T00:12:33.762Z"
+   "computed_at": "2026-10-05T12:22:44.063Z"
   },
   {
    "id": "comercio-tmec",
@@ -38813,7 +39794,7 @@
     "agv-07b32b7d",
     "agv-7a781496"
    ],
-   "computed_at": "2026-10-05T00:12:33.762Z"
+   "computed_at": "2026-10-05T12:22:44.063Z"
   },
   {
    "id": "precios-alimentos",
@@ -38833,7 +39814,7 @@
     "agv-52a0be98",
     "agv-943d446b"
    ],
-   "computed_at": "2026-10-05T00:12:33.762Z"
+   "computed_at": "2026-10-05T12:22:44.063Z"
   }
  ],
  "companies": [
@@ -39886,7 +40867,9 @@
     "agv-dd1a50b3",
     "agv-6af27c87",
     "agv-c39c44a8",
-    "agv-21ff981d"
+    "agv-21ff981d",
+    "agv-a15bf414",
+    "agv-476b711c"
    ]
   },
   {
@@ -39965,7 +40948,8 @@
     "agv-a37b3577",
     "agv-94561825",
     "agv-919177b6",
-    "agv-7a781496"
+    "agv-7a781496",
+    "agv-476b711c"
    ]
   },
   {
@@ -40039,7 +41023,64 @@
     "agv-b4834bc6",
     "agv-87cef2ea",
     "agv-6af27c87",
-    "agv-9a12ca95"
+    "agv-9a12ca95",
+    "agv-8c7b2ce8",
+    "agv-a15bf414",
+    "agv-476b711c",
+    "agv-ec991a6c"
+   ]
+  },
+  {
+   "id": "robotica",
+   "name": "Robótica",
+   "article_ids": [
+    "agv-0177d6c1",
+    "agv-bc87a379",
+    "agv-064f0d65",
+    "agv-4531b679",
+    "agv-ced5838d",
+    "agv-29ac2a62",
+    "agv-d8b3ff2f",
+    "agv-ce7aae71",
+    "agv-c03c94de",
+    "agv-8395760d",
+    "agv-e7996851",
+    "agv-768144ac",
+    "agv-f533ff5b",
+    "agv-c46c7697",
+    "agv-5ecd780e",
+    "agv-2d272dbb",
+    "agv-8cb36837",
+    "agv-755b8186",
+    "agv-cc6d0995",
+    "agv-c872f9ef",
+    "agv-9b72e9e0",
+    "agv-237dfe6d",
+    "agv-fb8a6fa6",
+    "agv-38c07f6c",
+    "agv-b822a566",
+    "agv-e121a747",
+    "agv-4de4c781",
+    "agv-be85d1c4",
+    "agv-8a4a260c",
+    "agv-099fc325",
+    "agv-e1000d57",
+    "agv-c0c05e94",
+    "agv-e0ddef20",
+    "agv-a85c8e98",
+    "agv-76cb3feb",
+    "agv-73c35ea8",
+    "agv-2e6f2f66",
+    "agv-dd1a50b3",
+    "agv-18c31d97",
+    "agv-a37b3577",
+    "agv-c39c44a8",
+    "agv-94561825",
+    "agv-a15bf414",
+    "agv-9090d7ed",
+    "agv-476b711c",
+    "agv-397e35ab",
+    "agv-ec991a6c"
    ]
   },
   {
@@ -40093,54 +41134,6 @@
    ]
   },
   {
-   "id": "robotica",
-   "name": "Robótica",
-   "article_ids": [
-    "agv-0177d6c1",
-    "agv-bc87a379",
-    "agv-064f0d65",
-    "agv-4531b679",
-    "agv-ced5838d",
-    "agv-29ac2a62",
-    "agv-d8b3ff2f",
-    "agv-ce7aae71",
-    "agv-c03c94de",
-    "agv-8395760d",
-    "agv-e7996851",
-    "agv-768144ac",
-    "agv-f533ff5b",
-    "agv-c46c7697",
-    "agv-5ecd780e",
-    "agv-2d272dbb",
-    "agv-8cb36837",
-    "agv-755b8186",
-    "agv-cc6d0995",
-    "agv-c872f9ef",
-    "agv-9b72e9e0",
-    "agv-237dfe6d",
-    "agv-fb8a6fa6",
-    "agv-38c07f6c",
-    "agv-b822a566",
-    "agv-e121a747",
-    "agv-4de4c781",
-    "agv-be85d1c4",
-    "agv-8a4a260c",
-    "agv-099fc325",
-    "agv-e1000d57",
-    "agv-c0c05e94",
-    "agv-e0ddef20",
-    "agv-a85c8e98",
-    "agv-76cb3feb",
-    "agv-73c35ea8",
-    "agv-2e6f2f66",
-    "agv-dd1a50b3",
-    "agv-18c31d97",
-    "agv-a37b3577",
-    "agv-c39c44a8",
-    "agv-94561825"
-   ]
-  },
-  {
    "id": "agricultura-de-precision",
    "name": "Agricultura de precisión",
    "article_ids": [
@@ -40164,7 +41157,8 @@
     "agv-26a57910",
     "agv-6bef4b01",
     "agv-4a7defb9",
-    "agv-87cef2ea"
+    "agv-87cef2ea",
+    "agv-ec991a6c"
    ]
   },
   {
@@ -40190,7 +41184,8 @@
     "agv-7ddbccee",
     "agv-1ee9131e",
     "agv-43499775",
-    "agv-2160f661"
+    "agv-2160f661",
+    "agv-ec991a6c"
    ]
   },
   {
@@ -40232,7 +41227,8 @@
     "agv-c55571b6",
     "agv-e1000d57",
     "agv-26a57910",
-    "agv-6bef4b01"
+    "agv-6bef4b01",
+    "agv-476b711c"
    ]
   },
   {
@@ -40248,7 +41244,8 @@
     "agv-237dfe6d",
     "agv-4de4c781",
     "agv-f42d898d",
-    "agv-12c4284f"
+    "agv-12c4284f",
+    "agv-397e35ab"
    ]
   },
   {
@@ -40520,6 +41517,17 @@
    ]
   },
   {
+   "id": "inversion",
+   "name": "Inversión",
+   "article_ids": [
+    "agv-797fbb63",
+    "agv-0d11e761",
+    "agv-416c7fed",
+    "agv-e5654e4e",
+    "agv-2bbbed25"
+   ]
+  },
+  {
    "id": "costos",
    "name": "Costos",
    "article_ids": [
@@ -40528,16 +41536,6 @@
     "agv-fdec61dc",
     "agv-cdde6f4d",
     "agv-63d8026a"
-   ]
-  },
-  {
-   "id": "inversion",
-   "name": "Inversión",
-   "article_ids": [
-    "agv-797fbb63",
-    "agv-0d11e761",
-    "agv-416c7fed",
-    "agv-e5654e4e"
    ]
   },
   {
@@ -40736,7 +41734,11 @@
     "agv-919177b6",
     "agv-7a781496",
     "agv-5105a36e",
-    "agv-cbe9f6f0"
+    "agv-cbe9f6f0",
+    "agv-2bbbed25",
+    "agv-8c7b2ce8",
+    "agv-d5901c3a",
+    "agv-130d7840"
    ]
   },
   {
@@ -40878,7 +41880,12 @@
     "agv-c39c44a8",
     "agv-21ff981d",
     "agv-9a12ca95",
-    "agv-3623dc4f"
+    "agv-3623dc4f",
+    "agv-a15bf414",
+    "agv-9090d7ed",
+    "agv-476b711c",
+    "agv-397e35ab",
+    "agv-ec991a6c"
    ]
   },
   {
@@ -41001,7 +42008,9 @@
     "agv-919177b6",
     "agv-7a781496",
     "agv-5105a36e",
-    "agv-cbe9f6f0"
+    "agv-cbe9f6f0",
+    "agv-2bbbed25",
+    "agv-d5901c3a"
    ]
   },
   {
@@ -41104,6 +42113,15 @@
    ]
   },
   {
+   "id": "jalisco",
+   "name": "Jalisco",
+   "article_ids": [
+    "agv-6ea009da",
+    "agv-28e9f041",
+    "agv-8c7b2ce8"
+   ]
+  },
+  {
    "id": "veracruz",
    "name": "Veracruz",
    "article_ids": [
@@ -41118,14 +42136,6 @@
    "article_ids": [
     "agv-cf8e0224",
     "agv-2763cec2"
-   ]
-  },
-  {
-   "id": "jalisco",
-   "name": "Jalisco",
-   "article_ids": [
-    "agv-6ea009da",
-    "agv-28e9f041"
    ]
   },
   {
@@ -41148,7 +42158,8 @@
    "id": "queretaro",
    "name": "Querétaro",
    "article_ids": [
-    "agv-21782c66"
+    "agv-21782c66",
+    "agv-130d7840"
    ]
   },
   {
@@ -43484,15 +44495,25 @@
    "type": "weekly",
    "at": "2026-10-05T00:12:35.508Z",
    "issue": 4
+  },
+  {
+   "id": "daily-2026-10-05T12:22:44.063Z",
+   "type": "daily",
+   "at": "2026-10-05T12:23:42.647Z",
+   "added": 9,
+   "skipped": 424,
+   "feeds_ok": 17,
+   "feeds_failed": 3,
+   "duplicates": 23
   }
  ],
  "meta": {
   "schema_version": 1,
   "created_at": "2026-09-19T15:08:14.372Z",
-  "updated_at": "2026-10-05T00:12:35.508Z",
+  "updated_at": "2026-10-05T12:23:42.647Z",
   "counts": {
-   "articles": 321,
-   "sources": 113,
+   "articles": 330,
+   "sources": 115,
    "topics": 12,
    "trends": 12,
    "companies": 111,
@@ -43506,7 +44527,7 @@
    "saved_articles": 0,
    "newsletter_issues": 3,
    "social_posts": 0,
-   "runs": 52
+   "runs": 53
   }
  }
 }
