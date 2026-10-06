@@ -6752,15 +6752,15 @@
    },
    "evidence": "ALTO",
    "scoring": {
-    "score": 71,
-    "priority": 71,
-    "base": 51,
+    "score": 69,
+    "priority": 69,
+    "base": 49,
     "breakdown": {
      "agro": 25,
      "tech": 0,
      "business": 3.3,
      "mexico": 15,
-     "recency": 4,
+     "recency": 2,
      "source": 4
     },
     "bonuses": {
@@ -6769,8 +6769,8 @@
     },
     "penalties": {}
    },
-   "score": 71,
-   "priority": 71,
+   "score": 69,
+   "priority": 69,
    "status": "VERIFICADO",
    "analysis_complete": true,
    "publishable": true,
@@ -30967,15 +30967,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 54,
-    "priority": 54,
-    "base": 44,
+    "score": 51,
+    "priority": 51,
+    "base": 41,
     "breakdown": {
      "agro": 8.3,
      "tech": 20,
      "business": 3.3,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 2
     },
     "bonuses": {
@@ -30983,8 +30983,8 @@
     },
     "penalties": {}
    },
-   "score": 54,
-   "priority": 54,
+   "score": 51,
+   "priority": 51,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -31278,15 +31278,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 69,
-    "priority": 69,
-    "base": 59,
+    "score": 66,
+    "priority": 66,
+    "base": 56,
     "breakdown": {
      "agro": 25,
      "tech": 0,
      "business": 16.7,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -31294,8 +31294,8 @@
     },
     "penalties": {}
    },
-   "score": 69,
-   "priority": 69,
+   "score": 66,
+   "priority": 66,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -31381,14 +31381,14 @@
    "evidence": "MEDIO",
    "scoring": {
     "score": 100,
-    "priority": 129,
-    "base": 79,
+    "priority": 126,
+    "base": 76,
     "breakdown": {
      "agro": 25,
      "tech": 20,
      "business": 16.7,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -31401,7 +31401,7 @@
     "penalties": {}
    },
    "score": 100,
-   "priority": 129,
+   "priority": 126,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -31908,22 +31908,22 @@
    },
    "evidence": "ALTO",
    "scoring": {
-    "score": 36,
-    "priority": 36,
-    "base": 36,
+    "score": 33,
+    "priority": 33,
+    "base": 33,
     "breakdown": {
      "agro": 4.2,
      "tech": 8,
      "business": 0,
      "mexico": 12,
-     "recency": 10,
+     "recency": 7,
      "source": 2
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 36,
-   "priority": 36,
+   "score": 33,
+   "priority": 33,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -32330,14 +32330,14 @@
    "evidence": "MEDIO",
    "scoring": {
     "score": 100,
-    "priority": 108,
-    "base": 78,
+    "priority": 105,
+    "base": 75,
     "breakdown": {
      "agro": 25,
      "tech": 16,
      "business": 20,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -32348,7 +32348,7 @@
     "penalties": {}
    },
    "score": 100,
-   "priority": 108,
+   "priority": 105,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -32550,14 +32550,14 @@
    "evidence": "MEDIO",
    "scoring": {
     "score": 100,
-    "priority": 127,
-    "base": 97,
+    "priority": 124,
+    "base": 94,
     "breakdown": {
      "agro": 25,
      "tech": 20,
      "business": 20,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -32568,7 +32568,7 @@
     "penalties": {}
    },
    "score": 100,
-   "priority": 127,
+   "priority": 124,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -34504,15 +34504,15 @@
    },
    "evidence": "ALTO",
    "scoring": {
-    "score": 49,
-    "priority": 49,
-    "base": 39,
+    "score": 46,
+    "priority": 46,
+    "base": 36,
     "breakdown": {
      "agro": 4.2,
      "tech": 0,
      "business": 0,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 10
     },
     "bonuses": {
@@ -34520,8 +34520,8 @@
     },
     "penalties": {}
    },
-   "score": 49,
-   "priority": 49,
+   "score": 46,
+   "priority": 46,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -34603,15 +34603,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 20,
-    "priority": 20,
-    "base": 40,
+    "score": 17,
+    "priority": 17,
+    "base": 37,
     "breakdown": {
      "agro": 4.2,
      "tech": 0,
      "business": 6.7,
      "mexico": 12,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -34621,8 +34621,8 @@
      "duplicado": -30
     }
    },
-   "score": 20,
-   "priority": 20,
+   "score": 17,
+   "priority": 17,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -37172,16 +37172,28 @@
     "MEXICO": 1
    },
    "duplicate_of": null,
-   "related_ids": [],
+   "related_ids": [
+    "agv-40164967",
+    "agv-809279fa"
+   ],
    "verification": {
-    "evidence": "BAJO",
-    "computed_evidence": "BAJO",
-    "status": "NO VERIFICADO",
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
     "source_role": "fuente secundaria",
-    "corroborations": [],
+    "corroborations": [
+     {
+      "name": "COPE",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPdWpXUjJwT0tnam82cy1McWhHbUtsWFVlQVY5bEZSRnZPbXMtbGFqVHktQkRDWHZCUTNWd01ic3laRVoyUnBBVmdOVjJGQjRyM2l0VmFDMDc5QnVvN3ZYNUVjb1lHUEV6WWdPcy15a1RuV01YTllROC1MSFhidWJVTlU0N2Y4amt3VW5qVElnWHJ6YXZXSG5XN25GOVlSX0UzZXFwX3FIOV94WkRpaHhZUjFsWE1Kc3FrWldOTkdVOWlqa0FyVDNlX2ozbUdNNjBtc05UMlN3YUdyZURBeXdfLWNCc0sydnZuQlVUd3lOSm52YlZiSW9UUGFIaEpCZ1F2eVNKWGthOUFiTEh4djY2Z1JwaWh0VzEyWmdpLVdDaWwxVFZPSE81ajhKekR3cWxmMG9DNUVIU2xwRGJBR244U3Y2RFRvZ1RoUjVtV0hFT2ZYUkXSAdgCQVVfeXFMT0lTZG5mZEZNYTMzM05lb0NGZGFNMm9PR1B2SFBOUm5mMzFKUEw3NzQtQkU3ZXhRamV3WEtCcm9qV3pIaTlmd1RSU3NzRXNUcUk5aDhvRE5rQ2g1OGhUV0lTWGNTTFBYNW5sU1hnR01ZWnpZLUlhOWFBQUZjaFB0bEtVSHlHOWo0cGpGNkJMUVo1bUI2M1pHMzI0c2RQTmctaEFjQVNINFFxWmNVYjJvRVF3UUdBalBIU01OTERrTlNqeElybDlDV2JtZDUtV3l2LTFIUGxSVV9XeGk0MlBYYUpLOVBfNFhSNHF5THNudDJ4SU1rcGduWkNHc1VoYW45ZnZtUlk2RWNNMVl6bFdTX1J0WjVDUVhCZTVUOEFBSmZpOWltVEl0elNXbDN5a3JvdGtIWVBTaVRsRnZYZllfaTdaM0h2OFVXX2V4dGFFVEdjT053UE9Mc3g?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "tier": 0,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-40164967"
+     }
+    ],
     "warnings": []
    },
-   "evidence": "BAJO",
+   "evidence": "MEDIO",
    "scoring": {
     "score": 43,
     "priority": 43,
@@ -37199,7 +37211,7 @@
    },
    "score": 43,
    "priority": 43,
-   "status": "NO VERIFICADO",
+   "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
    "suggested_formats": [
@@ -37944,6 +37956,1724 @@
    ],
    "suggested_content": [],
    "interview_ideas": []
+  },
+  {
+   "id": "agv-40164967",
+   "retrieved_at": "2026-10-06T12:21:07.079Z",
+   "ingested_via": "googlenews",
+   "title_original": "Acelera Pyme Guadalajara acerca la inteligencia artificial al sector agrícola con talleres gratuitos: \"Cuando vean el ahorro de tiempo van a decir por qué no he estado antes en algún otro curso\"",
+   "title_agrovision": "",
+   "source_name": "COPE",
+   "source_domain": "cope.es",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPdWpXUjJwT0tnam82cy1McWhHbUtsWFVlQVY5bEZSRnZPbXMtbGFqVHktQkRDWHZCUTNWd01ic3laRVoyUnBBVmdOVjJGQjRyM2l0VmFDMDc5QnVvN3ZYNUVjb1lHUEV6WWdPcy15a1RuV01YTllROC1MSFhidWJVTlU0N2Y4amt3VW5qVElnWHJ6YXZXSG5XN25GOVlSX0UzZXFwX3FIOV94WkRpaHhZUjFsWE1Kc3FrWldOTkdVOWlqa0FyVDNlX2ozbUdNNjBtc05UMlN3YUdyZURBeXdfLWNCc0sydnZuQlVUd3lOSm52YlZiSW9UUGFIaEpCZ1F2eVNKWGthOUFiTEh4djY2Z1JwaWh0VzEyWmdpLVdDaWwxVFZPSE81ajhKekR3cWxmMG9DNUVIU2xwRGJBR244U3Y2RFRvZ1RoUjVtV0hFT2ZYUkXSAdgCQVVfeXFMT0lTZG5mZEZNYTMzM05lb0NGZGFNMm9PR1B2SFBOUm5mMzFKUEw3NzQtQkU3ZXhRamV3WEtCcm9qV3pIaTlmd1RSU3NzRXNUcUk5aDhvRE5rQ2g1OGhUV0lTWGNTTFBYNW5sU1hnR01ZWnpZLUlhOWFBQUZjaFB0bEtVSHlHOWo0cGpGNkJMUVo1bUI2M1pHMzI0c2RQTmctaEFjQVNINFFxWmNVYjJvRVF3UUdBalBIU01OTERrTlNqeElybDlDV2JtZDUtV3l2LTFIUGxSVV9XeGk0MlBYYUpLOVBfNFhSNHF5THNudDJ4SU1rcGduWkNHc1VoYW45ZnZtUlk2RWNNMVl6bFdTX1J0WjVDUVhCZTVUOEFBSmZpOWltVEl0elNXbDN5a3JvdGtIWVBTaVRsRnZYZllfaTdaM0h2OFVXX2V4dGFFVEdjT053UE9Mc3g?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmi0wjbvv95cuxpdwpxujjwt0tnam82cy1mcwhhbutswfvlqvy5bezsrnzpbxmtbgfqvhktqkrdwhzcutnwd01ic3larvoyunbbvmdovjjgqjrym2l0vmfdmdc5qnvvn3zynuvjb1lhuev6wwdpcy15a1ruv01ytllroc1msfhidwjvtlu0n2y4amt3vw5qvelnwhj6yxzxsg5xn25govlsx0uzzxfwx3fiov94wkrpahhzujfswe1kc3frwldotkdvowlqa0fyvdnlx2ozbudnnjbtc05umln3yudyzurbexdflwncc0sydnzuqlvud3losm52ylzisw9uugfiaepcz1f2evnkwgthoufiteh4djy2z1jwawh0vzeywmdplvddawwxvfzpse81ajhkekr3cwxmmg9dnuviu2xwrgjbr244u3y2rfrvz1roujvtv0hft2zyukxsadgcqvvfexfmt0ltzg5mzeznytmzm05lb0ngzgfnmm9pr1b2sfboum5mmzfkuew3nzqtqku3zxhramv3wetccm9qv3piatlmd1rsu3nzrxnucuk5adhvre5rq2g1oghuv0ltwgnttfbynw5su1hnr01zwnpzlulhowfbquzjafb0betvshlhowo0cgpgnkjmuvo1bui2m1phmzi0c2rqtmctaefjqvninffxwmnvyjjvrvf3uudbalbiu01oterrtlnqeelybdldv2jtzdutv3l2ltfiugxsvv9xegk0mlbyyuplovbfnfhsnhf5thnuddj4su1rcgduwknhc1voyw45znztulk2rwnnmvl6bfdtx1j0wjvduvhcztvuoefbsmzpowltvel0elnxbdn5a3jvdgtiwvbtavrsrnzyzllfatdam0h2ofvxx2v4dgffvedjt053ue9mc3g?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-10-06",
+   "country": "México",
+   "mx_state": "Jalisco",
+   "category": "MEXICO",
+   "subcategory": "Jalisco",
+   "technologies": [
+    "Inteligencia Artificial"
+   ],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [],
+   "relevance": {
+    "AGRO": 0.16666666666666666,
+    "TECH": 0.4,
+    "BUSINESS": 0.16666666666666666,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [
+    "agv-8c7b2ce8"
+   ],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [
+     {
+      "name": "Nueva Alcarria.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVkRNUjFKMlhsaXVsTjBrMGdKZF9sWG9MQ1hGVGNOdTBOUjJZaDVvWmdjemdZUkNmaE05czdzc0pCTXZfXzkzZkVONm5qckFDSklzcU5lNHFGRTFEb0oxcEFfWkpTdGFfYkZaNTAxV3FqQ1YtaUpINDJnMFRxNlBRS0N1bXd5SVR3aVJ4S25OOFZJQ2tzX1c0TmY5SGkxUkNkaGJ1bmZ5WUZTMWh6YXB1bmRFTmFRM1RWZWszWmRFZl8zMXlDck0wWVJabjZsb2xlWFEtSUN1TnBSbGl1OG5aV0xZcmVFZzA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "tier": 0,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-8c7b2ce8"
+     }
+    ],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 43,
+    "priority": 43,
+    "base": 43,
+    "breakdown": {
+     "agro": 4.2,
+     "tech": 8,
+     "business": 3.3,
+     "mexico": 15,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 43,
+   "priority": 43,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": [
+    "Voz local: productor(a) u organización de Jalisco sobre cómo les afecta este tema."
+   ]
+  },
+  {
+   "id": "agv-809279fa",
+   "retrieved_at": "2026-10-06T12:21:07.079Z",
+   "ingested_via": "googlenews",
+   "title_original": "Taller de IA para Agricultores en Acelera Pyme Guadalajara: Potenciando el Futuro de la Agricultura",
+   "title_agrovision": "",
+   "source_name": "noticias.madrid",
+   "source_domain": "noticias.madrid",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSk9tcjFBTzFHNm5hNGJPV3ZvQzdnUTJjYUZGRkNUc3dVMVFZNG9vVmkwbndFS3g5S3ZwQ0hRX3lWOXZwOC1SUzBvVG1sWkt4NjdoSkNtMXpISlQ4MWdyMTdFR3N4LUZkTDRxbk5ackg4bFotWk9CcEtodUNtMFZkS2hXa2FaOGRuVFJ4QVZFSHBUUXlMb0xualdzTDkyLWNWRjN6cDd2dW1hVEFVVEpYSmk2V1pCZnJyWVlfSkNteVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmiwafbvv95cuxqsk9tcjfbtzfhnm5hngjpv3zvqzdnutjjyuzgrknuc3dvmvfzng9vvmkwbndfs3g5s3zwq0hrx3lwoxzwoc1suzbvvg1swkt4njdoskntmxpislq4mwdymtdfr3n4luzktdrxbk5ackg4bfotwk9ccetoduntmfzks2hxa2faogruvfj4qvzfshbuuxlmb0xualdztdkylwnwrjn6cdd2dw1hvefvvepysmk2v1pcznjywvlfsknteve?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-10-06",
+   "country": "México",
+   "mx_state": "Jalisco",
+   "category": "MEXICO",
+   "subcategory": "Jalisco",
+   "technologies": [
+    "Inteligencia Artificial"
+   ],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [],
+   "relevance": {
+    "AGRO": 0.16666666666666666,
+    "TECH": 0.4,
+    "BUSINESS": 0.16666666666666666,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [
+    "agv-8c7b2ce8"
+   ],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [
+     {
+      "name": "Nueva Alcarria.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVkRNUjFKMlhsaXVsTjBrMGdKZF9sWG9MQ1hGVGNOdTBOUjJZaDVvWmdjemdZUkNmaE05czdzc0pCTXZfXzkzZkVONm5qckFDSklzcU5lNHFGRTFEb0oxcEFfWkpTdGFfYkZaNTAxV3FqQ1YtaUpINDJnMFRxNlBRS0N1bXd5SVR3aVJ4S25OOFZJQ2tzX1c0TmY5SGkxUkNkaGJ1bmZ5WUZTMWh6YXB1bmRFTmFRM1RWZWszWmRFZl8zMXlDck0wWVJabjZsb2xlWFEtSUN1TnBSbGl1OG5aV0xZcmVFZzA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "tier": 0,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-8c7b2ce8"
+     }
+    ],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 53,
+    "priority": 53,
+    "base": 43,
+    "breakdown": {
+     "agro": 4.2,
+     "tech": 8,
+     "business": 3.3,
+     "mexico": 15,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {
+     "afecta_productores": 10
+    },
+    "penalties": {}
+   },
+   "score": 53,
+   "priority": 53,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": [
+    "Voz local: productor(a) u organización de Jalisco sobre cómo les afecta este tema."
+   ]
+  },
+  {
+   "id": "agv-5dac2c2f",
+   "retrieved_at": "2026-10-06T12:21:07.079Z",
+   "ingested_via": "googlenews",
+   "title_original": "Drones agrícolas provocan daños por herbicidas: detectan tres casos en el Valle de Culiacán",
+   "title_agrovision": "",
+   "source_name": "Luz Noticias",
+   "source_domain": "luznoticias.mx",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUEE4WDdMVzJSNVJNWDZEbndFcC1zY29xWnVQaVp3ZGgwbjQ4WlhLSjFYUW5uOExMTkJvdEY2aXVrV3VOYWV1WkxLeUw3Vy04WV9xTEw3aGh1b0tKTUJLZzRyUHFDZ3dTcTU2bTA3aXREQnpLSlJoRXhGbjNrLU1OVVdxRTctLXpVZkZwT3RTc3J1Z2NPZDBuOWZHbGNjYkRjY1NoOEE0R2tIQkdlM2FTNzcxZzFVWFhpcDM5enVuT0R6c3ZQSnZMX1dVM2FpOC0wX2RUbFFuUdIB3AFBVV95cUxNcy1CU1JGdjQzRHoya1ZQRE5QRzdWZjJZY012cHVjV2E4SEVOdFlwbHlpb1VGNzAxSTFQT2NrcF8zTDByV1N6Qm9lMXdSdmRBWFFkNHNyTG55T0hINVRnamNVRTMxNUplWmZ5RTdIVTNMZndiSWk4Y2NYOEZjd3k1ZmdwTFVYREY4bFV0X1VlRWlhLUFURDVMNVVqYkdjWElvTFhKekdBWm4xV2JWNS04MHBvbS13bFFnd2xkRmhqLTMyRkM2MDF4QlU2SkxFVmMwUUR5S0d6VEM5TE5t?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmi1wfbvv95cuxquee4wddmvzjsnvjnwdzebndfcc1zy29xwnvqavp3zggwbjq4wlhlsjfyuw5uoexmtkjvdey2axvrv3voywv1wkxleuw3vy04wv9xtew3agh1b0tktujlzzryuhfdz3dtctu2bta3axreqnplsljorxhgbjnrlu1ovvdxrtctlxpvzkzwt3rtc3j1z2npzdbuowzhbgnjykrjy1nooee0r2tiqkdlm2ftnzcxzzfvwfhpcdm5envut0r6c3zqsnzmx1dvm2fpoc0wx2rubffuudib3afbvv95cuxncy1cu1jgdjqzrhoya1zqre5qrzdwzjjzy012chvjv2e4sevodflwbhlpb1vgnzaxstfqt2nrcf8ztdbyv1n6qm9lmxdsdmrbwffknhnytg55t0hinvrnamnvrtmxnuplwmz5rtdivtnmzndiswk4y2nyoezjd3k1zmdwtfvyrey4bfv0x1vlrwlhlufurdvmnvvqykdjwelvtfhkekdbwm4xv2jwns04mhbvbs13bffnd2xkrmhqltmyrkm2mdf4qlu2skxfvmmwuur5s0d6vem5te5t?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-10-05",
+   "country": "México",
+   "mx_state": "Sinaloa",
+   "category": "MEXICO",
+   "subcategory": "Sinaloa",
+   "technologies": [
+    "Drones"
+   ],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [],
+   "relevance": {
+    "AGRO": 0.16666666666666666,
+    "TECH": 0.4,
+    "BUSINESS": 0,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 39,
+    "priority": 39,
+    "base": 39,
+    "breakdown": {
+     "agro": 4.2,
+     "tech": 8,
+     "business": 0,
+     "mexico": 15,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 39,
+   "priority": 39,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": [
+    "Voz local: productor(a) u organización de Sinaloa sobre cómo les afecta este tema."
+   ]
+  },
+  {
+   "id": "agv-06e59d39",
+   "retrieved_at": "2026-10-06T12:21:07.079Z",
+   "ingested_via": "googlenews",
+   "title_original": "Llaman en Sinaloa a usar drones con cautela para evitar daños a cultivos",
+   "title_agrovision": "",
+   "source_name": "Quadratín Michoacán",
+   "source_domain": "sinaloa.quadratin.com.mx",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS3BIQ2dYMlRsV0JjXzJ5OURNektxZFN4aHdzOFB6elY4ZFhqWl93dkdMbFQzd3VoYWV1SVFsOVA1ZU9JQWFXRWxCSEZ1b3hfQURrSWYyTUlfcnE4NGdLYlpOTDVWWVF0bnBNcEVITWU2dXl5XzVYWTJ5LWZkY3huTWNkN1Y0ckdqUFlsQU9OS3lQc1o2bWdEUjFScVlmTk8wazZXTE1sa3FCUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmiqgfbvv95cuxqs3biq2dymlrsv0jjxzj5ournektxzfn4ahdzofb6ely4zfhqwl93dkdmbfqzd3voywv1svfsova1zu9jqwfxrwxcsez1b3hfqurrswyytulfcne4ngdlylpotdvwwvf0bnbncevitwu2dxl5xzvywtj5lwzky3hutwnkn1y0ckdquflsqu9os3lqc1o2bwdeujfscvlmtk8wazzxte1sa3fcuq?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-10-05",
+   "country": "México",
+   "mx_state": "Sinaloa",
+   "category": "MEXICO",
+   "subcategory": "Sinaloa",
+   "technologies": [
+    "Drones"
+   ],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [],
+   "relevance": {
+    "AGRO": 0.16666666666666666,
+    "TECH": 0.4,
+    "BUSINESS": 0,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 39,
+    "priority": 39,
+    "base": 39,
+    "breakdown": {
+     "agro": 4.2,
+     "tech": 8,
+     "business": 0,
+     "mexico": 15,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 39,
+   "priority": 39,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": [
+    "Voz local: productor(a) u organización de Sinaloa sobre cómo les afecta este tema."
+   ]
+  },
+  {
+   "id": "agv-43b17f08",
+   "retrieved_at": "2026-10-06T12:21:07.079Z",
+   "ingested_via": "googlenews",
+   "title_original": "Chihuahua enfrenta un duro golpe: el frijol podría perder hasta 50% de la cosecha",
+   "title_agrovision": "",
+   "source_name": "AgroLatam",
+   "source_domain": "agrolatam.com",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONTFtbGk1cFpvQlVxaHVIYkVKZnZfeUVtcDBKb01DYWZjTWs0bHR0QjBTQXBfTDBOeUI0TVRpc21IVjNWbUt1eXpBZ1FYdXJFWlZhd1dTOXowNlRpU3pFbnc3N3piRGxRY1AwWDNpRy02ZUtzalBrS0RpSFY1RW0xbm1KZ093LVR1bUowek1wd2FKWmlpSGoyaTUyNGNrN3ZHdTUxVWJhbW14TzE0SHJTMGt5Vm1jWnNPTnRsY0REaUtlSlR2RTNrckx4Tlk?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmizafbvv95cuxontftbgk1cfpvqlvxahviykvkznzfeuvtcdbkb01dywzjtws0bhr0qjbtqxbftdboeui0tvrpc21ivjnwbut1expbz1fydxjfwlzhd1dtoxownlrpu3pfbnc3n3pirgxry1awwdnpry02zutzalbrs0rpsfy1rw0xbm1kz093lvr1buowek1wd2fkwmlpsgoyatuyngnrn3zhdtuxvwjhbw14tze0shjtmgt5vm1jwnnptnrsy0reautlslr2rtnrckx4tlk?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-10-05",
+   "country": "México",
+   "mx_state": "Chihuahua",
+   "category": "MEXICO",
+   "subcategory": "Chihuahua",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [],
+   "relevance": {
+    "AGRO": 0.3333333333333333,
+    "TECH": 0,
+    "BUSINESS": 0,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 35,
+    "priority": 35,
+    "base": 35,
+    "breakdown": {
+     "agro": 8.3,
+     "tech": 0,
+     "business": 0,
+     "mexico": 15,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 35,
+   "priority": 35,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": [
+    "Voz local: productor(a) u organización de Chihuahua sobre cómo les afecta este tema."
+   ]
+  },
+  {
+   "id": "agv-fe4d140e",
+   "retrieved_at": "2026-10-06T12:21:07.079Z",
+   "ingested_via": "googlenews",
+   "title_original": "Fija Agricultura base mínima de 47 dólares por tonelada para trigo harinero en Sinaloa",
+   "title_agrovision": "",
+   "source_name": "www.noroeste.com.mx",
+   "source_domain": "noroeste.com.mx",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbE9wSGZabE5QZmxSczkxdGRRZllhbnUwa0NHelJPaXhWbERNU3c0b1hjbm11VjlhQUJmV0p2eG5aZkhHdVVzbnRGMk5RbXlJaXA3T0NNZGlKSko4MFEtaHFQMFFLTVJxajUtR3gwSnNNUi13UHJXX1BBWDR3RFhhc29ZYUlIaXdBbVYtUnNOc0duaEhkWkg5Y0tveWdTMm80NnJLWUNQdTlOM0NfNDBQX2swaGxUV1lKME9vdUltQnpoR0RTRzF4MTZwZlRnTVhGczVz0gHYAUFVX3lxTE5CdE5XMS1uaFowT3NYaW90S3lFV0lIeEZCb05yX1QyR3d5ZU84V0NMMWdkRElGbVpra1Jkdk1zcm9WNk9uY1NRRUJhQUJnQkk3T1BGMF9kWGswNmxwUzRmWGVxOGwwUERKQjVPZGRKNWVmcjBvT21ZNzFOOXBCN01VbEpfSFZENmEtYWFucy1NeGZHbzFXT2NzZFNUbWZlMFVTMllPZng5cm9mNkdQZUgtSGtZT25keERMamxRajJQZWNfcjZPZUxYMVZZYzRIemdZdjVoMVBwYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmi0wfbvv95cuxqbe9wsgzabe5qzmxsczkxdgrrzllhbnuwa0nheljpaxhwbernu3c0b1hjbm11vjlhqujmv0p2eg5azkhhdvvzbnrgmk5rbxljaxa3t0nnzglksko4mfetahfqmffltvjxajutr3gwsnnnui13uhjxx1bbwdr3rfhhc29zyuliaxdbbvytunnoc0duaehkwkg5y0tvewdtmm80nnjlwunqdtlom0nfndbqx2swagxuv1lkme9vdultqnpor0rtrzf4mtzwzlrntvhgczvz0ghyaufvx3lxte5cde5xms1uafowt3nyaw90s3lfv0lieezcb05yx1qyr3d5zu84v0nmmwdkrelgbvpra1jkdk1zcm9wnk9uy1nrrujhqujnqkk3t1bgmf9kwgswnmxwuzrmwgvxogwwuerkqjvpzgrknwvmcjbvt21znzfooxbcn01vbepfsfzenmetywfucy1negzhbzfxt2nzzfnubwzlmfvtmllpzng5cm9mnkdqzugtsgtzt25keermamxrajjqzwnfcjzpzuxymvzzyzriemdzdjvomvbwyw?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-10-01",
+   "country": "México",
+   "mx_state": "Sinaloa",
+   "category": "MEXICO",
+   "subcategory": "Sinaloa",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [],
+   "relevance": {
+    "AGRO": 0.3333333333333333,
+    "TECH": 0,
+    "BUSINESS": 0,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 35,
+    "priority": 35,
+    "base": 35,
+    "breakdown": {
+     "agro": 8.3,
+     "tech": 0,
+     "business": 0,
+     "mexico": 15,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 35,
+   "priority": 35,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": [
+    "Voz local: productor(a) u organización de Sinaloa sobre cómo les afecta este tema."
+   ]
+  },
+  {
+   "id": "agv-b7c2cf32",
+   "retrieved_at": "2026-10-06T12:21:07.079Z",
+   "ingested_via": "googlenews",
+   "title_original": "Diálogo científico México-Japón",
+   "title_agrovision": "",
+   "source_name": "Gob MX",
+   "source_domain": "gob.mx",
+   "source_type": "primary",
+   "source_tier": 1,
+   "source_kind": "gobierno",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zUXFxY2pMeG5DSkVCN0xzT1YxRXNnWF9fRWNoRGJ4ckdVd0lNWDVmbE9oeG5pQVMydUViQTVVejU0YTlrT3hXZHpRbVgzTk9uVFRRVlN6bTh4UElMR1JwTlhYNlNwRGZrTkVBYUlzMnUzQ1g0UUU1MFhIQnl5Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmifkfvx3lxte5zuxfxy2pmeg5dskvcn0xzt1yxrxnnwf9frwnorgj4ckdvd0lnwdvmbe9oeg5pqvmyduviqtvveju0ytlrt3hxzhprbvgztk9uvfrrvln6bth4uelmr1jwtlhynlnwrgzrtkvbyulzmnuzq1g0uuu1mfhiqnl5zw?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-10-01",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "TECH",
+   "subcategory": null,
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 0,
+    "TECH": 0,
+    "BUSINESS": 0,
+    "MEXICO": 0.6666666666666666
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "ALTO",
+    "computed_evidence": "ALTO",
+    "status": "VERIFICADO",
+    "source_role": "fuente primaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "ALTO",
+   "scoring": {
+    "score": 32,
+    "priority": 32,
+    "base": 32,
+    "breakdown": {
+     "agro": 0,
+     "tech": 0,
+     "business": 0,
+     "mexico": 12,
+     "recency": 10,
+     "source": 10
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 32,
+   "priority": 32,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-df17dd98",
+   "retrieved_at": "2026-10-06T12:21:07.079Z",
+   "ingested_via": "googlenews",
+   "title_original": "Digital Agriculture Market Expands as US$259 Million Invested in AgTech Startups",
+   "title_agrovision": "",
+   "source_name": "openPR.com",
+   "source_domain": "openpr.com",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ3ZST3JlTi1YbngyM1Q2N1R3UWVFSWVydVVwcWJ1cUFwLXRBcFl2bzhUNzJnUEItSHNHRG9FWGllTE9VTWhHV1lRWlZsbGxOT0x4VE5LWTZYRWpiaTFUTWR0RGxlOVZFdGpJS2lHNzRMRXhiQlh1U05oaVN6STJlTUI4Q21mWGFuaFE1TFZWUS03WWZSMEFjSXVhbjhHZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmingfbvv95cuxpq3zst3jlti1ybngym1q2n1r3uwvfswvydvvwcwj1cufwlxrbcfl2bzhunzjnueitshnhrg9fwgllte9vtwhhv1lrwlzsbgxot0x4ve5lwtzyrwpiatfutwr0rgxlovzfdgpjs2lhnzrmrxhiqlh1u05oavn6stjltui4q21mwgfuafe1tfzwus03wwzsmefjsxvhbjhhzw?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-10-05",
+   "country": "Global",
+   "mx_state": null,
+   "category": "TECH",
+   "subcategory": "Agricultura de precisión",
+   "technologies": [
+    "Agricultura de precisión",
+    "Software"
+   ],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [],
+   "relevance": {
+    "AGRO": 0.3333333333333333,
+    "TECH": 0.8,
+    "BUSINESS": 0.3333333333333333,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 63,
+    "priority": 63,
+    "base": 43,
+    "breakdown": {
+     "agro": 8.3,
+     "tech": 16,
+     "business": 6.7,
+     "mexico": 0,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {
+     "impacto_economico": 10,
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 63,
+   "priority": 63,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?",
+    "Startup que debes conocer"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-298b6c91",
+   "retrieved_at": "2026-10-06T12:21:07.079Z",
+   "ingested_via": "googlenews",
+   "title_original": "Rail-mounted Agricultural Picking Robot Market to Grow at 12.9% CAGR During 2026-2032, Driven by Farm Automation",
+   "title_agrovision": "",
+   "source_name": "openPR.com",
+   "source_domain": "openpr.com",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT1ZYYTRtU3dtcTRYVHNfZmVqUU11STR2aVlSajJjYmlrdTZFdzUtSVpGVGptNVlRM3hLT0J6T2Roc050ZUF1bmswNE82Zms0dnU4ZENNUzFsRjB5ZmNxbGZrRjBKTkdZbkx1RFd2TlF0eXgwamJIODFxRzFvbklMdnR2eEVaNUdER0podEhLUnp3ZVE4VVhPeGhSZWhmZzg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbminwfbvv95cuxqt1zyytrtu3dtctryvhnfzmvquu11str2avlsajjjymlrdtzfdzutsvpgvgptnvlrm3hlt0j6t2roc050zuf1bmswne82zms0dnu4zennuzfsrjb5zmnxbgzrrjbktkdzbkx1rfd2tlf0exgwamjiodfxrzfvbklmdnr2eevanuder0podehlunp3zve4vvhpeghszwhmzzg?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-10-06",
+   "country": "Global",
+   "mx_state": null,
+   "category": "TECH",
+   "subcategory": "Robótica",
+   "technologies": [
+    "Robótica",
+    "Automatización"
+   ],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [],
+   "relevance": {
+    "AGRO": 0.3333333333333333,
+    "TECH": 0.8,
+    "BUSINESS": 0.16666666666666666,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 50,
+    "priority": 50,
+    "base": 40,
+    "breakdown": {
+     "agro": 8.3,
+     "tech": 16,
+     "business": 3.3,
+     "mexico": 0,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 50,
+   "priority": 50,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-a33c95e8",
+   "retrieved_at": "2026-10-06T12:21:07.079Z",
+   "ingested_via": "googlenews",
+   "title_original": "AGCO Tech Day 2026 Spotlights Autonomy, AI and Mixed-Fleet Solutions to Enhance Farmer Profitability",
+   "title_agrovision": "",
+   "source_name": "PR Newswire",
+   "source_domain": "prnewswire.com",
+   "source_type": "primary",
+   "source_tier": 1,
+   "source_kind": "empresa",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQkJGU19xMS1sYUF0S0dLWjVZdVpnamxmdFZZaTBHeGFnQW1WTmZBeEFIb2FmTkxaOEhUbmtfOXVnYzNzSWRwTEx2NkIzNEpJVHQ1R2lQZHRpSHpoVERSc21RTXBTOW50MjJuVFAxQUhKaGdTQXVPNlFjZV9TaGNqdHRoTDNnbkwySkg0TjV4NUVwbF9XOGlVcVAzVmZKUnlST1hCLURwcGtQQmZaZ3Y0REF6Smd2TFZ1MGQ0NlZSYUJFTThRekNsb0ExVkJxd1RKNGJpdHk5WVQxZ3Y1RURXWXFjdXZPWURFOTNz?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmi6wfbvv95cuxoqkjgu19xms1syuf0s0dlwjvzdvpnamxmdfzzatbhegfnqw1wtmzbeefib2fmtkxaoehubmtfoxvnyznzswrwtex2nkiznepjvhq1r2lqzhrpshpoversc21rtxbtow50mjjuvfaxquhkagdtqxvpnlfjzv9tagnqdhrotdnnbkwyskg0tjv4nuvwbf9xoglvcvazvmzkunlst1hclurwcgtqqmzaz3y0ref6smd2tfz1mgq0nlzsyujftthreknsb0exvkjxd1rkngjpdhk5wvqxz3y1rurxwxfjdxzpwurfotnz?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-10-05",
+   "country": "Global",
+   "mx_state": null,
+   "category": "TECH",
+   "subcategory": "Inteligencia Artificial",
+   "technologies": [
+    "Inteligencia Artificial",
+    "Robótica"
+   ],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [],
+   "relevance": {
+    "AGRO": 0,
+    "TECH": 0.8,
+    "BUSINESS": 0.16666666666666666,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "ALTO",
+    "computed_evidence": "ALTO",
+    "status": "VERIFICADO",
+    "source_role": "fuente primaria",
+    "corroborations": [],
+    "warnings": [
+     "Fuente corporativa sin corroboración independiente: presentar como \"según la empresa\"."
+    ]
+   },
+   "evidence": "ALTO",
+   "scoring": {
+    "score": 49,
+    "priority": 49,
+    "base": 39,
+    "breakdown": {
+     "agro": 0,
+     "tech": 16,
+     "business": 3.3,
+     "mexico": 0,
+     "recency": 10,
+     "source": 10
+    },
+    "bonuses": {
+     "afecta_productores": 10
+    },
+    "penalties": {}
+   },
+   "score": 49,
+   "priority": 49,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-60f299b1",
+   "retrieved_at": "2026-10-06T12:21:07.079Z",
+   "ingested_via": "rss",
+   "title_original": "🎥 Resurrect Bio reawakens plants’ natural defenses: ‘It’s very targeted, almost like personalized medicine’",
+   "title_agrovision": "",
+   "source_name": "AgFunderNews",
+   "source_domain": "agfundernews.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://agfundernews.com/%f0%9f%8e%a5-resurrect-bio-reawakens-plants-natural-defenses-its-very-targeted-almost-like-personalized-medicine",
+   "canonical_url": "https://agfundernews.com/%f0%9f%8e%a5-resurrect-bio-reawakens-plants-natural-defenses-its-very-targeted-almost-like-personalized-medicine",
+   "published_at": "2026-10-05",
+   "country": "Global",
+   "mx_state": null,
+   "category": "TECH",
+   "subcategory": "Biotecnología",
+   "technologies": [
+    "Inteligencia Artificial",
+    "Software",
+    "Biotecnología"
+   ],
+   "companies": [],
+   "content": "In the evolutionary arms race between plants and pathogens, the pathogens often find a way around the plant’s defenses. Resurrect Bio has a novel, chemical-free approach to help crops fight back.\n[Disclosure: AgFunderNews’ parent company AgFunder is an investor in Resurrect Bio]\nIn the evolutionary arms race between plants and pathogens, the pathogens often find a way around the plant’s defenses. Resurrect Bio has a novel, chemical-free approach to help crops fight back.\nRather than importing resistance genes from wild relatives or knocking out genes that make crops susceptible to disease, UK-based Resurrect Bio uses AI to map interactions between plant immune receptors and proteins deployed by pathogens and pests to suppress or evade an immune response.\nIt can then pinpoint precisely where partners at seed companies can make gene edits in the plant to disrupt those interactions, effectively locking pathogens out and allowing plants to defend themselves again.\nThe approach could enable crops to fight off threats including fungi, oomycetes and nematodes without the need for chemical crop inputs, an appealing proposition as farmers seek to reduce pesticide use and grapple with rising resistance to existing chemistries.\nAgFunderNews ( AFN ) caught up with cofounder and CEO Cian Duggan (CD) at the World Agri-Tech innovation summit in London to discuss the firm’s FloraFold platform, the durability of disease resistance, and how to stay one step ahead of plant pests.\nCD: We’re finding the resistance genes, the immune receptors that are naturally occurring in plants and crops, which have been defeated by pathogens and pests through evolution.\nWe’re discovering those, and we’re engineering or designing edits which will resurrect and restore their function, so the plant can defend itself again.\nCD: In many cases, we’re looking for what we call suppressors. These are proteins from pathogens or pests that are secreted inside plant cells, and they often directly bind plant immune receptors, and they block the function of that immune receptor and stop the immune system doing its job.\nThe other way that it can happen is that pathogen proteins are doing something else in the cell. They’re trying to subvert the cell in some other way, and the plant has evolved a way of detecting it. But then the pathogen escapes that recognition, and we’re re-establishing that recognition.\nSo it can be both a positive and a negative thing that we’re trying to achieve. We’re trying to either break an interaction or fix an interaction.\nCD : We start with our FloraFold AI platform , which is a protein folding tool. It enables us to try to predict protein-protein interactions, so we can scale that really nicely. The name comes from Google Deepmind’s AlphaFold [protein structure database], but it’s tailored towards plants, plant pathogens, and plant pests.\nIt’s quite a niche use case, but a very important use case. It’s really there to reduce the search space because there are so many plant immune receptors and pathogen proteins. We’re trying to reduce the search space so that our wet lab, which is the majority of our work, has to screen fewer things.\nThen the third step in our process is the resurrection step. So that is protein engineering. We’re designing the smallest number of DNA changes possible to either break that suppression interaction or enable the redetection of a pathogen, and we license those [genome] edits to seed companies or plant breeders.\nAFN : If you start trying to resurrect a plant’s natural immunity, are there any downsides/tradeoffs?\nCD : Anything you do to a plant can have downsides and upsides. Conventional breeding has that, and it can have many negative effects. So they select for the rare positive ones. But actually, our technology is so specific to these resistance genes, these resistance proteins.\nWe screen out negative effects very early on, so by the time it gets to the breeder’s hands, the chances of any unwanted effects are extremely low. Probably the lowest out of any technology out there for this, and ultimately it’s fundamentally determined by field trials.\nAFN : Can your basic approach be applied to any crop/pest interaction?\nCD: So Resurrect Bio can work on any crop, most pathogens, and many pests. We’re designing a trait against potato blight or against a virus. It’s usually species specific; it’s not a one-size-fits-all. We don’t just design one trait like Bt, for instance, and put it into multiple crops. But rather, it’s a very targeted approach, almost like personalized medicine.\nWe usually choose a crop and a pathogen, and we develop a trait specifically for that. But a similar trait would work in other crops as well. So the technology really works across many crops. At the moment, for instance, we’re working on potato and tomato, which are very closely related, but we’re also working on soy and corn, which are completely unrelated plants, and even spinach, so we’re really not limited to any particular crop.\nThe only decision to make there is really a commercial one rather than a technical one.\nAFN : Plants and pathogens are in this constant evolutionary arms race. Is resistance created using your approach any more durable than any other approach?\nCD : It can be. The main thing, and something my cofounders—who are world-class academics in this area—like to say, is never bet against the pathogen. The pathogen will always win eventually, and that’s what we expect. It’s natural. We’re okay with that. It’s an arms race, and we’re just one step [ahead] in the arms race.\nBut the good news is now, thanks to technologies like ours and particularly AI, it does give us a leading edge to be able to try to predict what the pathogen is going to do next. And because we know the mode of action of how they’ve overcome these resistance issues before, we can do a pretty good job of predicting what they’ll do next. So we can try to stay one step ahead!\nAFN: How does Resurrect Bio’s approach compare to others designed to build disease resistance?\nCD : A lot of companies won’t have a platform. They’ll be looking at the literature and trying to find something from an academic lab. Many will look for wild resistance genes and introgress them. It’s quite time consuming, and often by the time you get it into the crop, there’s already a pathogen isolate that’s overcoming it because they’ve already evolved together.\nAnd the other one is what’s known as loss of susceptibility. That’s finding basically a gene in a plant that is allowing the pathogen in, I call it a back door to the plant, and they knock that out.\nThat can be quite durable, and it can be quite broad spectrum. But the downside for me is that the back doors in buildings often have a function. They’re often escape routes, right? Fire doors. So maybe by the time you get it out to the field, in a few years, a drought comes and it dies from drought and you didn’t realize.\nSo I prefer to go for resistance genes because that is naturally how plants defend themselves. They don’t defend themselves with susceptibility genes.\nCD : We have basically two ways of working together. One is we develop traits internally and then we out license those, and that’s usually for small upfront milestone payments, but ultimately with value sharing in the long run.\nAnd the other way is that partners can sponsor a project from day one, and this is a really excellent way for them to get us working on something that they really care about, and it guarantees access for them of that trait at the end.\nAFN : Europe has now moved forward on its new genomic techniques framework, so you’ve got a more streamlined pathway for gene edited crops. How significant is that for your business?\nCD : So when Resurrect Bio started five years ago, we knew eventually the EU would adopt new regulations, but we didn’t hold our breath because you never know what’s going to happen, especially with complex bureaucracies like the EU.\nSo we really focused on the Americas for our product development, always keeping in the back of our mind that one day our home turf would have regulations available. And thankfully the UK came first, and more recently, and really excitingly, because it’s a large market, the EU . So we’re really excited to produce products for all of these geographies.\nCD : We closed our Series A about six months ago , and we’ve been building our team and our capacity and capabilities for product development.\nSo now we’re really focused on executing on that product development. We’re working on soy, corn, tomato, potato, and spinach, and we’re working across several pathogens and pests in those crops. We’re focusing on those and also establishing partnerships with some big names and some smaller names as well.\nExclusive: Plantik and Hudson River Biotechnology team up to de-risk heat-tolerant strawberries\n‘Bring us your difficult trait problems’: Biographica, Hudson River partner on crop genome editing\nPairwise sees ‘dramatic uptick’ in CRISPR licensing as gene editing moves beyond row crops\nUpstream Biotechnology raises seed funding for ‘on-demand’ crop defense tech",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "AGRO",
+    "BUSINESS"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 1,
+    "BUSINESS": 1,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 100,
+    "priority": 112,
+    "base": 82,
+    "breakdown": {
+     "agro": 25,
+     "tech": 20,
+     "business": 20,
+     "mexico": 0,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {
+     "innovacion_concreta": 10,
+     "afecta_productores": 10,
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 100,
+   "priority": 112,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?",
+    "¿Quién está invirtiendo?",
+    "¿Cuánto cuesta?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-8fe1226b",
+   "retrieved_at": "2026-10-06T12:21:07.079Z",
+   "ingested_via": "rss",
+   "title_original": "Equipping today’s breeders to lead tomorrow’s crop research and development",
+   "title_agrovision": "",
+   "source_name": "CIMMYT",
+   "source_domain": "cimmyt.org",
+   "source_type": "primary",
+   "source_tier": 1,
+   "source_kind": "investigacion",
+   "url": "https://www.cimmyt.org/news/equipping-todays-breeders-to-lead-tomorrows-crop-research-and-development/",
+   "canonical_url": "https://cimmyt.org/news/equipping-todays-breeders-to-lead-tomorrows-crop-research-and-development",
+   "published_at": "2026-10-05",
+   "country": "Global",
+   "mx_state": null,
+   "category": "TECH",
+   "subcategory": "Biotecnología",
+   "technologies": [
+    "Inteligencia Artificial",
+    "Drones",
+    "Automatización",
+    "Software",
+    "Datos",
+    "Biotecnología"
+   ],
+   "companies": [],
+   "content": "A three-day CIMMYT-BISA Training Workshop at Hyderabad, India, introduced wheat and maize breeders across the national agricultural research system to emerging AI-driven tools and applications in crop breeding and data management.\nThis hypothetical question, posed at the Training Workshop on AI-driven Crop Breeding and Data Management organized by CIMMYT-BISA in Hyderabad, gave 33 wheat and maize breeders from the National Agricultural Research System in India, including ICAR institutions and State Agricultural Universities, besides CIMMYT and BISA, reason to pause and reflect.\nAfter few responses from participants, BM Prasanna , workshop convener and CIMMYT Distinguished Scientist and Regional Director Asia & Managing Director of Borlaug Institute for South Asia, offered his thoughts: “No. It will, however, transform crop breeding in the near future. AI’s value is in augmenting breeders’ expertise and helping them make faster, and more informed decisions using complex multimodal data. And that is what this training, a first of its kind in India, is aiming to achieve.”\nChristian Werner, Quantitative Geneticist at CIMMYT , who presented CIMMYT’s perspective on the use of AI in crop breeding, put the challenge more sharply: “Breeders who adapt and learn to work with emerging technologies will be better equipped for the future.”\nBehind the remark was an important distinction. The future of crop breeding is not simply about whether artificial intelligence can perform tasks once carried out by people. It is about whether today’s breeders have the knowledge, data systems and skills to use emerging technologies effectively as the science evolves.\nFor crop breeding programs, this is becoming increasingly important. Climate and production environments are changing rapidly, while breeders are working with growing volumes of genomic, phenotypic, environmental and management data. The challenge, therefore, is no longer simply generating data, but turning that data into better breeding decisions.\nPlant breeding is always required to keep in view the needs of farming communities today and tomorrow. “Breeders must increasingly understand the complex interactions among the genotypes, environments and management, alongside socioeconomic factors,” observed P.H. Zaidi, CIMMYT maize breeder for Asia .\nFrom drones and digital phenotyping to genomic tools, new technologies allow breeders to collect and analyse information at a scale and precision previously difficult to achieve.\nAccess to technology, however, is not the same as having the capability to use it effectively. “The real capability lies in knowing how to use them, when to use them and when not to use them,” Werner told participants.\nRather than treating AI as a stand-alone technology, the training placed it within the breeding cycle, connecting experimental design, field data collection and phenotyping with data management, analysis, genomics and ultimately breeding decisions.\nOne lesson ran through almost every stage of the training: AI is only as useful as the data and scientific judgement behind it. Sophisticated models cannot compensate for poorly designed experiments, incomplete observations or unreliable information.\nThe workshop, therefore, returned repeatedly to the fundamentals of experimental design, standardized information, data quality and validation before moving into more advanced applications. Sessions led by CIMMYT’s Data Science team, including Keith Gardner, Kate Dreher and Angela Pacheco , took participants through this progression, from digital field-data collection and phenotyping to centralized data management and AI-assisted analysis.\nParticipants worked with various platforms and tools including the Enterprise Breeding System, E-Agrology, Fairgrounds and Field Book, while demonstrations of drone-based data collection in the research fields, alongside platforms such as Hiphen and Cloverfield showed how image-based approaches can expand what breeders are able to observe and measure.\nThe purpose of building these capabilities is not just to create breeders who simply use a disruptive innovation like AI, but to help them make better breeding decisions. As CIMMYT Data Science Lead Keith Gardner emphasized, “this requires not only high-quality data, but systems that allow breeding information to be standardized, securely managed and transformed into knowledge.”\nThrough Bioflow, participants explored analytical approaches ranging from trial analysis to parental selection, while other sessions introduced applications of AI in bioinformatics, genomics and gene network modification, through specific use cases presented by Huihui Li, Professor and Director at the Chinese Academy of Agricultural Sciences .\nTogether, these approaches point towards a breeding environment in which researchers can integrate complex datasets, test possibilities faster and identify promising breeding material with greater precision.\nAs analytical tasks become more automated, scientific judgement becomes more important, not less. Breeders still need to determine whether data are fit for purpose, whether results make biological sense and when an apparently convincing output should be challenged.\nFor Prasanna, that investment needs to extend beyond individual breeders to breeding programs and institutions. He described the CIMMYT-BISA training in India as a primer, with an ambition to extend the learning through future training programs, additional hands-on sessions and further demonstrations of practical use cases.\n“Strengthening one breeder’s capabilities can strengthen a breeding team. Building those capabilities across institutions can help strengthen the national breeding system,” he said.\nParticipants were already considering how they could apply and extend the learning within their own institutions. H.B. Mahesh from the University of Agricultural Sciences, Bangalore, for example, plans to revisit the workshop lessons with his students and share what he learned with young researchers at his campus, taking the learning beyond those in the room.\nReena Saharan from the ICAR-Indian Institute of Wheat and Barley Research (ICAR-IIWBR ) described the training as particularly relevant in a rapidly changing crop-breeding environment. Several of the AI, machine-learning and data-management approaches introduced during the workshop could be directly applicable to her research, she said, while calling for future training to include even more hands-on practice.\nThe larger opportunity, however, extends beyond learning to use AI tools. “We need to reorient our breeding strategy,” said Prasanna stressed in his opening remarks on day one of the workshop. India, he noted, does not lack breeding infrastructure, genetic diversity or scientific talent. The opportunity is to integrate these strengths into faster, more predictive, AI- and data-driven breeding pipelines that deliver higher genetic gains and greater impact for farmers.\nSeen in that context, the opening question begins to look different. The more consequential question is not simply whether AI can replace plant breeders, but whether today’s breeders are being equipped with the skills and systems they will need to lead tomorrow’s crop research and development.\nThe tools will continue to change, and the breeder’s role will evolve with them. But the responsibility for asking the right questions, interpreting the evidence and making sound breeding decisions remains fundamentally human.\nIn India, 30 Kerala Agricultural University students complete five-week research training with CIMMYT and partner scientists in Hyderabad, Telangana.\nOn the sidelines of the CGIAR Gender Research Conference 2023 in New Delhi, CIMMYT researchers working on gender and social inclusion across the Global South gathered to discuss pathways toward 2030 for making GESI efforts intentional and impactful.\nGenerating evidence and contributing to discussions and policy actions for inclusive and impactful agrifood systems, leading researchers from CIMMYT working with various stakeholders—including rural women farmers in Asia and Africa—converge in New Delhi at the 2023 CGIAR GENDER Impact Platform and ICAR Conference.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "AGRO"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 1,
+    "BUSINESS": 0.16666666666666666,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "ALTO",
+    "computed_evidence": "ALTO",
+    "status": "VERIFICADO",
+    "source_role": "fuente primaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "ALTO",
+   "scoring": {
+    "score": 98,
+    "priority": 98,
+    "base": 68,
+    "breakdown": {
+     "agro": 25,
+     "tech": 20,
+     "business": 3.3,
+     "mexico": 0,
+     "recency": 10,
+     "source": 10
+    },
+    "bonuses": {
+     "innovacion_concreta": 10,
+     "afecta_productores": 10,
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 98,
+   "priority": 98,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-cad9d06d",
+   "retrieved_at": "2026-10-06T12:21:07.079Z",
+   "ingested_via": "rss",
+   "title_original": "When the soil moves, so must we!",
+   "title_agrovision": "",
+   "source_name": "CIMMYT",
+   "source_domain": "cimmyt.org",
+   "source_type": "primary",
+   "source_tier": 1,
+   "source_kind": "investigacion",
+   "url": "https://www.cimmyt.org/news/when-the-soil-moves-so-must-we/",
+   "canonical_url": "https://cimmyt.org/news/when-the-soil-moves-so-must-we",
+   "published_at": "2026-10-05",
+   "country": "Global",
+   "mx_state": null,
+   "category": "TECH",
+   "subcategory": "Automatización",
+   "technologies": [
+    "Automatización",
+    "Software",
+    "Datos"
+   ],
+   "companies": [],
+   "content": "Where did all the soil go? How do we protect the landscapes that must keep feeding families long after today’s projects have ended? What does it take for a promising practice seen on a demonstration plot to become something farmers can confidently use season after season? Most importantly, how do re\nWhere did all the soil go? How do we protect the landscapes that must keep feeding families long after today’s projects have ended? What does it take for a promising practice seen on a demonstration plot to become something farmers can confidently use season after season? Most importantly, how do researchers, governments, communities and development partners work together so that their combined effort makes a tangible difference in farmers’ everyday lives? These questions followed participants from the field into the meeting room during the Water and Soil Accelerator (WASA) Pause and Reflect workshop held in Salima, Malawi, from 15–17 September 2026. It was deliberately designed as three days of reflection, from taking time to step away from workplans and targets, look closely at what is happening on the ground, confront what is not working and agree on what needs to change.\nThe first day brought those conversations directly to the field. Farmers, researchers and implementing partners walked through sites where soil and water management practices are being put to the test. The experience gave numbers and technical discussions a human face. Across the program, demonstrations, farmer learning and landscape restoration are already underway, but the workshop challenged partners to look beyond activities toward a more coherent journey from evidence to implementation, learning, and ultimately responsible scaling.\n“The real route to sustainability is to integrate what we are doing into government programming. Partnerships with the Ministry of Agriculture and Water are really important for us, as is working closely with extension services. For these interventions to be sustainable, farmers need market access, strong market linkages, and a clear economic case. The key message from the field visit is the importance of being farmer-led. No amount of technical interventions will be sustainable if communities don’t own and don’t buy into these interventions. What we are seeing in Salima today is very much that communities and farmers designing interventions based on the challenges that they share,” remarked Inga Mata-Jacobs, Strategic Program Director – Water, Growth and Inclusion at IWMI.\nThat connection between evidence and practice sits at the heart of CIMMYT’s contribution to WASA. In Zambia, CIMMYT provides cross-cutting technical support through the Conservation Farming Unit and Total LandCare consortia, working alongside organizations whose strengths range from farmer mobilization and extension to digital advisory services, markets and landscape management. Through the CFU partnership, that technical contribution is already visible in farmers’ fields. Between October 2025 and August 2026, activities included the establishment of 45 demonstrations, promotion of five drought-tolerant varieties and 45 mechanization promotions. The project also supported nine field staff and 15 service providers with basin diggers, alongside mechanization training, field visits, and knowledge exchange.\n“A good technology alone rarely transforms a farming system. A drought-tolerant seed still needs the right agronomy, a mechanized planter needs an accessible service provider, and climate information has little value if it reaches a farmer too late to influence a decision. Beyond demonstrating technologies, we need to help farmers understand them, adapt them and decide whether they make sense for their own farms. Bringing together conservation agriculture, improved varieties, mechanization, agronomy and climate information is important, but these practices are more likely to endure when farmers, communities, extension services and local institutions understand and own them.” stated Christian Thierfelder, Principal Crop Agronomist at CIMMYT\nThrough the same partnership, 405 lead farmers and 38,505 farmers were trained in climate-smart agriculture, while 90 field days were conducted and more than 52,000 farmers accessed climate-smart agriculture e-messages. A clear message set the tone that partnerships are not an addition to delivery; they are part of the technology of delivery itself.\nThe presentations repeatedly returned to this point. Collaboration with ministries, extension services, traditional leadership, private-sector actors and farmer organizations creates the connections needed for innovations to move beyond isolated demonstrations. Implementation experience also showed that practical farmer training, demonstration plots, and farmer participation in crop evaluation strengthen understanding and adoption, while close collaboration with communities is critical to sustaining landscape restoration.\nAcross the wider programme, communities in Salima are working on gully reclamation and tree planting, with five villages involved in raising 50,000 tree seedlings. Demonstration plots have provided spaces where farmers can see technologies for themselves, while field days have brought thousands of people together to learn, question and exchange experiences.\nThe Pause and Reflect was equally important for discussing where progress has been slower. Zambia, for example, has recorded strong overall participation, but performance remains uneven across individual activities. Rather than hiding such gaps behind aggregate numbers, the workshop created room for partners to ask why they exist and what needs to be adjusted. Scaling is not simply doing more of everything, but it means understanding what works, where it works, for whom, and what supporting systems need to be in place.\nFor CIMMYT, the next phase sharpens that pathway, from reach, demonstrate, adopt, verify and scale. Farmer training, field days, mechanization campaigns and digital advisory services can expand awareness, but the next test is whether that reach translates into sustained adoption. Mother-and-baby trials, demonstrations and follow-up with farmers will help generate evidence around conservation agriculture, rotations, legumes, residue retention, manure and agroforestry, while trial and farmer-level data will strengthen understanding of yields, adoption and impact. The ambition is therefore not to arrive in a community carrying a single answer. It is to bring together science, farmers’ knowledge, delivery experience, government systems and market actors, and allow each to strengthen the other.\nAfter three days in Salima, each partner had to reflect on what we can do together to keep soil where it belongs and make that soil productive enough to support the next generation. The answer will not come from CIMMYT, a farmer, an extension officer, government or any one partner acting alone. It will come from partnerships willing to walk the field together, examine the evidence together, acknowledge what is not working and adapt together. That may ultimately be WASA’s most important investment: not only better practices for water and soil, but stronger relationships capable of carrying those practices from promising science to lasting change in farmers’ fields.\nWASA is helping Central Malawi’s farmers turn soil and water challenges into practical climate resilience through science, demonstration plots and farmer-led choices for lasting harvests.\nAn innovative pilot in Malawi is transforming poultry waste into a valuable organic fertilizer, linking smallholder farmers with chicken manure to restore soil fertility, increase yields, and support sustainable agriculture\nCIMMYT introduced farmers Kassim Massi and Joyce Makawa to conservation agriculture.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "AGRO",
+    "BUSINESS"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 1,
+    "BUSINESS": 1,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "ALTO",
+    "computed_evidence": "ALTO",
+    "status": "VERIFICADO",
+    "source_role": "fuente primaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "ALTO",
+   "scoring": {
+    "score": 100,
+    "priority": 115,
+    "base": 85,
+    "breakdown": {
+     "agro": 25,
+     "tech": 20,
+     "business": 20,
+     "mexico": 0,
+     "recency": 10,
+     "source": 10
+    },
+    "bonuses": {
+     "afecta_productores": 10,
+     "aplicacion_practica": 10,
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 100,
+   "priority": 115,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?",
+    "¿Cuánto cuesta?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-de06a4c7",
+   "retrieved_at": "2026-10-06T12:21:07.079Z",
+   "ingested_via": "rss",
+   "title_original": "AfricaRice visits CIMMYT to deepen partnerships and advance One CGIAR’s vision for resilient food systems in Southern Africa",
+   "title_agrovision": "",
+   "source_name": "CIMMYT",
+   "source_domain": "cimmyt.org",
+   "source_type": "primary",
+   "source_tier": 1,
+   "source_kind": "investigacion",
+   "url": "https://www.cimmyt.org/news/africarice-visits-cimmyt-to-deepen-partnerships-and-advance-one-cgiars-vision-for-resilient-food-systems-in-southern-africa/",
+   "canonical_url": "https://cimmyt.org/news/africarice-visits-cimmyt-to-deepen-partnerships-and-advance-one-cgiars-vision-for-resilient-food-systems-in-southern-africa",
+   "published_at": "2026-10-05",
+   "country": "Global",
+   "mx_state": null,
+   "category": "AGRO",
+   "subcategory": "Alimentos",
+   "technologies": [
+    "Biotecnología"
+   ],
+   "companies": [],
+   "content": "A recent visit by the Director General of AfricaRice, Dr. Baboucarr Manneh, with an international delegation to CIMMYT’s Zimbabwe office created space for a timely conversation on how stronger scientific partnerships can help accelerate the transformation of food systems in southern Africa. The d\nA recent visit by the Director General of AfricaRice, Dr. Baboucarr Manneh, with an international delegation to CIMMYT’s Zimbabwe office created space for a timely conversation on how stronger scientific partnerships can help accelerate the transformation of food systems in southern Africa.\nThe delegation, which included representatives from Ivory Coast, Uganda, Nigeria, Thailand, Madagascar, engaged with CIMMYT scientists and regional leadership to learn about the scope and impact of CIMMYT’s research and innovations portfolio in the southern Africa region. Discussions also explored opportunities for the two CGIAR centers to bring together their complementary expertise and develop practical solutions to shared agricultural challenges in Africa.\nThe exchange reflected a growing recognition that crop research cannot happen in isolation. CIMMYT’s regional work increasingly connects crop improvement with climate-smart agriculture, farming systems, markets and scaling approaches to ensure that scientific innovations translate into meaningful benefits for farmers and communities.\n“We deeply appreciate the opportunity to engage with CIMMYT here in Zimbabwe,” said Dr. Baboucarr. “Agriculture is changing, and our response must increasingly embrace integrated approaches. At AfricaRice, we want to draw on the best global practices to strengthen rice production and build a competitive sector that can offer a strong alternative to imports. The changing development landscape also calls on us to work together, not simply for the sake of collaboration, but around shared challenges where our combined science can deliver greater impact.”\nCIMMYT Country Representative, Dr. Mainassara Zaman-Allah highlighted Zimbabwe’s important role as a regional research hub and CIMMYT’s focus on “science and innovation, productivity, inclusivity and resilience” to advance food and nutrition security. “As the funding and development landscape evolves, collaboration becomes even more important. By aligning our strengths around a shared vision, we can generate stronger science, accelerate innovation and deliver solutions that respond to the realities farmers and food systems face.”\nThe visit closed with a shared ambition to move beyond institutional connections towards practical scientific partnerships capable of supporting countries in achieving lasting food-system transformation\nCIMMYT’s new Bambey greenhouse accelerates advanced research and breeding for key dryland crops, driving resilient and nutrition-focused innovations across West and Central Africa",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "BUSINESS"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 0.4,
+    "BUSINESS": 0.5,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "ALTO",
+    "computed_evidence": "ALTO",
+    "status": "VERIFICADO",
+    "source_role": "fuente primaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "ALTO",
+   "scoring": {
+    "score": 93,
+    "priority": 93,
+    "base": 63,
+    "breakdown": {
+     "agro": 25,
+     "tech": 8,
+     "business": 10,
+     "mexico": 0,
+     "recency": 10,
+     "source": 10
+    },
+    "bonuses": {
+     "innovacion_concreta": 10,
+     "afecta_productores": 10,
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 93,
+   "priority": 93,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-6c77c560",
+   "retrieved_at": "2026-10-06T12:21:07.079Z",
+   "ingested_via": "rss",
+   "title_original": "Para disminuir riesgos de contaminación en alimentos, se han certificado casi 6 mil unidades productivas, informó la Sader",
+   "title_agrovision": "",
+   "source_name": "Imagen Agropecuaria",
+   "source_domain": "imagenagropecuaria.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://imagenagropecuaria.com/2026/para-disminuir-riesgos-de-contaminacion-en-alimentos-se-han-certificado-casi-6-mil-unidades-productivas-informo-la-sader/",
+   "canonical_url": "https://imagenagropecuaria.com/2026/para-disminuir-riesgos-de-contaminacion-en-alimentos-se-han-certificado-casi-6-mil-unidades-productivas-informo-la-sader",
+   "published_at": "2026-10-06",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "AGRO",
+   "subcategory": "Cultivos",
+   "technologies": [],
+   "companies": [],
+   "content": "Para disminuir riesgos de contaminación física, química o microbiológica durante los procesos productivos de alimentos en México, en lo que va de 2026 se han certificado 5 mil 916 unidades de producción y empaque primario que implementaron sistemas de inocuidad en sus procesos productivos. La implementación de estos sistemas brinda certeza a mercados y consumidores, &hellip;\nPara disminuir riesgos de contaminación física, química o microbiológica durante los procesos productivos de alimentos en México, en lo que va de 2026 se han certificado 5 mil 916 unidades de producción y empaque primario que implementaron sistemas de inocuidad en sus procesos productivos.\nLa implementación de estos sistemas brinda certeza a mercados y consumidores, dado que los productores pueden acceder a mercados más rentables, al tiempo que coadyuvan a proteger la salud pública al prevenir bacterias y otros organismos causantes de enfermedades transmitidas por alimentos, informó la Secretaría de Agricultura y Desarrollo Rural (Sader).\nDel total de unidades certificadas, 68 por ciento (4 mil 025) corresponden al sector agrícola, 24 por ciento (mil 407) al pecuario y 8 por ciento (484) al acuícola, delineó la Dirección General de Inocuidad Agroalimentaria Acuícola y Pesquera (DGIAAP) del Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria (Senasica).\nPrecisó que las unidades agrícolas certificadas se distribuyen: 3 mil 229 en Áreas Integrales, 442 en Sistemas de Reducción de Riesgos de Contaminación (SRRC), 184 en empaques, 121 en Buen Uso y Manejo de Plaguicidas y 49 en cuadrillas de cosecha.\nEn el sector pecuario se registraron mil 397 unidades de producción reconocidas por organismos de certificación y 10 reconocidas directamente por el Senasica.\nEn tanto, indicó, la certificación acuícola y pesquera comprende 318 unidades de producción, 151 permisionarios de embarcaciones menores y 15 establecimientos de procesamiento primario.\nEn un comunicado, la Sader puntualizó que en el sector agrícola destacan cultivos como aguacate, tomate, uva, lechuga, chile, fresa, frambuesa, cilantro, cebolla, papaya, plátano, apio y arándano, mientras que en el pecuario figuran el ganado bovino, ovino y porcino, así como huevo, miel, pollo y leche.\nEn la producción acuícola y pesquera están certificadas especies como tilapia, rana toro, camarón, trucha arcoíris y almeja generosa, entre otras.\nRespecto a la distribución geográfica, la mayoría de las empresas certificadas se concentran en el estado de Michoacán, seguido de Jalisco y Guanajuato. En tanto que los estados de Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas y Chihuahua registran mayor número de unidades en producción pecuaria, acuícola y pesquera certificadas.\nLa Sader explicó que “la certificación se otorga a solicitud del propio productor o productora y, por ello, el Senasica hace un llamado al sector a implementar estas buenas prácticas y esquemas de inocuidad desde la fase primaria, para garantizar la excelencia sanitaria de los alimentos que llegan a la mesa de las familias mexicanas”.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "BUSINESS",
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 0,
+    "BUSINESS": 0.5,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 87,
+    "priority": 87,
+    "base": 67,
+    "breakdown": {
+     "agro": 25,
+     "tech": 0,
+     "business": 10,
+     "mexico": 15,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {
+     "afecta_productores": 10,
+     "aplicacion_practica": 10
+    },
+    "penalties": {}
+   },
+   "score": 87,
+   "priority": 87,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-86038a6c",
+   "retrieved_at": "2026-10-06T12:21:07.079Z",
+   "ingested_via": "rss",
+   "title_original": "Tribunal obligado a proteger maíces nativos de trasnacionales: Acción Colectiva",
+   "title_agrovision": "",
+   "source_name": "Imagen Agropecuaria",
+   "source_domain": "imagenagropecuaria.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://imagenagropecuaria.com/2026/tribunal-obligado-a-proteger-maices-nativos-de-trasnacionales-accion-colectiva/",
+   "canonical_url": "https://imagenagropecuaria.com/2026/tribunal-obligado-a-proteger-maices-nativos-de-trasnacionales-accion-colectiva",
+   "published_at": "2026-10-05",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "AGRO",
+   "subcategory": "Cultivos",
+   "technologies": [],
+   "companies": [],
+   "content": "El litigio que sostiene la Acción Colectiva (AC) contra empresas transnacionales para proteger al maíz nativo mexicano frente a la amenaza de las semillas genéticamente modificadas (GM) ha llegado a una “fase resolutiva crítica”, por lo que este organismo consideró que el Segundo Tribunal Colegiado de Apelación del Primer Circuito tiene la obligación de priorizar &hellip;\nEl litigio que sostiene la Acción Colectiva (AC) contra empresas transnacionales para proteger al maíz nativo mexicano frente a la amenaza de las semillas genéticamente modificadas (GM) ha llegado a una “fase resolutiva crítica”, por lo que este organismo consideró que el Segundo Tribunal Colegiado de Apelación del Primer Circuito tiene la obligación de priorizar el mandato del artículo 4o de la Constitución por encima de intereses corporativos\nEn un comunicado la Acción Colectiva informó que a más de una década de haber iniciado dicho proceso, esta semana se emitirá un fallo de dicho tribunal que “sentará un precedente definitivo sobre la soberanía alimentaria, la biodiversidad y los derechos de las generaciones futuras”.\nLa representación común de la Colectividad advierte un riesgo latente de que la autoridad competente “intente evadir el estudio de fondo de los agravios, escudándose en cuestiones de estricta legalidad formal. Limitar la apelación a un análisis superficial equivaldría a consumar una grave denegación de justicia, toda vez que, en primera instancia, el juzgado resolvió sin analizar una sola de las pruebas de la Colectividad, basando su fallo únicamente en los argumentos de la industria”.\nDurante el juicio, indica, la AC se demostró el riesgo inminente para los maíces criollos, al confirmar la presencia ilícita de cientos de muestras de maíz GM en territorio nacional. Incluso, anota, “los propios estudios científicos presentados por las empresas demandadas (Monsanto, Syngenta, y las corporaciones PHI y Dow Agrosciences, hoy integradas en Corteva) operan como confesiones plenas sobre la imposibilidad de controlar el flujo génico en México. Estos documentos de la industria también admiten daños severos a la agrobiodiversidad, como la erradicación del hongo Ustilago maydis (huitlacoche), y el incremento insostenible en el uso de agrotóxicos peligrosos”.\nPor ello, la AC consideró que el tribunal “tiene hoy la obligación de ejercer un estricto control constitucional, priorizando el mandato del artículo 4o constitucional por encima de intereses corporativos, dado que “este mandato supremo blinda a los maíces nativos, prohibiendo explícitamente cualquier modificación genética que supere las barreras naturales de reproducción”.\nEl organismo refiere que al proceso se suma “un alarmante patrón de opacidad” por parte del Segundo Tribunal Colegiado de Apelación del Primer Circuito, donde se observa el uso de “sesiones extraordinarias” —una figura eliminada de la ley vigente— para fallar asuntos en la opacidad.\n“Destaca, por su gravedad, la validación por parte del juzgado de notificaciones dirigidas a la Colectividad que fueron entregadas y operadas por la representación legal de las empresas demandadas, configurando una usurpación procesal que deja a la defensa del maíz nativo en estado de indefensión”. ¡\nun llamado a los poderes públicos, a las instituciones garantes de derechos humanos y a la sociedad, para observar que esta resolución histórica se dicte equilibrando el proceso, analizando el fondo de la controversia y garantizando el respeto irrestricto a la Constitución”.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 0,
+    "BUSINESS": 0,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 57,
+    "priority": 57,
+    "base": 57,
+    "breakdown": {
+     "agro": 25,
+     "tech": 0,
+     "business": 0,
+     "mexico": 15,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 57,
+   "priority": 57,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-e3cbfb31",
+   "retrieved_at": "2026-10-06T12:21:07.079Z",
+   "ingested_via": "rss",
+   "title_original": "Ciencia verde desde la FES Zaragoza, transforman aceite de cocina usado en jabón Es-Pumita",
+   "title_agrovision": "",
+   "source_name": "Imagen Agropecuaria",
+   "source_domain": "imagenagropecuaria.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://imagenagropecuaria.com/2026/ciencia-verde-desde-la-fes-zaragoza-transforman-aceite-de-cocina-usado-en-jabon-es-pumita/",
+   "canonical_url": "https://imagenagropecuaria.com/2026/ciencia-verde-desde-la-fes-zaragoza-transforman-aceite-de-cocina-usado-en-jabon-es-pumita",
+   "published_at": "2026-10-05",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "AGRO",
+   "subcategory": "Agua",
+   "technologies": [],
+   "companies": [],
+   "content": "Un litro de aceite desechado por la coladera puede contaminar hasta 40 mil litros de agua. Con este alarmante panorama, la investigadora Alejandra Chávez Riveros de la Facultad de Estudios Superiores (FES) Zaragoza y su equipo de estudiantes de la licenciatura de Ingeniería Química han dado vida a un proyecto que une la ciencia, la &hellip;\nUn litro de aceite desechado por la coladera puede contaminar hasta 40 mil litros de agua. Con este alarmante panorama, la investigadora Alejandra Chávez Riveros de la Facultad de Estudios Superiores (FES) Zaragoza y su equipo de estudiantes de la licenciatura de Ingeniería Química han dado vida a un proyecto que une la ciencia, la sustentabilidad y el orgullo universitario: Es-Pumita.\nLos estudiantes recolectan de las cafeterías del Campus II de esa Facultad, un promedio de 20 litros del insumo cada semana para luego clarificarlos: los filtran, limpian y purifican para eliminar impurezas, residuos sólidos, humedad y olores.\nPosteriormente lo saponifican (proceso químico mediante el cual una grasa o aceite reacciona con un álcali, es decir, una base fuerte como la sosa cáustica), lo que permite obtener de seis a 10 litros de jabón líquido.\nLa relevancia de esta innovación, basada en los principios de la química y la ingeniería verdes, radica en su impacto ambiental: un solo litro de aceite o grasa desechado de manera inapropiada en hogares o empresas, por ejemplo, contamina hasta 40 mil litros de agua.\nAl mezclarse con los desechos sólidos urbanos contribuye al taponamiento de los sistemas de drenaje y agrava los problemas de inundación que afectan recurrentemente a la zona oriente de la Ciudad de México, donde se ubica la Facultad. En México comemos demasiados alimentos fritos, y esos residuos (grasa) van, en su mayoría, a las coladeras.\n“A diferencia de los productos comerciales, el principal ingrediente activo de nuestro jabón son las sales de ácidos grasos obtenidas por saponificación, lo que le otorga una alta biodegradabilidad. También lo hace diferente su enfoque de economía circular y educación ambiental, pues el proceso vincula a estudiantes universitarios en la recolección, transformación y aprovechamiento del residuo”, indicó la investigadora.\nNuestro desarrollo va más allá de la limpieza: integra una función social y educativa. Al final buscamos formular un artículo con la menor cantidad posible de aditivos, priorizando ingredientes simples que reducen el impacto ambiental, apuntó.\nEs-Pumita tiene registro de marca y es el primer producto sostenible creado como parte de la línea de investigación a cargo de Chávez Riveros: “Ingeniería química verde y sostenibilidad”. Fue nombrado así con la finalidad de brindarle identidad universitaria y mostrar su origen y compromiso con la comunidad.\nOtros ingredientes que lo caracterizan son: glicerina, EDTA (ácido etilendiaminotetraacético), vitamina E y esencias. Al inicio, el plan consistió en obtener jabón sólido en forma de “garritas” de puma y, posteriormente, “encontramos la formulación para convertirlo en líquido”. Como proyecto piloto se suministra en los baños del Campus II, aunque el objetivo es que también se utilice en el I, detalló.\nPuntualizó que la capacidad del laboratorio es limitada para recolectar el aceite. Sin embargo, el interés de la sociedad en participar “nos motiva a seguir creciendo y uno de nuestros objetivos a futuro es contar con un espacio más amplio que nos permita incrementar la capacidad de procesamiento y, eventualmente, registrarnos como centro de acopio”.\nDe esta manera, podríamos ampliar el impacto ambiental y social al evitar que este residuo llegue al drenaje transformándolo en mercancías útiles mediante un esquema de economía circular.\nA decir de Alejandra Chávez, el trabajo comenzó el año pasado con cinco alumnas de servicio social y se concluyó una tesis de licenciatura al respecto, cuya autora está próxima a titularse.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 0,
+    "BUSINESS": 0.16666666666666666,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 70,
+    "priority": 70,
+    "base": 60,
+    "breakdown": {
+     "agro": 25,
+     "tech": 0,
+     "business": 3.3,
+     "mexico": 15,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {
+     "aplicacion_practica": 10
+    },
+    "penalties": {}
+   },
+   "score": 70,
+   "priority": 70,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": []
   }
  ],
  "sources": [
@@ -38001,7 +39731,7 @@
    "tier": 2,
    "type": "secondary",
    "kind": "medio_especializado",
-   "article_count": 46
+   "article_count": 49
   },
   {
    "domain": "cimmyt.org",
@@ -38009,7 +39739,7 @@
    "tier": 1,
    "type": "primary",
    "kind": "investigacion",
-   "article_count": 18
+   "article_count": 21
   },
   {
    "domain": "cepal.org",
@@ -38049,7 +39779,7 @@
    "tier": 2,
    "type": "secondary",
    "kind": "medio_especializado",
-   "article_count": 73
+   "article_count": 74
   },
   {
    "domain": "agriculteca.com",
@@ -38065,7 +39795,7 @@
    "tier": 1,
    "type": "primary",
    "kind": "empresa",
-   "article_count": 1
+   "article_count": 2
   },
   {
    "domain": "bayer.com",
@@ -38353,7 +40083,7 @@
    "tier": 0,
    "type": "secondary",
    "kind": "desconocido",
-   "article_count": 2
+   "article_count": 3
   },
   {
    "domain": "gob.mx",
@@ -38361,7 +40091,7 @@
    "tier": 1,
    "type": "primary",
    "kind": "gobierno",
-   "article_count": 6
+   "article_count": 7
   },
   {
    "domain": "entornoinformativo.com.mx",
@@ -38521,7 +40251,7 @@
    "tier": 0,
    "type": "secondary",
    "kind": "desconocido",
-   "article_count": 1
+   "article_count": 3
   },
   {
    "domain": "oleorevista.com",
@@ -38569,7 +40299,7 @@
    "tier": 0,
    "type": "secondary",
    "kind": "desconocido",
-   "article_count": 2
+   "article_count": 3
   },
   {
    "domain": "vozenred.com",
@@ -38665,7 +40395,7 @@
    "tier": 0,
    "type": "secondary",
    "kind": "desconocido",
-   "article_count": 2
+   "article_count": 3
   },
   {
    "domain": "publimetro.com.mx",
@@ -38866,6 +40596,30 @@
    "type": "secondary",
    "kind": "desconocido",
    "article_count": 1
+  },
+  {
+   "domain": "cope.es",
+   "name": "COPE",
+   "tier": 0,
+   "type": "secondary",
+   "kind": "desconocido",
+   "article_count": 1
+  },
+  {
+   "domain": "noticias.madrid",
+   "name": "noticias.madrid",
+   "tier": 0,
+   "type": "secondary",
+   "kind": "desconocido",
+   "article_count": 1
+  },
+  {
+   "domain": "sinaloa.quadratin.com.mx",
+   "name": "Quadratín Michoacán",
+   "tier": 0,
+   "type": "secondary",
+   "kind": "desconocido",
+   "article_count": 1
   }
  ],
  "topics": [
@@ -39029,11 +40783,53 @@
  ],
  "trends": [
   {
+   "id": "drones",
+   "label": "Drones agrícolas",
+   "score": 99,
+   "mentions": 23,
+   "recent": 17,
+   "prior": 2,
+   "direction": "creciendo",
+   "source_kinds": [
+    "medio",
+    "medio_especializado",
+    "investigacion",
+    "empresa"
+   ],
+   "primary_sources": 3,
+   "item_ids": [
+    "agv-4279f808",
+    "agv-bc87a379",
+    "agv-2b4420f8",
+    "agv-2b482207",
+    "agv-ab7d183f",
+    "agv-ced5838d",
+    "agv-6765688f",
+    "agv-1ee00262",
+    "agv-29ac2a62",
+    "agv-ce7aae71",
+    "agv-f08f7330",
+    "agv-2d272dbb",
+    "agv-467a2802",
+    "agv-d715e71e",
+    "agv-e48dd720",
+    "agv-131c1a6a",
+    "agv-6bef4b01",
+    "agv-73c35ea8",
+    "agv-87cef2ea",
+    "agv-919177b6",
+    "agv-5dac2c2f",
+    "agv-06e59d39",
+    "agv-8fe1226b"
+   ],
+   "computed_at": "2026-10-06T12:21:07.079Z"
+  },
+  {
    "id": "riego-inteligente",
    "label": "Riego y agua",
    "score": 99,
-   "mentions": 71,
-   "recent": 58,
+   "mentions": 74,
+   "recent": 61,
    "prior": 8,
    "direction": "creciendo",
    "source_kinds": [
@@ -39042,7 +40838,7 @@
     "medio_especializado",
     "investigacion"
    ],
-   "primary_sources": 11,
+   "primary_sources": 12,
    "item_ids": [
     "agv-85c802cd",
     "agv-1f125245",
@@ -39114,16 +40910,19 @@
     "agv-0f5d0261",
     "agv-4d83371b",
     "agv-919177b6",
-    "agv-130d7840"
+    "agv-130d7840",
+    "agv-60f299b1",
+    "agv-cad9d06d",
+    "agv-e3cbfb31"
    ],
-   "computed_at": "2026-10-06T00:12:32.283Z"
+   "computed_at": "2026-10-06T12:21:07.079Z"
   },
   {
    "id": "sanidad",
    "label": "Sanidad animal y vegetal",
    "score": 99,
-   "mentions": 26,
-   "recent": 20,
+   "mentions": 27,
+   "recent": 21,
    "prior": 3,
    "direction": "creciendo",
    "source_kinds": [
@@ -39159,16 +40958,88 @@
     "agv-2e6f2f66",
     "agv-5015f95d",
     "agv-07b32b7d",
-    "agv-919177b6"
+    "agv-919177b6",
+    "agv-6c77c560"
    ],
-   "computed_at": "2026-10-06T00:12:32.283Z"
+   "computed_at": "2026-10-06T12:21:07.079Z"
+  },
+  {
+   "id": "biotecnologia",
+   "label": "Biotecnología y semillas",
+   "score": 99,
+   "mentions": 52,
+   "recent": 40,
+   "prior": 9,
+   "direction": "creciendo",
+   "source_kinds": [
+    "investigacion",
+    "medio_especializado",
+    "organismo",
+    "consultora"
+   ],
+   "primary_sources": 15,
+   "item_ids": [
+    "agv-cf8e0224",
+    "agv-5ef80d76",
+    "agv-52a0be98",
+    "agv-66097959",
+    "agv-3ed53b42",
+    "agv-31d30015",
+    "agv-195dd156",
+    "agv-dd3cd7f6",
+    "agv-957fd38f",
+    "agv-b3422860",
+    "agv-2bfff340",
+    "agv-f08f7330",
+    "agv-c3ff050d",
+    "agv-cbe5818b",
+    "agv-23d881e1",
+    "agv-7bcb6bd2",
+    "agv-67dc2f9f",
+    "agv-e35eee62",
+    "agv-14a64592",
+    "agv-467a2802",
+    "agv-693a6a99",
+    "agv-75b47020",
+    "agv-edc357f6",
+    "agv-7ddbccee",
+    "agv-1f87f1be",
+    "agv-a279a8f6",
+    "agv-a310a88b",
+    "agv-0e47f387",
+    "agv-256a6a49",
+    "agv-58849f63",
+    "agv-1325e163",
+    "agv-73d8c522",
+    "agv-e0fa80ec",
+    "agv-f52a0457",
+    "agv-69fa9f07",
+    "agv-2f7f475b",
+    "agv-9db008e3",
+    "agv-e48dd720",
+    "agv-131c1a6a",
+    "agv-9e3efc2a",
+    "agv-2e6f2f66",
+    "agv-24650630",
+    "agv-d78cb59b",
+    "agv-f1eabf65",
+    "agv-a37b3577",
+    "agv-6af27c87",
+    "agv-b136db31",
+    "agv-919177b6",
+    "agv-60f299b1",
+    "agv-8fe1226b",
+    "agv-de06a4c7",
+    "agv-86038a6c"
+   ],
+   "computed_at": "2026-10-06T12:21:07.079Z"
   },
   {
    "id": "maiz",
    "label": "Maíz y granos",
    "score": 99,
-   "mentions": 66,
-   "recent": 49,
+   "mentions": 70,
+   "recent": 53,
    "prior": 11,
    "direction": "creciendo",
    "source_kinds": [
@@ -39178,7 +41049,7 @@
     "gobierno",
     "medio_especializado"
    ],
-   "primary_sources": 17,
+   "primary_sources": 18,
    "item_ids": [
     "agv-f4f3100f",
     "agv-ca6d73b3",
@@ -39245,16 +41116,20 @@
     "agv-919177b6",
     "agv-7a781496",
     "agv-5105a36e",
-    "agv-d5901c3a"
+    "agv-d5901c3a",
+    "agv-fe4d140e",
+    "agv-60f299b1",
+    "agv-8fe1226b",
+    "agv-86038a6c"
    ],
-   "computed_at": "2026-10-06T00:12:32.283Z"
+   "computed_at": "2026-10-06T12:21:07.079Z"
   },
   {
    "id": "ia-agricola",
    "label": "IA agrícola",
    "score": 98,
-   "mentions": 75,
-   "recent": 52,
+   "mentions": 80,
+   "recent": 57,
    "prior": 17,
    "direction": "creciendo",
    "source_kinds": [
@@ -39265,7 +41140,7 @@
     "universidad",
     "empresa"
    ],
-   "primary_sources": 8,
+   "primary_sources": 10,
    "item_ids": [
     "agv-3ed53b42",
     "agv-be95f754",
@@ -39341,83 +41216,21 @@
     "agv-8c7b2ce8",
     "agv-a15bf414",
     "agv-476b711c",
-    "agv-ec991a6c"
+    "agv-ec991a6c",
+    "agv-40164967",
+    "agv-809279fa",
+    "agv-a33c95e8",
+    "agv-60f299b1",
+    "agv-8fe1226b"
    ],
-   "computed_at": "2026-10-06T00:12:32.283Z"
-  },
-  {
-   "id": "biotecnologia",
-   "label": "Biotecnología y semillas",
-   "score": 98,
-   "mentions": 48,
-   "recent": 36,
-   "prior": 9,
-   "direction": "creciendo",
-   "source_kinds": [
-    "investigacion",
-    "medio_especializado",
-    "organismo",
-    "consultora"
-   ],
-   "primary_sources": 13,
-   "item_ids": [
-    "agv-cf8e0224",
-    "agv-5ef80d76",
-    "agv-52a0be98",
-    "agv-66097959",
-    "agv-3ed53b42",
-    "agv-31d30015",
-    "agv-195dd156",
-    "agv-dd3cd7f6",
-    "agv-957fd38f",
-    "agv-b3422860",
-    "agv-2bfff340",
-    "agv-f08f7330",
-    "agv-c3ff050d",
-    "agv-cbe5818b",
-    "agv-23d881e1",
-    "agv-7bcb6bd2",
-    "agv-67dc2f9f",
-    "agv-e35eee62",
-    "agv-14a64592",
-    "agv-467a2802",
-    "agv-693a6a99",
-    "agv-75b47020",
-    "agv-edc357f6",
-    "agv-7ddbccee",
-    "agv-1f87f1be",
-    "agv-a279a8f6",
-    "agv-a310a88b",
-    "agv-0e47f387",
-    "agv-256a6a49",
-    "agv-58849f63",
-    "agv-1325e163",
-    "agv-73d8c522",
-    "agv-e0fa80ec",
-    "agv-f52a0457",
-    "agv-69fa9f07",
-    "agv-2f7f475b",
-    "agv-9db008e3",
-    "agv-e48dd720",
-    "agv-131c1a6a",
-    "agv-9e3efc2a",
-    "agv-2e6f2f66",
-    "agv-24650630",
-    "agv-d78cb59b",
-    "agv-f1eabf65",
-    "agv-a37b3577",
-    "agv-6af27c87",
-    "agv-b136db31",
-    "agv-919177b6"
-   ],
-   "computed_at": "2026-10-06T00:12:32.283Z"
+   "computed_at": "2026-10-06T12:21:07.079Z"
   },
   {
    "id": "agricultura-digital",
    "label": "Agricultura digital y datos",
    "score": 98,
-   "mentions": 94,
-   "recent": 65,
+   "mentions": 97,
+   "recent": 68,
    "prior": 23,
    "direction": "creciendo",
    "source_kinds": [
@@ -39429,7 +41242,7 @@
     "investigacion",
     "gobierno"
    ],
-   "primary_sources": 14,
+   "primary_sources": 16,
    "item_ids": [
     "agv-4b5e0956",
     "agv-3b528108",
@@ -39524,55 +41337,19 @@
     "agv-7a781496",
     "agv-476b711c",
     "agv-397e35ab",
-    "agv-ec991a6c"
+    "agv-ec991a6c",
+    "agv-df17dd98",
+    "agv-8fe1226b",
+    "agv-cad9d06d"
    ],
-   "computed_at": "2026-10-06T00:12:32.283Z"
-  },
-  {
-   "id": "drones",
-   "label": "Drones agrícolas",
-   "score": 96,
-   "mentions": 20,
-   "recent": 14,
-   "prior": 2,
-   "direction": "creciendo",
-   "source_kinds": [
-    "medio",
-    "medio_especializado",
-    "investigacion",
-    "empresa"
-   ],
-   "primary_sources": 2,
-   "item_ids": [
-    "agv-4279f808",
-    "agv-bc87a379",
-    "agv-2b4420f8",
-    "agv-2b482207",
-    "agv-ab7d183f",
-    "agv-ced5838d",
-    "agv-6765688f",
-    "agv-1ee00262",
-    "agv-29ac2a62",
-    "agv-ce7aae71",
-    "agv-f08f7330",
-    "agv-2d272dbb",
-    "agv-467a2802",
-    "agv-d715e71e",
-    "agv-e48dd720",
-    "agv-131c1a6a",
-    "agv-6bef4b01",
-    "agv-73c35ea8",
-    "agv-87cef2ea",
-    "agv-919177b6"
-   ],
-   "computed_at": "2026-10-06T00:12:32.283Z"
+   "computed_at": "2026-10-06T12:21:07.079Z"
   },
   {
    "id": "fertilizantes",
    "label": "Costo de fertilizantes",
    "score": 95,
-   "mentions": 23,
-   "recent": 11,
+   "mentions": 24,
+   "recent": 12,
    "prior": 9,
    "direction": "creciendo",
    "source_kinds": [
@@ -39582,7 +41359,7 @@
     "investigacion",
     "gobierno"
    ],
-   "primary_sources": 8,
+   "primary_sources": 9,
    "item_ids": [
     "agv-ca6d73b3",
     "agv-6e7c64d4",
@@ -39606,16 +41383,17 @@
     "agv-9db008e3",
     "agv-5816a4a3",
     "agv-f1eabf65",
-    "agv-3623dc4f"
+    "agv-3623dc4f",
+    "agv-cad9d06d"
    ],
-   "computed_at": "2026-10-06T00:12:32.283Z"
+   "computed_at": "2026-10-06T12:21:07.079Z"
   },
   {
    "id": "inversion-agtech",
    "label": "Inversión AgTech",
    "score": 91,
-   "mentions": 64,
-   "recent": 32,
+   "mentions": 66,
+   "recent": 34,
    "prior": 29,
    "direction": "creciendo",
    "source_kinds": [
@@ -39689,23 +41467,26 @@
     "agv-c39c44a8",
     "agv-21ff981d",
     "agv-b136db31",
-    "agv-9a12ca95"
+    "agv-9a12ca95",
+    "agv-df17dd98",
+    "agv-60f299b1"
    ],
-   "computed_at": "2026-10-06T00:12:32.283Z"
+   "computed_at": "2026-10-06T12:21:07.079Z"
   },
   {
    "id": "robotica",
    "label": "Robótica agrícola",
-   "score": 74,
-   "mentions": 47,
-   "recent": 27,
+   "score": 85,
+   "mentions": 49,
+   "recent": 29,
    "prior": 17,
    "direction": "creciendo",
    "source_kinds": [
     "medio_especializado",
-    "universidad"
+    "universidad",
+    "empresa"
    ],
-   "primary_sources": 1,
+   "primary_sources": 2,
    "item_ids": [
     "agv-0177d6c1",
     "agv-bc87a379",
@@ -39753,9 +41534,11 @@
     "agv-9090d7ed",
     "agv-476b711c",
     "agv-397e35ab",
-    "agv-ec991a6c"
+    "agv-ec991a6c",
+    "agv-298b6c91",
+    "agv-a33c95e8"
    ],
-   "computed_at": "2026-10-06T00:12:32.283Z"
+   "computed_at": "2026-10-06T12:21:07.079Z"
   },
   {
    "id": "comercio-tmec",
@@ -39794,7 +41577,7 @@
     "agv-07b32b7d",
     "agv-7a781496"
    ],
-   "computed_at": "2026-10-06T00:12:32.283Z"
+   "computed_at": "2026-10-06T12:21:07.079Z"
   },
   {
    "id": "precios-alimentos",
@@ -39814,7 +41597,7 @@
     "agv-52a0be98",
     "agv-943d446b"
    ],
-   "computed_at": "2026-10-06T00:12:32.283Z"
+   "computed_at": "2026-10-06T12:21:07.079Z"
   }
  ],
  "companies": [
@@ -40869,7 +42652,94 @@
     "agv-c39c44a8",
     "agv-21ff981d",
     "agv-a15bf414",
-    "agv-476b711c"
+    "agv-476b711c",
+    "agv-df17dd98",
+    "agv-60f299b1",
+    "agv-8fe1226b",
+    "agv-cad9d06d"
+   ]
+  },
+  {
+   "id": "inteligencia-artificial",
+   "name": "Inteligencia Artificial",
+   "article_ids": [
+    "agv-3ed53b42",
+    "agv-be95f754",
+    "agv-6d9267bb",
+    "agv-064f0d65",
+    "agv-4531b679",
+    "agv-2b4420f8",
+    "agv-2b482207",
+    "agv-ca4aa8be",
+    "agv-cf9759e8",
+    "agv-ced5838d",
+    "agv-6765688f",
+    "agv-29ac2a62",
+    "agv-d8b3ff2f",
+    "agv-ccb63e9b",
+    "agv-ce7aae71",
+    "agv-195dd156",
+    "agv-dd3cd7f6",
+    "agv-f6976a0f",
+    "agv-2bfff340",
+    "agv-f08f7330",
+    "agv-005f50c0",
+    "agv-c03c94de",
+    "agv-c3ff050d",
+    "agv-e87fd48f",
+    "agv-f76fcd35",
+    "agv-8395760d",
+    "agv-cbe5818b",
+    "agv-e7996851",
+    "agv-768144ac",
+    "agv-f533ff5b",
+    "agv-c46c7697",
+    "agv-5ecd780e",
+    "agv-2d272dbb",
+    "agv-9d121aa4",
+    "agv-8cb36837",
+    "agv-60b5e9e3",
+    "agv-755b8186",
+    "agv-cc6d0995",
+    "agv-467a2802",
+    "agv-67be9508",
+    "agv-237dfe6d",
+    "agv-75b47020",
+    "agv-1f87f1be",
+    "agv-0c41693f",
+    "agv-a310a88b",
+    "agv-f42d898d",
+    "agv-b2b14623",
+    "agv-23f70dad",
+    "agv-d5bde794",
+    "agv-f3cedbd8",
+    "agv-c55571b6",
+    "agv-c0c05e94",
+    "agv-4d607f0b",
+    "agv-58849f63",
+    "agv-d715e71e",
+    "agv-1325e163",
+    "agv-a85c8e98",
+    "agv-2160f661",
+    "agv-26a57910",
+    "agv-12c4284f",
+    "agv-4285d99e",
+    "agv-6bef4b01",
+    "agv-63d8026a",
+    "agv-940127de",
+    "agv-b4834bc6",
+    "agv-87cef2ea",
+    "agv-6af27c87",
+    "agv-9a12ca95",
+    "agv-8c7b2ce8",
+    "agv-a15bf414",
+    "agv-476b711c",
+    "agv-ec991a6c",
+    "agv-40164967",
+    "agv-809279fa",
+    "agv-a33c95e8",
+    "agv-60f299b1",
+    "agv-8fe1226b"
    ]
   },
   {
@@ -40949,85 +42819,9 @@
     "agv-94561825",
     "agv-919177b6",
     "agv-7a781496",
-    "agv-476b711c"
-   ]
-  },
-  {
-   "id": "inteligencia-artificial",
-   "name": "Inteligencia Artificial",
-   "article_ids": [
-    "agv-3ed53b42",
-    "agv-be95f754",
-    "agv-6d9267bb",
-    "agv-064f0d65",
-    "agv-4531b679",
-    "agv-2b4420f8",
-    "agv-2b482207",
-    "agv-ca4aa8be",
-    "agv-cf9759e8",
-    "agv-ced5838d",
-    "agv-6765688f",
-    "agv-29ac2a62",
-    "agv-d8b3ff2f",
-    "agv-ccb63e9b",
-    "agv-ce7aae71",
-    "agv-195dd156",
-    "agv-dd3cd7f6",
-    "agv-f6976a0f",
-    "agv-2bfff340",
-    "agv-f08f7330",
-    "agv-005f50c0",
-    "agv-c03c94de",
-    "agv-c3ff050d",
-    "agv-e87fd48f",
-    "agv-f76fcd35",
-    "agv-8395760d",
-    "agv-cbe5818b",
-    "agv-e7996851",
-    "agv-768144ac",
-    "agv-f533ff5b",
-    "agv-c46c7697",
-    "agv-5ecd780e",
-    "agv-2d272dbb",
-    "agv-9d121aa4",
-    "agv-8cb36837",
-    "agv-60b5e9e3",
-    "agv-755b8186",
-    "agv-cc6d0995",
-    "agv-467a2802",
-    "agv-67be9508",
-    "agv-237dfe6d",
-    "agv-75b47020",
-    "agv-1f87f1be",
-    "agv-0c41693f",
-    "agv-a310a88b",
-    "agv-f42d898d",
-    "agv-b2b14623",
-    "agv-23f70dad",
-    "agv-d5bde794",
-    "agv-f3cedbd8",
-    "agv-c55571b6",
-    "agv-c0c05e94",
-    "agv-4d607f0b",
-    "agv-58849f63",
-    "agv-d715e71e",
-    "agv-1325e163",
-    "agv-a85c8e98",
-    "agv-2160f661",
-    "agv-26a57910",
-    "agv-12c4284f",
-    "agv-4285d99e",
-    "agv-6bef4b01",
-    "agv-63d8026a",
-    "agv-940127de",
-    "agv-b4834bc6",
-    "agv-87cef2ea",
-    "agv-6af27c87",
-    "agv-9a12ca95",
-    "agv-8c7b2ce8",
-    "agv-a15bf414",
     "agv-476b711c",
-    "agv-ec991a6c"
+    "agv-8fe1226b",
+    "agv-cad9d06d"
    ]
   },
   {
@@ -41080,7 +42874,9 @@
     "agv-9090d7ed",
     "agv-476b711c",
     "agv-397e35ab",
-    "agv-ec991a6c"
+    "agv-ec991a6c",
+    "agv-298b6c91",
+    "agv-a33c95e8"
    ]
   },
   {
@@ -41130,7 +42926,40 @@
     "agv-a37b3577",
     "agv-6af27c87",
     "agv-b136db31",
-    "agv-919177b6"
+    "agv-919177b6",
+    "agv-60f299b1",
+    "agv-8fe1226b",
+    "agv-de06a4c7"
+   ]
+  },
+  {
+   "id": "automatizacion",
+   "name": "Automatización",
+   "article_ids": [
+    "agv-0177d6c1",
+    "agv-bc87a379",
+    "agv-064f0d65",
+    "agv-ce7aae71",
+    "agv-c3ff050d",
+    "agv-773739ab",
+    "agv-e87fd48f",
+    "agv-f76fcd35",
+    "agv-8395760d",
+    "agv-768144ac",
+    "agv-f533ff5b",
+    "agv-5ecd780e",
+    "agv-cc6d0995",
+    "agv-4de4c781",
+    "agv-be85d1c4",
+    "agv-8481957e",
+    "agv-7ddbccee",
+    "agv-1ee9131e",
+    "agv-43499775",
+    "agv-2160f661",
+    "agv-ec991a6c",
+    "agv-298b6c91",
+    "agv-8fe1226b",
+    "agv-cad9d06d"
    ]
   },
   {
@@ -41158,34 +42987,8 @@
     "agv-6bef4b01",
     "agv-4a7defb9",
     "agv-87cef2ea",
-    "agv-ec991a6c"
-   ]
-  },
-  {
-   "id": "automatizacion",
-   "name": "Automatización",
-   "article_ids": [
-    "agv-0177d6c1",
-    "agv-bc87a379",
-    "agv-064f0d65",
-    "agv-ce7aae71",
-    "agv-c3ff050d",
-    "agv-773739ab",
-    "agv-e87fd48f",
-    "agv-f76fcd35",
-    "agv-8395760d",
-    "agv-768144ac",
-    "agv-f533ff5b",
-    "agv-5ecd780e",
-    "agv-cc6d0995",
-    "agv-4de4c781",
-    "agv-be85d1c4",
-    "agv-8481957e",
-    "agv-7ddbccee",
-    "agv-1ee9131e",
-    "agv-43499775",
-    "agv-2160f661",
-    "agv-ec991a6c"
+    "agv-ec991a6c",
+    "agv-df17dd98"
    ]
   },
   {
@@ -41210,7 +43013,10 @@
     "agv-6bef4b01",
     "agv-73c35ea8",
     "agv-87cef2ea",
-    "agv-919177b6"
+    "agv-919177b6",
+    "agv-5dac2c2f",
+    "agv-06e59d39",
+    "agv-8fe1226b"
    ]
   },
   {
@@ -41738,7 +43544,17 @@
     "agv-2bbbed25",
     "agv-8c7b2ce8",
     "agv-d5901c3a",
-    "agv-130d7840"
+    "agv-130d7840",
+    "agv-40164967",
+    "agv-809279fa",
+    "agv-5dac2c2f",
+    "agv-06e59d39",
+    "agv-43b17f08",
+    "agv-fe4d140e",
+    "agv-b7c2cf32",
+    "agv-6c77c560",
+    "agv-86038a6c",
+    "agv-e3cbfb31"
    ]
   },
   {
@@ -41885,7 +43701,14 @@
     "agv-9090d7ed",
     "agv-476b711c",
     "agv-397e35ab",
-    "agv-ec991a6c"
+    "agv-ec991a6c",
+    "agv-df17dd98",
+    "agv-298b6c91",
+    "agv-a33c95e8",
+    "agv-60f299b1",
+    "agv-8fe1226b",
+    "agv-cad9d06d",
+    "agv-de06a4c7"
    ]
   },
   {
@@ -42010,7 +43833,11 @@
     "agv-5105a36e",
     "agv-cbe9f6f0",
     "agv-2bbbed25",
-    "agv-d5901c3a"
+    "agv-d5901c3a",
+    "agv-b7c2cf32",
+    "agv-6c77c560",
+    "agv-86038a6c",
+    "agv-e3cbfb31"
    ]
   },
   {
@@ -42035,7 +43862,10 @@
     "agv-5816a4a3",
     "agv-d0d515d6",
     "agv-9eb5fb08",
-    "agv-3e5b7904"
+    "agv-3e5b7904",
+    "agv-5dac2c2f",
+    "agv-06e59d39",
+    "agv-fe4d140e"
    ]
   },
   {
@@ -42053,7 +43883,8 @@
     "agv-1de47408",
     "agv-7454d4ad",
     "agv-a9324f9f",
-    "agv-13d3f4c2"
+    "agv-13d3f4c2",
+    "agv-43b17f08"
    ]
   },
   {
@@ -42093,6 +43924,17 @@
    ]
   },
   {
+   "id": "jalisco",
+   "name": "Jalisco",
+   "article_ids": [
+    "agv-6ea009da",
+    "agv-28e9f041",
+    "agv-8c7b2ce8",
+    "agv-40164967",
+    "agv-809279fa"
+   ]
+  },
+  {
    "id": "baja-california",
    "name": "Baja California",
    "article_ids": [
@@ -42110,15 +43952,6 @@
     "agv-2db51231",
     "agv-a8b1291c",
     "agv-b398abc9"
-   ]
-  },
-  {
-   "id": "jalisco",
-   "name": "Jalisco",
-   "article_ids": [
-    "agv-6ea009da",
-    "agv-28e9f041",
-    "agv-8c7b2ce8"
    ]
   },
   {
@@ -44522,15 +46355,25 @@
    "id": "summary-2026-10-06T00:12:32.283Z",
    "type": "summary",
    "at": "2026-10-06T00:12:34.511Z"
+  },
+  {
+   "id": "daily-2026-10-06T12:21:07.079Z",
+   "type": "daily",
+   "at": "2026-10-06T12:22:31.745Z",
+   "added": 17,
+   "skipped": 412,
+   "feeds_ok": 17,
+   "feeds_failed": 3,
+   "duplicates": 23
   }
  ],
  "meta": {
   "schema_version": 1,
   "created_at": "2026-09-19T15:08:14.372Z",
-  "updated_at": "2026-10-06T00:12:34.511Z",
+  "updated_at": "2026-10-06T12:22:31.745Z",
   "counts": {
-   "articles": 330,
-   "sources": 115,
+   "articles": 347,
+   "sources": 118,
    "topics": 12,
    "trends": 12,
    "companies": 111,
@@ -44544,7 +46387,7 @@
    "saved_articles": 0,
    "newsletter_issues": 3,
    "social_posts": 0,
-   "runs": 55
+   "runs": 56
   }
  }
 }
