@@ -30037,7 +30037,8 @@
     "agv-243ad80c",
     "agv-c1bd6da4",
     "agv-00a25987",
-    "agv-d5901c3a"
+    "agv-d5901c3a",
+    "agv-961882b9"
    ],
    "verification": {
     "evidence": "ALTO",
@@ -38105,22 +38106,22 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 43,
-    "priority": 43,
-    "base": 43,
+    "score": 40,
+    "priority": 40,
+    "base": 40,
     "breakdown": {
      "agro": 4.2,
      "tech": 8,
      "business": 3.3,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 2
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 43,
-   "priority": 43,
+   "score": 40,
+   "priority": 40,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -38216,15 +38217,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 53,
-    "priority": 53,
-    "base": 43,
+    "score": 50,
+    "priority": 50,
+    "base": 40,
     "breakdown": {
      "agro": 4.2,
      "tech": 8,
      "business": 3.3,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 2
     },
     "bonuses": {
@@ -38232,8 +38233,8 @@
     },
     "penalties": {}
    },
-   "score": 53,
-   "priority": 53,
+   "score": 50,
+   "priority": 50,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -38901,15 +38902,15 @@
    },
    "evidence": "BAJO",
    "scoring": {
-    "score": 50,
-    "priority": 50,
-    "base": 40,
+    "score": 47,
+    "priority": 47,
+    "base": 37,
     "breakdown": {
      "agro": 8.3,
      "tech": 16,
      "business": 3.3,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 2
     },
     "bonuses": {
@@ -38917,8 +38918,8 @@
     },
     "penalties": {}
    },
-   "score": 50,
-   "priority": 50,
+   "score": 47,
+   "priority": 47,
    "status": "NO VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -39529,15 +39530,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 87,
-    "priority": 87,
-    "base": 67,
+    "score": 84,
+    "priority": 84,
+    "base": 64,
     "breakdown": {
      "agro": 25,
      "tech": 0,
      "business": 10,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -39546,8 +39547,8 @@
     },
     "penalties": {}
    },
-   "score": 87,
-   "priority": 87,
+   "score": 84,
+   "priority": 84,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -39822,22 +39823,22 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 35,
-    "priority": 35,
-    "base": 35,
+    "score": 32,
+    "priority": 32,
+    "base": 32,
     "breakdown": {
      "agro": 8.3,
      "tech": 0,
      "business": 0,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 2
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 35,
-   "priority": 35,
+   "score": 32,
+   "priority": 32,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -39915,22 +39916,22 @@
    },
    "evidence": "ALTO",
    "scoring": {
-    "score": 35,
-    "priority": 35,
-    "base": 35,
+    "score": 32,
+    "priority": 32,
+    "base": 32,
     "breakdown": {
      "agro": 0,
      "tech": 0,
      "business": 0,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 10
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 35,
-   "priority": 35,
+   "score": 32,
+   "priority": 32,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -39999,26 +40000,38 @@
     "MEXICO": 0.6666666666666666
    },
    "duplicate_of": null,
-   "related_ids": [],
+   "related_ids": [
+    "agv-961882b9",
+    "agv-edc6ebc4"
+   ],
    "verification": {
-    "evidence": "BAJO",
-    "computed_evidence": "BAJO",
-    "status": "NO VERIFICADO",
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
     "source_role": "fuente secundaria",
-    "corroborations": [],
+    "corroborations": [
+     {
+      "name": "El Sol de México",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM1U0bDhMY20xWFFtblZwdHh3NVpvVWQybVM5cGQ1VE9tTF9NLVpwbDBNaU1IM2pOajV0dEc2MEpwZ1FhTnhsc00zekx2TlJUQ0VoUC1TWnJBTnNPVVhiV0RCM0FqdWdxMVE5cUd0aVhNRGVOWUN0cjZTUVlFREo0VTdJanZ1cjFVRm1rVXYtRmRLTXhicjJNZFZ5enVYUk5BbV9Ca3RQZXEyRXdJWmRsRVNCV3RIUmF1RGtRZHlsYW5Qb01md3dXZ2EwejdIOS1FQ3lOR1JR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "tier": 0,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-961882b9"
+     }
+    ],
     "warnings": []
    },
-   "evidence": "BAJO",
+   "evidence": "MEDIO",
    "scoring": {
-    "score": 55,
-    "priority": 55,
-    "base": 35,
+    "score": 52,
+    "priority": 52,
+    "base": 32,
     "breakdown": {
      "agro": 4.2,
      "tech": 0,
      "business": 6.7,
      "mexico": 12,
-     "recency": 10,
+     "recency": 7,
      "source": 2
     },
     "bonuses": {
@@ -40027,9 +40040,9 @@
     },
     "penalties": {}
    },
-   "score": 55,
-   "priority": 55,
-   "status": "NO VERIFICADO",
+   "score": 52,
+   "priority": 52,
+   "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
    "suggested_formats": [
@@ -40109,22 +40122,22 @@
    },
    "evidence": "BAJO",
    "scoring": {
-    "score": 39,
-    "priority": 39,
-    "base": 39,
+    "score": 36,
+    "priority": 36,
+    "base": 36,
     "breakdown": {
      "agro": 12.5,
      "tech": 0,
      "business": 0,
      "mexico": 12,
-     "recency": 10,
+     "recency": 7,
      "source": 4
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 39,
-   "priority": 39,
+   "score": 36,
+   "priority": 36,
    "status": "NO VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -40311,14 +40324,14 @@
    "evidence": "MEDIO",
    "scoring": {
     "score": 100,
-    "priority": 122,
-    "base": 82,
+    "priority": 119,
+    "base": 79,
     "breakdown": {
      "agro": 25,
      "tech": 20,
      "business": 20,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -40330,7 +40343,7 @@
     "penalties": {}
    },
    "score": 100,
-   "priority": 122,
+   "priority": 119,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -40415,15 +40428,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 72,
-    "priority": 72,
-    "base": 62,
+    "score": 69,
+    "priority": 69,
+    "base": 59,
     "breakdown": {
      "agro": 25,
      "tech": 0,
      "business": 20,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -40431,8 +40444,8 @@
     },
     "penalties": {}
    },
-   "score": 72,
-   "priority": 72,
+   "score": 69,
+   "priority": 69,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -40621,15 +40634,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 99,
-    "priority": 99,
-    "base": 69,
+    "score": 96,
+    "priority": 96,
+    "base": 66,
     "breakdown": {
      "agro": 25,
      "tech": 20,
      "business": 6.7,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -40639,8 +40652,8 @@
     },
     "penalties": {}
    },
-   "score": 99,
-   "priority": 99,
+   "score": 96,
+   "priority": 96,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -40824,14 +40837,14 @@
    "evidence": "MEDIO",
    "scoring": {
     "score": 100,
-    "priority": 105,
-    "base": 85,
+    "priority": 102,
+    "base": 82,
     "breakdown": {
      "agro": 25,
      "tech": 8,
      "business": 20,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -40841,7 +40854,7 @@
     "penalties": {}
    },
    "score": 100,
-   "priority": 105,
+   "priority": 102,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -40933,14 +40946,14 @@
    "evidence": "MEDIO",
    "scoring": {
     "score": 100,
-    "priority": 124,
-    "base": 84,
+    "priority": 121,
+    "base": 81,
     "breakdown": {
      "agro": 25,
      "tech": 20,
      "business": 10,
      "mexico": 12,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -40952,7 +40965,7 @@
     "penalties": {}
    },
    "score": 100,
-   "priority": 124,
+   "priority": 121,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -44766,16 +44779,27 @@
     "MEXICO": 1
    },
    "duplicate_of": null,
-   "related_ids": [],
+   "related_ids": [
+    "agv-ac82cb6b"
+   ],
    "verification": {
-    "evidence": "BAJO",
-    "computed_evidence": "BAJO",
-    "status": "NO VERIFICADO",
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
     "source_role": "fuente secundaria",
-    "corroborations": [],
+    "corroborations": [
+     {
+      "name": "alfredoalvarez.mx",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSWh3TVI1UWllTDA2N0dJUm94RURqaDI5SG9WUk1Ddkg0b3RhUE81NWJWYjYtYzR3ODVPVzJtUE42TXkxR1lWMHdLLW1zTGdlTndpOXVvUHZudzhnMzJmcXFJOS12RkpmN1VSa0p3Tjg1b0Jzc0lERXZYMGFYWFhZNVliNEREMFNXLUFoWGFxTmJLb2RIUnR6Qmp1OE1DZ2tYaGtDVmtXSjZXOUdGblc4Rjlqdm5kc0d1VlpvSDZhbnlicWZibkZOTVdzWXNMSzJsSm1F?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "tier": 0,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-ac82cb6b"
+     }
+    ],
     "warnings": []
    },
-   "evidence": "BAJO",
+   "evidence": "MEDIO",
    "scoring": {
     "score": 40,
     "priority": 40,
@@ -44793,7 +44817,7 @@
    },
    "score": 40,
    "priority": 40,
-   "status": "NO VERIFICADO",
+   "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
    "suggested_formats": [],
@@ -45508,6 +45532,1863 @@
    ],
    "suggested_content": [],
    "interview_ideas": []
+  },
+  {
+   "id": "agv-ac82cb6b",
+   "retrieved_at": "2026-10-13T12:24:44.263Z",
+   "ingested_via": "googlenews",
+   "title_original": "Destinan Durazo y Sheinbaum inversión superior a 5 mil millones para tecnificación de riego en el Mayo y Yaqui",
+   "title_agrovision": "",
+   "source_name": "alfredoalvarez.mx",
+   "source_domain": "alfredoalvarez.mx",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSWh3TVI1UWllTDA2N0dJUm94RURqaDI5SG9WUk1Ddkg0b3RhUE81NWJWYjYtYzR3ODVPVzJtUE42TXkxR1lWMHdLLW1zTGdlTndpOXVvUHZudzhnMzJmcXFJOS12RkpmN1VSa0p3Tjg1b0Jzc0lERXZYMGFYWFhZNVliNEREMFNXLUFoWGFxTmJLb2RIUnR6Qmp1OE1DZ2tYaGtDVmtXSjZXOUdGblc4Rjlqdm5kc0d1VlpvSDZhbnlicWZibkZOTVdzWXNMSzJsSm1F?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmi0wfbvv95cuxnswh3tvi1uwlltda2n0djum94rurqadi5sg9wuk1ddkg0b3rhue81nwjwyjytyzr3odvpvzjtue42txkxr1lwmhdllw1ztgdltndpoxvvuhzudzhnmzjmcxfjos12rkpmn1vsa0p3tjg1b0jzc0lerxzymgfywfhznvlineremfnxlufowgfxtmjlb2riunr6qmp1oe1dz2tyagtdvmtxsjzxoudgblc4rjlqdm5kc0d1vlpvsdzhbnlicwzibkzotvdzwxnmszjssm1f?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-10-11",
+   "country": "México",
+   "mx_state": "Sonora",
+   "category": "MEXICO",
+   "subcategory": "Sonora",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [],
+   "relevance": {
+    "AGRO": 0.3333333333333333,
+    "TECH": 0,
+    "BUSINESS": 0.16666666666666666,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [
+    "agv-1979c483"
+   ],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [
+     {
+      "name": "Diario del Yaqui",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWXpiajNzMjBFVGhEOVplNmpPUmhSVlVFRE0zQktpZTREcGhMWDlESWtKdmFjenI0Um1JQ2xpQW9yejJ6SzRwNVZSX2VNR1VVMHFNZk5Qcy1XejVYbk9tS3hjVlVEMWxHVlRWcENtVFBxQWUtNWFELUZ4MGYxVEd5N0NzeUNIWE1KNXpPQ1hDRFQ5MGpiOFpqWlFpQlB2ZXE3Mk1Vd3VvM3RKRFVmVnpxWnM1QllrZkFKenVNNzBpWDhWWHR2Y0dIa3VVNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "tier": 0,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-1979c483"
+     }
+    ],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 39,
+    "priority": 39,
+    "base": 39,
+    "breakdown": {
+     "agro": 8.3,
+     "tech": 0,
+     "business": 3.3,
+     "mexico": 15,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 39,
+   "priority": 39,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "¿Quién está invirtiendo?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": [
+    "Voz local: productor(a) u organización de Sonora sobre cómo les afecta este tema."
+   ]
+  },
+  {
+   "id": "agv-961882b9",
+   "retrieved_at": "2026-10-13T12:24:44.263Z",
+   "ingested_via": "googlenews",
+   "title_original": "Sader anuncia compras directas de insumos para pequeños y medianos productores agrícolas",
+   "title_agrovision": "",
+   "source_name": "El Sol de México",
+   "source_domain": "oem.com.mx",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM1U0bDhMY20xWFFtblZwdHh3NVpvVWQybVM5cGQ1VE9tTF9NLVpwbDBNaU1IM2pOajV0dEc2MEpwZ1FhTnhsc00zekx2TlJUQ0VoUC1TWnJBTnNPVVhiV0RCM0FqdWdxMVE5cUd0aVhNRGVOWUN0cjZTUVlFREo0VTdJanZ1cjFVRm1rVXYtRmRLTXhicjJNZFZ5enVYUk5BbV9Ca3RQZXEyRXdJWmRsRVNCV3RIUmF1RGtRZHlsYW5Qb01md3dXZ2EwejdIOS1FQ3lOR1JR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmi1gfbvv95cuxqm1u0bdhmy20xwfftblzwdhh3nvpvvwqybvm5cgq1ve9ttf9nlvpwbdbnau1im2poajv0dec2mepwz1fhtnhsc00zekx2tljuq0vouc1twnjbtnnpvvhiv0rcm0fqdwdxmve5cud0avhnrgvowun0cjztuvlfreo0vtdjanz1cjfvrm1rvxytrmrltxhicjjnzfz5envyuk5bbv9ca3rqzxeyrxdjwmrsrvncv3riumf1rgtrzhlsyw5qb01md3dxz2ewejdios1fq3lor1jr?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-10-13",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "BUSINESS",
+   "subcategory": "Costos",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 0.16666666666666666,
+    "TECH": 0,
+    "BUSINESS": 0.16666666666666666,
+    "MEXICO": 0.6666666666666666
+   },
+   "duplicate_of": null,
+   "related_ids": [
+    "agv-a4814908",
+    "agv-8522e414",
+    "agv-edc6ebc4"
+   ],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [
+     {
+      "name": "laverdad.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWZ4WGlsMm93R19jeDFzWVJyZWs2blBzVk9iMDk1S3hoQTRrU0dGSlBhLWRsU3piVkxYaHZZc09xRDBpOTBZODFnSE9JZjFycVZpWmplUWxYTTFzcU5xdVp5QXhlRmVSY2Y5UFQ5UVk2Ty1RREVQSC14YlhSRFU5Ym1RZG8xNEo2VXNUUVg3ckFUWlBQZXRYdW41aUNJcWtEdWtiUHNBTjJiUDFJWEpGNFR6dVk1MkRz?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "tier": 0,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-a4814908"
+     }
+    ],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 42,
+    "priority": 42,
+    "base": 32,
+    "breakdown": {
+     "agro": 4.2,
+     "tech": 0,
+     "business": 3.3,
+     "mexico": 12,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {
+     "afecta_productores": 10
+    },
+    "penalties": {}
+   },
+   "score": 42,
+   "priority": 42,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "El negocio detrás del campo"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-edc6ebc4",
+   "retrieved_at": "2026-10-13T12:24:44.263Z",
+   "ingested_via": "googlenews",
+   "title_original": "Sader Lanza Plataforma para Facilitar la Compra de Insumos Agrícolas a Menor Precio",
+   "title_agrovision": "",
+   "source_name": "Diario CAMBIO 22",
+   "source_domain": "diariocambio22.mx",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObDBYVlpoNUlzZ3Q4OVBkWjRWRzRQUllETEFwUXNLUTJaSWs1aG9rUXFmTG9sYUNQVGg3Q0JZakdEREwzREZuWHRwLWVoYnQtNlpOLTVqQmVLdk80OGVPaVVrQWFWLWVsRFdUdkJnT3pmZlZ1ZGJxRWlnM0d0LWJNTzE4a2tJMGp6QVh6RFA2Rkt6WWpNeDJCWHplbUFoY2hTOFR2a3NZbFlUd01UQm1N?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmirwfbvv95cuxobdbyvlponulzz3q4ovbkwjrwrzrqulletefwuxnlutjasws1ag9ruxfmtg9syunqvgg3q0jzakderewzrezuwhrwlwvoynqtnlpoltvqqmvldk80ogvpavvrqwfwlwvsrfdudkjnt3pmzlz1zgjxrwlnm0d0lwjntze4a2tjmgp6qvh6rfa2rkt6wwpnedjcwhplbufoy2htofr2a3nzbflud01uqm1n?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-10-08",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "BUSINESS",
+   "subcategory": "Adquisiciones",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 0.16666666666666666,
+    "TECH": 0,
+    "BUSINESS": 0.5,
+    "MEXICO": 0.6666666666666666
+   },
+   "duplicate_of": null,
+   "related_ids": [
+    "agv-8522e414",
+    "agv-961882b9"
+   ],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [
+     {
+      "name": "Linea Directa",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNFNnak4xZmctSUplMlRYenV6aERvVEI4QWplNjFsZm8zVTNYN2hTdklxeDl2QVlDaGRJenBtS3RQcXV4QkFQV3NxNHhJcU8zbURWc0gtcTRMbGZBWmVDRWl6VFpMajdTS1N1QzZuVHpzb0FYZU5GT2g3QlIwa1lLWHoxR0NiY2oyRHJjcnZuTzdYTEJQLW05TlctQTZWVVZWcnNOM1piV3A1eWZfTkZ6aEhuWFNQeWNVVC1IbnlzSF9vdHdYeFFPZjlqVE9BLTdQN2x1M2E3bnNCcUU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "tier": 0,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-8522e414"
+     }
+    ],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 48,
+    "priority": 48,
+    "base": 38,
+    "breakdown": {
+     "agro": 4.2,
+     "tech": 0,
+     "business": 10,
+     "mexico": 12,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {
+     "impacto_economico": 10
+    },
+    "penalties": {}
+   },
+   "score": 48,
+   "priority": 48,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "¿Cuánto cuesta?",
+    "El negocio detrás del campo"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-c4e61eac",
+   "retrieved_at": "2026-10-13T12:24:44.263Z",
+   "ingested_via": "rss",
+   "title_original": "It’s time to take action on cybersecurity in agrifood",
+   "title_agrovision": "",
+   "source_name": "AgFunderNews",
+   "source_domain": "agfundernews.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://agfundernews.com/its-time-to-take-action-on-cybersecurity-in-agrifood",
+   "canonical_url": "https://agfundernews.com/its-time-to-take-action-on-cybersecurity-in-agrifood",
+   "published_at": "2026-10-12",
+   "country": "Global",
+   "mx_state": null,
+   "category": "TECH",
+   "subcategory": "Inteligencia Artificial",
+   "technologies": [
+    "Inteligencia Artificial",
+    "Automatización",
+    "Agricultura de precisión",
+    "Software",
+    "Datos"
+   ],
+   "companies": [],
+   "content": "Growth in AI, automation, and digitization put cybersecurity in agrifood at the center of food security.\nStartups, investors, and media outlets like this one love to talk about the potential benefits of digitizing agrifood. Faster decision-making! Bigger yields! Less money spent on labor!\nWe’re not so great at highlighting the cyber threats created when the entire food system gets digitized—threats that, if realized at the extreme end, could be catastrophic to food security around the world.\nCase in point: Just this week, hackers forced the temperature of freezers and fridges up to 122 degrees fahrenheit at several hundred French supermarkets, causing food spoilage and fires. According to Reuters , cold aisles in grocery stores, which can typically be controlled over the internet, ran outdated firmware, creating vulnerabilities.\nIt’s just the latest in a rising number of cyberattacks documented across food and agriculture that have hit everything from breweries and farms to grocery distributors, food processors, and cold-chain operators. Disabling ordering systems at distribution centers? Check. Shutting off HVAC systems at swine farms so that pigs catch pneumonia? Done. Cutting off supply of ingredients to the local KFC? Yep.\nWhat makes cybersecurity in food and agriculture unique is the physical nature of the fallout. While other critical infrastructure sectors also face severe physical risks from digital breaches, a compromised food supply threatens something we all depend on: access to safe, reliable food.\nBelow is a roundup of the most high-profile attacks in the last few years. Ransomware attacks in the sector doubled in 2025 , with 265 recorded incidents—a 29% increase over 2024. I doubt this captures the true size of the problem, since a lot of attacks go unreported.\nFor investors, cyber attacks on agrifood could wipe out a year of revenue, trigger regulatory scrutiny, and decimate customer relationships overnight. After all, the agrifood companies building the next “physical AI” offering, logistics platform, or smart harvester are also building new opportunities for bad actors. Analyzing the security of these offerings needs to become a part of the due diligence process if it isn’t already.\nFor food companies and operators, the threat is existential in ways that most sectors don’t face. As this week’s attack in France shows, spoiled food is a spoiled product, and nothing says vulnerability like empty grocery store shelves.\nAdvances in farming and food production technology have created a playing field for hackers that arguably didn’t exist a decade ago. Little dialogue about running off secure systems exists for this group. In the US, the FBI and CISA have both flagged precision agriculture as an emerging vulnerability, but the federal advisory on the subject hasn’t been updated since 2018.\nFor governments, the food system is critical infrastructure, but requirements for mandatory disclosure of attacks remain weak. That means the true scale of the problem is almost certainly larger than the data suggests.\nOne hopeful bit of news came last week, when researchers across the country published recommendations for building “a nationwide consortium approach to ag cybersecurity.” Published in Nature Food , the research follows workshops with more than 150 participants across farms, ag cooperatives, agribusinesses, NGOs, academia, government, and cybersecurity businesses themselves.\nThe research envisions an Agriculture Cybersecurity Consortium built to help the food system transition from “reactive crisis management toward anticipatory, national-level resilience.”\nThe ACC would gather farms, cooperatives, cybersecurity businesses, ag businesses, government, academia, and others to solve cybersecurity challenges and provide more education.\n“Every day, millions of small- and medium-sized agrifood operations across the supply chain face very real cyber risks, though many may not realize how vulnerable they are,” Richard Hull, a principal scientist at IC-FOODS and computer science lecturer at UC Davis, said in a statement. “With the advent of agentic AI, cyber attacks are growing in number and sophistication.”\nHe said his hope with the paper is to “accelerate a shift toward making cyberhealth a fundamental part of agrifood operations, alongside crop health, animal health and food safety.”\n“As a nation, we are rapidly transitioning from the traditional ‘farm-to-fork’ supply chain to a digitally interconnected ecosystem that can be described as ‘farm-to-fiber,’ added Virginia Tech professor Feras Batarseh, who is also director of AI assurance and applications at A3 Lab.\n“This evolution reflects the growing reliance on AI, automation, data, and interconnected technologies across food production, processing, and distribution — a notion that places cybersecurity of critical agricultural infrastructure at the center of food security.”\nIn a recent chat with me, agtech analyst and consultant Rhishi Pethe mentioned building “a culture of talking about cybersecurity.” This isn’t new: banking and healthcare have had this dialogue for decades. As Pethe suggests, there’s no need to reinvent any wheels here; look to these industries and see what tactics could apply to agrifood.\n“It’s always a cat-and-mouse game between bad actors and defenders,” says Pethe. “But if the defenders are not prepared, you could have some really bad outcomes in the near future.”\nTo be sure, the bird’s-eye view of the problem is overwhelming, given the many ways hackers can disrupt the food system (see chart above).\nBut the problem isn’t going to go away. And with that in mind, over the coming months, I am going to dig into this Gordian knot of a topic to try and help build that culture of talking about cybersecurity Pethe describes.\nWe’ll be talking to founders building security infrastructure for food and ag, investors who are starting to ask the right questions, operators who have lived through attacks, and policymakers wrestling with a regulatory framework that hasn’t caught up with the technology. We’ll be examining where the real vulnerabilities lie, what best practices are emerging, and what the investment opportunity in food and ag security actually looks like.\nWant to contribute? Please drop me a line or message me on LinkedIn and let’s get talking. Before it’s too late.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "AGRO",
+    "BUSINESS"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 1,
+    "BUSINESS": 1,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 92,
+    "priority": 92,
+    "base": 82,
+    "breakdown": {
+     "agro": 25,
+     "tech": 20,
+     "business": 20,
+     "mexico": 0,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 92,
+   "priority": 92,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?",
+    "Startup que debes conocer"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-73970483",
+   "retrieved_at": "2026-10-13T12:24:44.263Z",
+   "ingested_via": "rss",
+   "title_original": "Exclusive: Yara Growth Ventures backs soil-sensing startup Stenon as fertilizer prices surge",
+   "title_agrovision": "",
+   "source_name": "AgFunderNews",
+   "source_domain": "agfundernews.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://agfundernews.com/exclusive-yara-growth-ventures-backs-soil-sensing-startup-stenon-as-fertilizer-prices-surge",
+   "canonical_url": "https://agfundernews.com/exclusive-yara-growth-ventures-backs-soil-sensing-startup-stenon-as-fertilizer-prices-surge",
+   "published_at": "2026-10-12",
+   "country": "Global",
+   "mx_state": null,
+   "category": "TECH",
+   "subcategory": "Software",
+   "technologies": [
+    "Inteligencia Artificial",
+    "Software",
+    "Datos"
+   ],
+   "companies": [],
+   "content": "Yara takes a minority stake in nitrogen intelligence company Stenon with the second close of the latter's Series B.\nNorwegian crop nutrition giant Yara International has invested in Stenon , a German startup that measures soil nitrogen in the field, through its venture arm, Yara Growth Ventures .\nThe investment is the second close of Potsdam-based Stenon’s Series B round . It follows a €18 million ($20.5 million) first close earlier this year led by Dutch impact investor Pymwymic . Financial terms of the Yara deal are not disclosed.\nThe deal comes as conflict in the Middle East continues to disrupt fertilizer exports and drive up prices. In June, the World Bank said disruption around the Strait of Hormuz had pushed urea and phosphate prices to their highest levels since 2022. It warned that if the disruptions persist, fertilizer and natural gas prices could rise “far above current forecasts, creating significant upside risks to agricultural prices.”\nHigher fertilizer costs raise farmers’ production costs in the near term. Over time, the bank noted, they could also push growers to apply less fertilizer or switch to less nutrient-hungry crops, which would weigh on yields.\nStenon wants to make fertilizer use more efficient by giving farmers frequent, real-time soil data to guide nitrogen decisions. Plant-available nitrogen can vary significantly across a single field and over a growing season, but to date, many farmers still make fertilizer decisions with limited information about the soil.\nStenon’s portable FarmLab device measures plant-available nitrogen, soil organic matter, temperature, and moisture, among other things, directly in the field. The company’s software and AI models then turn that raw data into fertilizer recommendations for growers and agronomists.\n“Our technology is designed to transform soil data from an occasional measurement into an operational layer of agricultural decision-making,” Stenon founder and CEO Niels Grabbert tells AgFunderNews . “By generating high-resolution soil information directly in the field, we aim to give farmers and agronomists a stronger basis for nitrogen management decisions.”\nGrabbert notes that because Yara is one of the world’s largest producers of nitrogen fertilizer, the investment is “a good strategic match” for both companies.\n“They produce the inputs we’re optimizing, which shows that they have validated our technology and are interested in optimizing their inputs.”\nYara also brings agronomic and economic expertise that Stenon can build into its own product, he adds.\n“They typically focus on high-premium fertilizer, and they have a very strong brand because they provide really good economic advice. For us at Stenon, that’s super interesting, because integrating more of their economic knowledge with our sensing technology creates an even better, more holistic output for the client.”\nStenon sells to input retailers, machinery dealers, agricultural consultants and food producers. Grabbert says the platform is already used across several million acres in Europe (Switzerland, Austria, Germany and Greece), Central Asia (Kazakhstan and Kyrgyzstan), Brazil and the US (California).\nThe new funding will go toward developing Stenon’s soil nitrogen intelligence platform and expanding it to more crops and regions.\nIn the next 12 months, Grabbert says Stenon has three key goals: getting its new technology ready to launch in 2027 (he did not disclose further details about what that technology is), increasing deployments in Latin America, and expanding into new markets.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "AGRO",
+    "BUSINESS"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 1,
+    "BUSINESS": 1,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 100,
+    "priority": 122,
+    "base": 82,
+    "breakdown": {
+     "agro": 25,
+     "tech": 20,
+     "business": 20,
+     "mexico": 0,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {
+     "innovacion_concreta": 10,
+     "impacto_economico": 10,
+     "afecta_productores": 10,
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 100,
+   "priority": 122,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?",
+    "Startup que debes conocer",
+    "¿Quién está invirtiendo?",
+    "¿Cuánto cuesta?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-9ce61680",
+   "retrieved_at": "2026-10-13T12:24:44.263Z",
+   "ingested_via": "rss",
+   "title_original": "Hardi supplies new automatic boom stabilisation",
+   "title_agrovision": "",
+   "source_name": "Future Farming",
+   "source_domain": "futurefarming.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://www.futurefarming.com/smart-farming/hardi-supplies-new-automatic-boom-stabilisation/",
+   "canonical_url": "https://futurefarming.com/smart-farming/hardi-supplies-new-automatic-boom-stabilisation",
+   "published_at": "2026-10-13",
+   "country": "Global",
+   "mx_state": null,
+   "category": "TECH",
+   "subcategory": "Sensores",
+   "technologies": [
+    "Sensores"
+   ],
+   "companies": [],
+   "content": "Danish sprayer manufacturer Hardi is introducing a new and more advanced spray boom management system.\nDanish sprayer manufacturer Hardi is introducing a new and more advanced spray boom management system, called Auto Terrain Pro, for Twin Force and Delta Force booms. The main development: improved sensors and an additional sensor on the frame that is designed to predict the movement of the spray boom.\nWith the Auto Terrain Pro automatic boom stabilisation system, an additional sensor is mounted on the sprayer’s rear axle. This sensor detects when the sprayer passes through a hollow or over a bump in the field. Based on the deflection of that sensor, the boom is corrected immediately. According to importer Homburg Holland in Stiens, Friesland, this system provides a more consistent spray pattern. The spray boom does not have to be corrected after every movement, but is primarily kept level.\nIn addition, Hardi has modified the suspension of the spray boom. The new suspension has been fitted with an additional cylinder. This Smart cylinder works as a kind of damper that absorbs the corrections of the spray boom. This makes the movements less jerky.\nAs standard, the spray boom is equipped with 3 ultrasonic sensors to measure the height to the crop. As an option, a fourth or fifth sensor can be added. Homburg does not expect much demand in the Netherlands for those additional sensors, as they are mainly intended for fields on hilly terrain. The importer also reports that all sensors are maintenance-free.\nAuto Terrain Pro is available on spray booms with a length of 24 to 39m. The option has a starting price of €8.000.\nSubscribe to our newsletter to stay updated about all the need-to-know content in the agricultural sector, two times a week.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [],
+   "relevance": {
+    "AGRO": 0.3333333333333333,
+    "TECH": 1,
+    "BUSINESS": 0.16666666666666666,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 59,
+    "priority": 59,
+    "base": 49,
+    "breakdown": {
+     "agro": 8.3,
+     "tech": 20,
+     "business": 3.3,
+     "mexico": 0,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 59,
+   "priority": 59,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?",
+    "¿Cuánto cuesta?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-0c878294",
+   "retrieved_at": "2026-10-13T12:24:44.263Z",
+   "ingested_via": "rss",
+   "title_original": "Tribunal de Apelación pide a la Suprema Corte atraer el juicio sobre maíces transgénicos en México",
+   "title_agrovision": "",
+   "source_name": "Imagen Agropecuaria",
+   "source_domain": "imagenagropecuaria.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://imagenagropecuaria.com/2026/tribunal-de-apelacion-pide-a-la-suprema-corte-atraer-el-juicio-sobre-maices-transgenicos-en-mexico/",
+   "canonical_url": "https://imagenagropecuaria.com/2026/tribunal-de-apelacion-pide-a-la-suprema-corte-atraer-el-juicio-sobre-maices-transgenicos-en-mexico",
+   "published_at": "2026-10-13",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "AGRO",
+   "subcategory": "Cultivos",
+   "technologies": [],
+   "companies": [],
+   "content": "Será la Suprema Corte de Justicia de la Nación (SCJN) decidirá si resuelve el juicio sobre maíces genéticamente modificados (GM), informó la Colectividad del Maíz. En un comunicado, explicó que luego de que el pasado 8 de octubre de 2026 el Segundo Tribunal Colegiado de Apelación decidió no resolver la apelación presentada por la Demanda &hellip;\nSerá la Suprema Corte de Justicia de la Nación (SCJN) decidirá si resuelve el juicio sobre maíces genéticamente modificados (GM), informó la Colectividad del Maíz.\nEn un comunicado, explicó que luego de que el pasado 8 de octubre de 2026 el Segundo Tribunal Colegiado de Apelación decidió no resolver la apelación presentada por la Demanda Colectiva Maíz, a fin de que sea la SCJN la que, dada la trascendencia del asunto, establezca los criterios judiciales que deberán prevalecer en la resolución de esta controversia.\nLa Colectividad que con este veredicto, “el nuevo paradigma de justicia socioambiental a raíz de la reforma judicial, deberá proteger los intereses colectivos de las generaciones presentes y futuras ante el lucro de las corporaciones transnacionales de modificación genética”.\nEl organismo destacó la importancia que el caso tiene para México y el mundo, “pues se coloca al centro del análisis y el debate, el extenso reservorio genético de los maíces nativos, las prácticas agro ecológicas ancestrales, la biodiversidad y soberanía alimentaria”.\nPor tales motivos, consideró, las magistradas María Luisa Cervantes Ayala y Jocelyn Montserrat Mendizabal Ferreyro, así como el magistrado Josué Moctezuma Valdez determinaron solicitar a la SCJN que ejerza su facultad de atracción.\nLa Colectividad del Maíz confía en que, las Ministras y Ministros de la nueva Corte de Justicia asumirán su responsabilidad en la defensa del reservorio genético y biocultural de maíces nativos acorde a la reforma constitucional que declara al territorio mexicano libre de modificaciones genéticas en nuestras semillas.\nEl organismo reiteró que la medida cautelar que impide la siembra de maíces genéticamente modificados está vigente y es irrevocable.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 0,
+    "BUSINESS": 0.3333333333333333,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 64,
+    "priority": 64,
+    "base": 64,
+    "breakdown": {
+     "agro": 25,
+     "tech": 0,
+     "business": 6.7,
+     "mexico": 15,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 64,
+   "priority": 64,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-209d8880",
+   "retrieved_at": "2026-10-13T12:24:44.263Z",
+   "ingested_via": "rss",
+   "title_original": "Reportan avance del Plan Campeche, entregan apoyos directos a productores de carne",
+   "title_agrovision": "",
+   "source_name": "Imagen Agropecuaria",
+   "source_domain": "imagenagropecuaria.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://imagenagropecuaria.com/2026/reportan-avance-del-plan-campeche-entregan-apoyos-directos-a-productores-de-carne/",
+   "canonical_url": "https://imagenagropecuaria.com/2026/reportan-avance-del-plan-campeche-entregan-apoyos-directos-a-productores-de-carne",
+   "published_at": "2026-10-13",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "AGRO",
+   "subcategory": "Ganadería",
+   "technologies": [
+    "Biotecnología"
+   ],
+   "companies": [],
+   "content": "Para elevar la calidad genética del hato campechano y consolidar la sustentabilidad pecuaria en el sureste, la Secretaría de Agricultura y Desarrollo Rural (Sader) informó que se realizó la segunda entrega de apoyos directos a 300 ganaderos de los municipios de Tenabo, Hecelchakán, Hopelchén, Calkiní y Campeche. Lo anterior forma parte del Plan Campeche 2026, &hellip;\nPara elevar la calidad genética del hato campechano y consolidar la sustentabilidad pecuaria en el sureste, la Secretaría de Agricultura y Desarrollo Rural (Sader) informó que se realizó la segunda entrega de apoyos directos a 300 ganaderos de los municipios de Tenabo, Hecelchakán, Hopelchén, Calkiní y Campeche.\nLo anterior forma parte del Plan Campeche 2026, que impulsa el gobierno de México y que tiene como meta sexenal atender hasta 5 mil productores pecuarios, informó la dependencia, a través de un comunicado.\nEn representación de la secretaria de la Sader, Columba Jazmín López Gutiérrez, el director general de Producción Ganadera, Pesquera y Acuícola, Fernando David Palos Ibarra, anunció que el Plan Campeche ya cuenta con los tres componentes en operación, que incluyen leche, arroz y este 12 de octubre arranca formalmente el de carne.\nComo parte de esta estrategia, explicó el funcionario federal, cada beneficiario recibió un apoyo por 37 mil pesos, que incluye un kit de cerco eléctrico, un bebedero pecuario de 300 litros, 28 kilogramos de semillas de pasto forrajero y hasta 10 servicios de inseminación artificial.\nRecordó que en la primera etapa se atendió a 200 productoras y productores, con lo que hoy suman 500 y reiteró que la meta es beneficiar a 5 mil personas hacia finales de la administración de la Presidenta Claudia Sheinbaum Pardo, por lo que las entregas continuarán en los municipios de Escárcega, Candelaria, Palizada y Carmen.\nEn su oportunidad, el director de Leche para el Bienestar y coordinador nacional del Plan Campeche, Antonio Talamantes, señaló que la entrega de estos apoyos representa una oportunidad para fortalecer la ganadería campechana.\n“Queremos que Campeche no solo produzca, sino que transforme, comercialice y obtenga mayores beneficios; que los jóvenes encuentren oportunidades para continuar con la actividad ganadera y que las familias productoras tengan mejores condiciones para salir adelante”, puntualizó.\nLa dependencia explicó, a través de un comunicado, que Mediante el Plan Campeche, presentado por el gobierno de México en noviembre de 2025, Sader impulsa la actividad agropecuaria del estado, con prioridad a productoras y productores de pequeña y mediana escala de carne, leche y arroz, a través de mejoramiento genético, infraestructura productiva, forraje y acompañamiento técnico.\nEn este marco, la Sader informó en su comunicación que la producción local de leche registra un avance del 37 por ciento y se destacó la importancia de la construcción de la primera planta de leche en Campeche, pues este producto será procesado y distribuido con precios accesibles a otras regiones.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 0.4,
+    "BUSINESS": 0.16666666666666666,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 88,
+    "priority": 88,
+    "base": 68,
+    "breakdown": {
+     "agro": 25,
+     "tech": 8,
+     "business": 3.3,
+     "mexico": 15,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {
+     "afecta_productores": 10,
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 88,
+   "priority": 88,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?",
+    "¿Cuánto cuesta?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-e0d2f2af",
+   "retrieved_at": "2026-10-13T12:24:44.263Z",
+   "ingested_via": "rss",
+   "title_original": "Ejidos y comunidades forestales pueden ser sujetos viables de crédito con asistencia técnica: FIRA",
+   "title_agrovision": "",
+   "source_name": "Imagen Agropecuaria",
+   "source_domain": "imagenagropecuaria.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://imagenagropecuaria.com/2026/ejidos-y-comunidades-forestales-pueden-ser-sujetos-viables-de-credito-con-asistencia-tecnica-fira/",
+   "canonical_url": "https://imagenagropecuaria.com/2026/ejidos-y-comunidades-forestales-pueden-ser-sujetos-viables-de-credito-con-asistencia-tecnica-fira",
+   "published_at": "2026-10-12",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "BUSINESS",
+   "subcategory": "Inversión",
+   "technologies": [],
+   "companies": [],
+   "content": "Al cierre de septiembre de 2026, el Proinfor había operado 194 créditos por 317.14 millones de pesos en beneficio de 8,907 personas ejidatarias y comuneras y de 1.4 millones de hectáreas de bosque certificadas en manejo sostenible por Forest Council Stewarship (FSC). Fideicomisos Instituidos en Relación con la Agricultura (FIRA), en coordinación con la cooperación &hellip;\nAl cierre de septiembre de 2026, el Proinfor había operado 194 créditos por 317.14 millones de pesos en beneficio de 8,907 personas ejidatarias y comuneras y de 1.4 millones de hectáreas de bosque certificadas en manejo sostenible por Forest Council Stewarship (FSC).\nFideicomisos Instituidos en Relación con la Agricultura (FIRA), en coordinación con la cooperación alemana a través de KFW y la participación de la Comisión Nacional Forestal, Conafor, presentó los resultados de cierre del Programa de Inversión Forestal, Proinfor, una iniciativa que confirmó que las Empresas Forestales Comunitarias (EFCs), pueden acceder de manera viable al financiamiento cuando el crédito se acompaña de asistencia técnica especializada, fortalecimiento empresarial y garantías, al mismo tiempo que contribuyen a la conservación de la biodiversidad mediante un manejo sostenible de los bosques certificados por FSC.\nDurante la ceremonia de cierre realizada en el Museo de Historia Natural y Cultura Ambiental de la Ciudad de México, representantes de FIRA, de la Embajada de la República Federal de Alemania, del Banco de Desarrollo Alemán KfW, así como de la Comisión Nacional Forestal (Conafor) analizaron junto a intermediarios financieros y empresas forestales comunitarias los resultados alcanzados y las oportunidades para dar continuidad a un modelo que vincula la inclusión financiera, el desarrollo productivo y la conservación de los bosques y selvas de México.\nEl encuentro tuvo como propósito presentar los avances de este programa, destacar el papel de ejidos y comunidades forestales en la sostenibilidad y la conservación de la biodiversidad, y generar un diálogo sobre la continuidad de los esfuerzos y la colaboración para el desarrollo sostenible del sector forestal.\nProinfor fue diseñado por FIRA en coordinación con KfW, y comenzó a implementarse en 2020. El crédito concesional de 30 millones de euros de la cooperación alemana, canalizado a través de KfW, permitió financiar inversiones de las Empresas Forestales Comunitarias mediante la red de intermediarios financieros de FIRA. Por su parte, el aporte financiero no reembolsable de 6 millones de euros se destinó al acompañamiento de las EFCs para la certificación FSC y a la asistencia técnica para la modernización tecnológica, el fortalecimiento de capacidades de gobernanza y administración, y para vincular sus productos certificados como sostenibles con los mercados.\nEn este modelo, FIRA desempeñó un papel estratégico al articular recursos de KfW y sus propios recursos de garantías y programas especiales, con los de otros organismos, intermediarios financieros y asistencia técnica especializada, particularmente para Empresas Forestales Comunitarias.\nPor su parte, 76 EFCs contaron con acompañamiento para la certificación FSC, de las cuales 49 se certificaron por primera vez. De las 1.9 millones de hectáreas de bosque certificadas en México, 1.4 millones hectáreas (74%) recibieron acompañamiento de PROINFOR. De estas últimas, 156,604 hectáreas cuentan con altos valores de conservación.\nAl señalar que “Proinfor demostró que los ejidos y comunidades forestales pueden ser sujetos viables de crédito cuando cuentan con asistencia técnica especializada y acompañamiento institucional , el director general de FIRA, Jesús Alan Elizondo Flores, indicó que cada proyecto apoyado representa un bosque que conserva su biodiversidad y se aprovecha sosteniblemente, una comunidad más fuerte y un paso más hacia una economía verde y justa”.\nLos recursos, dijo, permitieron financiar proyectos como la modernización de aserraderos, adquisición de equipos de extracción de bajo impacto ambiental, estufas de secado de madera, una planta de tableros de triplay, producción de muebles e instalación de paneles solares. En este último caso, las empresas forestales comunitarias reportaron ahorros de hasta 90% en los costos de energía asociados a los proyectos financiados. Señaló también que en los 6 años de operación del programa no se registró cartera vencida en los créditos originados bajo el modelo forestal comunitario.\nJeanne Lätt, primera secretaria para la cooperación de la Embajada de Alemania en México destacó que el “ PROINFOR ha sido un caso de éxito particular de la cooperación alemana en México, – un proyecto único e innovador que ha logrado poner a la biodiversidad al centro del crédito, generando lecciones significativas para la continuidad del trabajo de la cooperación financiera en México, en América latina y a nivel global”.\nAsimismo, Emiliano Detta Silveira, director de la oficina de representación en México de KfW, felicitó la articulación interinstitucional en este programa, indicando que la cooperación alemana a través de KfW se encuentra trabajando con FIRA en la continuidad de iniciativas en favor de la biodiversidad.\nEn su oportunidad, Silvia Murillo Cardoza, coordinadora general de producción y productividad de Conafora, subrayó como mensaje central, la continuidad. “El cierre de esta etapa -dijo- no significa el final del camino, al contrario, significa convertir lo aprendido en una ruta más sólida”.\n“La continuidad con la operación del programa Bosque Productivo en coordinación con FIRA, es una forma de asegurar que los apoyos para el sector lleguen de manera oportuna y se transformen en capacidades permanentes en las comunidades, porque cuando se apoya bien, con acompañamiento técnico, con esquemas de financiamiento adecuados a la realidad de las Empresas Forestales Comunitarias y con procesos adecuados, se logran mejoras que no se detienen con el tiempo” .",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "AGRO",
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 0,
+    "BUSINESS": 1,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 87,
+    "priority": 87,
+    "base": 77,
+    "breakdown": {
+     "agro": 25,
+     "tech": 0,
+     "business": 20,
+     "mexico": 15,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {
+     "impacto_economico": 10
+    },
+    "penalties": {}
+   },
+   "score": 87,
+   "priority": 87,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "¿Quién está invirtiendo?",
+    "¿Cuánto cuesta?",
+    "El negocio detrás del campo"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-626bc9c8",
+   "retrieved_at": "2026-10-13T12:24:44.263Z",
+   "ingested_via": "rss",
+   "title_original": "Biotecnología: el futuro es hoy",
+   "title_agrovision": "",
+   "source_name": "Hortalizas",
+   "source_domain": "hortalizas.com",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://www.hortalizas.com/proteccion-de-cultivos/biologicos/biotecnologia-el-futuro-es-hoy/",
+   "canonical_url": "https://hortalizas.com/proteccion-de-cultivos/biologicos/biotecnologia-el-futuro-es-hoy",
+   "published_at": "2019-12-13",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "TECH",
+   "subcategory": "Biotecnología",
+   "technologies": [
+    "Biotecnología"
+   ],
+   "companies": [],
+   "content": "Se estima que el valor de la biotecnología en nuestro país es de cerca de 150 millones de dólares.\n¿Qué es la producción sostenible? De acuerdo con la Organización de las Naciones Unidas, el consumo y la producción sostenible consisten en fomentar el uso eficiente de los recursos y la energía, la construcción de infraestructuras que no dañen el medio ambiente, la mejora del acceso a los servicios básicos y la creación de empleos ecológicos, justamente remunerados y con buenas condiciones laborales.\nTodo ello se traduce en una mejor calidad de vida para todos y, además, ayuda a lograr planes generales de desarrollo, que rebajen costos económicos, ambientales y sociales, que aumenten la competitividad y que reduzcan la pobreza. Ahora, ¿cómo se involucra la agricultura en la producción sostenible? Sencillo: de la mano de la biotecnología. Agricultura sostenible: los tres ejes El MC. Álvaro H. Montoya, CEO de IMARCOBIO, señala que la producción sostenible está basada en tres ejes: económico, social y ambiental. Cada uno de estos ejes necesita herramientas para funcionar y para medirse, desde la conceptualización de la biotecnología como tal, ésta es una herramienta para descubrir y optimizar procesos y bioprocesos. “Entonces, en términos de sostenibilidad es una herramienta para los tres ejes, de tal forma que en la biotecnología estamos desarrollando productos que son amigables con el medio ambiente y también con esos mismos productos nosotros podemos medir el impacto en los componentes sociales y económicos”, dice. Agrega que es por eso que la biotecnología como herramienta para la sostenibilidad funciona para los tres ejes. Álvaro es, además, desarrollador en biotecnología y producción sostenible; desde 2009 ha trabajado en la producción sostenible agrícola, principalmente en hortalizas. Como consultor, ha desarrollado proyectos de investigación e inversión en producción de agentes de biocontrol, biofertilizantes, energías renovables, micropropagación, suplementos alimenticios, entre otros. En temas de inocuidad alimentaria se desempeñó como Program Manager Agriculture para NSF International. Biotecnología en México Pero ¿qué tan avanzados estamos en México en el tema de agrobiotecnología? Montoya recuerda que hace un par de años se realizó un estudio sobre el mercado actual de los agrobiológicos en México. Este estudio señaló que entre 1997 y 2017 en México la infraestructura de productores comercializadores de productos biotecnológicos creció en un 26%, el cual es bastante significativo. Y de ello, el 39% son empresas nacionales, esto de acuerdo con el extinto ProMéxico. Eso se traduce en que ya existen en México 68 plantas pequeñas y medianas de capital nacional que producen agentes de biocontrol (bioplaguicidas, biofungicidas). En términos económicos, eso representa que en México en este 2019 alcanzó un valor de cerca de 150 millones de dólares. “Esto es el estimado de lo que ya ha habido, pero se está buscando y se está viendo que está creciendo año con año, pues la implementación de los agroproductos de este tipo en México ha ido creciendo conforme van pasando los años”, comenta el CEO de IMARCOBIO. Hace diez años, continúa, yo solía escuchar que la biotecnología era el futuro del mundo en todas las industrias en general, pero en particular en la nuestra. Y efectivamente, en muchas industrias creo que ese “futuro” es el presente, ya no es ese “futuro” de hace diez años, es lo que estamos viendo ahorita. La investigación como modelo de negocio Las cifras están ahí y existen, sin embargo, eso no basta para darle aún más impulso a la biotecnología en la agricultura mexicana, Álvaro Montoya es contundente: es importantísimo que las compañías cuenten actualmente con un departamento para seguir investigando y desarrollando esta tecnología. “Tener departamentos de investigación en las empresas es ciertamente costoso y eso nos lleva a una negativa inmediata de parte de muchas empresas, pero en la última década ha adquirido fuerza y valor. En este momento hay que saber medir las consecuencias y perder la ‘competitividad’ (y con esto me refiero a procesos productivos, capacidad financiera, la imagen de la marca), todo ello nos dirige a un camino mucho más costoso que la misma investigación”, abunda. ¿Por qué es importante la investigación aplicada en las empresas? Montoya responde de manera simple: porque nos permite estar preparados para crecer, para adaptarnos a los cambios del mercado, ser más competitivos y eficientes, incluso contra nuestra misma empresa. “Es por ello que hay mucho valor una vez que la investigación desarrollada de una empresa se aplica y lo empiezas a ver hacia el mercado”, afirma. El CEO de IMARCOBIO refiere que si hablamos de la ciencia o la investigación como un modelo de negocio al darle un valor económico podemos analizar lo siguiente: “Se estima que la inversión en México en biotecnología agrícola es de 22 millones de dólares, entonces con el valor del mercado que se comenta que es de 150 millones de dólares, es 6.8 veces más grande que su inversión. Entonces, si aterrizamos estos números a algo más entendible, por decirlo así, sabemos que por cada dólar invertido podemos recuperar hasta 5.8 dólares, y este es un valor real, es un valor de un modelo de negocio”. “Son números muy interesantes. Hay que entender y saber que la investigación científica aplicada en la industria agrícola lleva tiempo y riesgos, al igual que cualquier inversión, pero ya se mide y ya se le da un valor”, sostiene. Montoya agrega que en las áreas de investigación de muchas empresas se buscan básicamente dos objetivos: uno es la innovación y el otro es el desarrollo tecnológico. En la innovación estamos desarrollando ideas, es ver qué podemos hacer con lo que existe o tratar de inventar algo y eso es lo más “largo”, por decirle así. Y la parte de desarrollo tecnológico es mucho más puntual, “ya existe esto, cómo lo hago mejor”. Departamentos de investigación Basándose en esas dos directrices, Montoya expresa que cualquier empresa puede tener su laboratorio o departamento de investigación; “y aterrizándole a los números anteriores sabemos que va a terminar en un beneficio económico para la empresa, pero nunca hay que perder de vista eso: ¿cuál es el objetivo de tener investigación?”. Comenta que también se debe de pensar un poco en la parte tecnológica en la investigación, en buscar quizás consultores especializados, centros de investigación serios, leer casos de éxito; es decir, informarnos un poco más. “Sin embargo, mi consejo para cuando yo he participado en el desarrollo de departamentos de investigación en empresas es eso: tener objetivos muy claros. ‘Este departamento de investigación va a ser para desarrollar esto y sobre eso se construye’, lo demás ya va sobre la marcha”, añade. “Cada vez veo más agrónomos con conocimientos en biotecnología y más biotecnólogos con conocimientos de agronomía. Eso a mí me dice que ya estamos en los campos, ya estamos en las agrícolas, ya estamos en donde se crecen las plantas. El cambio hacia el modelo de producción agrícola sostenible se está llevando ahorita con esas personas, se está haciendo cuando un productor decide aplicar un microorganismo al suelo, ahí nos acabamos de hacer una empresa más sostenible, acabamos de dar un pequeño paso”, enfatiza. Yo creo, agrega, que hacia allá vamos y no es algo que sea una visión a futuro, es lo que ya se está construyendo en este momento, es la realidad de la mayoría de las agrícolas en México. Involucramiento de todos los actores El experto comenta que la agrobiotecnología nos está conduciendo a lograr el balance entre la búsqueda de los altos rendimientos, lo que durante muchos años era el objetivo de las agrícolas. Pero la agrobiotecnología nos está ayudando además de eso a ser más eficientes con el uso de los recursos naturales, humanos y económicos, “entonces ya estamos en el camino y vamos avanzando muy bien”. “Y México es punta de lanza en el desarrollo de agrobiotecnología, eso es lo que quizás nos falta difundir, nos falta que todos lo sepan, porque lo que yo veo en las agrícolas es que los productores sienten que son los únicos que le está metiendo un ‘bicho’ al campo, pero cuando esas personas se encuentran con alguien más que lo está haciendo se da ese networking, se da esa transferencia de información y es cuando esto se empieza a construir y sentir como algo más real”, menciona. Para mí es imperativo, destaca, es sumamente necesario que los que estamos metidos en la agricultura, los que estamos tratando de hacer agricultura sostenible nos juntemos donde sea, que tengamos nuestros espacios para expresar nuestros logros y nuestros errores porque de eso se trata la agricultura, de encontrar las formas más eficientes de producir y México aún no ha logrado tener esos espacios. Y finaliza enfatizando en la gran importancia actualmente de una comunicación profunda entre todos los actores de la agrobiotecnolgía. “Están quizás muy sectorizados, muy regionalizados, cada cierto tiempo un grupo intenta hacer un pequeño evento en un municipio o un valle, pero no hemos logrado esa comunicación real de esos grupos de transferencia de información. Pero, repito, esto es imperativo, es algo que tenemos que hacer. Ya tenemos el empuje, ya tenemos el conocimiento, ya tenemos años haciéndolo, ahora sólo nos falta compartirlo entre nosotros”. Correo electrónico Imprimir Facebook LinkedIn Twitter Más WhatsApp Erandy Rizo es licenciada en Ciencias y Técnicas de la Comunicación por la Universidad del Valle de Atemajac, con más de siete años de experiencia en periodismo y comunicación agrícola. Encargada de planear, redactar, revisar y editar todo el contenido para Meister Media Worldwide México, casa editorial de la revista \"Productores de Hortalizas\" y Hortalizas.com. &nbsp; See all author stories here.\nWow es maravilloso éste artículo, excelente nota, excelente que tengamos egresados de nuestras universidades en México, ejerciendo éstas tecnologías y aportando e investigando para un futuro sustentable, muero de ganas por involucrarme en éste medio y que lo logre para que sea mi modus vivendi, de aquí al final de mis días. Felicidades a ambos\nes un artículo muy convincente de lo q debemos hacer, quienes nos estamos involucrando en la agricultura sostenible;darle difusión a nuestros trabajos y poyectos",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "AGRO",
+    "BUSINESS",
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 1,
+    "BUSINESS": 1,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 100,
+    "priority": 132,
+    "base": 82,
+    "breakdown": {
+     "agro": 25,
+     "tech": 20,
+     "business": 20,
+     "mexico": 15,
+     "recency": 0,
+     "source": 2
+    },
+    "bonuses": {
+     "innovacion_concreta": 10,
+     "impacto_economico": 10,
+     "afecta_productores": 10,
+     "aplicacion_practica": 10,
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 100,
+   "priority": 132,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?",
+    "¿Quién está invirtiendo?",
+    "¿Cuánto cuesta?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-d9be6fee",
+   "retrieved_at": "2026-10-13T12:24:44.263Z",
+   "ingested_via": "rss",
+   "title_original": "Clima vs Tecnología",
+   "title_agrovision": "",
+   "source_name": "Hortalizas",
+   "source_domain": "hortalizas.com",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://www.hortalizas.com/agricultura-inteligente/clima-vs-tecnologia/",
+   "canonical_url": "https://hortalizas.com/agricultura-inteligente/clima-vs-tecnologia",
+   "published_at": "2019-12-12",
+   "country": "México",
+   "mx_state": "Guanajuato",
+   "category": "TECH",
+   "subcategory": "Datos",
+   "technologies": [
+    "Inteligencia Artificial",
+    "Satélites",
+    "IoT",
+    "Sensores",
+    "Agricultura de precisión",
+    "Datos"
+   ],
+   "companies": [],
+   "content": "¿Qué hace verdaderamente a una región óptima y cómo acompañar el proyecto con la tecnología adecuada?\nUsar la tecnología es aprender a dominarla, aprovecharla, y potencializarla. El Dr. Jorge Flores Velázquez, Ingeniero Agrónomo en Agricultura Protegida, adscrito a la Subcoordinación de Ingeniería de Riego en el Instituto Mexicano de Tecnología del Agua (IMTA), con posgrado en Ciencias y Tecnología del Agua IMTA-UNAM, expuso durante el Industry Summit 2019 un conjunto de valiosos conocimientos para transmitir especificaciones muy importantes en el quehacer diario y futuro de la actividad agrícola y en la industria respecto la aplicación de la tecnología.\nLa exposición presentada por el especialista se desarrolla en cinco puntos principales basados en: ¿qué es un sistema de producción agrícola (cómo es que funciona)? ¿Cuál es la importancia del clima y el medioambiente? ¿Cuáles son algunas de las condiciones climáticas en México? ¿Qué hace una región productiva? ¿Y cómo aprovechar estas condiciones climáticas con el uso de las tecnologías? 1. El sistema de producción agrícola El Dr. Flores inició especificando que “todos los sistemas deben estar en equilibrio”. Históricamente la producción de cultivos es una de las más viejas, siendo ésta una relación físico-química-biológica entre cuatro aspectos: planta-suelo-atmósfera-agua; tanto en una forma lineal como multilineal. No obstante, dice Flores, en la actualidad existe esta interrelación, pero se debe redefinir su interacción referente al uso de distintas tecnologías disruptivas, o desarrollado diferentes sistemas de producción (en comparación con los métodos tradicionales), dando como resultado el aumento del rendimiento y/o el uso eficiente de los recursos. Al día de hoy, independientemente de que los sistemas de producción se encuentren en las ciudades o zonas rurales, “la aplicación de cualquier estrategia de control, ya sea en condiciones controladas o campo abierto, se debe aplicar hacia la optimización y manejo del sistema a través de la tecnología, normalmente basado en modelos matemáticos, para hacer uso eficiente de los recursos”, afirmó el tecnólogo y especialista. 2. El clima y el medioambiente En el segundo tema, Flores Velázquez abrió con una pregunta tan básica como compleja: ¿Qué hace el clima?, el clima es la suma de dos aspectos: el tiempo y el clima. De éstos se tienen elementos y factores. Todo esto crea una región climática donde, al sumarle la tecnología, es lo que da como resultado una región climáticamente apta. En un desglose de conceptos, el académico y especialista expuso y definió cada uno: El tiempo y el clima: es aquello que sucede en este momento. Es el tiempo atmosférico. Cuando nos referimos al clima hablamos del tiempo promedio, lo cual emite una regionalización a través de procesos de registros históricos. Factores (elementos físicos): latitud y altitud, son aquellos que definen si la región es climáticamente apta en su aspecto regional, es decir, define las características climáticas de la región. Elementos (climáticos): directos y derivados, son aquellos que definen para qué tipo de cultivo o condiciones se puede desarrollar un sistema de producción. Por lo tanto, la combinación de estos factores define las características agroclimáticas de una región, ¿es apta?; en caso de que sí ¿lo es para nuestros cultivos?, por esto hay que conocer los requerimientos climáticos de nuestros cultivos y con base en eso caracterizarla: “Lo que se debe mantener es un equilibrio entre los recursos y los rendimientos”. Encontrar un valor óptimo entre lo que se tiene y lo que se necesita, por ejemplo, radiación-espacio-planta. ¿Cómo encontrar la medición en eso? A través de las herramientas tecnológicas de medición sobre uno o algunos de los factores climáticos antes mencionados, y los materiales adecuados para determinadas reacciones. Factores climáticos derivados: El flujo de calor. El déficit de presión. La presión atmosférica, lo que representa la densidad del aire y la potencia de tasa de ventilación. El dióxido de carbono (CO2), siendo esto la “gasolina” que utiliza la planta para realizar su fotosíntesis, factor básico para la producción. Evapotranspiración, que es la cantidad de agua que la planta necesita. Tema importante en la actualidad sobre la crisis hídrica internacional, por esto la búsqueda de nuevas alternativas tecnológicas. El Dr. Flores enfatiza que es importante conocer todos estos factores para hacer una región productiva, lo cual depende del cultivo, por lo tanto, debemos conocer el cultivo: “Conocerlo es el primer punto y luego hacer la planeación y calendarización. El complejo sistema dinámico / climático nos obliga a meter tecnología para monitoreo, manejo (tiempo real o promedio), control y una acción eficiente”. 3. Condiciones climáticas en México Uno de los principales problemas y beneficios en México, nos presenta paradójicamente el especialista, es el ambiente de clasificación climática compleja que existe, el cual dificulta hacer una clasificación general del clima. Un problema más es la errática precipitación. El tema del agua es un punto base que, por lo tanto, debemos conocer sobre las precipitaciones y los almacenamientos de las mismas. De nuevo, la tecnología no representa sólo un tema de herramientas de solución sino fuentes de conocimiento para el estudio y prevención, por ejemplo, las estaciones meteorológicas. Las tecnologías deben aportar medidas o posibilidades de solución para la toma de decisiones. 4. ¿Qué hace una región productiva? Una región productiva es la suma del clima y la tecnología, conceptos ya mencionados. En el clima: “Con datos promedio, de hace treinta años, puedo definir si mi región es apta; y con datos diarios le doy el manejo a mi cultivo”, dijo Flores. La tecnología, respecto a la precipitación y la radiación, se basa en cuestiones de manejo sobre los factores que se presenten y las capacidades de manejo y aplicación. En general, ¿qué hace una región apta? Climáticamente en lo apto ya se tienen las bases, pero también hablamos de factores como alta radiación, inviernos cálidos, baja humedad relativas, vías de comunicación, y finalmente los mercados. Respecto a la tecnología, son importantes las Unidades Regionales de Investigación y Desarrollo. Probar, por ejemplo, el uso de mallas, agricultura de precisión, sensor remoto, sensor en riego, etc. “¿Qué se necesita para una alta producción?”, preguntó el especialista y contestó indicando que son varios factores: clima, trabajo, agua, suelo; eso nos permite una zonificación del potencial productivo por región. Pero, en lo general, sobre las regiones y su potencial (alto-medio-bajo), México tiene una capacidad de alta capacidad para producir. No obstante, dice el especialista, pueden ocurrir las anomalías, por lo cual afirma que “la región puede ser apta, pero debemos considerar apta para qué o para quién”, ante lo cual los datos recabados por las dependencias que los concentran y estudian toman importancia. Al final, plantea Flores, “es la relación beneficio-costo lo que define si es una región climáticamente apta”. 5. Uso de las tecnologías En las tendencias de la agricultura se deben encontrar las virtudes o debilidades sobre el producto específico para protegerse y/o prevenirse. Para esto, Flores Velázquez indica que tenemos el uso de las tecnologías en la agricultura como: Agricultura inteligente: predicción analítica de datos históricos. Inteligencia artificial: máquinas de reacción automática. Biotecnologías: modificación genética, adaptación. El Internet de las Cosas: chips, sensores, actividad en tiempo real. Agricultura urbana: vertical, acuacultura, energía y nutrición. Sobre lo anterior, se plantean cuatro cuestiones básicas: Herramientas de predicción del clima y la simulación. Esto sólo tiene que ver con la operación y conocimiento preciso del cultivo específico sobre sus necesidades físicas, químicas y biológicas. Sistema de adquisición de datos. El Internet de las Cosas, “desde mi escritorio estoy programando y estoy recibiendo los datos”. Seguimiento de agricultura de precisión. Los sensores de mapas móviles, uso de imágenes satelitales, monitoreo con nanosatélites. “Imagen de satélite diaria, que rompe la temporalidad y la espacialidad y que aumentan la precisión (de incluso un centímetro) hacia, por ejemplo, ver la enfermedad”. Sistemas controlados y semicontrolados. Derivados de los modelos climáticos, que son sistemas de adquisición de datos históricos en tiempo real con implantación de sistemas de producción con un control de variables para que la planta desarrolle su potencial. En resumen, el experto indica que la planta tiene tres formas de nutrición: la mineral, la vegetal (carbónica) y la hídrica; que son lo que define su potencial. ¿Qué sucede si una de la partes de la nutrición es posible suplirla? La tecnología entonces aporta el rendimiento sobre alguna de las partes de la planta para proveerla, esto con base en las estaciones meteorológicas y el cálculo: el manejo de la radiación, cantidad de agua, transpiración, etc. En palabras propias del Dr. Flores Velázquez, la conclusión refiere a que “la región será climáticamente apta siempre y cuando se logre un equilibrio entre estas condiciones y lo que estamos obteniendo. Por esto es importante conocer las características climática-regionales para no estar invirtiendo de más en esos recursos. Aprovechar al máximo los recursos locales, por eso hay que conocerlos y con eso comenzar el proceso de cambio”. Fuentes y notas: Flores Velázquez, Jorge Dr., “Clima vs Tecnología” Conferencia. Subdirector de equipo en el Instituto Mexicano de Tecnología del Agua (IMTA). Industry Summit México 2019. León, Guanajuato. Junio 2019. Correo electrónico Imprimir Facebook LinkedIn Twitter Más WhatsApp Comentarios (1) 10 18 15 14 15 Deja un comentario Cancelar respuesta Clima vs Tecnología – Agriculturers.com | Red de Especialistas en Agricultura dice: 19 de diciembre, 2019 a las 9:02 pm […] FUENTE […]",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "AGRO",
+    "BUSINESS",
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 1,
+    "BUSINESS": 0.6666666666666666,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 100,
+    "priority": 115,
+    "base": 75,
+    "breakdown": {
+     "agro": 25,
+     "tech": 20,
+     "business": 13.3,
+     "mexico": 15,
+     "recency": 0,
+     "source": 2
+    },
+    "bonuses": {
+     "innovacion_concreta": 10,
+     "impacto_economico": 10,
+     "aplicacion_practica": 10,
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 100,
+   "priority": 115,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?",
+    "¿Quién está invirtiendo?",
+    "¿Cuánto cuesta?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": [
+    "Voz local: productor(a) u organización de Guanajuato sobre cómo les afecta este tema."
+   ]
+  },
+  {
+   "id": "agv-eb2f1aef",
+   "retrieved_at": "2026-10-13T12:24:44.263Z",
+   "ingested_via": "rss",
+   "title_original": "La producción biorracional del pimiento: manejo integrado de plagas",
+   "title_agrovision": "",
+   "source_name": "Hortalizas",
+   "source_domain": "hortalizas.com",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://www.hortalizas.com/proteccion-de-cultivos/biologicos/la-produccion-biorracional-del-pimiento-manejo-integrado-de-plagas/",
+   "canonical_url": "https://hortalizas.com/proteccion-de-cultivos/biologicos/la-produccion-biorracional-del-pimiento-manejo-integrado-de-plagas",
+   "published_at": "2019-12-12",
+   "country": "México",
+   "mx_state": "Guanajuato",
+   "category": "AGRO",
+   "subcategory": "Agricultura",
+   "technologies": [],
+   "companies": [],
+   "content": "Una batalla se gana desde la estrategia, por esto la producción biorracional en el pimiento debe aplicarse con inteligencia, desde la prevención\nLos desafíos implican creatividad, y los resultados crean soluciones integrales. En el tema de la producción agrícola el concepto de “biorracional” es una idea que ya traspasa la barrera de lo “nuevo”, aunque se mantiene en distintos aspectos dentro de lo “desconocido” respecto a todas sus posibilidades de aplicación. De lo anterior, fue en la ciudad de León, Guanajuato, sede del Meister Media Industry Summit, en su edición 2019, donde se abordó este tema en boga respecto a la producción biorracional hacia un área muy específica de aplicación y manejo: el pimiento.\nEn su intervención, el especialista Francisco Fernández Castañeda, ex director de producción del corporativo grupo AC1, agrícola Cueto Produce y Consultor independiente, abordó el tema con un enfoque especial hacia el manejo de plagas y enfermedades. Dijo Fernández que hablando de cultura biorracional se pueden considerar distintos elementos, específicamente en el manejo integrado de plagas y enfermedades, no sólo en su uso puramente químico sino con uso de todas las herramientas disponibles. Objetivo y estrategia Al día de hoy se habla de muchos temas sobre el control de plagas (convencional u orgánica, hortalizas o frutales, etc.) pero en el tema de manejo de control el objetivo es el mismo: que no haya plagas y enfermedades para mantener un cultivo limpio de éstas. El especialista, con un formato analógico, toma base en una cita de El arte de la guerra, de Sun Tzu, capítulo 2, la cual explica que “lo más importante en una operación militar es la victoria y no la persistencia”. Con esto expuso que, en palabras directas, “no importan las ganas y veces que se aplica cierto sistema, al final es igual, te comió la plaga, no tenías una buena estrategia que evitara que eso pasara […] eso no va a cambiar el resultado final, lo importante es que ganemos, que le ganemos a la plaga”. Herramientas y usos ¿Qué herramientas tenemos a nuestro alcance, además del control químico, que pueden ayudar? Pregunta y explica el ponente. “Esta es la base para comenzar con la estrategia, planeación y financiamiento de un proyecto. Es decir, invertir es prevenir”. De lo anterior enumeró y explicó: Cuarentena sobre la semilla. Hermeticidad de los invernaderos. Una malla antiáfidos soluciona la entrada de éstos. Doble puerta. Una doble puerta con ventilador y contraflujo de aire limita la entrada de plagas. Seccionar los invernaderos en recintos más pequeños. Espacios que sirvan como cortafuegos para controlar la propagación de una plaga. Limpieza de módulos. Si no se limpia el invernadero la posible fuente de inóculo (hojas caídas, por ejemplo) seguirá siendo una fuente infecciosa. Otra recomendación presentada por Fernández Castañeda sobre un cultivo llevado en suelo y no en sustrato fue el laboreo racional, el cual ayuda a combatir algunas de las plagas que consiste en lo siguiente: Evitar la formación de una suela de labor, lo que es tener una suela impermeable que favorece a la asfixia radicular. Al mover la tierra se exponen los huevos, larvas y capullos de insectos que se deshidratan con el sol, ayuda a oxigenar la raíz y evita enfermedades de cuello. Tener buenos sistemas de drenaje para evitar encharcamiento, asfixia y proliferación de hongos en el suelo. La biofumigación funciona y es recomendada sobre todo en su formato orgánico. Una acción proviene de las sustancias volátiles de algunas plantas (por ejemplo, una crucífera, como la mostaza) la cual se colocada de forma picada en el piso para que se descomponga, y los gases resultados de esta descomposición de la materia orgánica ayudan a la desinfección del suelo. Se busca una relación de carbono / nitrógeno entre 8 y 20. También se puede aplicar otra materia orgánica, excremento fresco, lo único es el tiempo de espera, que es alrededor de 120 días. Regar hasta saturación y cubrir con un plástico para que el suelo logre temperatura y se prepare en su desinfección sin provocar un vacío ecológico, es decir, se siguen promoviendo los microorganismos propios del suelo. Solarización En resumen, es el mismo sistema de proceso que la materia orgánica únicamente que no lleva la propia materia mencionada: preparación, riego, cubrir el terreno con plástico y mantenerlo limpio para mayor insolación posible y dejar que el suelo se caliente. Monitoreo, la piedra angular En un manejo integrado el monitoreo es la base del sistema. Es el tema con el que Castañeda continuó la exposición y emitió un especial énfasis en éste. ¿Qué le da al agricultor información sobre el “enemigo”? El monitoreo. Éste siempre comienza de afuera hacia adentro, afirmó el especialista, y no a la inversa. Primero se debe analizar la presencia en el área antes de que entre en el invernadero. En esto se marcan los puntos para analizar y saber combatir más efectivamente, como puede ser detectar el viento que transporta la plaga, o el vecino que ya la sufre, entre otros. El historial de monitoreo, tanto interno como externo, detectará los puntos álgidos para conocer el motivo y prevenirlo, o reforzarse ante éste. El consultor explicó que existen herramientas directas en el Manejo Integrado de Plagas (MIP) para su manejo como pueden ser: Base biológica (físicos, agronómicos, genético). Lucha biológica (macro o micro, ya sea insectos benéficos o microorganismos). Lucha por interferencia (hormonas, feromonas). Lucha química. Pero, ante todo esto, afirmó y repitió que el Manejo Integrado de Plagas siempre es de afuera hacia adentro; “no podemos estar esperando a que lleguen […], si esperamos a pelearnos con la plaga una vez que llega estamos perdidos. Es posible contener, pero no se ganará la batalla”, afirmó el consultor experto. De lo anterior se presentan los diversos Manejo Integrados de Plagas (MIP’s) expuestos por el especialista. Trampeo masivo Uno de los métodos, indicó Fernández, para el control es el trampeo masivo, compuesto por: trampas cromáticas, trampas de melaza y/o agua, Insectronic y trampas delta, así como técnicas de “bosques islas”. Mismas que encajan y reportan resultados al sistema de monitoreo. Trampas cromáticas: éstas se aplican con la posibilidad de uno mismo realizar el monitoreo. Se recomienda comprar rollos para poner en el perímetro, las entradas y las partes de fuera del invernadero. Eso sirve para ver qué está cayendo. Trampas de melaza: a éstas generalmente se les aplica una feromona para el control del lepidóptero, en dos formatos. Insectronic: igual para el control del lepidóptero. Trampas delta: usadas principalmente para el vuelo errático de las palomillas (el adulto del lepidóptero). Malezas: es el uso de una trampa natural que bien empleada respecto a la temporada entre el cultivo y la maleza representan una primer barrera de contención, conocidos en el medio como “bosques isla”. En resumen, son espacios reservorios donde la plaga se situará después de la cosecha para así continuar con la contención de la misma (generalmente a través del control macrobiológico). Control climático El control climático es un método más para la contención, control y medición especialmente sobre enfermedades (y no en plagas), explicó Francisco Fernández. Cuando se tiene una humedad relativa alta la incidencia es hacia algunas enfermedades. ¿La solución ante eso? Mejorar la ventilación con ventanas cenitales, ventiladores, calefacción: “La humedad se saca mejor a través de una ventilación superior”, en palabras de Fernández. En el caso de tener humedad relativa baja es posible restringir la ventilación encarada al viento, manejar algún riego rodado, nebulización, o hacer podas menos agresivas. Densidad de siembra Es un factor más a tener en cuenta, dice el experto: “No siempre el tener más plantas por metro cuadrado quiere decir que vamos a producir más”. Es importante conocer qué tantas plantas podemos tener por metro para tener en cuenta la radiación respecto a la temporada de producción, “¿a qué clima me voy a enfrentar?”, y con eso conocer la densidad para poner el cultivo. Sobre lo anterior, el ponente expuso lo siguiente: Disminuir la densidad de siembra o plantación para mejorar la entrada de luz. Aumentar la ventilación entre las plantas para disminuir la aparición de hongos como el botrytis, mildius y bacterias. Mejorar la cobertura y penetración de los tratamientos. Estrategias de interferencia Una herramienta más, presentada por Fernández, es la estrategia de interferencia que incluye: Feromonas sexuales. Destinadas sobre todo a machos. Aplicadas sobre alguna trampa-pegamento para su captura aislada. Confusión sexual y captura masiva. Feromonas de agregación. Sobre éstas se debe tener en cuenta que la plaga no va al punto específico donde se encuentra directamente la feromona sino que se acerca en un radio cercano. Lo que se procura imitar, comenta el experto, es la fuente de alimento para así captar un mayor radio de acción y aumentar el nivel de captura. Son empleadas generalmente antes y hacia el final del ciclo. Extractos botánicos. Por ejemplo, el ajo, que sirven para el enmascaramiento de la feromona; es decir, funciona como camuflaje para la feromona de la hembra real respecto el de las trampas. Control macro y microbiológico El control macrobiológico (sobre todo en el cultivo convencional) es casi ya una necesidad que convive perfectamente con los controles agroquímicos. Se usan químicos compatibles con el control biológico sin bajas (casi nulas) de los insectos benéficos. Francisco afirma así que en el cultivo convencional, como el pimiento, “es una gozada poder disponer de estos bichos”. Comienza con las primeras liberaciones sobre las flores y “prácticamente van haciendo el trabajo para el resto del ciclo”. Lo que hace falta es ser reactivos: pedir con anticipación, tener un plan de liberación, etc. Esto trabaja muy bien, y sobre todo en el pimiento, “los resultados son impresionantes”. Por su parte, el control microbiológico encuentra variedades que sí se requieren ciertas condiciones. De lo anterior, es bueno tener la consideración sobre cuándo y en qué tiempo aplicarlos. Control químico Este tipo de control requiere de ciertas consideraciones especialmente en la aplicación. Sugerencia del especialista: pruebas y creatividad en la aplicación. Altura-trabajo-hombre: considerar que el trabajo-hombre se cansa respecto al tiempo de aplicación con pérdida de eficacia, por lo tanto, hay que emplear soluciones como la carretilla para el contenedor. Algunos productos que se pueden usar, especialmente en agricultura orgánica, son: *Azadiractina: activación desconocida. *Spinosines: activadores del receptor alostérico nicotínico de la acetilcolina. *Bt’s: disruptores microbianos de las membranas digestivas de los insectos. Sistemas de aplicación en su forma, presión, volúmen, tamaño de gota, cobertura, etc. Condiciones climáticas: sobre todo para la medición. Una recomendación básica para el control es tener organización; sobre todo respecto al personal y sus actividades mediante protocolos de acción. “¿Qué es lo que debo hacer y cuál es mi objetivo?”, plantea Castañeda. Estos protocolos deben dejar claro medidas de acción, objetivo, factores de influencia, para ante esto comenzar con la aplicación de acciones correctivas; es decir, cuando se presenten distintos problemas ya se podrá conocer no sólo la acción sino incluso los materiales y productos a usar, afirmó. En conclusión, Fernández Castañeda comenta que planeación, medición, prevención y corrección organizada y precisa serán la clave. Fuentes y notas: Fernández Castañeda, Francisco. “Establecimiento de estrategias de Manejo Integrado de Plagas en agricultura orgánica”. Francisco Fernández Castañeda, Consultor Independiente “4to Congreso Internacional de Chiles y Pimientos”, Meister Media Industry Summit 2019. Poliforum, León, Guanajuato, México, 2019. Correo electrónico Imprimir Facebook LinkedIn Twitter Más WhatsApp Comentarios (3) 30 9 14 43 30 Deja un comentario Cancelar respuesta Luis Fernando Magaña Sotelo dice: 19 de julio, 202",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 0,
+    "BUSINESS": 0.3333333333333333,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 69,
+    "priority": 69,
+    "base": 49,
+    "breakdown": {
+     "agro": 25,
+     "tech": 0,
+     "business": 6.7,
+     "mexico": 15,
+     "recency": 0,
+     "source": 2
+    },
+    "bonuses": {
+     "afecta_productores": 10,
+     "aplicacion_practica": 10
+    },
+    "penalties": {}
+   },
+   "score": 69,
+   "priority": 69,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": [
+    "Voz local: productor(a) u organización de Guanajuato sobre cómo les afecta este tema."
+   ]
+  },
+  {
+   "id": "agv-e48e8299",
+   "retrieved_at": "2026-10-13T12:24:44.263Z",
+   "ingested_via": "rss",
+   "title_original": "La importancia de las cadenas productivas de valor (2/3)",
+   "title_agrovision": "",
+   "source_name": "Hortalizas",
+   "source_domain": "hortalizas.com",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://www.hortalizas.com/agricultura-inteligente/la-importancia-de-las-cadenas-productivas-de-valor-2-3/",
+   "canonical_url": "https://hortalizas.com/agricultura-inteligente/la-importancia-de-las-cadenas-productivas-de-valor-2-3",
+   "published_at": "2019-12-11",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "BUSINESS",
+   "subcategory": "Costos",
+   "technologies": [
+    "Datos"
+   ],
+   "companies": [],
+   "content": "¿Cuál es la diferencia entre una cadena productiva y una cadena productiva de valor?\nNota del editor: Antes de leer este artículo, se recomienda ver la primera parte de éste para una mejor comprensión. La puedes encontrar dando click AQUÍ\n“En la unión está la fuerza” -Simón Bolívar En el artículo anterior , comentamos los motivos para formar parte de una cadena de producción o de valor, así como los beneficios que podemos obtener de las mismas y la forma general de cómo se integran. Es así como la siguiente pregunta que nos hacemos es: ¿cuál es la diferencia entre una cadena productiva y una cadena productiva de valor? Cadena productiva Una cadena productiva se forma por todos los eslabones dentro de un sector agrícola determinado, desde su producción primaria o cultivo hasta su comercialización por los diferentes actores que lo realizan, es decir, el agricultor es el primer eslabón de la cadena y generalmente vende su producto a granel, no le agrega valor al producto; y los posteriores eslabones son: quien lo distribuye (segundo eslabón), quien lo transforma (tercero), quien lo empaca (cuarto) y quien lo vende al consumidor final (quinto). Generalmente, los primeros eslabones de dicha cadena son los que menos ganan; asimismo, es común que los eslabones al final de la cadena son los que mayores ganancias obtienen. Cadena productiva de valor En una cadena de valor todos los eslabones también están unidos, pero el objetivo es que todos puedan obtener un valor adicional en forma grupal, ya que se pretende que todos obtengan beneficios por el hecho de agruparse y perseguir el mismo objetivo, que en este caso será que todos los eslabones de la cadena puedan ganar y obtener beneficios adicionales. ¿Qué es la generación de valor? El concepto general de la generación de valor es obtener más dinero por un producto, pero en realidad generar valor es un beneficio circular obtenido en forma mutua por el comprador y el vendedor, es decir, el primero paga una cantidad de dinero por un producto el cual debe tener calidad no solamente por su aspecto, sino por otros factores como la vida de anaquel, el empaque, el rendimiento e incluso el servicio de entrega son factores importantes que forman parte del valor que el cliente obtiene. Por su parte el vendedor (productor) obtiene también en forma adicional al pago por su producto, la garantía de que el cliente adquirirá el producto pactado previamente incluso antes de sembrarlo, información continua de cuáles son las condiciones de empaque, de embarque y de entrega, que facilitan la transacción final. Por lo anterior, decimos que el beneficio es circular, porque ambas partes obtienen beneficios que van más allá del beneficio monetario, creando un vínculo a largo plazo después de la primera compra; en cambio, si no generamos valor, el beneficio será de una sola vez y, al no generarse vínculos de colaboración, existirá la incertidumbre de poder mantener en forma sostenible nuestras ventas cada ciclo. Ventajas de la cadena productiva de valor comparadas con las cadenas de producción Al poder enumerar algunas de las diferencias que observamos en el cuadro anterior podemos observar que la cadena productiva no se ocupa del trabajo de todos los integrantes de ésta. Muchas veces he participado como productor dentro de una cadena productiva, pero al no tener comunicación con los últimos eslabones simplemente corremos el riesgo de que nuestro producto sea rechazado al momento de tratar de desplazarlo, porque nunca se estableció un seguimiento del proceso, simplemente nos hicieron una solicitud de producción con el objetivo de hacer una entrega. He podido observar a muchos productores que entran a programas de cadenas de producción y al final terminan decepcionados de haber participado porque su cosecha es rechazada en su totalidad, argumentando que no sirvió su producto y no cumple con las características para ser adquirido, quedándose con toda su producción y teniendo que rematarla al mejor postor o, en el peor de los casos, la dejan perder. Como podemos apreciar, en la cadena productiva de valor el principal objetivo es trabajar en conjunto para lograr el éxito al momento de entregar al producto, haciendo difícil la posibilidad de que lo rechacen por no cumplir las características que se requieren. La estrategia grupal para obtener valor incluye varios objetivos, como son: Mejora constante. Ya que el grupo establece que todo el proceso productivo de cada eslabón siga un parámetro establecido en forma uniforme y debe ser monitoreado y supervisado con la finalidad de asegurar el cumplimiento de la calidad que el producto requiere para ser apreciado y adquirido por el cliente final. Producir con calidad es el mayor valor agregado de un producto. En la agricultura, el valor se agrega desde la siembra al contar con un paquete tecnológico que la asegure desde el inicio del primer eslabón, por eso es muy importante tener en cuenta que durante dicho proceso se utilicen por todos los miembros del eslabón los mismos insumos en variedades de semillas, fórmulas de fertilización, manejo preventivo de plagas y enfermedades. Mantener comunicación constante entre todos los eslabones , desarrollando el vínculo de trabajo en equipo y la conciencia grupal de perseguir todos el mismo objetivo. La vigilancia y el monitoreo se establecen con el objetivo de ayudar a todos los eslabones de la cadena a cumplir con la meta grupal y final, logrando prevenir fracasos al final de cada proceso. El crecimiento es del grupo, a medida que podemos desplazar el 100% de nuestra producción nos permite evitar mermas y desperdicios, pudiendo programar un crecimiento en cada ciclo, fortaleciendo nuestra actividad y proyectando formar parte de los siguientes eslabones de transformación. Asesoría técnica especializada Hoy en día, la agricultura presenta obstáculos no únicamente comerciales al haber un gran número de competidores, también presenta barreras de gran impacto como el cambio climático, ya que, al estar expuestos a cambios en los factores externos e imprevistos como repentinos cambios de temperatura, de lluvia e incluso de vientos y posibles sequías, traen consigo también la aparición temprana de posibles plagas y enfermedades, que pueden mermar la calidad final del producto. También es importante considerar la trazabilidad e inocuidad del producto final, ya que, más que cumplir con una certificación exigida por el mercado, debe de ser una práctica común y habitual que las cosechas sean seguras para su consumo. Además de las condiciones ambientales y de salud que comentamos y que se deben de cumplir, existen también las condiciones de apariencia del producto, debe ser un producto que a la vista sea muy atractivo, lo cual también es un factor de calidad y que para lograrlo se utilizan insumos en su cultivo que no deben afectar el medio ambiente y deben ser sustentables. Para lograr todo lo anterior se requiere de la asesoría de especialistas que utilicen las técnicas adecuadas y seguras para todos los integrantes de la cadena. La asesoría especializada requiere no solamente de desembolsos monetarios, por lo cual no se trata de contratar a un técnico, se trata de que éste conozca el mercado en el que vendemos nuestro producto y mantenga una estrecha comunicación entre todos los actores de la cadena, que coordine los esfuerzos de todos los actores de la misma. Por lo tanto, el asesor técnico es el que mantendrá los vínculos de comunicación del grupo y el seguimiento del cumplimiento de los programas. Dentro de un programa grupal de formación de valor, es mucho mejor absorber todos los costos adicionales de asesoría y control entre todo el grupo que solamente en forma individual; asimismo, se pueden generar economías en compras consolidadas y comparar las experiencias de los miembros que estén ejecutando las mejores prácticas para replicarlas en los miembros que se atrasen o estén quedando rezagados. Costos y beneficios Como hemos podido ver, agregar valor al producto genera costos adicionales de producción, sin embargo, también genera beneficios monetarios y de sostenibilidad para poder programar nuestros cultivos, cosechas y futuros ingresos de una forma más previsible. El ahorro por adquirir en forma grupal insumos y servicios también es un beneficio de establecer un programa de trabajo y un objetivo grupal. Conclusiones Hemos podido observar las diferencias entre una cadena productiva y una cadena productiva de valor, para identificar en cuál es mejor participar, una vez tomada la decisión de cuál es la más conveniente, entonces el siguiente paso es determinar de qué forma podemos participar y que estructura debe de tener una organización para nuestro beneficio. En el siguiente y último artículo de esta serie, definiremos las estructuras que deben de tener las organizaciones que desarrollen cadenas productivas de valor, para poder tener una herramienta en la identificación de las oportunidades que como productores podemos alcanzar. &nbsp; Correo electrónico Imprimir Facebook LinkedIn Twitter Más WhatsApp Yuri Gómez Ranney es consultor y productor agrícola, imparte cursos, talleres y conferencias en el sector agropecuario en México. ( [email protected] ) See all author stories here.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "AGRO"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 0.4,
+    "BUSINESS": 1,
+    "MEXICO": 0.6666666666666666
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 100,
+    "priority": 107,
+    "base": 67,
+    "breakdown": {
+     "agro": 25,
+     "tech": 8,
+     "business": 20,
+     "mexico": 12,
+     "recency": 0,
+     "source": 2
+    },
+    "bonuses": {
+     "innovacion_concreta": 10,
+     "impacto_economico": 10,
+     "afecta_productores": 10,
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 100,
+   "priority": 107,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?",
+    "¿Cuánto cuesta?",
+    "El negocio detrás del campo"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-4b717c73",
+   "retrieved_at": "2026-10-13T12:24:44.263Z",
+   "ingested_via": "rss",
+   "title_original": "México, potencia en control biológico de plagas",
+   "title_agrovision": "",
+   "source_name": "Hortalizas",
+   "source_domain": "hortalizas.com",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://www.hortalizas.com/proteccion-de-cultivos/biologicos/mexico-potencia-en-control-biologico-de-plagas/",
+   "canonical_url": "https://hortalizas.com/proteccion-de-cultivos/biologicos/mexico-potencia-en-control-biologico-de-plagas",
+   "published_at": "2019-12-06",
+   "country": "México",
+   "mx_state": "Veracruz",
+   "category": "AGRO",
+   "subcategory": "Agricultura",
+   "technologies": [],
+   "companies": [],
+   "content": "Gracias al control biológico de plagas se han atendido más de 13 mil hectáreas con microorganismos entomopatógenos, lo que evitó el uso de 272 toneladas de insecticida.\nEl control biológico de plagas es una tecnología que aprovecha a los enemigos naturales de las plagas con la idea de reducir las poblaciones sin afectar las producciones agrícolas.\nEn agricultura su implementación es muy significativa, pues al ser una tecnología cien por ciento natural no impacta negativamente al medio ambiente y protege la salud pública; caso contrario con los insecticidas que no terminan en su totalidad con las plagas, pero, colateralmente, matan a los organismos benéficos de los cultivos que se encuentran en la tierra e infectan al producto. Existen cuatro métodos aplicables al control biológico: Inoculación, consiste en introducir al cultivo insectos y ácaros útiles, beneficiosos, enemigos naturales, en números muy reducidos, con el fin de que al paso del tiempo se reproduzcan con el fin de controlar [la plaga] a corto plazo y erradicar a largo plazo. Método clásico, consiste en introducir un agente control para la erradicación del organismo a largo plazo. Así, se libera el parasitoide y predador con la intención de controlar a los insectos y microorganismos. Método de inundación, consiste igualmente en la utilización de organismos vivos para controlar plagas. Sin embargo, este método aborda la inserción de un gran número de organismos y crías. Método de conservación, es más extenso y poco práctico para soluciones rápidas y eficaces. Sin embargo, es un método seguro, que puede ser aplicado previo a la preparación del cultivo. En este tema México cuenta con el Centro Nacional de Referencia de Control Biológico (CNRCB), que tiene la misión de desarrollar y establecer estrategias de control biológico para plagas reglamentadas. Dicho centro genera y proporciona tecnología alternativa al uso de plaguicidas químicos y coadyuva con programas y campañas fitosanitarias en las que se promueve el uso de organismos benéficos para fortalecer la sanidad de los cultivos vegetales en nuestro país y contribuir al incremento tanto de la productividad como de la calidad agrícola. Gracias al control biológico de plagas se han atendido más de 13 mil hectáreas con microorganismos entomopatógenos, lo que evitó el uso de 272 toneladas de insecticida. Fuente: Secretaría de Agricultura y Desarrollo Rural (SADER) Correo electrónico Imprimir Facebook LinkedIn Twitter Más WhatsApp Comentarios (4) 23 9 10 33 16 Deja un comentario Cancelar respuesta Francisco Alberto Villalobos De Alba dice: 24 de julio, 2020 a las 1:12 am Qué bueno que se está desarrollando México en esta área tan importante para una Agricultura más Sana.\nbusco productores de tomate saladet, tomatillo, pimiento morron, chile jalapeño y serrano para venta a comisión en la central de abasto en la Ciudad de Mexico Cel/whatsapp 33 2836 3728\nEs posible que este problema se deba a la falta de control de plagas?\nMuy interesante aplicación de tecnología, muy amigable aun poco difundida y utilizada. Pero su eficacia e impacto es muy recomendable. Gracias por difundir este tema importante. Saludos Desde el centro del estado de Veracruz. Gracias Erandi.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 0,
+    "BUSINESS": 0.16666666666666666,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 65,
+    "priority": 65,
+    "base": 45,
+    "breakdown": {
+     "agro": 25,
+     "tech": 0,
+     "business": 3.3,
+     "mexico": 15,
+     "recency": 0,
+     "source": 2
+    },
+    "bonuses": {
+     "afecta_productores": 10,
+     "aplicacion_practica": 10
+    },
+    "penalties": {}
+   },
+   "score": 65,
+   "priority": 65,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": [
+    "Voz local: productor(a) u organización de Veracruz sobre cómo les afecta este tema."
+   ]
+  },
+  {
+   "id": "agv-3ff27a2b",
+   "retrieved_at": "2026-10-13T12:24:44.263Z",
+   "ingested_via": "rss",
+   "title_original": "Manejo nutrimental integral de cultivo de mango",
+   "title_agrovision": "",
+   "source_name": "Hortalizas",
+   "source_domain": "hortalizas.com",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://www.hortalizas.com/mundo-agronomo/nutricion-vegetal-mundo-agronomo/manejo-nutrimental-integral-de-cultivo-de-mango/",
+   "canonical_url": "https://hortalizas.com/mundo-agronomo/nutricion-vegetal-mundo-agronomo/manejo-nutrimental-integral-de-cultivo-de-mango",
+   "published_at": "2019-12-06",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "AGRO",
+   "subcategory": "Suelo",
+   "technologies": [
+    "Biotecnología"
+   ],
+   "companies": [],
+   "content": "Se debe realizar de forma eficiente y práctica para activar la disponibilidad y accesibilidad de fuentes de nutrientes para la planta.\nSe ha venido observando un incremento en el manejo orgánico de cultivos hoy día en México particularmente. En 1998, la FAO, El manejo nutrimental en los sistemas agrícolas de producción intensiva, está enfocado a la obtención de altos rendimientos por unidad de superficie tanto a cielo abierto como en los sistemas de agricultura protegida (invernadero), con el objetivo de incrementar y proveer de alimentos a la población.\nEl manejo integrado de nutrientes fue puesto en marcha con cuatro estrategias interrelacionadas como ejes principales, a saber: a) conservación y uso eficiente de nutrientes en el suelo nativo, mediante prácticas de conservación y reducción de pérdidas en los agro-ecosistemas; b) reciclaje del flujo de nutrientes orgánicos, a través de la incorporación de residuos vegetales; c) acceso a fuentes alternas de nitrógeno por actividad biológica; y d) adición de fertilizantes inorgánicos sólo en aquellos suelos con baja fertilidad. Se debe realizar de forma eficiente y práctica para activar la disponibilidad y accesibilidad de fuentes de nutrientes para la planta, con el fin de optimizar la productividad de los cultivos, disminuir de manera drástica el uso de fertilizantes inorgánicos y, por lo tanto, la contaminación de los suelos y el deterioro agro-ecológico. Los factores naturales que están involucrados en el balance nutrimental son: el clima, las cuencas hidrográficas (Neala y Heathwaiteb, 2005), el suelo (Ziadia et al., 2013) y la topografía. Los factores inducidos o artificiales son la labranza (Morari et al., 2012), la cobertura del suelo (Singh et al., 2005), la fertilización considerando: tipo de fertilizante orgánico (en este caso es inorgánico), ubicación y momento de aplicación (Bhattacharyya et al., 2008) y el riego, definiéndose cantidad, frecuencia y método de aplicación (Stowe et al., 2010).1. Se considera que la aplicación de abonos de origen orgánico contribuye a restaurar la biodiversidad, la dinámica biológica y la fertilidad perdida por el suelo bajo permanente explotación agropecuaria (Cubero & Vieira, 1999). Debido a que los fertilizantes orgánicos son menos solubles, ponen los nutrientes a disposición de las plantas de manera más gradual, de igual forma, al aumentar la materia orgánica en el suelo, pueden mantener más nutrientes absorbidos, reduciéndose las pérdidas por lixiviación (Cubero & Vieira, 1999). Sin dejar de mencionar su aportación de nutrientes a través de la descomposición de residuos vegetales y animales en el suelo, lo que constituye un proceso biológico en el cual el carbono es reciclado a la atmósfera como dióxido de carbono, el nitrógeno se vuelve disponible como amonio y como nitrato y otros elementos como fósforo, azufre y algunos micronutrientes se presentan en las formas requeridas por las plantas (Chaimsohn et al 2007). Es bien sabido, para que un buen manejo de la nutrición sea llevado a cabo exitosamente, es necesaria la realizacion de análisis nutrimental del área foliar, ádemas de análisis de dureza del agua y fertilidad del suelo. A continuación, se presenta un ejemplo de uno de los resultados de análisis de suelo realizado en la zona Sur de Sinaloa obteniendo un pH: 7.72, CE: 0.408 dS/m. Donde se señala un suelo alcalino-sódico, de ahí la fuente de saturacion de k, Ca, Mg, Fe, Zn, Mn, Cu. Es necesario un mejorador de suelos a base de sulfato de Cacio para solubilizar las sales ademas de desbloquar los iones que presentan altas concentraciones. Ahora haremos mención muy brevemente de los insumos utilizados por los agricultures de la zona de El Rosario, Sinaloa, en el cultivo de mango bajo manejo organico, presentando las condiciones mencionadas anteriormente. Algas Senn (1987) reporta que la incorporación de algas al suelo incrementa las cosechas y favorece la calidad de los frutos, básicamente porque se administran a los cultivos no sólo todos los macro y micronutrimentos que requiere la planta, sino también 27 sustancias naturales cuyos efectos son similares a los reguladores de crecimiento. Dentro de los compuestos ya identificados en las algas se tienen agentes quelatantes como ácidos algínicos, fúlvicos y manitol, así como vitaminas. Haciendo tambien mención acerca de su riqueza en citoquininas, auxinas, fitorreguladores involucrados en el crecimiento y en la movilización de nutrientes en los órganos vegetativos (Hong et al., 1995). El efecto bioestimulante de los productos formulados a base de algas marinas en las plantas es el de aumentar el crecimiento de las plantas (Blunen, 1991; Jeannin et al., 1991; Arthur et al, 2003), adelantar la germinación de las semillas (El-Sheekh, 2000), retrasar la senescencia, reducir la infestación por nemátodos (Featonby-Smith y Van Staden, 1983) e incrementar la resistencia de enfermedades fúngicas y bacterianas (Kuwada et al., 1999), etc. Composta Fertilizante orgánico donde del 70 al 80% de fósforo y del 80 al 90% de potasio están disponibles en el primer año. En el caso del nitrógeno, debido a que todo es orgánico, se tiene que transformar a formas iónicas para poder ser asimilado por las plantas, con una tasa de mineralización de alrededor del 11% (Eghball, 2000; Aram and Rangarajan, 2005; Rosen and Bierman, 2005). Diatomeas Organismos unicelulares, toman el ácido silícico disuelto en el agua y lo precipitan en forma de sílice opalina para formar sus frústulas, que son como estuches que las mantienen protegidas del exterior. El ácido silícico es tomado por transportadores específicos y polimerizado intracelularmente en una vesícula especializada dentro de una matriz orgánica que consiste de largas cadenas de poliaminas y fosfoproteínas, llamadas silafinas, (Rivas Rodas R, 2013). Las silafinas no muestran homologías con las silicateinas de las esponjas ni con los transportadores de silicio del arroz (Oryza sativa). La cantidad de silicio asimilable (ácido silícico) por las plantas es limitada, sobre todo en cultivos intensivos, dependiendo ésta de la actividad de los microorganismos del suelo. [JCR Perez, 2012]. Sin olvidar que los aportes de silicio al cultvo actúan como mecaniso de defensa mecánico (formación de tricomas, y a nivel fisiologico (elicitor de proteinas de defensa: Peroxidas, Rivas Cancino G., 2013). Cabe mencionar el uso de Caldos Sulfocálcicos para control de plagas insectiles (cochinillas, ácaros, pulgones y trips.) y hongos, además de su aporte nutrimental al cultivo. Actúa también como desinfectante, se puede utilizar como sellante sobre los cortes de podas, principalmente en arboles leñosos. (No aplicar a cucurbitáceas, para el caso de frijol no aplicar cuando esté en floración). Bibliografia citada: Arthur GD, WA, Stirk & J. Venstaden 2003. Effect of a seaweeds concentrate on the growth and yield of three varieties of capsicum annuum. Sotuh Africa Journal of Botany, 69: 207-211. Gutierrez Castorena V, Gutierrez Castorena Ma del Carmen, Ortíz Solorio C. Manejo integrado de nutrientes en sistemas agrícolas intensivos. México. Revista Mexicana de Cs. Agrícolas. Rivas Cancino, G. Tesis Especialidad: Influencia del silicato de potasio y aceite de café sobre la expresión de enzimas proteicas de defensa en el cultivo de brócoli. Universidad de LaSalle Bajío, México. &nbsp; Correo electrónico Imprimir Facebook LinkedIn Twitter Más WhatsApp Rivas Cancino es investigadora y escritora científica desde hace más de 3 años en el área de fisiología y nutrición vegetal desarrollando y creando alternativas amigables con el ambiente que beneficie a la agricultura mexicana, ademas ahora también realiza la función de Auditor de inocuidad de alimentos bajo esquemas Primus GFS y SRRC en WQS. Rivas, además de ser columnista en revista “Productores de Hortalizas”, también ha publicado sus investigaciones en “BAOJ BioAccent -The Journal of Biotechnology” en Wilmington, Delaware, USA. También es tercero especialista autorizado en SRRC de Senasica, con número de clave: DGIAAP-16-TEA-SRRC-14-060. Actualmente es asesor en inocuidad, certificación orgánica y desarrollo comercial de fertilizantes orgánicos. Asimismo, es CEO de Rivas Consulting Group. Puede contactar a Guadalupe Rivas escribiendo a: [email protected] / Tel: +52 1 (33) 3815-4639. See all author stories here.\nRicardo Rivas Rodas, PhD. (MC en nutrición vegetal) es experto en toxicología de plaguicidas y salud pública. Cuenta con más de 25 años de experiencia en el área agrícola con énfasis a ponencia a Universidades y congresos, y en la investigación y desarrollo de la tierra de diatomeas, silicio orgánico y mejoradores de suelo. Puede contactar al Dr. Ricardo Rivas escribiendo a: [email protected] . See all author stories here.\nBuenas noches Soy productor de hortalizas como los son tomate, chile, calabaza, pepino entre otras estoy buscando compradores de mi producto. Cualquier duda a mi cel.6871163555",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 0.4,
+    "BUSINESS": 0.3333333333333333,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 97,
+    "priority": 97,
+    "base": 57,
+    "breakdown": {
+     "agro": 25,
+     "tech": 8,
+     "business": 6.7,
+     "mexico": 15,
+     "recency": 0,
+     "source": 2
+    },
+    "bonuses": {
+     "innovacion_concreta": 10,
+     "afecta_productores": 10,
+     "aplicacion_practica": 10,
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 97,
+   "priority": 97,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?",
+    "¿Cuánto cuesta?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-d2587ac1",
+   "retrieved_at": "2026-10-13T12:24:44.263Z",
+   "ingested_via": "rss",
+   "title_original": "El reto: una agricultura sustentable, productiva e inclusiva",
+   "title_agrovision": "",
+   "source_name": "Hortalizas",
+   "source_domain": "hortalizas.com",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://www.hortalizas.com/mundo-agronomo/el-reto-una-agricultura-sustentable-productiva-e-inclusiva/",
+   "canonical_url": "https://hortalizas.com/mundo-agronomo/el-reto-una-agricultura-sustentable-productiva-e-inclusiva",
+   "published_at": "2019-12-04",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "AGRO",
+   "subcategory": "Agricultura",
+   "technologies": [],
+   "companies": [],
+   "content": "Estas prácticas representan también un enorme beneficio en lo que respecta al cambio climático.\nSe conoce como agricultura sustentable a la actividad agrícola basada en un sistema de producción productiva y rentable que genera desarrollo en las comunidades que la practican.\nAdemás, cumple los requisitos de abastecer adecuadamente de alimentos y preserva el potencial de los recursos naturales sin comprometer las potencialidades presentes y futuras del recurso suelo. Para alcanzar este nivel de producción, sobre todo en granos para el país, y lograr la estabilidad de alimentos, especialmente en maíz, es necesario adoptar de manera progresiva y definitiva tecnologías sustentables, tales como: Rotación de cultivos, esta práctica permite la reducción de plagas y control de malezas, distribución adecuada de los nutrientes del suelo y el balanceo de la producción de residuos. No labranza, al reducir al mínimo la práctica de remover la tierra se evita la compactación del suelo, aumenta su fertilidad e impide la erosión. Cobertura del suelo, este se cubre con plantas o rastrojo del cultivo anterior lo que aumenta la infiltración de agua y volumen de agua, disminuye la erosión ocasionada por agua y viento, se estimula la actividad biológica y materia orgánica de la tierra. Estas prácticas representan también un enorme beneficio en lo que respecta al cambio climático, ya que ayuda a proteger a los cultivos de las altas temperaturas, la precipitación pluvial errática y extrema y la creciente escasez de agua; también coopera para erradicar las contribuciones de la agricultura al cambio climático. La agricultura sustentable es una opción a la producción de alimentos en el presente y hacia el futuro; ya que protege uno de los recursos más importante en éste proceso: el suelo, al mismo tiempo que fortalece la salud del mismo. Fuente: Secretaría de Agricultura y Desarrollo Rural (SADER) Correo electrónico Imprimir Facebook LinkedIn Twitter Más WhatsApp Comentarios (2) 31 11 14 23 11 Deja un comentario Cancelar respuesta El reto: una agricultura sustentable, productiva e inclusiva - Agrogigante dice: 20 de septiembre, 2020 a las 9:47 pm […] contenido de este artículo de nuestra sección de Agrotecnia fue elaborado por http://www.hortalizas.com , el cual fue revisado y reeditado por […]",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 0,
+    "BUSINESS": 0,
+    "MEXICO": 0.6666666666666666
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 39,
+    "priority": 39,
+    "base": 39,
+    "breakdown": {
+     "agro": 25,
+     "tech": 0,
+     "business": 0,
+     "mexico": 12,
+     "recency": 0,
+     "source": 2
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 39,
+   "priority": 39,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-795c88ce",
+   "retrieved_at": "2026-10-13T12:24:44.263Z",
+   "ingested_via": "rss",
+   "title_original": "Centro Nacional de Referencia de Control Biológico, un modelo a nivel internacional",
+   "title_agrovision": "",
+   "source_name": "Hortalizas",
+   "source_domain": "hortalizas.com",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://www.hortalizas.com/proteccion-de-cultivos/biologicos/centro-nacional-de-referencia-de-control-biologico-un-referente-internacional/",
+   "canonical_url": "https://hortalizas.com/proteccion-de-cultivos/biologicos/centro-nacional-de-referencia-de-control-biologico-un-referente-internacional",
+   "published_at": "2019-12-04",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "AGRO",
+   "subcategory": "Cultivos",
+   "technologies": [],
+   "companies": [],
+   "content": "El centro coadyuva con programas o campañas fitosanitarias en las que se promueve el uso de organismos benéficos como agentes de control biológico, todo esto con la finalidad de fortalecer la sanidad de los cultivos vegetales, contribuyendo así al incremento de su productividad y calidad.\nEl control biológico de plagas es una tecnología en la se aprovechan organismos vivos, enemigos naturales de las plagas, para combatirlas sin afectar la producción agrícola.\nEn este tema México cuenta con el Centro Nacional de Referencia de Control Biológico (CNRCB) organismo que tiene la misión de desarrollar y establecer las estrategias de control biológico para plagas reglamentadas, además genera y proporciona tecnología alternativa al uso de plaguicidas químicos. Asimismo, el centro coadyuva con programas o campañas fitosanitarias en las que se promueve el uso de organismos benéficos como agentes de control biológico, todo esto con la finalidad de fortalecer la sanidad de los cultivos vegetales, contribuyendo así al incremento de su productividad y calidad. Gracias a la investigación que se realiza en el Centro Nacional de Referencia de Control Biológico, México es grande en este tema, por lo que técnicos de Estados Unidos, Canadá, Europa y Sudamérica vienen a capacitarse en programas específicos de control biológico de plagas que son comunes a nivel internacional, como la cochinilla rosada del hibisco. Entre los avances en materia de control biológico podemos destacar: Importantes colecciones de insectos entomófagos (CIE) y hongos entomopatógenos (CHE) Publicaciones científicas sobre el control biológico de plagas El establecimiento del laboratorio de biología molecular que identifica las especies de plagas y enemigos naturales de un cultivo agrícola específico. Creación de manuales sobre el control biológico de plagas 2 laboratorios oficiales reproductores de agentes de control biológico 69 infraestructuras privadas que producen masivamente organismos benéficos para el control de plagas. Actualmente el CNRCB cuenta con cinco áreas estratégicas de trabajo que tienen la misión de desarrollar tecnología para la implementación de programas de control biológico, a partir de agentes de control biológico plenamente identificados por métodos tradicionales y moleculares depositados en colecciones de referencia. Fuente: Secretaría de Agricultura y Desarrollo Rural (SADER) Correo electrónico Imprimir Facebook LinkedIn Twitter Más WhatsApp Comentarios (1) 14 14 11 15 23 Deja un comentario Cancelar respuesta Miguel Rabago dice: 22 de junio, 2020 a las 6:28 pm busco productores de tomate saladet, pimiento morron, tomatillo, chile jalapeño y serrano para venta a comisión en la central de abasto en la Ciudad de Mexico Cel/whatsapp 33 2836 3728",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 0,
+    "BUSINESS": 0.16666666666666666,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 65,
+    "priority": 65,
+    "base": 45,
+    "breakdown": {
+     "agro": 25,
+     "tech": 0,
+     "business": 3.3,
+     "mexico": 15,
+     "recency": 0,
+     "source": 2
+    },
+    "bonuses": {
+     "afecta_productores": 10,
+     "aplicacion_practica": 10
+    },
+    "penalties": {}
+   },
+   "score": 65,
+   "priority": 65,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-91e9076a",
+   "retrieved_at": "2026-10-13T12:24:44.263Z",
+   "ingested_via": "rss",
+   "title_original": "Riego tecnificado, sustentabilidad y desarrollo",
+   "title_agrovision": "",
+   "source_name": "Hortalizas",
+   "source_domain": "hortalizas.com",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://www.hortalizas.com/mundo-agronomo/irrigacion-mundo-agronomo/riego-tecnificado-sustentabilidad-y-desarrollo/",
+   "canonical_url": "https://hortalizas.com/mundo-agronomo/irrigacion-mundo-agronomo/riego-tecnificado-sustentabilidad-y-desarrollo",
+   "published_at": "2019-11-28",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "AGRO",
+   "subcategory": "Riego",
+   "technologies": [],
+   "companies": [],
+   "content": "Los sistemas de riego que se emplean en la tecnificación son: multicompuertas, de aspersión (en diferentes modalidades), micro-aspersión y de goteo.\nLograr un uso eficiente del agua a través de la modernización tecnológica no es una tarea sencilla, sin embargo, gracias al establecimiento de Sistemas de Riego Tecnificado, se impulsa el aprovechamiento sustentable y óptimo del agua, al mismo tiempo que se incentiva la aplicación de tecnologías para el riego parcelario eficiente.\nEntre las ventajas de tecnificar el riego, encontramos: 1. Disminución del consumo de agua en las parcelas y por consiguiente, disminución de gastos por tarifa. 2. Mayor eficiencia en el uso del agua y fertilizantes. 3. Obtención de mayor producción y mejor calidad de los productos; consecuentemente mayores ganancias. 4. Mayor disponibilidad de tiempo para dedicarse a otras actividades. 5. Mayores ingresos económicos para los agricultores. Los sistemas de riego que se emplean en la tecnificación son: multicompuertas, de aspersión (en diferentes modalidades), micro-aspersión y de goteo. En México la tecnificación de riego es una realidad, pues ocupamos el 6° lugar mundial en este rubro. Los estados que más emplean el riego tecnificado son Chihuahua, Veracruz, San Luis Potosí, Coahuila, Yucatán, Sinaloa, Michoacán, Jalisco y Zacatecas. Asimismo, la tecnificación del riego se refleja en la calidad de vida de las familias rurales al permitirles ahorros en agua para uso agrícola y una mayor productividad de sus cultivos. Fuente: SADER Correo electrónico Imprimir Facebook LinkedIn Twitter Más WhatsApp Comentarios (1) 7 5 3 6 9 Deja un comentario Cancelar respuesta Riego tecnificado, sustentabilidad y desarrollo – Agriculturers.com | Red de Especialistas en Agricultura dice: 4 de diciembre, 2019 a las 9:01 pm […] FUENTE […]",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 0,
+    "BUSINESS": 0.16666666666666666,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 65,
+    "priority": 65,
+    "base": 45,
+    "breakdown": {
+     "agro": 25,
+     "tech": 0,
+     "business": 3.3,
+     "mexico": 15,
+     "recency": 0,
+     "source": 2
+    },
+    "bonuses": {
+     "afecta_productores": 10,
+     "aplicacion_practica": 10
+    },
+    "penalties": {}
+   },
+   "score": 65,
+   "priority": 65,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "¿Cuánto cuesta?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
   }
  ],
  "sources": [
@@ -45565,7 +47446,7 @@
    "tier": 2,
    "type": "secondary",
    "kind": "medio_especializado",
-   "article_count": 57
+   "article_count": 60
   },
   {
    "domain": "cimmyt.org",
@@ -45613,7 +47494,7 @@
    "tier": 2,
    "type": "secondary",
    "kind": "medio_especializado",
-   "article_count": 84
+   "article_count": 86
   },
   {
    "domain": "agriculteca.com",
@@ -45685,7 +47566,7 @@
    "tier": 2,
    "type": "secondary",
    "kind": "medio_especializado",
-   "article_count": 33
+   "article_count": 34
   },
   {
    "domain": "newaginternational.com",
@@ -45885,7 +47766,7 @@
    "tier": 0,
    "type": "secondary",
    "kind": "desconocido",
-   "article_count": 7
+   "article_count": 8
   },
   {
    "domain": "phytoma.com",
@@ -45981,7 +47862,7 @@
    "tier": 0,
    "type": "secondary",
    "kind": "desconocido",
-   "article_count": 1
+   "article_count": 10
   },
   {
    "domain": "netnoticias.mx",
@@ -46117,7 +47998,7 @@
    "tier": 0,
    "type": "secondary",
    "kind": "desconocido",
-   "article_count": 2
+   "article_count": 3
   },
   {
    "domain": "michoacan.gob.mx",
@@ -46550,6 +48431,14 @@
    "type": "secondary",
    "kind": "desconocido",
    "article_count": 1
+  },
+  {
+   "domain": "alfredoalvarez.mx",
+   "name": "alfredoalvarez.mx",
+   "tier": 0,
+   "type": "secondary",
+   "kind": "desconocido",
+   "article_count": 1
   }
  ],
  "topics": [
@@ -46716,7 +48605,7 @@
    "id": "drones",
    "label": "Drones agrícolas",
    "score": 99,
-   "mentions": 26,
+   "mentions": 27,
    "recent": 19,
    "prior": 3,
    "direction": "creciendo",
@@ -46753,16 +48642,17 @@
     "agv-8fe1226b",
     "agv-85f13ac4",
     "agv-41c1485f",
-    "agv-e367bc45"
+    "agv-e367bc45",
+    "agv-91e9076a"
    ],
-   "computed_at": "2026-10-13T00:15:10.321Z"
+   "computed_at": "2026-10-13T12:24:44.263Z"
   },
   {
    "id": "riego-inteligente",
    "label": "Riego y agua",
    "score": 99,
-   "mentions": 86,
-   "recent": 69,
+   "mentions": 92,
+   "recent": 70,
    "prior": 12,
    "direction": "creciendo",
    "source_kinds": [
@@ -46858,15 +48748,21 @@
     "agv-68b2e86b",
     "agv-f940ac69",
     "agv-ce55d6a0",
-    "agv-1979c483"
+    "agv-1979c483",
+    "agv-ac82cb6b",
+    "agv-d9be6fee",
+    "agv-eb2f1aef",
+    "agv-3ff27a2b",
+    "agv-d2587ac1",
+    "agv-91e9076a"
    ],
-   "computed_at": "2026-10-13T00:15:10.321Z"
+   "computed_at": "2026-10-13T12:24:44.263Z"
   },
   {
    "id": "sanidad",
    "label": "Sanidad animal y vegetal",
    "score": 99,
-   "mentions": 29,
+   "mentions": 35,
    "recent": 22,
    "prior": 4,
    "direction": "creciendo",
@@ -46906,16 +48802,22 @@
     "agv-919177b6",
     "agv-6c77c560",
     "agv-b9f24367",
-    "agv-baf03a7f"
+    "agv-baf03a7f",
+    "agv-eb2f1aef",
+    "agv-e48e8299",
+    "agv-4b717c73",
+    "agv-3ff27a2b",
+    "agv-d2587ac1",
+    "agv-795c88ce"
    ],
-   "computed_at": "2026-10-13T00:15:10.321Z"
+   "computed_at": "2026-10-13T12:24:44.263Z"
   },
   {
    "id": "maiz",
    "label": "Maíz y granos",
    "score": 98,
-   "mentions": 76,
-   "recent": 53,
+   "mentions": 78,
+   "recent": 54,
    "prior": 17,
    "direction": "creciendo",
    "source_kinds": [
@@ -47002,16 +48904,18 @@
     "agv-7d8d8941",
     "agv-8e693f4c",
     "agv-1743ca32",
-    "agv-a1e7addc"
+    "agv-a1e7addc",
+    "agv-0c878294",
+    "agv-d2587ac1"
    ],
-   "computed_at": "2026-10-13T00:15:10.321Z"
+   "computed_at": "2026-10-13T12:24:44.263Z"
   },
   {
    "id": "ia-agricola",
    "label": "IA agrícola",
    "score": 97,
-   "mentions": 93,
-   "recent": 61,
+   "mentions": 96,
+   "recent": 63,
    "prior": 26,
    "direction": "creciendo",
    "source_kinds": [
@@ -47116,16 +49020,19 @@
     "agv-9f29d4f6",
     "agv-4e7698bb",
     "agv-ab6ffdc8",
-    "agv-e04b8430"
+    "agv-e04b8430",
+    "agv-c4e61eac",
+    "agv-73970483",
+    "agv-d9be6fee"
    ],
-   "computed_at": "2026-10-13T00:15:10.321Z"
+   "computed_at": "2026-10-13T12:24:44.263Z"
   },
   {
    "id": "biotecnologia",
    "label": "Biotecnología y semillas",
    "score": 97,
-   "mentions": 57,
-   "recent": 38,
+   "mentions": 62,
+   "recent": 40,
    "prior": 16,
    "direction": "creciendo",
    "source_kinds": [
@@ -47192,16 +49099,21 @@
     "agv-4520d1dc",
     "agv-41c1485f",
     "agv-1743ca32",
-    "agv-ce55d6a0"
+    "agv-ce55d6a0",
+    "agv-0c878294",
+    "agv-209d8880",
+    "agv-626bc9c8",
+    "agv-e48e8299",
+    "agv-3ff27a2b"
    ],
-   "computed_at": "2026-10-13T00:15:10.321Z"
+   "computed_at": "2026-10-13T12:24:44.263Z"
   },
   {
    "id": "agricultura-digital",
    "label": "Agricultura digital y datos",
    "score": 97,
-   "mentions": 109,
-   "recent": 69,
+   "mentions": 114,
+   "recent": 72,
    "prior": 34,
    "direction": "creciendo",
    "source_kinds": [
@@ -47323,16 +49235,21 @@
     "agv-7d8d8941",
     "agv-a654f59b",
     "agv-e367bc45",
-    "agv-aa19a4d6"
+    "agv-aa19a4d6",
+    "agv-c4e61eac",
+    "agv-73970483",
+    "agv-9ce61680",
+    "agv-d9be6fee",
+    "agv-e48e8299"
    ],
-   "computed_at": "2026-10-13T00:15:10.321Z"
+   "computed_at": "2026-10-13T12:24:44.263Z"
   },
   {
    "id": "fertilizantes",
    "label": "Costo de fertilizantes",
    "score": 95,
-   "mentions": 28,
-   "recent": 14,
+   "mentions": 31,
+   "recent": 15,
    "prior": 11,
    "direction": "creciendo",
    "source_kinds": [
@@ -47371,16 +49288,19 @@
     "agv-337fd04b",
     "agv-4520d1dc",
     "agv-f940ac69",
-    "agv-ce55d6a0"
+    "agv-ce55d6a0",
+    "agv-73970483",
+    "agv-3ff27a2b",
+    "agv-91e9076a"
    ],
-   "computed_at": "2026-10-13T00:15:10.321Z"
+   "computed_at": "2026-10-13T12:24:44.263Z"
   },
   {
    "id": "inversion-agtech",
    "label": "Inversión AgTech",
-   "score": 90,
-   "mentions": 72,
-   "recent": 35,
+   "score": 91,
+   "mentions": 76,
+   "recent": 38,
    "prior": 34,
    "direction": "creciendo",
    "source_kinds": [
@@ -47462,9 +49382,13 @@
     "agv-4520d1dc",
     "agv-9b69c7c4",
     "agv-526cbda3",
-    "agv-41c1485f"
+    "agv-41c1485f",
+    "agv-c4e61eac",
+    "agv-73970483",
+    "agv-e0d2f2af",
+    "agv-d9be6fee"
    ],
-   "computed_at": "2026-10-13T00:15:10.321Z"
+   "computed_at": "2026-10-13T12:24:44.263Z"
   },
   {
    "id": "robotica",
@@ -47541,7 +49465,7 @@
     "agv-e367bc45",
     "agv-4e7698bb"
    ],
-   "computed_at": "2026-10-13T00:15:10.321Z"
+   "computed_at": "2026-10-13T12:24:44.263Z"
   },
   {
    "id": "comercio-tmec",
@@ -47585,7 +49509,7 @@
     "agv-e367bc45",
     "agv-a4b155b2"
    ],
-   "computed_at": "2026-10-13T00:15:10.321Z"
+   "computed_at": "2026-10-13T12:24:44.263Z"
   },
   {
    "id": "precios-alimentos",
@@ -47605,7 +49529,7 @@
     "agv-52a0be98",
     "agv-943d446b"
    ],
-   "computed_at": "2026-10-13T00:15:10.321Z"
+   "computed_at": "2026-10-13T12:24:44.263Z"
   }
  ],
  "companies": [
@@ -48674,7 +50598,9 @@
     "agv-c878719d",
     "agv-e367bc45",
     "agv-f940ac69",
-    "agv-4e7698bb"
+    "agv-4e7698bb",
+    "agv-c4e61eac",
+    "agv-73970483"
    ]
   },
   {
@@ -48769,7 +50695,10 @@
     "agv-f940ac69",
     "agv-4e7698bb",
     "agv-ab6ffdc8",
-    "agv-e04b8430"
+    "agv-e04b8430",
+    "agv-c4e61eac",
+    "agv-73970483",
+    "agv-d9be6fee"
    ]
   },
   {
@@ -48860,7 +50789,11 @@
     "agv-526cbda3",
     "agv-7d8d8941",
     "agv-e367bc45",
-    "agv-aa19a4d6"
+    "agv-aa19a4d6",
+    "agv-c4e61eac",
+    "agv-73970483",
+    "agv-d9be6fee",
+    "agv-e48e8299"
    ]
   },
   {
@@ -48982,7 +50915,43 @@
     "agv-4520d1dc",
     "agv-41c1485f",
     "agv-1743ca32",
-    "agv-ce55d6a0"
+    "agv-ce55d6a0",
+    "agv-209d8880",
+    "agv-626bc9c8",
+    "agv-3ff27a2b"
+   ]
+  },
+  {
+   "id": "agricultura-de-precision",
+   "name": "Agricultura de precisión",
+   "article_ids": [
+    "agv-a1b5cdd5",
+    "agv-52a0be98",
+    "agv-3ed53b42",
+    "agv-be95f754",
+    "agv-2b482207",
+    "agv-ca4aa8be",
+    "agv-ced5838d",
+    "agv-1ee00262",
+    "agv-29ac2a62",
+    "agv-8cb36837",
+    "agv-0c41693f",
+    "agv-b2b14623",
+    "agv-23f70dad",
+    "agv-d5bde794",
+    "agv-4d607f0b",
+    "agv-d715e71e",
+    "agv-a85c8e98",
+    "agv-26a57910",
+    "agv-6bef4b01",
+    "agv-4a7defb9",
+    "agv-87cef2ea",
+    "agv-ec991a6c",
+    "agv-df17dd98",
+    "agv-baf03a7f",
+    "agv-a654f59b",
+    "agv-c4e61eac",
+    "agv-d9be6fee"
    ]
   },
   {
@@ -49014,38 +50983,8 @@
     "agv-8fe1226b",
     "agv-cad9d06d",
     "agv-29f67712",
-    "agv-41c1485f"
-   ]
-  },
-  {
-   "id": "agricultura-de-precision",
-   "name": "Agricultura de precisión",
-   "article_ids": [
-    "agv-a1b5cdd5",
-    "agv-52a0be98",
-    "agv-3ed53b42",
-    "agv-be95f754",
-    "agv-2b482207",
-    "agv-ca4aa8be",
-    "agv-ced5838d",
-    "agv-1ee00262",
-    "agv-29ac2a62",
-    "agv-8cb36837",
-    "agv-0c41693f",
-    "agv-b2b14623",
-    "agv-23f70dad",
-    "agv-d5bde794",
-    "agv-4d607f0b",
-    "agv-d715e71e",
-    "agv-a85c8e98",
-    "agv-26a57910",
-    "agv-6bef4b01",
-    "agv-4a7defb9",
-    "agv-87cef2ea",
-    "agv-ec991a6c",
-    "agv-df17dd98",
-    "agv-baf03a7f",
-    "agv-a654f59b"
+    "agv-41c1485f",
+    "agv-c4e61eac"
    ]
   },
   {
@@ -49096,7 +51035,9 @@
     "agv-397e35ab",
     "agv-baf03a7f",
     "agv-1bf61b96",
-    "agv-41c1485f"
+    "agv-41c1485f",
+    "agv-9ce61680",
+    "agv-d9be6fee"
    ]
   },
   {
@@ -49114,7 +51055,8 @@
     "agv-e1000d57",
     "agv-26a57910",
     "agv-6bef4b01",
-    "agv-476b711c"
+    "agv-476b711c",
+    "agv-d9be6fee"
    ]
   },
   {
@@ -49142,7 +51084,8 @@
     "agv-773739ab",
     "agv-f42d898d",
     "agv-1325e163",
-    "agv-ab6ffdc8"
+    "agv-ab6ffdc8",
+    "agv-d9be6fee"
    ]
   },
   {
@@ -49395,18 +51338,6 @@
    ]
   },
   {
-   "id": "inversion",
-   "name": "Inversión",
-   "article_ids": [
-    "agv-797fbb63",
-    "agv-0d11e761",
-    "agv-416c7fed",
-    "agv-e5654e4e",
-    "agv-2bbbed25",
-    "agv-48c93e91"
-   ]
-  },
-  {
    "id": "costos",
    "name": "Costos",
    "article_ids": [
@@ -49415,7 +51346,22 @@
     "agv-fdec61dc",
     "agv-cdde6f4d",
     "agv-63d8026a",
-    "agv-ce55d6a0"
+    "agv-ce55d6a0",
+    "agv-961882b9",
+    "agv-e48e8299"
+   ]
+  },
+  {
+   "id": "inversion",
+   "name": "Inversión",
+   "article_ids": [
+    "agv-797fbb63",
+    "agv-0d11e761",
+    "agv-416c7fed",
+    "agv-e5654e4e",
+    "agv-2bbbed25",
+    "agv-48c93e91",
+    "agv-e0d2f2af"
    ]
   },
   {
@@ -49432,7 +51378,8 @@
    "name": "Adquisiciones",
    "article_ids": [
     "agv-0177d6c1",
-    "agv-66097959"
+    "agv-66097959",
+    "agv-edc6ebc4"
    ]
   },
   {
@@ -49667,7 +51614,22 @@
     "agv-e04b8430",
     "agv-c926b727",
     "agv-a4b155b2",
-    "agv-48c93e91"
+    "agv-48c93e91",
+    "agv-ac82cb6b",
+    "agv-961882b9",
+    "agv-edc6ebc4",
+    "agv-0c878294",
+    "agv-209d8880",
+    "agv-e0d2f2af",
+    "agv-626bc9c8",
+    "agv-d9be6fee",
+    "agv-eb2f1aef",
+    "agv-e48e8299",
+    "agv-4b717c73",
+    "agv-3ff27a2b",
+    "agv-d2587ac1",
+    "agv-795c88ce",
+    "agv-91e9076a"
    ]
   },
   {
@@ -49841,7 +51803,10 @@
     "agv-f940ac69",
     "agv-9f29d4f6",
     "agv-4e7698bb",
-    "agv-ab6ffdc8"
+    "agv-ab6ffdc8",
+    "agv-c4e61eac",
+    "agv-73970483",
+    "agv-9ce61680"
    ]
   },
   {
@@ -49990,7 +51955,18 @@
     "agv-aa19a4d6",
     "agv-c926b727",
     "agv-a4b155b2",
-    "agv-48c93e91"
+    "agv-48c93e91",
+    "agv-961882b9",
+    "agv-edc6ebc4",
+    "agv-0c878294",
+    "agv-209d8880",
+    "agv-e0d2f2af",
+    "agv-626bc9c8",
+    "agv-e48e8299",
+    "agv-3ff27a2b",
+    "agv-d2587ac1",
+    "agv-795c88ce",
+    "agv-91e9076a"
    ]
   },
   {
@@ -50056,7 +52032,8 @@
     "agv-9d987fb2",
     "agv-505daa08",
     "agv-ce55d6a0",
-    "agv-1979c483"
+    "agv-1979c483",
+    "agv-ac82cb6b"
    ]
   },
   {
@@ -50085,6 +52062,18 @@
    ]
   },
   {
+   "id": "veracruz",
+   "name": "Veracruz",
+   "article_ids": [
+    "agv-97daf274",
+    "agv-1f15a1a0",
+    "agv-5227f59b",
+    "agv-a6b285ee",
+    "agv-62914f03",
+    "agv-4b717c73"
+   ]
+  },
+  {
    "id": "michoacan",
    "name": "Michoacán",
    "article_ids": [
@@ -50096,14 +52085,14 @@
    ]
   },
   {
-   "id": "veracruz",
-   "name": "Veracruz",
+   "id": "guanajuato",
+   "name": "Guanajuato",
    "article_ids": [
-    "agv-97daf274",
-    "agv-1f15a1a0",
-    "agv-5227f59b",
-    "agv-a6b285ee",
-    "agv-62914f03"
+    "agv-2db51231",
+    "agv-a8b1291c",
+    "agv-b398abc9",
+    "agv-d9be6fee",
+    "agv-eb2f1aef"
    ]
   },
   {
@@ -50115,15 +52104,6 @@
     "agv-c0320e1e",
     "agv-46a14059",
     "agv-750ff178"
-   ]
-  },
-  {
-   "id": "guanajuato",
-   "name": "Guanajuato",
-   "article_ids": [
-    "agv-2db51231",
-    "agv-a8b1291c",
-    "agv-b398abc9"
    ]
   },
   {
@@ -52722,15 +54702,25 @@
    "id": "summary-2026-10-13T00:15:10.321Z",
    "type": "summary",
    "at": "2026-10-13T00:15:12.900Z"
+  },
+  {
+   "id": "daily-2026-10-13T12:24:44.263Z",
+   "type": "daily",
+   "at": "2026-10-13T12:26:08.817Z",
+   "added": 18,
+   "skipped": 408,
+   "feeds_ok": 17,
+   "feeds_failed": 3,
+   "duplicates": 27
   }
  ],
  "meta": {
   "schema_version": 1,
   "created_at": "2026-09-19T15:08:14.372Z",
-  "updated_at": "2026-10-13T00:15:12.900Z",
+  "updated_at": "2026-10-13T12:26:08.817Z",
   "counts": {
-   "articles": 403,
-   "sources": 130,
+   "articles": 421,
+   "sources": 131,
    "topics": 12,
    "trends": 12,
    "companies": 111,
@@ -52744,7 +54734,7 @@
    "saved_articles": 0,
    "newsletter_issues": 4,
    "social_posts": 0,
-   "runs": 77
+   "runs": 78
   }
  }
 }
