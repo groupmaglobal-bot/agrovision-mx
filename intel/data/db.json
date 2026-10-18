@@ -901,15 +901,15 @@
    },
    "evidence": "ALTO",
    "scoring": {
-    "score": 95,
-    "priority": 95,
-    "base": 75,
+    "score": 92,
+    "priority": 92,
+    "base": 72,
     "breakdown": {
      "agro": 25,
      "tech": 4,
      "business": 20,
      "mexico": 15,
-     "recency": 7,
+     "recency": 4,
      "source": 4
     },
     "bonuses": {
@@ -918,8 +918,8 @@
     },
     "penalties": {}
    },
-   "score": 95,
-   "priority": 95,
+   "score": 92,
+   "priority": 92,
    "status": "VERIFICADO",
    "analysis_complete": true,
    "publishable": true,
@@ -9674,22 +9674,22 @@
    },
    "evidence": "ALTO",
    "scoring": {
-    "score": 32,
-    "priority": 32,
-    "base": 32,
+    "score": 29,
+    "priority": 29,
+    "base": 29,
     "breakdown": {
      "agro": 8.3,
      "tech": 0,
      "business": 0,
      "mexico": 15,
-     "recency": 7,
+     "recency": 4,
      "source": 2
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 32,
-   "priority": 32,
+   "score": 29,
+   "priority": 29,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -10082,22 +10082,22 @@
    },
    "evidence": "BAJO",
    "scoring": {
-    "score": 41,
-    "priority": 41,
-    "base": 41,
+    "score": 38,
+    "priority": 38,
+    "base": 38,
     "breakdown": {
      "agro": 16.7,
      "tech": 0,
      "business": 0,
      "mexico": 15,
-     "recency": 7,
+     "recency": 4,
      "source": 2
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 41,
-   "priority": 41,
+   "score": 38,
+   "priority": 38,
    "status": "NO VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -10186,22 +10186,22 @@
    },
    "evidence": "ALTO",
    "scoring": {
-    "score": 40,
-    "priority": 40,
-    "base": 40,
+    "score": 37,
+    "priority": 37,
+    "base": 37,
     "breakdown": {
      "agro": 4.2,
      "tech": 0,
      "business": 6.7,
      "mexico": 15,
-     "recency": 7,
+     "recency": 4,
      "source": 7
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 40,
-   "priority": 40,
+   "score": 37,
+   "priority": 37,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -19272,15 +19272,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 64,
-    "priority": 64,
-    "base": 54,
+    "score": 61,
+    "priority": 61,
+    "base": 51,
     "breakdown": {
      "agro": 25,
      "tech": 0,
      "business": 0,
      "mexico": 15,
-     "recency": 7,
+     "recency": 4,
      "source": 7
     },
     "bonuses": {
@@ -19288,8 +19288,8 @@
     },
     "penalties": {}
    },
-   "score": 64,
-   "priority": 64,
+   "score": 61,
+   "priority": 61,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -19369,15 +19369,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 37,
-    "priority": 37,
-    "base": 57,
+    "score": 34,
+    "priority": 34,
+    "base": 54,
     "breakdown": {
      "agro": 25,
      "tech": 0,
      "business": 3.3,
      "mexico": 15,
-     "recency": 7,
+     "recency": 4,
      "source": 7
     },
     "bonuses": {
@@ -19387,8 +19387,8 @@
      "duplicado": -30
     }
    },
-   "score": 37,
-   "priority": 37,
+   "score": 34,
+   "priority": 34,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -19484,14 +19484,14 @@
    "evidence": "ALTO",
    "scoring": {
     "score": 100,
-    "priority": 112,
-    "base": 82,
+    "priority": 109,
+    "base": 79,
     "breakdown": {
      "agro": 25,
      "tech": 8,
      "business": 20,
      "mexico": 15,
-     "recency": 7,
+     "recency": 4,
      "source": 7
     },
     "bonuses": {
@@ -19502,7 +19502,7 @@
     "penalties": {}
    },
    "score": 100,
-   "priority": 112,
+   "priority": 109,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -20675,22 +20675,22 @@
    },
    "evidence": "BAJO",
    "scoring": {
-    "score": 29,
-    "priority": 29,
-    "base": 29,
+    "score": 26,
+    "priority": 26,
+    "base": 26,
     "breakdown": {
      "agro": 8.3,
      "tech": 0,
      "business": 0,
      "mexico": 12,
-     "recency": 7,
+     "recency": 4,
      "source": 2
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 29,
-   "priority": 29,
+   "score": 26,
+   "priority": 26,
    "status": "NO VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -38029,15 +38029,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 39,
-    "priority": 39,
-    "base": 59,
+    "score": 36,
+    "priority": 36,
+    "base": 56,
     "breakdown": {
      "agro": 25,
      "tech": 20,
      "business": 0,
      "mexico": 0,
-     "recency": 7,
+     "recency": 4,
      "source": 7
     },
     "bonuses": {
@@ -38048,8 +38048,8 @@
      "sin_evidencia": -40
     }
    },
-   "score": 39,
-   "priority": 39,
+   "score": 36,
+   "priority": 36,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -45449,22 +45449,22 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 33,
-    "priority": 33,
-    "base": 33,
+    "score": 30,
+    "priority": 30,
+    "base": 30,
     "breakdown": {
      "agro": 4.2,
      "tech": 0,
      "business": 0,
      "mexico": 12,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 33,
-   "priority": 33,
+   "score": 30,
+   "priority": 30,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -45542,15 +45542,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 63,
-    "priority": 63,
-    "base": 53,
+    "score": 60,
+    "priority": 60,
+    "base": 50,
     "breakdown": {
      "agro": 4.2,
      "tech": 0,
      "business": 20,
      "mexico": 12,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -45558,8 +45558,8 @@
     },
     "penalties": {}
    },
-   "score": 63,
-   "priority": 63,
+   "score": 60,
+   "priority": 60,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -45650,22 +45650,22 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 39,
-    "priority": 39,
-    "base": 39,
+    "score": 36,
+    "priority": 36,
+    "base": 36,
     "breakdown": {
      "agro": 8.3,
      "tech": 0,
      "business": 3.3,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 2
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 39,
-   "priority": 39,
+   "score": 36,
+   "priority": 36,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -49323,16 +49323,28 @@
     "MEXICO": 1
    },
    "duplicate_of": null,
-   "related_ids": [],
+   "related_ids": [
+    "agv-4f99c511",
+    "agv-267b89bf"
+   ],
    "verification": {
-    "evidence": "BAJO",
-    "computed_evidence": "BAJO",
-    "status": "NO VERIFICADO",
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
     "source_role": "fuente secundaria",
-    "corroborations": [],
+    "corroborations": [
+     {
+      "name": "Sin Embargo",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMFJPYnh6Zkl3Q2JtN01wNHdOR0VSYVRhSEJxeWtmZmRhUm5CSzhic2ZNOS12NV93dG9ZbHBCRDNzaTNkMG1YLWsyWGVYY0J2SEtyTmRjcFNrNWFoU2VZcW9HYmNxRUR2MHVEQkR5TlVTQVExNzVVZzFsZV90ckFXN2pObGNZMUFZMUVESW1iQVVDcEFIM01ONzBZVE14eF9RVzVvQ1dERE5OQ19rR2h4MEF3NUhjS2po?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "tier": 0,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-4f99c511"
+     }
+    ],
     "warnings": []
    },
-   "evidence": "BAJO",
+   "evidence": "MEDIO",
    "scoring": {
     "score": 35,
     "priority": 35,
@@ -49350,7 +49362,7 @@
    },
    "score": 35,
    "priority": 35,
-   "status": "NO VERIFICADO",
+   "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
    "suggested_formats": [],
@@ -50032,13 +50044,24 @@
     "MEXICO": 1
    },
    "duplicate_of": null,
-   "related_ids": [],
+   "related_ids": [
+    "agv-4f99c511"
+   ],
    "verification": {
     "evidence": "MEDIO",
     "computed_evidence": "MEDIO",
     "status": "VERIFICADO",
     "source_role": "fuente secundaria",
-    "corroborations": [],
+    "corroborations": [
+     {
+      "name": "Sin Embargo",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMFJPYnh6Zkl3Q2JtN01wNHdOR0VSYVRhSEJxeWtmZmRhUm5CSzhic2ZNOS12NV93dG9ZbHBCRDNzaTNkMG1YLWsyWGVYY0J2SEtyTmRjcFNrNWFoU2VZcW9HYmNxRUR2MHVEQkR5TlVTQVExNzVVZzFsZV90ckFXN2pObGNZMUFZMUVESW1iQVVDcEFIM01ONzBZVE14eF9RVzVvQ1dERE5OQ19rR2h4MEF3NUhjS2po?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "tier": 0,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-4f99c511"
+     }
+    ],
     "warnings": []
    },
    "evidence": "MEDIO",
@@ -50125,16 +50148,27 @@
     "MEXICO": 1
    },
    "duplicate_of": null,
-   "related_ids": [],
+   "related_ids": [
+    "agv-4f99c511"
+   ],
    "verification": {
-    "evidence": "BAJO",
-    "computed_evidence": "BAJO",
-    "status": "NO VERIFICADO",
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
     "source_role": "fuente secundaria",
-    "corroborations": [],
+    "corroborations": [
+     {
+      "name": "Sin Embargo",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMFJPYnh6Zkl3Q2JtN01wNHdOR0VSYVRhSEJxeWtmZmRhUm5CSzhic2ZNOS12NV93dG9ZbHBCRDNzaTNkMG1YLWsyWGVYY0J2SEtyTmRjcFNrNWFoU2VZcW9HYmNxRUR2MHVEQkR5TlVTQVExNzVVZzFsZV90ckFXN2pObGNZMUFZMUVESW1iQVVDcEFIM01ONzBZVE14eF9RVzVvQ1dERE5OQ19rR2h4MEF3NUhjS2po?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "tier": 0,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-4f99c511"
+     }
+    ],
     "warnings": []
    },
-   "evidence": "BAJO",
+   "evidence": "MEDIO",
    "scoring": {
     "score": 35,
     "priority": 35,
@@ -50152,7 +50186,7 @@
    },
    "score": 35,
    "priority": 35,
-   "status": "NO VERIFICADO",
+   "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
    "suggested_formats": [],
@@ -50687,6 +50721,323 @@
    ],
    "suggested_content": [],
    "interview_ideas": []
+  },
+  {
+   "id": "agv-e0663d1e",
+   "retrieved_at": "2026-10-18T12:27:37.049Z",
+   "ingested_via": "googlenews",
+   "title_original": "Descarta Senasica fiebre aftosa en Sonora y anuncian reapertura de exportaciones de ganado",
+   "title_agrovision": "",
+   "source_name": "Diario del Yaqui",
+   "source_domain": "diariodelyaqui.mx",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMnlTeFltT3gzWWw2eUJmczVPMTBRX0NiSF82YzRJNTZrTUVHSVJMYjRkLTNYRm1VMkpNQ0xnNVk3bEZuaVdsQUs3bnMzRDhMVjZFb2NUMy1VVXFDY21qcE9Td0puX2s5WHBzMzZnbEExTUVjQ21NY0REVzZ6SFpfd25tRXlNR1hHNnhVNjlDTVB5WGU5RnpIZTRqZzNTSmh2WkJRSGcwT2tydlJFNFA5Y2djU3d0S0ZPV1d4cXc3WGxzV2owb1BZaFVDdE4?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmizafbvv95cuxpmnltefltt3gzwww2eujmczvpmtbrx0nisf82yzrjntzrtuvhsvjmyjrkltnyrm1vmkpnq0xnnvk3bezuavdsqus3bnmzrdhmvjzfb2numy1vvxfdy21qce9td0pux2s5whbzmzznbeextuvjq21ny0revzz6sfpfd25trxlnr1hhnnhvnjldtvb5wgu5rnpiztrqzzntsmh2wkjrsgcwt2tydljfnfa5y2dju3d0s0zpv1d4cxc3wgxzv2owb1bzafvdde4?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-10-18",
+   "country": "México",
+   "mx_state": "Sonora",
+   "category": "MEXICO",
+   "subcategory": "Sonora",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [],
+   "relevance": {
+    "AGRO": 0.16666666666666666,
+    "TECH": 0,
+    "BUSINESS": 0.16666666666666666,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [
+    "agv-267b89bf"
+   ],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [
+     {
+      "name": "Gobernantes.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HZmhDSDVpWjlrTzZ4UnlTd0doN1ZqSmhfelMtRVhzdGNkTlJwNGxtN1NoNUx2MGFGWGFpd2d0QnFMRG85NEhjTTVuSjdkRG0tVDBZblIySWM3TXpWM1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "tier": 0,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-267b89bf"
+     }
+    ],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 35,
+    "priority": 35,
+    "base": 35,
+    "breakdown": {
+     "agro": 4.2,
+     "tech": 0,
+     "business": 3.3,
+     "mexico": 15,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 35,
+   "priority": 35,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": [
+    "Voz local: productor(a) u organización de Sonora sobre cómo les afecta este tema."
+   ]
+  },
+  {
+   "id": "agv-4f99c511",
+   "retrieved_at": "2026-10-18T12:27:37.049Z",
+   "ingested_via": "googlenews",
+   "title_original": "Sonora suspende la exportación de ganado a EU por detección de aftas en un becerro",
+   "title_agrovision": "",
+   "source_name": "Sin Embargo",
+   "source_domain": "sinembargo.mx",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMFJPYnh6Zkl3Q2JtN01wNHdOR0VSYVRhSEJxeWtmZmRhUm5CSzhic2ZNOS12NV93dG9ZbHBCRDNzaTNkMG1YLWsyWGVYY0J2SEtyTmRjcFNrNWFoU2VZcW9HYmNxRUR2MHVEQkR5TlVTQVExNzVVZzFsZV90ckFXN2pObGNZMUFZMUVESW1iQVVDcEFIM01ONzBZVE14eF9RVzVvQ1dERE5OQ19rR2h4MEF3NUhjS2po?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmiuafbvv95cuxnmfjpynh6zkl3q2jtn01wnhdor0vsyvrhsejxewtmzmrhum5cszhic2znos12nv93dg9zbhbcrdnzatnkmg1ylwsywgvyy0j2setytmrjcfnrnwfou2vzcw9hymnxrur2mhveqkr5tlvtqvexnzvvzzfszv90ckfxn2pobgnzmufzmuvesw1iqvvdcefim01onzbzve14ef9rvzvvq1dere5oq19rr2h4mef3nuhjs2po?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-10-17",
+   "country": "México",
+   "mx_state": "Sonora",
+   "category": "MEXICO",
+   "subcategory": "Sonora",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [],
+   "relevance": {
+    "AGRO": 0.16666666666666666,
+    "TECH": 0,
+    "BUSINESS": 0.16666666666666666,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [
+    "agv-dbc83eee",
+    "agv-a81d4ec5",
+    "agv-b3820d8a",
+    "agv-267b89bf"
+   ],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [
+     {
+      "name": "Diario del Yaqui",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmZaUHpKX0VnbW11Yl9ja3Z6Q3g0VW9JQlRBOVVQZERPeU5YZHBHS1ZUcWFsUDJlSmd4dGd3cXdCcExST1lBYUJTdGNwS3l1bFp1V2tQUnFtcVBfemN0YVVDR0xhcFhWN1lHME5QVUNYWFNVYVlHWW40MjdmYkJJcGdxZDNCbVhoMHhfN0J3b1ZVQzJoQi1PQ2c4N2Q?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "tier": 0,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-a81d4ec5"
+     }
+    ],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 35,
+    "priority": 35,
+    "base": 35,
+    "breakdown": {
+     "agro": 4.2,
+     "tech": 0,
+     "business": 3.3,
+     "mexico": 15,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 35,
+   "priority": 35,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": [
+    "Voz local: productor(a) u organización de Sonora sobre cómo les afecta este tema."
+   ]
+  },
+  {
+   "id": "agv-267b89bf",
+   "retrieved_at": "2026-10-18T12:27:37.049Z",
+   "ingested_via": "googlenews",
+   "title_original": "Descartan fiebre aftosa en Sonora; reanudarán exportación de ganado a EU el martes.",
+   "title_agrovision": "",
+   "source_name": "Gobernantes.com",
+   "source_domain": "gobernantes.com",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HZmhDSDVpWjlrTzZ4UnlTd0doN1ZqSmhfelMtRVhzdGNkTlJwNGxtN1NoNUx2MGFGWGFpd2d0QnFMRG85NEhjTTVuSjdkRG0tVDBZblIySWM3TXpWM1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmixkfvx3lxte9hzmhdsdvpwjlrtzz4unltd0don1zqsmhfelmtrvhzdgnktljwngxtn1nonux2mgfgwgfpd2d0qnfmrg85nehjttvusjdkrg0tvdbzbliyswm3txpwm1e?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-10-18",
+   "country": "México",
+   "mx_state": "Sonora",
+   "category": "MEXICO",
+   "subcategory": "Sonora",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [],
+   "relevance": {
+    "AGRO": 0.16666666666666666,
+    "TECH": 0,
+    "BUSINESS": 0.16666666666666666,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [
+    "agv-a81d4ec5",
+    "agv-e0663d1e",
+    "agv-4f99c511"
+   ],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [
+     {
+      "name": "Diario del Yaqui",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmZaUHpKX0VnbW11Yl9ja3Z6Q3g0VW9JQlRBOVVQZERPeU5YZHBHS1ZUcWFsUDJlSmd4dGd3cXdCcExST1lBYUJTdGNwS3l1bFp1V2tQUnFtcVBfemN0YVVDR0xhcFhWN1lHME5QVUNYWFNVYVlHWW40MjdmYkJJcGdxZDNCbVhoMHhfN0J3b1ZVQzJoQi1PQ2c4N2Q?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "tier": 0,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-a81d4ec5"
+     }
+    ],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 35,
+    "priority": 35,
+    "base": 35,
+    "breakdown": {
+     "agro": 4.2,
+     "tech": 0,
+     "business": 3.3,
+     "mexico": 15,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 35,
+   "priority": 35,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": [
+    "Voz local: productor(a) u organización de Sonora sobre cómo les afecta este tema."
+   ]
   }
  ],
  "sources": [
@@ -51136,7 +51487,7 @@
    "tier": 0,
    "type": "secondary",
    "kind": "desconocido",
-   "article_count": 1
+   "article_count": 2
   },
   {
    "domain": "bhaskarenglish.in",
@@ -51472,7 +51823,7 @@
    "tier": 0,
    "type": "secondary",
    "kind": "desconocido",
-   "article_count": 3
+   "article_count": 4
   },
   {
    "domain": "noticieroaltavoz.com",
@@ -51793,6 +52144,14 @@
    "type": "secondary",
    "kind": "desconocido",
    "article_count": 1
+  },
+  {
+   "domain": "sinembargo.mx",
+   "name": "Sin Embargo",
+   "tier": 0,
+   "type": "secondary",
+   "kind": "desconocido",
+   "article_count": 1
   }
  ],
  "topics": [
@@ -51958,10 +52317,10 @@
   {
    "id": "riego-inteligente",
    "label": "Riego y agua",
-   "score": 98,
+   "score": 97,
    "mentions": 100,
-   "recent": 66,
-   "prior": 24,
+   "recent": 64,
+   "prior": 26,
    "direction": "creciendo",
    "source_kinds": [
     "medio",
@@ -52072,15 +52431,15 @@
     "agv-b3820d8a",
     "agv-66269911"
    ],
-   "computed_at": "2026-10-18T00:18:16.222Z"
+   "computed_at": "2026-10-18T12:27:37.049Z"
   },
   {
    "id": "sanidad",
    "label": "Sanidad animal y vegetal",
-   "score": 98,
-   "mentions": 37,
-   "recent": 22,
-   "prior": 6,
+   "score": 97,
+   "mentions": 38,
+   "recent": 21,
+   "prior": 8,
    "direction": "creciendo",
    "source_kinds": [
     "medio",
@@ -52126,17 +52485,18 @@
     "agv-d2587ac1",
     "agv-795c88ce",
     "agv-c4a75c13",
-    "agv-66269911"
+    "agv-66269911",
+    "agv-e0663d1e"
    ],
-   "computed_at": "2026-10-18T00:18:16.222Z"
+   "computed_at": "2026-10-18T12:27:37.049Z"
   },
   {
    "id": "maiz",
    "label": "Maíz y granos",
-   "score": 98,
+   "score": 97,
    "mentions": 84,
-   "recent": 56,
-   "prior": 20,
+   "recent": 55,
+   "prior": 21,
    "direction": "creciendo",
    "source_kinds": [
     "organismo",
@@ -52232,15 +52592,202 @@
     "agv-bbe35049",
     "agv-a170370c"
    ],
-   "computed_at": "2026-10-18T00:18:16.222Z"
+   "computed_at": "2026-10-18T12:27:37.049Z"
+  },
+  {
+   "id": "drones",
+   "label": "Drones agrícolas",
+   "score": 96,
+   "mentions": 28,
+   "recent": 14,
+   "prior": 9,
+   "direction": "creciendo",
+   "source_kinds": [
+    "medio",
+    "medio_especializado",
+    "investigacion",
+    "empresa"
+   ],
+   "primary_sources": 3,
+   "item_ids": [
+    "agv-4279f808",
+    "agv-bc87a379",
+    "agv-2b4420f8",
+    "agv-2b482207",
+    "agv-ab7d183f",
+    "agv-ced5838d",
+    "agv-6765688f",
+    "agv-1ee00262",
+    "agv-29ac2a62",
+    "agv-ce7aae71",
+    "agv-f08f7330",
+    "agv-2d272dbb",
+    "agv-467a2802",
+    "agv-d715e71e",
+    "agv-e48dd720",
+    "agv-131c1a6a",
+    "agv-6bef4b01",
+    "agv-73c35ea8",
+    "agv-87cef2ea",
+    "agv-919177b6",
+    "agv-5dac2c2f",
+    "agv-06e59d39",
+    "agv-8fe1226b",
+    "agv-85f13ac4",
+    "agv-41c1485f",
+    "agv-e367bc45",
+    "agv-91e9076a",
+    "agv-7e5c651c"
+   ],
+   "computed_at": "2026-10-18T12:27:37.049Z"
+  },
+  {
+   "id": "fertilizantes",
+   "label": "Costo de fertilizantes",
+   "score": 96,
+   "mentions": 34,
+   "recent": 18,
+   "prior": 10,
+   "direction": "creciendo",
+   "source_kinds": [
+    "organismo",
+    "medio",
+    "medio_especializado",
+    "investigacion",
+    "gobierno"
+   ],
+   "primary_sources": 11,
+   "item_ids": [
+    "agv-ca6d73b3",
+    "agv-6e7c64d4",
+    "agv-49a3f041",
+    "agv-534e170e",
+    "agv-52a0be98",
+    "agv-005f50c0",
+    "agv-c46c7697",
+    "agv-3d08c409",
+    "agv-fdec61dc",
+    "agv-9d121aa4",
+    "agv-8cb36837",
+    "agv-7bcb6bd2",
+    "agv-60b5e9e3",
+    "agv-8481957e",
+    "agv-0e47f387",
+    "agv-256a6a49",
+    "agv-a8b1291c",
+    "agv-7d32f52d",
+    "agv-2f7f475b",
+    "agv-9db008e3",
+    "agv-5816a4a3",
+    "agv-f1eabf65",
+    "agv-3623dc4f",
+    "agv-cad9d06d",
+    "agv-337fd04b",
+    "agv-4520d1dc",
+    "agv-f940ac69",
+    "agv-ce55d6a0",
+    "agv-73970483",
+    "agv-3ff27a2b",
+    "agv-91e9076a",
+    "agv-7e5c651c",
+    "agv-f677ad58",
+    "agv-d24ceab4"
+   ],
+   "computed_at": "2026-10-18T12:27:37.049Z"
+  },
+  {
+   "id": "biotecnologia",
+   "label": "Biotecnología y semillas",
+   "score": 96,
+   "mentions": 67,
+   "recent": 38,
+   "prior": 23,
+   "direction": "creciendo",
+   "source_kinds": [
+    "investigacion",
+    "medio_especializado",
+    "organismo",
+    "consultora"
+   ],
+   "primary_sources": 17,
+   "item_ids": [
+    "agv-cf8e0224",
+    "agv-5ef80d76",
+    "agv-52a0be98",
+    "agv-66097959",
+    "agv-3ed53b42",
+    "agv-31d30015",
+    "agv-195dd156",
+    "agv-dd3cd7f6",
+    "agv-957fd38f",
+    "agv-b3422860",
+    "agv-2bfff340",
+    "agv-f08f7330",
+    "agv-c3ff050d",
+    "agv-cbe5818b",
+    "agv-23d881e1",
+    "agv-7bcb6bd2",
+    "agv-67dc2f9f",
+    "agv-e35eee62",
+    "agv-14a64592",
+    "agv-467a2802",
+    "agv-693a6a99",
+    "agv-75b47020",
+    "agv-edc357f6",
+    "agv-7ddbccee",
+    "agv-1f87f1be",
+    "agv-a279a8f6",
+    "agv-a310a88b",
+    "agv-0e47f387",
+    "agv-256a6a49",
+    "agv-58849f63",
+    "agv-1325e163",
+    "agv-73d8c522",
+    "agv-e0fa80ec",
+    "agv-f52a0457",
+    "agv-69fa9f07",
+    "agv-2f7f475b",
+    "agv-9db008e3",
+    "agv-e48dd720",
+    "agv-131c1a6a",
+    "agv-9e3efc2a",
+    "agv-2e6f2f66",
+    "agv-24650630",
+    "agv-d78cb59b",
+    "agv-f1eabf65",
+    "agv-a37b3577",
+    "agv-6af27c87",
+    "agv-b136db31",
+    "agv-919177b6",
+    "agv-60f299b1",
+    "agv-8fe1226b",
+    "agv-de06a4c7",
+    "agv-86038a6c",
+    "agv-337fd04b",
+    "agv-4520d1dc",
+    "agv-41c1485f",
+    "agv-1743ca32",
+    "agv-ce55d6a0",
+    "agv-0c878294",
+    "agv-209d8880",
+    "agv-626bc9c8",
+    "agv-e48e8299",
+    "agv-3ff27a2b",
+    "agv-294fe04a",
+    "agv-81b5008a",
+    "agv-065b92e1",
+    "agv-d24ceab4",
+    "agv-174a2cdf"
+   ],
+   "computed_at": "2026-10-18T12:27:37.049Z"
   },
   {
    "id": "ia-agricola",
    "label": "IA agrícola",
-   "score": 96,
+   "score": 95,
    "mentions": 103,
-   "recent": 58,
-   "prior": 38,
+   "recent": 57,
+   "prior": 39,
    "direction": "creciendo",
    "source_kinds": [
     "consultora",
@@ -52356,202 +52903,15 @@
     "agv-77661b93",
     "agv-d24ceab4"
    ],
-   "computed_at": "2026-10-18T00:18:16.222Z"
-  },
-  {
-   "id": "drones",
-   "label": "Drones agrícolas",
-   "score": 96,
-   "mentions": 28,
-   "recent": 14,
-   "prior": 9,
-   "direction": "creciendo",
-   "source_kinds": [
-    "medio",
-    "medio_especializado",
-    "investigacion",
-    "empresa"
-   ],
-   "primary_sources": 3,
-   "item_ids": [
-    "agv-4279f808",
-    "agv-bc87a379",
-    "agv-2b4420f8",
-    "agv-2b482207",
-    "agv-ab7d183f",
-    "agv-ced5838d",
-    "agv-6765688f",
-    "agv-1ee00262",
-    "agv-29ac2a62",
-    "agv-ce7aae71",
-    "agv-f08f7330",
-    "agv-2d272dbb",
-    "agv-467a2802",
-    "agv-d715e71e",
-    "agv-e48dd720",
-    "agv-131c1a6a",
-    "agv-6bef4b01",
-    "agv-73c35ea8",
-    "agv-87cef2ea",
-    "agv-919177b6",
-    "agv-5dac2c2f",
-    "agv-06e59d39",
-    "agv-8fe1226b",
-    "agv-85f13ac4",
-    "agv-41c1485f",
-    "agv-e367bc45",
-    "agv-91e9076a",
-    "agv-7e5c651c"
-   ],
-   "computed_at": "2026-10-18T00:18:16.222Z"
-  },
-  {
-   "id": "fertilizantes",
-   "label": "Costo de fertilizantes",
-   "score": 96,
-   "mentions": 34,
-   "recent": 18,
-   "prior": 10,
-   "direction": "creciendo",
-   "source_kinds": [
-    "organismo",
-    "medio",
-    "medio_especializado",
-    "investigacion",
-    "gobierno"
-   ],
-   "primary_sources": 11,
-   "item_ids": [
-    "agv-ca6d73b3",
-    "agv-6e7c64d4",
-    "agv-49a3f041",
-    "agv-534e170e",
-    "agv-52a0be98",
-    "agv-005f50c0",
-    "agv-c46c7697",
-    "agv-3d08c409",
-    "agv-fdec61dc",
-    "agv-9d121aa4",
-    "agv-8cb36837",
-    "agv-7bcb6bd2",
-    "agv-60b5e9e3",
-    "agv-8481957e",
-    "agv-0e47f387",
-    "agv-256a6a49",
-    "agv-a8b1291c",
-    "agv-7d32f52d",
-    "agv-2f7f475b",
-    "agv-9db008e3",
-    "agv-5816a4a3",
-    "agv-f1eabf65",
-    "agv-3623dc4f",
-    "agv-cad9d06d",
-    "agv-337fd04b",
-    "agv-4520d1dc",
-    "agv-f940ac69",
-    "agv-ce55d6a0",
-    "agv-73970483",
-    "agv-3ff27a2b",
-    "agv-91e9076a",
-    "agv-7e5c651c",
-    "agv-f677ad58",
-    "agv-d24ceab4"
-   ],
-   "computed_at": "2026-10-18T00:18:16.222Z"
-  },
-  {
-   "id": "biotecnologia",
-   "label": "Biotecnología y semillas",
-   "score": 96,
-   "mentions": 67,
-   "recent": 38,
-   "prior": 23,
-   "direction": "creciendo",
-   "source_kinds": [
-    "investigacion",
-    "medio_especializado",
-    "organismo",
-    "consultora"
-   ],
-   "primary_sources": 17,
-   "item_ids": [
-    "agv-cf8e0224",
-    "agv-5ef80d76",
-    "agv-52a0be98",
-    "agv-66097959",
-    "agv-3ed53b42",
-    "agv-31d30015",
-    "agv-195dd156",
-    "agv-dd3cd7f6",
-    "agv-957fd38f",
-    "agv-b3422860",
-    "agv-2bfff340",
-    "agv-f08f7330",
-    "agv-c3ff050d",
-    "agv-cbe5818b",
-    "agv-23d881e1",
-    "agv-7bcb6bd2",
-    "agv-67dc2f9f",
-    "agv-e35eee62",
-    "agv-14a64592",
-    "agv-467a2802",
-    "agv-693a6a99",
-    "agv-75b47020",
-    "agv-edc357f6",
-    "agv-7ddbccee",
-    "agv-1f87f1be",
-    "agv-a279a8f6",
-    "agv-a310a88b",
-    "agv-0e47f387",
-    "agv-256a6a49",
-    "agv-58849f63",
-    "agv-1325e163",
-    "agv-73d8c522",
-    "agv-e0fa80ec",
-    "agv-f52a0457",
-    "agv-69fa9f07",
-    "agv-2f7f475b",
-    "agv-9db008e3",
-    "agv-e48dd720",
-    "agv-131c1a6a",
-    "agv-9e3efc2a",
-    "agv-2e6f2f66",
-    "agv-24650630",
-    "agv-d78cb59b",
-    "agv-f1eabf65",
-    "agv-a37b3577",
-    "agv-6af27c87",
-    "agv-b136db31",
-    "agv-919177b6",
-    "agv-60f299b1",
-    "agv-8fe1226b",
-    "agv-de06a4c7",
-    "agv-86038a6c",
-    "agv-337fd04b",
-    "agv-4520d1dc",
-    "agv-41c1485f",
-    "agv-1743ca32",
-    "agv-ce55d6a0",
-    "agv-0c878294",
-    "agv-209d8880",
-    "agv-626bc9c8",
-    "agv-e48e8299",
-    "agv-3ff27a2b",
-    "agv-294fe04a",
-    "agv-81b5008a",
-    "agv-065b92e1",
-    "agv-d24ceab4",
-    "agv-174a2cdf"
-   ],
-   "computed_at": "2026-10-18T00:18:16.222Z"
+   "computed_at": "2026-10-18T12:27:37.049Z"
   },
   {
    "id": "agricultura-digital",
    "label": "Agricultura digital y datos",
-   "score": 95,
+   "score": 94,
    "mentions": 120,
-   "recent": 62,
-   "prior": 50,
+   "recent": 59,
+   "prior": 53,
    "direction": "creciendo",
    "source_kinds": [
     "medio",
@@ -52685,7 +53045,7 @@
     "agv-28f23169",
     "agv-d24ceab4"
    ],
-   "computed_at": "2026-10-18T00:18:16.222Z"
+   "computed_at": "2026-10-18T12:27:37.049Z"
   },
   {
    "id": "inversion-agtech",
@@ -52788,15 +53148,15 @@
     "agv-d24ceab4",
     "agv-3cfe08b2"
    ],
-   "computed_at": "2026-10-18T00:18:16.222Z"
+   "computed_at": "2026-10-18T12:27:37.049Z"
   },
   {
    "id": "robotica",
    "label": "Robótica agrícola",
-   "score": 84,
+   "score": 83,
    "mentions": 63,
-   "recent": 33,
-   "prior": 27,
+   "recent": 32,
+   "prior": 28,
    "direction": "creciendo",
    "source_kinds": [
     "medio_especializado",
@@ -52869,15 +53229,15 @@
     "agv-77661b93",
     "agv-d24ceab4"
    ],
-   "computed_at": "2026-10-18T00:18:16.222Z"
+   "computed_at": "2026-10-18T12:27:37.049Z"
   },
   {
    "id": "comercio-tmec",
    "label": "Comercio y T-MEC",
    "score": 81,
-   "mentions": 30,
-   "recent": 18,
-   "prior": 12,
+   "mentions": 33,
+   "recent": 19,
+   "prior": 14,
    "direction": "creciendo",
    "source_kinds": [
     "medio",
@@ -52915,9 +53275,12 @@
     "agv-a4b155b2",
     "agv-5a7f30b9",
     "agv-a81d4ec5",
-    "agv-dbc83eee"
+    "agv-dbc83eee",
+    "agv-e0663d1e",
+    "agv-4f99c511",
+    "agv-267b89bf"
    ],
-   "computed_at": "2026-10-18T00:18:16.222Z"
+   "computed_at": "2026-10-18T12:27:37.049Z"
   },
   {
    "id": "precios-alimentos",
@@ -52937,7 +53300,7 @@
     "agv-52a0be98",
     "agv-943d446b"
    ],
-   "computed_at": "2026-10-18T00:18:16.222Z"
+   "computed_at": "2026-10-18T12:27:37.049Z"
   }
  ],
  "companies": [
@@ -55089,7 +55452,10 @@
     "agv-2eff9bcb",
     "agv-3cfe08b2",
     "agv-a170370c",
-    "agv-66269911"
+    "agv-66269911",
+    "agv-e0663d1e",
+    "agv-4f99c511",
+    "agv-267b89bf"
    ]
   },
   {
@@ -55484,6 +55850,29 @@
    ]
   },
   {
+   "id": "sonora",
+   "name": "Sonora",
+   "article_ids": [
+    "agv-4b5e0956",
+    "agv-50a305d8",
+    "agv-13ddddac",
+    "agv-cc77e85d",
+    "agv-612274af",
+    "agv-9d987fb2",
+    "agv-505daa08",
+    "agv-ce55d6a0",
+    "agv-1979c483",
+    "agv-ac82cb6b",
+    "agv-d548ce58",
+    "agv-a81d4ec5",
+    "agv-dbc83eee",
+    "agv-b3820d8a",
+    "agv-e0663d1e",
+    "agv-4f99c511",
+    "agv-267b89bf"
+   ]
+  },
+  {
    "id": "chihuahua",
    "name": "Chihuahua",
    "article_ids": [
@@ -55503,26 +55892,6 @@
     "agv-3ef8e8db",
     "agv-a1e7addc",
     "agv-e26ae79d"
-   ]
-  },
-  {
-   "id": "sonora",
-   "name": "Sonora",
-   "article_ids": [
-    "agv-4b5e0956",
-    "agv-50a305d8",
-    "agv-13ddddac",
-    "agv-cc77e85d",
-    "agv-612274af",
-    "agv-9d987fb2",
-    "agv-505daa08",
-    "agv-ce55d6a0",
-    "agv-1979c483",
-    "agv-ac82cb6b",
-    "agv-d548ce58",
-    "agv-a81d4ec5",
-    "agv-dbc83eee",
-    "agv-b3820d8a"
    ]
   },
   {
@@ -58328,15 +58697,25 @@
    "id": "summary-2026-10-18T00:18:16.222Z",
    "type": "summary",
    "at": "2026-10-18T00:18:19.759Z"
+  },
+  {
+   "id": "daily-2026-10-18T12:27:37.049Z",
+   "type": "daily",
+   "at": "2026-10-18T12:28:49.246Z",
+   "added": 3,
+   "skipped": 459,
+   "feeds_ok": 17,
+   "feeds_failed": 3,
+   "duplicates": 28
   }
  ],
  "meta": {
   "schema_version": 1,
   "created_at": "2026-09-19T15:08:14.372Z",
-  "updated_at": "2026-10-18T00:18:19.759Z",
+  "updated_at": "2026-10-18T12:28:49.246Z",
   "counts": {
-   "articles": 453,
-   "sources": 138,
+   "articles": 456,
+   "sources": 139,
    "topics": 12,
    "trends": 12,
    "companies": 111,
@@ -58350,7 +58729,7 @@
    "saved_articles": 0,
    "newsletter_issues": 4,
    "social_posts": 0,
-   "runs": 92
+   "runs": 93
   }
  }
 }
