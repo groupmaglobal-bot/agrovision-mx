@@ -38356,22 +38356,22 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 40,
-    "priority": 40,
-    "base": 40,
+    "score": 37,
+    "priority": 37,
+    "base": 37,
     "breakdown": {
      "agro": 4.2,
      "tech": 8,
      "business": 3.3,
      "mexico": 15,
-     "recency": 7,
+     "recency": 4,
      "source": 2
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 40,
-   "priority": 40,
+   "score": 37,
+   "priority": 37,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -38467,15 +38467,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 50,
-    "priority": 50,
-    "base": 40,
+    "score": 47,
+    "priority": 47,
+    "base": 37,
     "breakdown": {
      "agro": 4.2,
      "tech": 8,
      "business": 3.3,
      "mexico": 15,
-     "recency": 7,
+     "recency": 4,
      "source": 2
     },
     "bonuses": {
@@ -38483,8 +38483,8 @@
     },
     "penalties": {}
    },
-   "score": 50,
-   "priority": 50,
+   "score": 47,
+   "priority": 47,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -39154,15 +39154,15 @@
    },
    "evidence": "BAJO",
    "scoring": {
-    "score": 47,
-    "priority": 47,
-    "base": 37,
+    "score": 44,
+    "priority": 44,
+    "base": 34,
     "breakdown": {
      "agro": 8.3,
      "tech": 16,
      "business": 3.3,
      "mexico": 0,
-     "recency": 7,
+     "recency": 4,
      "source": 2
     },
     "bonuses": {
@@ -39170,8 +39170,8 @@
     },
     "penalties": {}
    },
-   "score": 47,
-   "priority": 47,
+   "score": 44,
+   "priority": 44,
    "status": "NO VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -39782,15 +39782,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 84,
-    "priority": 84,
-    "base": 64,
+    "score": 81,
+    "priority": 81,
+    "base": 61,
     "breakdown": {
      "agro": 25,
      "tech": 0,
      "business": 10,
      "mexico": 15,
-     "recency": 7,
+     "recency": 4,
      "source": 7
     },
     "bonuses": {
@@ -39799,8 +39799,8 @@
     },
     "penalties": {}
    },
-   "score": 84,
-   "priority": 84,
+   "score": 81,
+   "priority": 81,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -40076,22 +40076,22 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 32,
-    "priority": 32,
-    "base": 32,
+    "score": 29,
+    "priority": 29,
+    "base": 29,
     "breakdown": {
      "agro": 8.3,
      "tech": 0,
      "business": 0,
      "mexico": 15,
-     "recency": 7,
+     "recency": 4,
      "source": 2
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 32,
-   "priority": 32,
+   "score": 29,
+   "priority": 29,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -40169,22 +40169,22 @@
    },
    "evidence": "ALTO",
    "scoring": {
-    "score": 32,
-    "priority": 32,
-    "base": 32,
+    "score": 29,
+    "priority": 29,
+    "base": 29,
     "breakdown": {
      "agro": 0,
      "tech": 0,
      "business": 0,
      "mexico": 15,
-     "recency": 7,
+     "recency": 4,
      "source": 10
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 32,
-   "priority": 32,
+   "score": 29,
+   "priority": 29,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -40276,15 +40276,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 52,
-    "priority": 52,
-    "base": 32,
+    "score": 49,
+    "priority": 49,
+    "base": 29,
     "breakdown": {
      "agro": 4.2,
      "tech": 0,
      "business": 6.7,
      "mexico": 12,
-     "recency": 7,
+     "recency": 4,
      "source": 2
     },
     "bonuses": {
@@ -40293,8 +40293,8 @@
     },
     "penalties": {}
    },
-   "score": 52,
-   "priority": 52,
+   "score": 49,
+   "priority": 49,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -40375,22 +40375,22 @@
    },
    "evidence": "BAJO",
    "scoring": {
-    "score": 36,
-    "priority": 36,
-    "base": 36,
+    "score": 33,
+    "priority": 33,
+    "base": 33,
     "breakdown": {
      "agro": 12.5,
      "tech": 0,
      "business": 0,
      "mexico": 12,
-     "recency": 7,
+     "recency": 4,
      "source": 4
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 36,
-   "priority": 36,
+   "score": 33,
+   "priority": 33,
    "status": "NO VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -40577,14 +40577,14 @@
    "evidence": "MEDIO",
    "scoring": {
     "score": 100,
-    "priority": 119,
-    "base": 79,
+    "priority": 116,
+    "base": 76,
     "breakdown": {
      "agro": 25,
      "tech": 20,
      "business": 20,
      "mexico": 0,
-     "recency": 7,
+     "recency": 4,
      "source": 7
     },
     "bonuses": {
@@ -40596,7 +40596,7 @@
     "penalties": {}
    },
    "score": 100,
-   "priority": 119,
+   "priority": 116,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -40681,15 +40681,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 69,
-    "priority": 69,
-    "base": 59,
+    "score": 66,
+    "priority": 66,
+    "base": 56,
     "breakdown": {
      "agro": 25,
      "tech": 0,
      "business": 20,
      "mexico": 0,
-     "recency": 7,
+     "recency": 4,
      "source": 7
     },
     "bonuses": {
@@ -40697,8 +40697,8 @@
     },
     "penalties": {}
    },
-   "score": 69,
-   "priority": 69,
+   "score": 66,
+   "priority": 66,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -40887,15 +40887,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 96,
-    "priority": 96,
-    "base": 66,
+    "score": 93,
+    "priority": 93,
+    "base": 63,
     "breakdown": {
      "agro": 25,
      "tech": 20,
      "business": 6.7,
      "mexico": 0,
-     "recency": 7,
+     "recency": 4,
      "source": 7
     },
     "bonuses": {
@@ -40905,8 +40905,8 @@
     },
     "penalties": {}
    },
-   "score": 96,
-   "priority": 96,
+   "score": 93,
+   "priority": 93,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -41089,15 +41089,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 100,
-    "priority": 102,
-    "base": 82,
+    "score": 99,
+    "priority": 99,
+    "base": 79,
     "breakdown": {
      "agro": 25,
      "tech": 8,
      "business": 20,
      "mexico": 15,
-     "recency": 7,
+     "recency": 4,
      "source": 7
     },
     "bonuses": {
@@ -41106,8 +41106,8 @@
     },
     "penalties": {}
    },
-   "score": 100,
-   "priority": 102,
+   "score": 99,
+   "priority": 99,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -41199,14 +41199,14 @@
    "evidence": "MEDIO",
    "scoring": {
     "score": 100,
-    "priority": 121,
-    "base": 81,
+    "priority": 118,
+    "base": 78,
     "breakdown": {
      "agro": 25,
      "tech": 20,
      "business": 10,
      "mexico": 12,
-     "recency": 7,
+     "recency": 4,
      "source": 7
     },
     "bonuses": {
@@ -41218,7 +41218,7 @@
     "penalties": {}
    },
    "score": 100,
-   "priority": 121,
+   "priority": 118,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -62526,22 +62526,22 @@
    },
    "evidence": "BAJO",
    "scoring": {
-    "score": 33,
-    "priority": 33,
-    "base": 33,
+    "score": 30,
+    "priority": 30,
+    "base": 30,
     "breakdown": {
      "agro": 4.2,
      "tech": 0,
      "business": 0,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 4
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 33,
-   "priority": 33,
+   "score": 30,
+   "priority": 30,
    "status": "NO VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -62823,15 +62823,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 58,
-    "priority": 58,
-    "base": 38,
+    "score": 55,
+    "priority": 55,
+    "base": 35,
     "breakdown": {
      "agro": 12.5,
      "tech": 8,
      "business": 0,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -62840,8 +62840,8 @@
     },
     "penalties": {}
    },
-   "score": 58,
-   "priority": 58,
+   "score": 55,
+   "priority": 55,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -62927,14 +62927,14 @@
    "evidence": "MEDIO",
    "scoring": {
     "score": 100,
-    "priority": 112,
-    "base": 82,
+    "priority": 109,
+    "base": 79,
     "breakdown": {
      "agro": 25,
      "tech": 20,
      "business": 20,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -62945,7 +62945,7 @@
     "penalties": {}
    },
    "score": 100,
-   "priority": 112,
+   "priority": 109,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -63029,15 +63029,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 72,
-    "priority": 72,
-    "base": 62,
+    "score": 69,
+    "priority": 69,
+    "base": 59,
     "breakdown": {
      "agro": 25,
      "tech": 0,
      "business": 20,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -63045,8 +63045,8 @@
     },
     "penalties": {}
    },
-   "score": 72,
-   "priority": 72,
+   "score": 69,
+   "priority": 69,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -63347,15 +63347,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 77,
-    "priority": 77,
-    "base": 57,
+    "score": 74,
+    "priority": 74,
+    "base": 54,
     "breakdown": {
      "agro": 25,
      "tech": 0,
      "business": 0,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -63364,8 +63364,8 @@
     },
     "penalties": {}
    },
-   "score": 77,
-   "priority": 77,
+   "score": 74,
+   "priority": 74,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -64050,15 +64050,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 59,
-    "priority": 59,
-    "base": 49,
+    "score": 56,
+    "priority": 56,
+    "base": 46,
     "breakdown": {
      "agro": 25,
      "tech": 0,
      "business": 6.7,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -64066,8 +64066,8 @@
     },
     "penalties": {}
    },
-   "score": 59,
-   "priority": 59,
+   "score": 56,
+   "priority": 56,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -64343,22 +64343,22 @@
    },
    "evidence": "ALTO",
    "scoring": {
-    "score": 43,
-    "priority": 43,
-    "base": 43,
+    "score": 40,
+    "priority": 40,
+    "base": 40,
     "breakdown": {
      "agro": 8.3,
      "tech": 0,
      "business": 0,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 10
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 43,
-   "priority": 43,
+   "score": 40,
+   "priority": 40,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -65389,14 +65389,14 @@
    "evidence": "MEDIO",
    "scoring": {
     "score": 100,
-    "priority": 110,
-    "base": 70,
+    "priority": 107,
+    "base": 67,
     "breakdown": {
      "agro": 25,
      "tech": 8,
      "business": 20,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -65408,7 +65408,7 @@
     "penalties": {}
    },
    "score": 100,
-   "priority": 110,
+   "priority": 107,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -67073,15 +67073,15 @@
    },
    "evidence": "BAJO",
    "scoring": {
-    "score": 3,
-    "priority": 3,
-    "base": 33,
+    "score": 0,
+    "priority": 0,
+    "base": 30,
     "breakdown": {
      "agro": 4.2,
      "tech": 0,
      "business": 0,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 4
     },
     "bonuses": {},
@@ -67089,8 +67089,8 @@
      "duplicado": -30
     }
    },
-   "score": 3,
-   "priority": 3,
+   "score": 0,
+   "priority": 0,
    "status": "NO VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -70067,6 +70067,816 @@
    ],
    "suggested_content": [],
    "interview_ideas": []
+  },
+  {
+   "id": "agv-50356b7f",
+   "retrieved_at": "2026-11-05T19:46:43.032Z",
+   "ingested_via": "googlenews",
+   "title_original": "La IA y la automatización de procesos agrícolas, claves para la mejora de la rentabilidad del campo",
+   "title_agrovision": "",
+   "source_name": "eComercio Agrario",
+   "source_domain": "ecomercioagrario.com",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVXlJU2ZlcDN1Yks0NDFNVGZiUTZCZ0FGX2ZkNkdwcXpJeDhINlBFMzRqSmRmUndicVQ3c0g1NFMyMkVoLUR0TEw1OHhsQmRnZ1NKLUhvWWwzYUVBOE5vVmExemdFNFRHM0JVTzFxa0Jsc1pfcHFJdWtEWl9uMS1YRlRSUWN1VWUzcGZTMWRNOWVrUHhrclRlbUIxeHJ6SjhsT1VWNjZTR0VjM0Q4NGR6Zmk1WGtXbGI2TTBEdnZPWXl1cTdfYXFV?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmixwfbvv95cuxpvxlju2zlcdn1yks0ndfnvgziutzcz0fgx2zknkdwcxpjedhinlbfmzrqsmrmundicvq3c0g1nfmymkvolur0tew1ohhsqmrnz1nkluhvwwwzyuvboe5vvmexemdfnfrhm0jvtzfxa0jsc1pfchfjdwtewl9ums1yrlrsuwn1vwuzcgztmwrnowvruhhrclrlbuixehj6sjhst1vwnjztr0vjm0q4ngr6zmk1wgtxbgi2ttbednzpwxl1ctdfyxfv?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-11-05",
+   "country": "Global",
+   "mx_state": null,
+   "category": "TECH",
+   "subcategory": "Inteligencia Artificial",
+   "technologies": [
+    "Inteligencia Artificial",
+    "Automatización"
+   ],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [],
+   "relevance": {
+    "AGRO": 0.3333333333333333,
+    "TECH": 0.8,
+    "BUSINESS": 0.16666666666666666,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 50,
+    "priority": 50,
+    "base": 40,
+    "breakdown": {
+     "agro": 8.3,
+     "tech": 16,
+     "business": 3.3,
+     "mexico": 0,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 50,
+   "priority": 50,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-2c88c2ab",
+   "retrieved_at": "2026-11-05T19:46:43.032Z",
+   "ingested_via": "googlenews",
+   "title_original": "Campo de Michoacán, motor de desarrollo sostenible y agroexportación: AGRICULTURA",
+   "title_agrovision": "",
+   "source_name": "Hoja de Ruta Digital",
+   "source_domain": "hojaderutadigital.mx",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLU9iUEtmNjlIekJHU0NWOUxlUExIcVY4Nkw0ZXk4OUNXQ2drcTNFLWxrem5vZXBNcHpHQVFfX2I1R1RnQUk5SzIzRWwwV0JkalI5eHczMlBObENQMGNJVlFVZXNabkhDZi1KTjVsa1FibXVaZElXSl9lRWluaF84ZFB4YnZjaXY0eDNiRFAwYW9qZUdQa3ptRm5xenhWZzRSbHdaYXI1ZVp1cDVYZnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmirgfbvv95cuxplu9iuetmnjliekjhu0nwouxluexicvy4nkw0zxk4ounxq2drctnflwxrem5vzxbnchphqvffx2i1r1rnquk5szizrwwwv0jkali5ehczmlbobenqmgnjvlfvzxnabkhdzi1ktjvsa1fibxvazelxsl9lrwluaf84zfb4ynzjaxy0ednirfawyw9qzudqa3ptrm5xenhwzzrsbhdayxi1zvp1cdvyznc?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-11-04",
+   "country": "México",
+   "mx_state": "Michoacán",
+   "category": "MEXICO",
+   "subcategory": "Michoacán",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [],
+   "relevance": {
+    "AGRO": 0.3333333333333333,
+    "TECH": 0,
+    "BUSINESS": 0,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 35,
+    "priority": 35,
+    "base": 35,
+    "breakdown": {
+     "agro": 8.3,
+     "tech": 0,
+     "business": 0,
+     "mexico": 15,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 35,
+   "priority": 35,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": [
+    "Voz local: productor(a) u organización de Michoacán sobre cómo les afecta este tema."
+   ]
+  },
+  {
+   "id": "agv-06e9260b",
+   "retrieved_at": "2026-11-05T19:46:43.032Z",
+   "ingested_via": "googlenews",
+   "title_original": "Mañana se reanuda, en su totalidad, corte y exportación de aguacate de Michoacán, anuncia Sader",
+   "title_agrovision": "",
+   "source_name": "Imagen Agropecuaria",
+   "source_domain": "imagenagropecuaria.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaG9KbFFmam9jVy1pcmU0UHI5cnBmVzNrRXNpZVRONUZfbGhock5LRnROM3RxbnliMmdDc296ZmdybzlWOHdtR1JjZnF6VlRlcmlYdGEzX2dZbWNBaF9FaHdUSG8wMThGTHFjLU10VWl1RDNCLVl5QS11bDFGck5hLTFPWXgwNnd3c3cxc0dJYkZlTFJnbjFRZTZxai1jZ3VDZjhkLWZNVDAtbEdCUWRtOUdoR2xDd1RIQ01EVkhfdmVGQ1FsWnM4bQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmiyafbvv95cuxoag9kbffmam9jvy1pcmu0uhi5cnbmvznrrxnpzvronuzfbghock5lrnrom3rxbnlimmddc296zmdybzlwohdtr1jjznf6vlrlcmlydgezx2dzbwnbaf9fahdusg8wmthgthfjlu10vwl1rdnclvl5qs11bdfgck5hltfpwxgwnnd3c3cxc0djykzltfjnbjfrztzxai1jz3vdzjhklwznvdatbedcuwrtoudor2xdd1riq01evkhfdmvgq1fswnm4bq?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-11-05",
+   "country": "México",
+   "mx_state": "Michoacán",
+   "category": "MEXICO",
+   "subcategory": "Michoacán",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [],
+   "relevance": {
+    "AGRO": 0.16666666666666666,
+    "TECH": 0,
+    "BUSINESS": 0.16666666666666666,
+    "MEXICO": 1
+   },
+   "duplicate_of": "agv-cb2a7392",
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 10,
+    "priority": 10,
+    "base": 40,
+    "breakdown": {
+     "agro": 4.2,
+     "tech": 0,
+     "business": 3.3,
+     "mexico": 15,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {},
+    "penalties": {
+     "duplicado": -30
+    }
+   },
+   "score": 10,
+   "priority": 10,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": [
+    "Voz local: productor(a) u organización de Michoacán sobre cómo les afecta este tema."
+   ]
+  },
+  {
+   "id": "agv-162e5957",
+   "retrieved_at": "2026-11-05T19:46:43.032Z",
+   "ingested_via": "rss",
+   "title_original": "A cybersecurity checklist for the animal protein industry",
+   "title_agrovision": "",
+   "source_name": "AgFunderNews",
+   "source_domain": "agfundernews.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://agfundernews.com/a-cybersecurity-checklist-for-the-animal-protein-industry",
+   "canonical_url": "https://agfundernews.com/a-cybersecurity-checklist-for-the-animal-protein-industry",
+   "published_at": "2026-11-05",
+   "country": "Global",
+   "mx_state": null,
+   "category": "TECH",
+   "subcategory": "Automatización",
+   "technologies": [
+    "Inteligencia Artificial",
+    "Sensores",
+    "Automatización",
+    "Software",
+    "Datos"
+   ],
+   "companies": [],
+   "content": "Organizations that ask better cybersecurity questions today are well positioned to protect the supply chain, and national security.\nBad actors armed with AI have kept busy this year attacking critical infrastructure like wastewater pumps and supermarket fridge systems . Attacks on the latter have led to much chaos and even more food spoilage in the last month, but downstream outlets like supermarkets aren’t the only part of agrifood that’s vulnerable.\nCloser to the farm gate, the animal-protein industry is now a highly digitized and automated entity, leveraging robotic milking parlors, automated feeders and environmental controls for poultry houses, hatchery management software, swine barn ventilation systems and more.\nThese systems make production more efficient, but they also turn the protein sector into one giant target for attacks.\n“Every connected device is a digital attack surface,” Andrew Rose, BioAg advisor to The Bioeconomy Information Sharing and Analysis Center (BIO-ISAC), tells AgFunderNews .\nIn sectors like meat and dairy, which rely on connected systems for everything from animal health stats to delivery logistics, downtime has fast and often devastating consequences, he adds.\n“A cyber incident during peak production can escalate into a supply chain disruption.”\nHistory shows this to be true. In 2021, meatpacking giant JBS halted operations at 47 sites worldwide and temporarily laid off staff after a ransomware attack.\nIn 2023, a dairy farmer in Switzerland lost access to vital health information about his cows after a cybercriminals locked his system and demanded $10,000. A calf died in utero as a result, and the farmer had to also euthanize the cow.\nRose has a lengthy list of other possible consequences, from compromised environmental sensors in swine facilities to disrupted SCADA systems that halt refrigeration, slaughter lines, and sanitation cycles.\nBut he and the BIO-ISAC also emphasize that no business, large or small, is completely powerless here.\n“Our adversaries know the weak points and exploit them, but businesses don’t have to be a soft target. Organizations that ask better cybersecurity questions today are well positioned to protect the supply chain and national security.”\nWhere to begin? The BIO-ISAC offers a checklist of questions producers can ask agtech vendors, tailored to the animal protein sector.\nSome of these things apply to all industries, such as basic security and password protection. For example, Rose encourages companies to ask all agtech and equipment vendors whether they can change default passwords, enable multifactor authentication (MFA), and if there are any shared passwords between facilities, integrators, technicians, and support staff.\n“Shared accounts eliminate accountability,” notes Rose. “Default passwords remain one of the most common entry points in an agricultural environment, and using MFA can dramatically reduce the risk of credential theft and remote compromise.”\nData handling and ownership matter in the animal protein sector, where operational data includes sensitive business intelligence, genetics, animal health records, feed formulations, production metrics, logistics information, and supplier relationships, Rose says.\nMany farms, barns, feed mills, hatcheries, and processing facilities still operate on flat networks where operational technology, office systems, security cameras, Wi-Fi devices, and industrial controls all share the same environment. While flat networks are often cheaper and simpler to set up, they lack internal firewalls and other protections, creating a major security risk. An attack on one device (e.g., a security camera) could bring down the whole operation.\n“Segmentation reduces the blast radius of a cyber incident,” explains Rose. “Offline functionality helps protect animal welfare, environmental controls, food safety, and continuity of operations during network outages or attacks.”\nIn food and agriculture, equipment often remains in production for one to two decades, if not longer. Because unpatched systems are common ransomware targets, long-term security for these machines is critical.\nBy adopting connected technologies, operators inherit some of their vendors’ supply-chain risk, says Rose. From the outset, it’s important to ask them:\nRemote diagnostics are increasingly common across livestock production, processing, refrigeration, feed systems, ventilation controls, and industrial automation. Remote access without oversight creates unnecessary operational exposure.\nContingencies for if and when a technology provider changes ownership, merges, or fails are important. Vendor lock-in, combined with poor security support, also creates “long-term operational risk throughout the protein supply chain,” says Rose.\nAnimal agriculture depends on a highly interconnected ecosystem of vendors, integrators, nutrition providers, transportation companies, processors, veterinarians, laboratories, and logistics systems. A compromise in one connected partner can create cascading disruptions across the broader food and agriculture supply chain.\nCybersecurity in animal agriculture is an operational resilience and animal welfare issue. Facilities should be prepared to operate safely during prolonged outages or degraded network conditions.\nTechnology is only as secure as the people using it, says Rose. Human error remains a leading cause of cyber incidents across critical infrastructure sectors.\n🌾 Executive impersonation threats are everywhere in agriculture. This is how to respond\n🌾 Recent agrifood cyberattacks are ‘a wakeup call’ for the industry as ransomware incidences increase",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "AGRO",
+    "BUSINESS"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 1,
+    "BUSINESS": 1,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 100,
+    "priority": 102,
+    "base": 82,
+    "breakdown": {
+     "agro": 25,
+     "tech": 20,
+     "business": 20,
+     "mexico": 0,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {
+     "afecta_productores": 10,
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 100,
+   "priority": 102,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?",
+    "¿Quién está invirtiendo?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-89aaf27e",
+   "retrieved_at": "2026-11-05T19:46:43.032Z",
+   "ingested_via": "rss",
+   "title_original": "Inside Iowa’s advantage for ag, food and bioscience innovation",
+   "title_agrovision": "",
+   "source_name": "AgFunderNews",
+   "source_domain": "agfundernews.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://agfundernews.com/inside-iowas-advantage-for-ag-food-and-bioscience-innovation",
+   "canonical_url": "https://agfundernews.com/inside-iowas-advantage-for-ag-food-and-bioscience-innovation",
+   "published_at": "2026-11-05",
+   "country": "Global",
+   "mx_state": null,
+   "category": "TECH",
+   "subcategory": "Biotecnología",
+   "technologies": [
+    "Software",
+    "Biotecnología"
+   ],
+   "companies": [],
+   "content": "Collaborative initiatives across the state are creating additional capacity for innovation in farming, biotech and beyond.\nCorteva spinout Vylor’s relocation to Johnston, Iowa last month is a significant move for both the company and the state’s reputation as a hub for agriculture, food and biosciences.\nFor Vylor, the move is a homecoming: Iconic brand Pioneer, a core part of Vylor’s seed genetics portfolio, has operated from Johnston for more than a century. The move is also a reminder of the rich opportunity within the state, both for agricultural production and ag bioscience innovation.\nIowa leads the nation in corn, pork and egg production and ranks in the top 10 for soybeans, beef, turkey, milk and wind energy.\nVylor is just one of many major agricultural operations in the state. Twenty-nine of the 100 largest food manufacturers and processors operate in Iowa, along with five global animal health brands and leaders in advanced manufacturing. Their corporate headquarters, research centers, production sites and regional offices sit alongside a network of research institutions, entrepreneurs and investors working on the next generation of ag innovation.\n“Iowa has the agricultural strength, research expertise and entrepreneurial drive to lead the next era of food and agricultural innovation,” says Debi Durham, director of the Iowa Economic Development Authority and Iowa Finance Authority. “What sets us apart is how we work together – connecting producers, researchers and businesses to turn promising ideas into real-world solutions.”\nIowa’s location is difficult to replicate elsewhere: located in the heart of US agricultural production, it offers innovators proximity to the customers, production systems and industry partners who can help turn an idea into a viable solution.\n“Regardless of where you are in the state, a farm field or livestock barn is just a short drive away,” explains Todd Frazier, chair of America’s Cultivation Corridor board and vice president of U.S. Marketing for Vylor. “That access creates unique opportunities for both established companies and entrepreneurs to work directly with producers to test new technologies and gather feedback for product development.”\nProximity to industry is only part of the equation. Iowa also offers a strong foundation of scientific research and technical expertise to help innovations advance beyond the laboratory.\nIowa State University is central to that foundation. Rooted in its land-grant mission, the university combines world-class research with a commitment to extending knowledge and practical solutions throughout the state and around the world. Its undergraduate agricultural engineering program ranks first nationally, while its entrepreneurship program ranks ninth among 300 public and private universities, according to rankings cited by The Princeton Review .\n“Nearly one in five jobs in Iowa is connected to agriculture, reaching far beyond the farm to manufacturing, food processing, biosciences and many other sectors,” said Dr. David Cook, president of Iowa State University. “Helping these industries adapt, compete and succeed as we enter a new era for agriculture is fundamental to Iowa State’s land grant mission.”\nResearch facilities across the state help bridge the gap between discovery and application. Iowa State’s BioCentury Research Farm provides an integrated environment for developing biofuels and biobased products. The Digital Ag Innovation Lab bridges research and real-world applications to support farmers, agribusiness and technology companies, while the university’s Plant Sciences Institute , Center for Crops Utilization Research and Center for Bioplastics and Biocomposites and Iowa Pork Industry Center contribute expertise across key areas of agricultural innovation. The University of Iowa’s Center for Biocatalysis and Bioprocessing adds further capacity in biotechnology and biomanufacturing.\nCollaborative initiatives are creating additional capacity for innovation. RuralSTAMINA , supported by a $15 million National Science Foundation investment announced this summer, brings together more than 70 partners across Iowa and Nebraska to strengthen rural communities and support innovation. BioMADE’s planned biomanufacturing facility at Iowa State’s BioCentury Research Farm will add new capabilities for developing and scaling biomanufacturing technologies.\nTogether, these capabilities create opportunities for entrepreneurs to connect scientific discovery with industry needs and develop technologies toward commercial markets.\nStrong research and industry access matter, but innovators also need mentorship, investment and connections to help move a business from an early concept to a growing company.\nIowa’s entrepreneurial ecosystem brings together resources designed to support that journey. Ag Startup Engine provides early-stage investment and organized mentorship from experienced entrepreneurs, while BioConnect Iowa connects bioscience and deep-tech startups with resources ranging from early-stage funding support to commercialization assistance. The Iowa State University Research Park , with more than 550 acres of development and more than 1 million square feet of workspace across 16 buildings, supports new ventures and the growth of Iowa-based companies.\nRecent investment activity also signals growing momentum. A recent report identified Iowa as the Midwest’s leading state for agtech investment from 2021 through 2025, with more than 70 deals totaling more than $245 million.\nThat momentum reflects the value of bringing together businesses, entrepreneurs, researchers, educators, investors and economic development leaders around shared opportunities.\n“Across America’s Cultivation Corridor, the goal is to strengthen these connections and help Iowa’s innovation ecosystem reach its full potential,” said Frazier. “By bringing together industry leaders, entrepreneurs, researchers and investors, we are sparking conversations and collaborations that lead to new partnerships, investment and commercial opportunities.”\nFor founders looking to develop the next generation of agricultural technologies, food products and bio-based solutions, Iowa offers more than a place to test an idea. It offers a connected ecosystem where ideas can be challenged, refined, developed and scaled.\nLearn more about Iowa’s advantages at CultivationCorridor.org .",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "AGRO",
+    "BUSINESS"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 1,
+    "BUSINESS": 1,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 100,
+    "priority": 122,
+    "base": 82,
+    "breakdown": {
+     "agro": 25,
+     "tech": 20,
+     "business": 20,
+     "mexico": 0,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {
+     "innovacion_concreta": 10,
+     "impacto_economico": 10,
+     "afecta_productores": 10,
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 100,
+   "priority": 122,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?",
+    "Startup que debes conocer",
+    "¿Quién está invirtiendo?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-29212614",
+   "retrieved_at": "2026-11-05T19:46:43.032Z",
+   "ingested_via": "rss",
+   "title_original": "Better Meat Co targets large-scale production in India in Q2, 2027 amid brutal mycoprotein shakeout",
+   "title_agrovision": "",
+   "source_name": "AgFunderNews",
+   "source_domain": "agfundernews.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://agfundernews.com/better-meat-co-targets-large-scale-production-in-india-in-q2-2027-amid-brutal-mycoprotein-shakeout",
+   "canonical_url": "https://agfundernews.com/better-meat-co-targets-large-scale-production-in-india-in-q2-2027-amid-brutal-mycoprotein-shakeout",
+   "published_at": "2026-11-05",
+   "country": "Global",
+   "mx_state": null,
+   "category": "BUSINESS",
+   "subcategory": "Mercados",
+   "technologies": [],
+   "companies": [],
+   "content": "The Better Meat Co - now doing business as BMC Ingredients—intends to become \"the first truly global mycelium ingredients company.”\nThe Better Meat Co, now doing business as BMC Ingredients, expects to begin commercial-scale production of its mycelium ingredients with a partner in India in Q2, 2027 after completing three 100,000-liter fermentation runs and securing its first seven-figure supply contract.\nThe California-based startup, which initially developed ingredients from Neurospora crassa fungi for combining with meat and plant-based meat, has since expanded its portfolio to include powdered mycelium for protein bars, shakes, noodles, and other applications, opening up a significantly larger addressable market, says cofounder and CEO Paul Shapiro.\nThe developments come amid a brutal shakeout in the alt protein sector, in which a litany of well-funded players have struggled to translate promising tech into commercially viable businesses.\nIn the biomass fermentation space, Meati spectacularly imploded last year ; Nature’s Fynd is phasing out its consumer branded business and exploring higher-value products in biopharma, alt-leather and food ingredients; and ENOUGH Food has been reviewing strategic options including a potential sale, partnership or repurposing of its assets.\nBut BMC Ingredients, which has pursued an asset-light approach to scaling production via its partner in India, is still standing, Shapiro told AgFunderNews .\n“We’ve spent years getting fungi to eat sugar and make protein. Now we’re teaching them the harder trick: doing it at a commercial scale at a price that makes food companies want to buy it. We aspire to become the first truly global mycelium ingredients company—the Cargill of mycelium ingredients.”\nIndustrial-scale fermentation facilities cannot easily accommodate different organisms and processes without significant modification, explained Shapiro.\n“So even if you find a facility that wants to work with you, you still need to put in a lot of resources into making it suitable for you. We’ve done an enormous amount of tech transfer, including running successfully three 100,000 liter fermentations.\n“So this is massive de-risking. Nobody has ever fermented Neurospora crassa in that large of a vessel before.”\nBMC—which has secured the regulatory thumbs up for its wares in India, the US, Canada, and Singapore—has two platforms:\n👉 Rhiza Tex : a textured mycelium product that can be added to ground meat and plant-based meat, enables firms to improve nutrition by cutting sat fat and calories and adding fiber and protein; boost yields and reduce cookout loss; and enhance flavor and texture due to its oil- and water-holding capacity.\n👉Rhiza Pro : a powdered mycelium product targeting protein-rich smoothies, shakes, bars, and baked goods containing 51g protein per 100g of dry product.\nNotably, BMC’s new seven-figure contract is for Rhiza Pro, which Shapiro says has attracted growing interest from manufacturers looking for alternatives to whey protein, the price of which has gone through the roof in recent years.\nAccording to Shapiro, Rhiza Pro has adequate solubility for target applications and a relatively neutral flavor that performs well in chocolate-flavored applications.\nWhile the primary nutrients of interest are protein, fiber, iron, potassium and zinc, Rhiza ingredients also contain spermidine and ergothioneine , which are attracting interest in the longevity space, said Shapiro.\nBMC has also worked with researchers at the University of Massachusetts Amherst on a study exploring Rhiza Pro as an egg replacer in baked goods, with a paper submitted for peer review but not yet published.\n“The biggest change for us isn’t even the scaling,” said Shapiro. “The biggest change for us is this expansion of the addressable market. We are realizing that this ingredient can do far more than what we initially envisioned.”\nBy using Rhiza Tex in ground meat applications, customers can meet ESG goals and cut saturated fat and sodium while boosting fiber, said Shapiro. But ultimately, it saves them money: “Most of the time, there’s a green premium. In our case, there’s a green discount.”\nWhile firms have historically turned to TVP (textured vegetable protein – typically soy) as meat extenders, they are typically made from soy, and come with an allergen warning, and can generally only be used at relatively low inclusion rates (10-15%) before causing sensory issues.\nRhiza Tex, by contrast, is not a major allergen, has a more neutral taste, and can be incorporated at higher inclusion levels (20-33%), he claimed.\nA recent change to ingredient labeling requirements in the US also means BMC can utilize a more consumer-friendly name on meat labels, he added.\nPreviously, the ingredient had to be identified as Neurospora crassa mycoprotein, but under the revision, companies can label it as “mycelium.”\nAccording to Shapiro, who has spent several years in the alt protein arena and written a book on cultivated meat, “My belief has always been that if we want to feed humanity without destroying the planet, we need to go big with microbial farming.”\nBut it’s not for the faint-hearted, he observed. “When we spoke after the Series A last year, I compared this to Squid Game . I feel that even more now. I feel like the main character: every episode he just keeps going and everybody’s dying around him. You see all this carnage but you keep moving forward. I’m also not aware of another company in our space that’s never done layoffs.”\nHe added: “I just think the biomanufacturing space in particular needs more wins, we will be one of them. I really think that our b2b business model and our capex- and asset-light approach to scaling is going to help our company survive and thrive.”\nBlack Sheep Foods bets on ‘TVP 2.0’ as hybrid meat gains traction\nHybrid meat for the win: JOYN Foods finds sweet spot in alt-protein market, expects to be EDITDA positive in early 2027\nQuorn Foods’ UK retail recovery gathers pace, but foodservice ‘likely to get worse before it gets better’\nMillow raises $2.3m, gears up for commercial launch of minimally processed alt meat",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "AGRO"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 0,
+    "BUSINESS": 1,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 62,
+    "priority": 62,
+    "base": 62,
+    "breakdown": {
+     "agro": 25,
+     "tech": 0,
+     "business": 20,
+     "mexico": 0,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 62,
+   "priority": 62,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "Startup que debes conocer",
+    "¿Quién está invirtiendo?",
+    "¿Cuánto cuesta?",
+    "El negocio detrás del campo"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-918f636c",
+   "retrieved_at": "2026-11-05T19:46:43.032Z",
+   "ingested_via": "rss",
+   "title_original": "Guest article: The ag biologicals market is at a crossroads. Here are four possible futures to explore",
+   "title_agrovision": "",
+   "source_name": "AgFunderNews",
+   "source_domain": "agfundernews.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://agfundernews.com/guest-article-the-ag-biologicals-market-is-at-a-crossroads-here-are-four-possible-futures-to-explore",
+   "canonical_url": "https://agfundernews.com/guest-article-the-ag-biologicals-market-is-at-a-crossroads-here-are-four-possible-futures-to-explore",
+   "published_at": "2026-11-04",
+   "country": "Global",
+   "mx_state": null,
+   "category": "TECH",
+   "subcategory": "Software",
+   "technologies": [
+    "Software",
+    "Datos"
+   ],
+   "companies": [],
+   "content": "A scenario-planning guide for the next 10 years of ag biologicals growth\nGustavo Mamao co-founded an agricultural biocontrol company two decades ago, which was acquired by Stoller 10 years later. He serves as an international partnerships advisor for IdeeLab, a leading Brazilian ag biological CDMO. He writes about ag biological investment and impact, and is involved in other ag biological innovation ecosystem initiatives.\nThe views expressed in this article are the author’s own and do not necessarily represent those of AgFunderNews.\nThere is a lot in the ag biological market to celebrate. What was once a peripheral field in agriculture is increasingly becoming a mainstream practice in some crops and regions around the world, sustaining double-digit growth, according to DunhamTrimmer .\nHowever, greater consistency of ag biological products is increasingly required.\nBiologicals are inherently less stable than their synthetic chemical counterparts, and there is always a risk that biological activity present at the factory door may be lost by the time of application in the field if the product is not managed properly.\nFurthermore, how biological products fit within integrated crop and pest management systems can lead to actual field performance falling short of promised benefits. Without consistency, demonstrating efficacy and achieving better yields alongside other agronomic outcomes can become a significant challenge.\nOn the business front, unhealthy market competition is driving down prices for some of the most commoditized products. These are often products that have not shown critical differentiation and that tens (or even hundreds) of companies can produce, making growers’ purchasing decisions relationship-based and, in most cases, driven by who can offer the lowest price.\nIn this context, a wave of innovative products has been making the headlines in recent years. Metabolites, proteins and peptides, genetically modified microorganisms, and RNAi-based solutions are among the technologies behind these innovations.\nThese emerging platforms offer various potential advantages: greater consistency and efficacy, more targeted modes of action, and easier integration into established agricultural-input systems.\nSome of these technologies may also fit more naturally within existing manufacturing, formulation, logistics, and distribution systems, potentially transforming not just product performance, but how easily biological innovations can be scaled.\nIf you are running or investing in a company exposed to agricultural biological inputs, you may be asking a simple question: Is it time to step on the gas or the brake?\nThe answer likely depends less on whether biologicals will grow, and more on which technologies will actually perform and which ones the existing agricultural-input system can absorb and scale.\nWe cannot predict the future, but business leaders can work with scenarios that make it possible to anticipate decisions or prepare triggers upon seeing strong warning signals, as the methodology of scenario planning suggests.\nAs part of a scenario-planning exercise, I established a key focal issue: How might increasing commoditization and emerging innovation reshape the agricultural biological-input industry across leading agricultural markets over the next 10 years, and what do different futures mean for where and how fast companies should invest?\nThe next step was mapping the variables that influence the market and ranking them by impact and uncertainty. As a result, I identified two high-impact driving forces with a high degree of uncertainty.\nThe first is “Ag biological technological performance”—how these new innovation platforms will actually perform and whether they can deliver greater product consistency. The second is “Corporate/channel system integration fit,” which is how well agricultural-input companies can integrate these technologies into existing portfolios and move them through established distribution channels.\nThe following four potential scenarios emerge from combining the opposite ends of the spectrum for these two key driving forces:\nOn picturing those four possible futures of this specific simulation, a narrative focusing on how to answer the key focal issue, in a 10-year timeline, is possible to be described as the following:\nSignificant tech performance improvement + high system integration fit\nSignificant tech performance improvement + low system integration fit\nIncremental tech performance improvement + high system integration fit\nIncremental tech performance improvement + low system integration fit\nWhile scenario implications should be assessed by each organization, there are some clear messages for different groups of companies in this specific exercise:\nIncumbents: Integration is the name of the game. This means they can scale products more efficiently while continuing to rely on legacy systems, especially for distribution and application. If biologicals can closely resemble chemical molecules in product stability, shelf-life, and application conditions, incumbents can leverage their existing capabilities and overcome some of their current hesitations.\nHowever, these incumbents must still invest in educating growers on modes of action and how to maximize the value of integrated crop-pest management.\nNew entrants/specialized biological companies: While it is unclear whether additional new entrants will enter the ag biological market at its current level of maturity, the companies already challenging incumbents (with over $20 million in revenue) continue to push boundaries. They bring specialized capabilities to the table, ranging from fermentation companies with large manufacturing capacity to those with dedicated distribution and sales forces capable of handling diverse biological products and finding the optimal path to plants. They don’t need integration with legacy systems, as they were born to challenge them.\nThat said, this group will need to take the lead in driving innovation to avoid falling into the commoditization trap.\nStartups: These players promise enhanced product performance, and time will tell which ones will deliver. They are racing to prove that new innovation platforms can deliver superior solutions while operating in an environment of scarcer capital and intense competition.\nBeyond product performance, they may benefit from finding ways to integrate with incumbent systems or leveraging the strengths of specialized biological companies. For instance, certain peptide and protein-based technologies can leverage outside precise fermentation manufacturing capabilities to achieve competitive pricing levels.\nThere are many nuances to what a “system integration” fit might mean for different organizations looking to incorporate these new platform innovations. I encourage any company intending to play a long-term role in this market to conduct scenario planning simulations around how new innovation platforms might match their capabilities, while accounting for the wide range of technologies available.\nWhen running this exercise within your organization, you can uncover ways to detect early signals of which scenario is unfolding. These should include metrics related to product line commoditization, startups innovation pipelines, the scale and economics of these new solutions, and their performance validation, when turned into available data.\nMy 20-year perspective on what has been happening in this industry also leads me to challenge what incumbents have accomplished so far, including their historical hesitation and inconsistency in pushing ag biologicals forward. The fact that those incumbents share the market with medium-sized specialized ag biological players in the $200-500 million range shows they have not maximized their infrastructure to grow in this space.\nI am also unconvinced whether incumbents have unlocked the full potential of their past acquisitions—sometimes, they turn their attention to other growth levers while failing to embrace the full complexity of ag biologicals. Even today, they still seem unready to adopt the right mindset for biologicals, thereby fueling the growth of new entrants who are competing with them head-to-head.\nIt is a fact that the ag inputs industry moves slower compared to other industries where innovation appears to be happening at every moment. That said, the time between taking action and seeing expected results also takes a few years. Ultimately, in a very competitive environment, how well companies navigate this window comes down to whether they will become the hunter or the prey.\nPrimary Driving Forces (Macro-level): External environmental forces that define the operational landscape of the industry.\nSecondary Driving Forces (Industry-level): Internal industry dynamics that dictate how market players adapt, compete, and evolve.\nSimply put, Primary Driving Forces define the field of play, while Secondary Driving Forces determine how the game unfolds.\nBelow are the evaluated Primary Driving Forces along with their potential future trajectories.\nBelow are the evaluated Secondary Driving Forces along with their potential future trajectories:\nNOTE: Highlighted are the two driving forces chosen (high impact, and high uncertainty) to frame the four potential scenarios.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "AGRO"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 0.8,
+    "BUSINESS": 1,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 100,
+    "priority": 118,
+    "base": 78,
+    "breakdown": {
+     "agro": 25,
+     "tech": 16,
+     "business": 20,
+     "mexico": 0,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {
+     "innovacion_concreta": 10,
+     "impacto_economico": 10,
+     "afecta_productores": 10,
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 100,
+   "priority": 118,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?",
+    "Startup que debes conocer",
+    "¿Quién está invirtiendo?",
+    "¿Cuánto cuesta?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-edb56a30",
+   "retrieved_at": "2026-11-05T19:46:43.032Z",
+   "ingested_via": "rss",
+   "title_original": "En México hay un estancamiento estructural en producción de granos básicos: UNTA",
+   "title_agrovision": "",
+   "source_name": "Imagen Agropecuaria",
+   "source_domain": "imagenagropecuaria.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://imagenagropecuaria.com/2026/en-mexico-hay-un-estancamiento-estructural-en-produccion-de-granos-basicos-unta/",
+   "canonical_url": "https://imagenagropecuaria.com/2026/en-mexico-hay-un-estancamiento-estructural-en-produccion-de-granos-basicos-unta",
+   "published_at": "2026-11-04",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "BUSINESS",
+   "subcategory": "Inversión",
+   "technologies": [],
+   "companies": [],
+   "content": "La combinación de la falta de financiamiento público, la eliminación de esquemas de comercialización, el retiro de subsidios a la tecnología y el cambio climático provocó un desplome y estancamiento estructural en la producción de granos básicos y oleaginosas, ya que solo producimos el 42 por ciento de éstos, revirtiendo los planes de autosuficiencia alimentaria &hellip;\nLa combinación de la falta de financiamiento público, la eliminación de esquemas de comercialización, el retiro de subsidios a la tecnología y el cambio climático provocó un desplome y estancamiento estructural en la producción de granos básicos y oleaginosas, ya que solo producimos el 42 por ciento de éstos, revirtiendo los planes de autosuficiencia alimentaria del país, expresó el secretario general de la Unión Nacional de Trabajadores Agrícolas (UNTA), Álvaro López Ríos,.\nIndicó que las importaciones mexicanas de granos, oleaginosas y derivados aumentaron en 1.8 millones de toneladas durante los primeros nueve meses de 2026, de acuerdo con un informe de GCMA y, estimó que lo más grave es que las compras de maíz al exterior en 2027 se elevarán a casi 26.5 MTM frente a 25.6 MTM estimadas para 2026.\nA través de un comunicado, Álvaro López Ríos dijo que la producción de maíz, trigo, frijol, sorgo, arroz y soya, muestran menores volúmenes, menor superficie cosechada y rendimientos más bajos que en administraciones anteriores.\nRecordó que el argumento oficial de los cambios institucionales era el lograr la soberanía alimentaria del país; sin embargo, ahora se depende críticamente de los mercados exteriores para alimentar a la población.\nAl contraerse la producción en el campo –añadió– existe la obligación de comprar granos a niveles nunca antes vistos para abastecer el consumo humano, ganadero e industrial.\nEl dirigente de la UNTA hizo hincapié en que actualmente se reporta un récord histórico en importación de granos y oleaginosas que es de casi 58 por ciento.\nReiteró que en 8 años instituciones y programas desaparecieron como la Financiera Rural que era la principal banca de desarrollo pública que otorgaba créditos flexibles y de bajo interés adaptados a los ciclos agrícolas. Sin esta institución, ahora los agricultores recurren a la banca comercial tradicional, intermediarios informales y prestamistas locales, elevando el riesgo de endeudamiento y la pérdida de tierras.\nAsimismo, con la cancelación de coberturas de precios, los productores están expuestos a la volatilidad de los mercados globales lo que reduce drásticamente sus ingresos reales.\nCon la extinción del Fonden y los subsidios al seguro catastrófico, ahora una cosecha se pierde por clima y acelera la quiebra de unidades de producción.\nDe igual manera, añadió, con el recorte de 60 programas y subprogramas operativos de tecnificación se detuvo la modernización del campo para productores medianos, lo que disminuye la productividad por hectárea frente a competidores internacionales.\nos programas actuales entregan dinero en efectivo al beneficiario, pero los montos son de subsistencia familiar diaria e insuficientes para cubrir los costos reales de producción como: diésel, maquinaria, fertilización y logística”.\nEsta situación impacta de manera negativa al consumidor ya que no paga el costo de producir en México sino el de contar con comida proveniente de otros países lo que implica un encarecimiento sostenido en tortillas, pan, harinas y alimento para ganado, carne de res, cerdo y pollo.\nAlvaro López afirmó que durante los gobiernos de Morena se desmantelaron y eliminaron alrededor de 24 programas e instituciones de apoyo al sector agropecuario y rural, por lo que pequeños y medianos productores están atrapados en un “vacío estructural” y asfixiados por falta de crédito formal, subsidios técnicos y fondos de cobertura.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "AGRO",
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 0,
+    "BUSINESS": 1,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 97,
+    "priority": 97,
+    "base": 77,
+    "breakdown": {
+     "agro": 25,
+     "tech": 0,
+     "business": 20,
+     "mexico": 15,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {
+     "impacto_economico": 10,
+     "afecta_productores": 10
+    },
+    "penalties": {}
+   },
+   "score": 97,
+   "priority": 97,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "¿Cuánto cuesta?",
+    "El negocio detrás del campo"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
   }
  ],
  "sources": [
@@ -70124,7 +70934,7 @@
    "tier": 2,
    "type": "secondary",
    "kind": "medio_especializado",
-   "article_count": 96
+   "article_count": 98
   },
   {
    "domain": "cimmyt.org",
@@ -70172,7 +70982,7 @@
    "tier": 2,
    "type": "secondary",
    "kind": "medio_especializado",
-   "article_count": 125
+   "article_count": 129
   },
   {
    "domain": "agriculteca.com",
@@ -70460,7 +71270,7 @@
    "tier": 0,
    "type": "secondary",
    "kind": "desconocido",
-   "article_count": 10
+   "article_count": 11
   },
   {
    "domain": "eleconomista.com.mx",
@@ -71485,6 +72295,14 @@
    "type": "secondary",
    "kind": "desconocido",
    "article_count": 1
+  },
+  {
+   "domain": "ecomercioagrario.com",
+   "name": "eComercio Agrario",
+   "tier": 0,
+   "type": "secondary",
+   "kind": "desconocido",
+   "article_count": 1
   }
  ],
  "topics": [
@@ -71650,10 +72468,10 @@
   {
    "id": "sanidad",
    "label": "Sanidad animal y vegetal",
-   "score": 94,
+   "score": 92,
    "mentions": 56,
-   "recent": 24,
-   "prior": 23,
+   "recent": 21,
+   "prior": 25,
    "direction": "creciendo",
    "source_kinds": [
     "medio",
@@ -71720,15 +72538,15 @@
     "agv-4c84801f",
     "agv-cb2a7392"
    ],
-   "computed_at": "2026-11-05T04:54:30.336Z"
+   "computed_at": "2026-11-05T19:46:43.032Z"
   },
   {
    "id": "ia-agricola",
    "label": "IA agrícola",
-   "score": 91,
-   "mentions": 137,
-   "recent": 56,
-   "prior": 74,
+   "score": 90,
+   "mentions": 139,
+   "recent": 54,
+   "prior": 78,
    "direction": "creciendo",
    "source_kinds": [
     "consultora",
@@ -71876,150 +72694,11 @@
     "agv-05f64268",
     "agv-2fd60c05",
     "agv-39019392",
-    "agv-7e05aac5"
+    "agv-7e05aac5",
+    "agv-50356b7f",
+    "agv-162e5957"
    ],
-   "computed_at": "2026-11-05T04:54:30.336Z"
-  },
-  {
-   "id": "riego-inteligente",
-   "label": "Riego y agua",
-   "score": 89,
-   "mentions": 122,
-   "recent": 42,
-   "prior": 70,
-   "direction": "creciendo",
-   "source_kinds": [
-    "medio",
-    "gobierno",
-    "medio_especializado",
-    "investigacion"
-   ],
-   "primary_sources": 19,
-   "item_ids": [
-    "agv-85c802cd",
-    "agv-1f125245",
-    "agv-2763cec2",
-    "agv-50a305d8",
-    "agv-943d446b",
-    "agv-f6e2effd",
-    "agv-2db51231",
-    "agv-bc2898c6",
-    "agv-21782c66",
-    "agv-4279f808",
-    "agv-bdfe3b8e",
-    "agv-2de3dcbc",
-    "agv-13ddddac",
-    "agv-cc77e85d",
-    "agv-612274af",
-    "agv-9d987fb2",
-    "agv-c46c7697",
-    "agv-23d881e1",
-    "agv-9d121aa4",
-    "agv-7bcb6bd2",
-    "agv-60b5e9e3",
-    "agv-14a64592",
-    "agv-cc6d0995",
-    "agv-75b47020",
-    "agv-7ddbccee",
-    "agv-1f87f1be",
-    "agv-da0a42f6",
-    "agv-c4d0e41b",
-    "agv-11c0ecaf",
-    "agv-9c982826",
-    "agv-ef6b3f14",
-    "agv-caf470f5",
-    "agv-1de47408",
-    "agv-476a4f03",
-    "agv-7454d4ad",
-    "agv-a310a88b",
-    "agv-f42d898d",
-    "agv-5e9d353a",
-    "agv-2c3800be",
-    "agv-e1000d57",
-    "agv-0e47f387",
-    "agv-c0320e1e",
-    "agv-256a6a49",
-    "agv-a8b1291c",
-    "agv-f3242953",
-    "agv-1db12304",
-    "agv-8d7e27dd",
-    "agv-b398abc9",
-    "agv-166653a2",
-    "agv-a85c8e98",
-    "agv-26b794e0",
-    "agv-f52a0457",
-    "agv-505daa08",
-    "agv-69fa9f07",
-    "agv-ea06dc36",
-    "agv-2f7f475b",
-    "agv-9db008e3",
-    "agv-46a14059",
-    "agv-6945b365",
-    "agv-e5b4bcea",
-    "agv-d0c4345c",
-    "agv-743323d5",
-    "agv-def5707f",
-    "agv-2e6f2f66",
-    "agv-17157d1e",
-    "agv-a37b3577",
-    "agv-94561825",
-    "agv-0f5d0261",
-    "agv-4d83371b",
-    "agv-919177b6",
-    "agv-130d7840",
-    "agv-60f299b1",
-    "agv-cad9d06d",
-    "agv-e3cbfb31",
-    "agv-7d5bc3a1",
-    "agv-3f023dbc",
-    "agv-06468c62",
-    "agv-a3d5c7a4",
-    "agv-4520d1dc",
-    "agv-3ef8e8db",
-    "agv-921ff154",
-    "agv-8e693f4c",
-    "agv-68b2e86b",
-    "agv-f940ac69",
-    "agv-ce55d6a0",
-    "agv-1979c483",
-    "agv-ac82cb6b",
-    "agv-d9be6fee",
-    "agv-eb2f1aef",
-    "agv-3ff27a2b",
-    "agv-d2587ac1",
-    "agv-91e9076a",
-    "agv-3e9f9404",
-    "agv-294fe04a",
-    "agv-e26ae79d",
-    "agv-81b5008a",
-    "agv-5d65a278",
-    "agv-77661b93",
-    "agv-b3820d8a",
-    "agv-66269911",
-    "agv-bb087722",
-    "agv-60be47d1",
-    "agv-dca041db",
-    "agv-a81e2198",
-    "agv-cfd70713",
-    "agv-4f8dac30",
-    "agv-8a8d49fd",
-    "agv-1d825408",
-    "agv-fb625c91",
-    "agv-7e49ca7b",
-    "agv-715f8c21",
-    "agv-045e7440",
-    "agv-4102df29",
-    "agv-8d26ecde",
-    "agv-075312f4",
-    "agv-6bebc497",
-    "agv-9203cee3",
-    "agv-e031921f",
-    "agv-240aae6b",
-    "agv-7d8afa9c",
-    "agv-81bd0335",
-    "agv-b0bdd446"
-   ],
-   "computed_at": "2026-11-05T04:54:30.336Z"
+   "computed_at": "2026-11-05T19:46:43.032Z"
   },
   {
    "id": "fertilizantes",
@@ -72079,15 +72758,15 @@
     "agv-2686d59a",
     "agv-9d5659a4"
    ],
-   "computed_at": "2026-11-05T04:54:30.336Z"
+   "computed_at": "2026-11-05T19:46:43.032Z"
   },
   {
    "id": "agricultura-digital",
    "label": "Agricultura digital y datos",
    "score": 89,
-   "mentions": 155,
+   "mentions": 157,
    "recent": 56,
-   "prior": 91,
+   "prior": 93,
    "direction": "creciendo",
    "source_kinds": [
     "medio",
@@ -72254,9 +72933,11 @@
     "agv-d2b90793",
     "agv-39019392",
     "agv-7e05aac5",
-    "agv-cb2a7392"
+    "agv-cb2a7392",
+    "agv-162e5957",
+    "agv-918f636c"
    ],
-   "computed_at": "2026-11-05T04:54:30.336Z"
+   "computed_at": "2026-11-05T19:46:43.032Z"
   },
   {
    "id": "drones",
@@ -72310,14 +72991,156 @@
     "agv-7d8afa9c",
     "agv-b33c0e7c"
    ],
-   "computed_at": "2026-11-05T04:54:30.336Z"
+   "computed_at": "2026-11-05T19:46:43.032Z"
+  },
+  {
+   "id": "riego-inteligente",
+   "label": "Riego y agua",
+   "score": 88,
+   "mentions": 123,
+   "recent": 41,
+   "prior": 72,
+   "direction": "creciendo",
+   "source_kinds": [
+    "medio",
+    "gobierno",
+    "medio_especializado",
+    "investigacion"
+   ],
+   "primary_sources": 19,
+   "item_ids": [
+    "agv-85c802cd",
+    "agv-1f125245",
+    "agv-2763cec2",
+    "agv-50a305d8",
+    "agv-943d446b",
+    "agv-f6e2effd",
+    "agv-2db51231",
+    "agv-bc2898c6",
+    "agv-21782c66",
+    "agv-4279f808",
+    "agv-bdfe3b8e",
+    "agv-2de3dcbc",
+    "agv-13ddddac",
+    "agv-cc77e85d",
+    "agv-612274af",
+    "agv-9d987fb2",
+    "agv-c46c7697",
+    "agv-23d881e1",
+    "agv-9d121aa4",
+    "agv-7bcb6bd2",
+    "agv-60b5e9e3",
+    "agv-14a64592",
+    "agv-cc6d0995",
+    "agv-75b47020",
+    "agv-7ddbccee",
+    "agv-1f87f1be",
+    "agv-da0a42f6",
+    "agv-c4d0e41b",
+    "agv-11c0ecaf",
+    "agv-9c982826",
+    "agv-ef6b3f14",
+    "agv-caf470f5",
+    "agv-1de47408",
+    "agv-476a4f03",
+    "agv-7454d4ad",
+    "agv-a310a88b",
+    "agv-f42d898d",
+    "agv-5e9d353a",
+    "agv-2c3800be",
+    "agv-e1000d57",
+    "agv-0e47f387",
+    "agv-c0320e1e",
+    "agv-256a6a49",
+    "agv-a8b1291c",
+    "agv-f3242953",
+    "agv-1db12304",
+    "agv-8d7e27dd",
+    "agv-b398abc9",
+    "agv-166653a2",
+    "agv-a85c8e98",
+    "agv-26b794e0",
+    "agv-f52a0457",
+    "agv-505daa08",
+    "agv-69fa9f07",
+    "agv-ea06dc36",
+    "agv-2f7f475b",
+    "agv-9db008e3",
+    "agv-46a14059",
+    "agv-6945b365",
+    "agv-e5b4bcea",
+    "agv-d0c4345c",
+    "agv-743323d5",
+    "agv-def5707f",
+    "agv-2e6f2f66",
+    "agv-17157d1e",
+    "agv-a37b3577",
+    "agv-94561825",
+    "agv-0f5d0261",
+    "agv-4d83371b",
+    "agv-919177b6",
+    "agv-130d7840",
+    "agv-60f299b1",
+    "agv-cad9d06d",
+    "agv-e3cbfb31",
+    "agv-7d5bc3a1",
+    "agv-3f023dbc",
+    "agv-06468c62",
+    "agv-a3d5c7a4",
+    "agv-4520d1dc",
+    "agv-3ef8e8db",
+    "agv-921ff154",
+    "agv-8e693f4c",
+    "agv-68b2e86b",
+    "agv-f940ac69",
+    "agv-ce55d6a0",
+    "agv-1979c483",
+    "agv-ac82cb6b",
+    "agv-d9be6fee",
+    "agv-eb2f1aef",
+    "agv-3ff27a2b",
+    "agv-d2587ac1",
+    "agv-91e9076a",
+    "agv-3e9f9404",
+    "agv-294fe04a",
+    "agv-e26ae79d",
+    "agv-81b5008a",
+    "agv-5d65a278",
+    "agv-77661b93",
+    "agv-b3820d8a",
+    "agv-66269911",
+    "agv-bb087722",
+    "agv-60be47d1",
+    "agv-dca041db",
+    "agv-a81e2198",
+    "agv-cfd70713",
+    "agv-4f8dac30",
+    "agv-8a8d49fd",
+    "agv-1d825408",
+    "agv-fb625c91",
+    "agv-7e49ca7b",
+    "agv-715f8c21",
+    "agv-045e7440",
+    "agv-4102df29",
+    "agv-8d26ecde",
+    "agv-075312f4",
+    "agv-6bebc497",
+    "agv-9203cee3",
+    "agv-e031921f",
+    "agv-240aae6b",
+    "agv-7d8afa9c",
+    "agv-81bd0335",
+    "agv-b0bdd446",
+    "agv-edb56a30"
+   ],
+   "computed_at": "2026-11-05T19:46:43.032Z"
   },
   {
    "id": "biotecnologia",
    "label": "Biotecnología y semillas",
    "score": 88,
-   "mentions": 83,
-   "recent": 27,
+   "mentions": 84,
+   "recent": 28,
    "prior": 50,
    "direction": "creciendo",
    "source_kinds": [
@@ -72410,16 +73233,17 @@
     "agv-05f64268",
     "agv-de39cbd0",
     "agv-76e35964",
-    "agv-b0bdd446"
+    "agv-b0bdd446",
+    "agv-89aaf27e"
    ],
-   "computed_at": "2026-11-05T04:54:30.336Z"
+   "computed_at": "2026-11-05T19:46:43.032Z"
   },
   {
    "id": "maiz",
    "label": "Maíz y granos",
-   "score": 87,
-   "mentions": 104,
-   "recent": 32,
+   "score": 88,
+   "mentions": 106,
+   "recent": 34,
    "prior": 63,
    "direction": "creciendo",
    "source_kinds": [
@@ -72534,17 +73358,19 @@
     "agv-5a94672d",
     "agv-76e35964",
     "agv-cb2a7392",
-    "agv-9d5659a4"
+    "agv-9d5659a4",
+    "agv-89aaf27e",
+    "agv-edb56a30"
    ],
-   "computed_at": "2026-11-05T04:54:30.336Z"
+   "computed_at": "2026-11-05T19:46:43.032Z"
   },
   {
    "id": "inversion-agtech",
    "label": "Inversión AgTech",
    "score": 86,
-   "mentions": 107,
-   "recent": 40,
-   "prior": 63,
+   "mentions": 110,
+   "recent": 41,
+   "prior": 65,
    "direction": "creciendo",
    "source_kinds": [
     "medio_especializado",
@@ -72660,17 +73486,92 @@
     "agv-ef0a2ba6",
     "agv-05f64268",
     "agv-d8bb890e",
-    "agv-ff4ef4f0"
+    "agv-ff4ef4f0",
+    "agv-89aaf27e",
+    "agv-29212614",
+    "agv-918f636c"
    ],
-   "computed_at": "2026-11-05T04:54:30.336Z"
+   "computed_at": "2026-11-05T19:46:43.032Z"
+  },
+  {
+   "id": "comercio-tmec",
+   "label": "Comercio y T-MEC",
+   "score": 81,
+   "mentions": 54,
+   "recent": 30,
+   "prior": 23,
+   "direction": "creciendo",
+   "source_kinds": [
+    "medio",
+    "medio_especializado",
+    "gobierno"
+   ],
+   "primary_sources": 1,
+   "item_ids": [
+    "agv-4b5e0956",
+    "agv-3b528108",
+    "agv-a6b2aaaf",
+    "agv-272728e6",
+    "agv-60c908c3",
+    "agv-6815fc09",
+    "agv-84fe8b6b",
+    "agv-50a305d8",
+    "agv-f2dd161b",
+    "agv-e9044b45",
+    "agv-97daf274",
+    "agv-82978532",
+    "agv-e5c3a613",
+    "agv-b3ba7ccb",
+    "agv-a9324f9f",
+    "agv-ae64a35c",
+    "agv-13d3f4c2",
+    "agv-5abd267f",
+    "agv-2e6f2f66",
+    "agv-a37b3577",
+    "agv-07b32b7d",
+    "agv-7a781496",
+    "agv-b9f24367",
+    "agv-59bfb7e1",
+    "agv-f87aa1d0",
+    "agv-e367bc45",
+    "agv-a4b155b2",
+    "agv-5a7f30b9",
+    "agv-a81d4ec5",
+    "agv-dbc83eee",
+    "agv-e0663d1e",
+    "agv-4f99c511",
+    "agv-267b89bf",
+    "agv-60be47d1",
+    "agv-a81e2198",
+    "agv-5094dc21",
+    "agv-715f8c21",
+    "agv-ce5a12fc",
+    "agv-63611745",
+    "agv-b71a8f81",
+    "agv-cff25bdd",
+    "agv-5eff865a",
+    "agv-ffd560c6",
+    "agv-af247e59",
+    "agv-f995d95e",
+    "agv-6b5b34b5",
+    "agv-d2b90793",
+    "agv-6d4a1f01",
+    "agv-ed6a65d3",
+    "agv-fec124c0",
+    "agv-7648cf5e",
+    "agv-235e3028",
+    "agv-d263ee2c",
+    "agv-cb2a7392"
+   ],
+   "computed_at": "2026-11-05T19:46:43.032Z"
   },
   {
    "id": "robotica",
    "label": "Robótica agrícola",
-   "score": 82,
+   "score": 80,
    "mentions": 88,
-   "recent": 40,
-   "prior": 45,
+   "recent": 36,
+   "prior": 49,
    "direction": "creciendo",
    "source_kinds": [
     "medio_especializado",
@@ -72768,79 +73669,7 @@
     "agv-4d63308f",
     "agv-7e05aac5"
    ],
-   "computed_at": "2026-11-05T04:54:30.336Z"
-  },
-  {
-   "id": "comercio-tmec",
-   "label": "Comercio y T-MEC",
-   "score": 81,
-   "mentions": 54,
-   "recent": 31,
-   "prior": 22,
-   "direction": "creciendo",
-   "source_kinds": [
-    "medio",
-    "medio_especializado",
-    "gobierno"
-   ],
-   "primary_sources": 1,
-   "item_ids": [
-    "agv-4b5e0956",
-    "agv-3b528108",
-    "agv-a6b2aaaf",
-    "agv-272728e6",
-    "agv-60c908c3",
-    "agv-6815fc09",
-    "agv-84fe8b6b",
-    "agv-50a305d8",
-    "agv-f2dd161b",
-    "agv-e9044b45",
-    "agv-97daf274",
-    "agv-82978532",
-    "agv-e5c3a613",
-    "agv-b3ba7ccb",
-    "agv-a9324f9f",
-    "agv-ae64a35c",
-    "agv-13d3f4c2",
-    "agv-5abd267f",
-    "agv-2e6f2f66",
-    "agv-a37b3577",
-    "agv-07b32b7d",
-    "agv-7a781496",
-    "agv-b9f24367",
-    "agv-59bfb7e1",
-    "agv-f87aa1d0",
-    "agv-e367bc45",
-    "agv-a4b155b2",
-    "agv-5a7f30b9",
-    "agv-a81d4ec5",
-    "agv-dbc83eee",
-    "agv-e0663d1e",
-    "agv-4f99c511",
-    "agv-267b89bf",
-    "agv-60be47d1",
-    "agv-a81e2198",
-    "agv-5094dc21",
-    "agv-715f8c21",
-    "agv-ce5a12fc",
-    "agv-63611745",
-    "agv-b71a8f81",
-    "agv-cff25bdd",
-    "agv-5eff865a",
-    "agv-ffd560c6",
-    "agv-af247e59",
-    "agv-f995d95e",
-    "agv-6b5b34b5",
-    "agv-d2b90793",
-    "agv-6d4a1f01",
-    "agv-ed6a65d3",
-    "agv-fec124c0",
-    "agv-7648cf5e",
-    "agv-235e3028",
-    "agv-d263ee2c",
-    "agv-cb2a7392"
-   ],
-   "computed_at": "2026-11-05T04:54:30.336Z"
+   "computed_at": "2026-11-05T19:46:43.032Z"
   },
   {
    "id": "precios-alimentos",
@@ -72860,7 +73689,7 @@
     "agv-52a0be98",
     "agv-943d446b"
    ],
-   "computed_at": "2026-11-05T04:54:30.336Z"
+   "computed_at": "2026-11-05T19:46:43.032Z"
   }
  ],
  "companies": [
@@ -73971,7 +74800,9 @@
     "agv-05f64268",
     "agv-2fd60c05",
     "agv-39019392",
-    "agv-7e05aac5"
+    "agv-7e05aac5",
+    "agv-50356b7f",
+    "agv-162e5957"
    ]
   },
   {
@@ -74104,7 +74935,10 @@
     "agv-05f64268",
     "agv-b33c0e7c",
     "agv-de39cbd0",
-    "agv-39019392"
+    "agv-39019392",
+    "agv-162e5957",
+    "agv-89aaf27e",
+    "agv-918f636c"
    ]
   },
   {
@@ -74230,7 +75064,9 @@
     "agv-d2b90793",
     "agv-39019392",
     "agv-7e05aac5",
-    "agv-cb2a7392"
+    "agv-cb2a7392",
+    "agv-162e5957",
+    "agv-918f636c"
    ]
   },
   {
@@ -74403,7 +75239,8 @@
     "agv-05f64268",
     "agv-de39cbd0",
     "agv-76e35964",
-    "agv-b0bdd446"
+    "agv-b0bdd446",
+    "agv-89aaf27e"
    ]
   },
   {
@@ -74444,7 +75281,9 @@
     "agv-c9903539",
     "agv-536f376e",
     "agv-6d9b2540",
-    "agv-9203cee3"
+    "agv-9203cee3",
+    "agv-50356b7f",
+    "agv-162e5957"
    ]
   },
   {
@@ -74553,7 +75392,8 @@
     "agv-6c1d4f5e",
     "agv-2dad15ba",
     "agv-0943f019",
-    "agv-a004fac8"
+    "agv-a004fac8",
+    "agv-162e5957"
    ]
   },
   {
@@ -74831,6 +75671,30 @@
    ]
   },
   {
+   "id": "mercados",
+   "name": "Mercados",
+   "article_ids": [
+    "agv-72f8387d",
+    "agv-99ba38d6",
+    "agv-db693a04",
+    "agv-3d08c409",
+    "agv-e35eee62",
+    "agv-a43d9b74",
+    "agv-dcef31d4",
+    "agv-a96aca60",
+    "agv-d78cb59b",
+    "agv-52cb4dbc",
+    "agv-21ff981d",
+    "agv-3623dc4f",
+    "agv-0d8758a4",
+    "agv-69fc454a",
+    "agv-76e35964",
+    "agv-d8bb890e",
+    "agv-ff4ef4f0",
+    "agv-29212614"
+   ]
+  },
+  {
    "id": "precios",
    "name": "Precios",
    "article_ids": [
@@ -74854,29 +75718,6 @@
    ]
   },
   {
-   "id": "mercados",
-   "name": "Mercados",
-   "article_ids": [
-    "agv-72f8387d",
-    "agv-99ba38d6",
-    "agv-db693a04",
-    "agv-3d08c409",
-    "agv-e35eee62",
-    "agv-a43d9b74",
-    "agv-dcef31d4",
-    "agv-a96aca60",
-    "agv-d78cb59b",
-    "agv-52cb4dbc",
-    "agv-21ff981d",
-    "agv-3623dc4f",
-    "agv-0d8758a4",
-    "agv-69fc454a",
-    "agv-76e35964",
-    "agv-d8bb890e",
-    "agv-ff4ef4f0"
-   ]
-  },
-  {
    "id": "inversion",
    "name": "Inversión",
    "article_ids": [
@@ -74892,7 +75733,8 @@
     "agv-e031921f",
     "agv-e938133e",
     "agv-533d8aa4",
-    "agv-5a94672d"
+    "agv-5a94672d",
+    "agv-edb56a30"
    ]
   },
   {
@@ -75283,7 +76125,9 @@
     "agv-5a94672d",
     "agv-b0bdd446",
     "agv-cb2a7392",
-    "agv-9d5659a4"
+    "agv-9d5659a4",
+    "agv-2c88c2ab",
+    "agv-edb56a30"
    ]
   },
   {
@@ -75534,7 +76378,12 @@
     "agv-d8bb890e",
     "agv-ff4ef4f0",
     "agv-39019392",
-    "agv-7e05aac5"
+    "agv-7e05aac5",
+    "agv-50356b7f",
+    "agv-162e5957",
+    "agv-89aaf27e",
+    "agv-29212614",
+    "agv-918f636c"
    ]
   },
   {
@@ -75760,7 +76609,8 @@
     "agv-d263ee2c",
     "agv-5a94672d",
     "agv-cb2a7392",
-    "agv-9d5659a4"
+    "agv-9d5659a4",
+    "agv-edb56a30"
    ]
   },
   {
@@ -75869,6 +76719,21 @@
    ]
   },
   {
+   "id": "michoacan",
+   "name": "Michoacán",
+   "article_ids": [
+    "agv-6815fc09",
+    "agv-f2dd161b",
+    "agv-08c4dad3",
+    "agv-e48dd720",
+    "agv-131c1a6a",
+    "agv-97385b45",
+    "agv-4642de49",
+    "agv-7d5cd293",
+    "agv-2c88c2ab"
+   ]
+  },
+  {
    "id": "guanajuato",
    "name": "Guanajuato",
    "article_ids": [
@@ -75881,20 +76746,6 @@
     "agv-361686d9",
     "agv-1d825408",
     "agv-8675419b"
-   ]
-  },
-  {
-   "id": "michoacan",
-   "name": "Michoacán",
-   "article_ids": [
-    "agv-6815fc09",
-    "agv-f2dd161b",
-    "agv-08c4dad3",
-    "agv-e48dd720",
-    "agv-131c1a6a",
-    "agv-97385b45",
-    "agv-4642de49",
-    "agv-7d5cd293"
    ]
   },
   {
@@ -79195,15 +80046,25 @@
    "id": "summary-2026-11-05T04:54:30.336Z",
    "type": "summary",
    "at": "2026-11-05T04:54:35.300Z"
+  },
+  {
+   "id": "daily-2026-11-05T19:46:43.032Z",
+   "type": "daily",
+   "at": "2026-11-05T19:48:15.804Z",
+   "added": 8,
+   "skipped": 312,
+   "feeds_ok": 17,
+   "feeds_failed": 3,
+   "duplicates": 62
   }
  ],
  "meta": {
   "schema_version": 1,
   "created_at": "2026-09-19T15:08:14.372Z",
-  "updated_at": "2026-11-05T04:54:35.300Z",
+  "updated_at": "2026-11-05T19:48:15.805Z",
   "counts": {
-   "articles": 634,
-   "sources": 177,
+   "articles": 642,
+   "sources": 178,
    "topics": 12,
    "trends": 12,
    "companies": 111,
@@ -79217,7 +80078,7 @@
    "saved_articles": 0,
    "newsletter_issues": 7,
    "social_posts": 0,
-   "runs": 149
+   "runs": 150
   }
  }
 }
