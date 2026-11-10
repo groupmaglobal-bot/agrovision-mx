@@ -75643,7 +75643,7 @@
     "agv-5404639b",
     "agv-ab5293e8"
    ],
-   "computed_at": "2026-11-10T01:00:11.896Z"
+   "computed_at": "2026-11-10T05:47:13.084Z"
   },
   {
    "id": "inversion-agtech",
@@ -75775,7 +75775,7 @@
     "agv-3132fe01",
     "agv-4f4cc12a"
    ],
-   "computed_at": "2026-11-10T01:00:11.896Z"
+   "computed_at": "2026-11-10T05:47:13.084Z"
   },
   {
    "id": "ia-agricola",
@@ -75937,7 +75937,7 @@
     "agv-ffb7d6a3",
     "agv-4f4cc12a"
    ],
-   "computed_at": "2026-11-10T01:00:11.896Z"
+   "computed_at": "2026-11-10T05:47:13.084Z"
   },
   {
    "id": "fertilizantes",
@@ -76001,7 +76001,7 @@
     "agv-634c5a84",
     "agv-d596bca7"
    ],
-   "computed_at": "2026-11-10T01:00:11.896Z"
+   "computed_at": "2026-11-10T05:47:13.084Z"
   },
   {
    "id": "agricultura-digital",
@@ -76186,7 +76186,7 @@
     "agv-d596bca7",
     "agv-4f4cc12a"
    ],
-   "computed_at": "2026-11-10T01:00:11.896Z"
+   "computed_at": "2026-11-10T05:47:13.084Z"
   },
   {
    "id": "riego-inteligente",
@@ -76337,7 +76337,7 @@
     "agv-1f347d5b",
     "agv-d596bca7"
    ],
-   "computed_at": "2026-11-10T01:00:11.896Z"
+   "computed_at": "2026-11-10T05:47:13.084Z"
   },
   {
    "id": "biotecnologia",
@@ -76443,7 +76443,7 @@
     "agv-3132fe01",
     "agv-d596bca7"
    ],
-   "computed_at": "2026-11-10T01:00:11.896Z"
+   "computed_at": "2026-11-10T05:47:13.084Z"
   },
   {
    "id": "maiz",
@@ -76575,7 +76575,7 @@
     "agv-4c357be9",
     "agv-1f347d5b"
    ],
-   "computed_at": "2026-11-10T01:00:11.896Z"
+   "computed_at": "2026-11-10T05:47:13.084Z"
   },
   {
    "id": "drones",
@@ -76630,7 +76630,7 @@
     "agv-b33c0e7c",
     "agv-d7da6729"
    ],
-   "computed_at": "2026-11-10T01:00:11.896Z"
+   "computed_at": "2026-11-10T05:47:13.084Z"
   },
   {
    "id": "comercio-tmec",
@@ -76703,7 +76703,7 @@
     "agv-cb2a7392",
     "agv-5404639b"
    ],
-   "computed_at": "2026-11-10T01:00:11.896Z"
+   "computed_at": "2026-11-10T05:47:13.084Z"
   },
   {
    "id": "robotica",
@@ -76811,7 +76811,7 @@
     "agv-65ad09f8",
     "agv-ae956ca3"
    ],
-   "computed_at": "2026-11-10T01:00:11.896Z"
+   "computed_at": "2026-11-10T05:47:13.084Z"
   },
   {
    "id": "precios-alimentos",
@@ -76831,7 +76831,7 @@
     "agv-52a0be98",
     "agv-943d446b"
    ],
-   "computed_at": "2026-11-10T01:00:11.896Z"
+   "computed_at": "2026-11-10T05:47:13.084Z"
   }
  ],
  "companies": [
@@ -83395,12 +83395,17 @@
     "fertilizantes",
     "agricultura-digital"
    ]
+  },
+  {
+   "id": "summary-2026-11-10T05:47:13.084Z",
+   "type": "summary",
+   "at": "2026-11-10T05:47:18.623Z"
   }
  ],
  "meta": {
   "schema_version": 1,
   "created_at": "2026-09-19T15:08:14.372Z",
-  "updated_at": "2026-11-10T01:00:15.330Z",
+  "updated_at": "2026-11-10T05:47:18.623Z",
   "counts": {
    "articles": 671,
    "sources": 184,
@@ -83417,7 +83422,7 @@
    "saved_articles": 0,
    "newsletter_issues": 8,
    "social_posts": 0,
-   "runs": 164
+   "runs": 165
   }
  }
 }
