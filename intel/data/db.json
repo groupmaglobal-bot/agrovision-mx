@@ -8964,15 +8964,15 @@
    },
    "evidence": "ALTO",
    "scoring": {
-    "score": 89,
-    "priority": 89,
-    "base": 49,
+    "score": 87,
+    "priority": 87,
+    "base": 47,
     "breakdown": {
      "agro": 16.7,
      "tech": 20,
      "business": 0,
      "mexico": 0,
-     "recency": 2,
+     "recency": 0,
      "source": 10
     },
     "bonuses": {
@@ -8983,8 +8983,8 @@
     },
     "penalties": {}
    },
-   "score": 89,
-   "priority": 89,
+   "score": 87,
+   "priority": 87,
    "status": "VERIFICADO",
    "analysis_complete": true,
    "publishable": true,
@@ -9653,7 +9653,8 @@
    },
    "duplicate_of": null,
    "related_ids": [
-    "agv-a51885f9"
+    "agv-a51885f9",
+    "agv-4fbcea8f"
    ],
    "verification": {
     "evidence": "ALTO",
@@ -16289,14 +16290,14 @@
    "evidence": "MEDIO",
    "scoring": {
     "score": 100,
-    "priority": 126,
-    "base": 76,
+    "priority": 124,
+    "base": 74,
     "breakdown": {
      "agro": 25,
      "tech": 20,
      "business": 20,
      "mexico": 0,
-     "recency": 4,
+     "recency": 2,
      "source": 7
     },
     "bonuses": {
@@ -16309,7 +16310,7 @@
     "penalties": {}
    },
    "score": 100,
-   "priority": 126,
+   "priority": 124,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -25350,7 +25351,8 @@
     "agv-5f9dc3bb",
     "agv-a4814908",
     "agv-5f6fffe8",
-    "agv-f86a4114"
+    "agv-f86a4114",
+    "agv-1d77c97f"
    ],
    "verification": {
     "evidence": "ALTO",
@@ -29784,7 +29786,8 @@
     "agv-575775fb",
     "agv-71ff2874",
     "agv-d0d515d6",
-    "agv-94af89ca"
+    "agv-94af89ca",
+    "agv-4fbcea8f"
    ],
    "verification": {
     "evidence": "ALTO",
@@ -30237,7 +30240,8 @@
     "agv-d5901c3a",
     "agv-961882b9",
     "agv-5f6fffe8",
-    "agv-f86a4114"
+    "agv-f86a4114",
+    "agv-1d77c97f"
    ],
    "verification": {
     "evidence": "ALTO",
@@ -31006,7 +31010,8 @@
     "agv-d5901c3a",
     "agv-1743ca32",
     "agv-ff790ec7",
-    "agv-f86a4114"
+    "agv-f86a4114",
+    "agv-1d77c97f"
    ],
    "verification": {
     "evidence": "MEDIO",
@@ -34994,6 +34999,7 @@
    },
    "duplicate_of": null,
    "related_ids": [
+    "agv-bd103c93",
     "agv-52cb4dbc"
    ],
    "verification": {
@@ -37616,7 +37622,8 @@
     "agv-37674cc9",
     "agv-5f9dc3bb",
     "agv-a4814908",
-    "agv-f86a4114"
+    "agv-f86a4114",
+    "agv-1d77c97f"
    ],
    "verification": {
     "evidence": "ALTO",
@@ -38867,16 +38874,27 @@
     "MEXICO": 1
    },
    "duplicate_of": null,
-   "related_ids": [],
+   "related_ids": [
+    "agv-4fbcea8f"
+   ],
    "verification": {
-    "evidence": "BAJO",
-    "computed_evidence": "BAJO",
-    "status": "NO VERIFICADO",
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
     "source_role": "fuente secundaria",
-    "corroborations": [],
+    "corroborations": [
+     {
+      "name": "Los Noticieristas",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONWgxOTNsZzg3UXdYdmhPYmFpV2RDdGpxdmloN3VFRHJiSlV3ajFiV3BoZ3JSU0xtLVJQYWJ2c3ZwQmlrM21fdDQxMVZLSU1ZMEI1OG5hY2hneHl2dWFuTTlCOWg0Zmh0cFUwMVFWZW13WjViNUtuMVp6OGMtODRaeUpHNm5qMEo0UUJ6UDgxVVNqbTFMNnhOTHVjeWRQWURDV0ZZZlRhcWFqempaZmduVkEzNi1CZGVHWUhnODIxaENCZ3c0REtHY3h2T09ybDFmM21oY1I1eWZfcEtLTlFpdHRVcllzb2E0UjQ5TWtjTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "tier": 0,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-4fbcea8f"
+     }
+    ],
     "warnings": []
    },
-   "evidence": "BAJO",
+   "evidence": "MEDIO",
    "scoring": {
     "score": 29,
     "priority": 29,
@@ -38894,7 +38912,7 @@
    },
    "score": 29,
    "priority": 29,
-   "status": "NO VERIFICADO",
+   "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
    "suggested_formats": [],
@@ -42541,7 +42559,8 @@
     "agv-00a25987",
     "agv-1484ebf5",
     "agv-37674cc9",
-    "agv-a4814908"
+    "agv-a4814908",
+    "agv-1d77c97f"
    ],
    "verification": {
     "evidence": "ALTO",
@@ -46049,15 +46068,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 39,
-    "priority": 39,
-    "base": 29,
+    "score": 36,
+    "priority": 36,
+    "base": 26,
     "breakdown": {
      "agro": 4.2,
      "tech": 0,
      "business": 3.3,
      "mexico": 12,
-     "recency": 7,
+     "recency": 4,
      "source": 2
     },
     "bonuses": {
@@ -46065,8 +46084,8 @@
     },
     "penalties": {}
    },
-   "score": 39,
-   "priority": 39,
+   "score": 36,
+   "priority": 36,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -46473,15 +46492,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 56,
-    "priority": 56,
-    "base": 46,
+    "score": 53,
+    "priority": 53,
+    "base": 43,
     "breakdown": {
      "agro": 8.3,
      "tech": 20,
      "business": 3.3,
      "mexico": 0,
-     "recency": 7,
+     "recency": 4,
      "source": 7
     },
     "bonuses": {
@@ -46489,8 +46508,8 @@
     },
     "penalties": {}
    },
-   "score": 56,
-   "priority": 56,
+   "score": 53,
+   "priority": 53,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -46573,22 +46592,22 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 61,
-    "priority": 61,
-    "base": 61,
+    "score": 58,
+    "priority": 58,
+    "base": 58,
     "breakdown": {
      "agro": 25,
      "tech": 0,
      "business": 6.7,
      "mexico": 15,
-     "recency": 7,
+     "recency": 4,
      "source": 7
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 61,
-   "priority": 61,
+   "score": 58,
+   "priority": 58,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -46657,26 +46676,37 @@
     "MEXICO": 1
    },
    "duplicate_of": null,
-   "related_ids": [],
+   "related_ids": [
+    "agv-1d77c97f"
+   ],
    "verification": {
     "evidence": "MEDIO",
     "computed_evidence": "MEDIO",
     "status": "VERIFICADO",
     "source_role": "fuente secundaria",
-    "corroborations": [],
+    "corroborations": [
+     {
+      "name": "El Sol de México",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaUhlOWhCRGN5YWlCUjlrcWpXV1NacC1VTWtXZWFKMHpJblBnV3dQZThqQlJpR3hwcEJYWlVMQzNPTnlVMTVad2FFX1BGd0Q4azlGOEFCRmFDV2R0VUhpYmh5elU5M2Y0ZVVabkJoREZ3SDNjTTUzX2wtN3lyYVVoUF9HVjRkNDlTSmZYcFJkZlZFcUdkQlRuSGdQSERfMGZacElid0d4bWdvcDJ1R2Z0dDJrd1VnMHNqa1MyZGFsUWhmSTNOa0x0NlBleUZCbjA1aXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "tier": 0,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-1d77c97f"
+     }
+    ],
     "warnings": []
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 85,
-    "priority": 85,
-    "base": 65,
+    "score": 82,
+    "priority": 82,
+    "base": 62,
     "breakdown": {
      "agro": 25,
      "tech": 8,
      "business": 3.3,
      "mexico": 15,
-     "recency": 7,
+     "recency": 4,
      "source": 7
     },
     "bonuses": {
@@ -46685,8 +46715,8 @@
     },
     "penalties": {}
    },
-   "score": 85,
-   "priority": 85,
+   "score": 82,
+   "priority": 82,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -47785,22 +47815,22 @@
    },
    "evidence": "ALTO",
    "scoring": {
-    "score": 35,
-    "priority": 35,
-    "base": 35,
+    "score": 32,
+    "priority": 32,
+    "base": 32,
     "breakdown": {
      "agro": 0,
      "tech": 0,
      "business": 3.3,
      "mexico": 15,
-     "recency": 7,
+     "recency": 4,
      "source": 10
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 35,
-   "priority": 35,
+   "score": 32,
+   "priority": 32,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -47882,15 +47912,15 @@
    },
    "evidence": "BAJO",
    "scoring": {
-    "score": 54,
-    "priority": 54,
-    "base": 34,
+    "score": 51,
+    "priority": 51,
+    "base": 31,
     "breakdown": {
      "agro": 12.5,
      "tech": 12,
      "business": 0,
      "mexico": 0,
-     "recency": 7,
+     "recency": 4,
      "source": 2
     },
     "bonuses": {
@@ -47899,8 +47929,8 @@
     },
     "penalties": {}
    },
-   "score": 54,
-   "priority": 54,
+   "score": 51,
+   "priority": 51,
    "status": "NO VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -47987,15 +48017,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 99,
-    "priority": 99,
-    "base": 79,
+    "score": 96,
+    "priority": 96,
+    "base": 76,
     "breakdown": {
      "agro": 25,
      "tech": 20,
      "business": 20,
      "mexico": 0,
-     "recency": 7,
+     "recency": 4,
      "source": 7
     },
     "bonuses": {
@@ -48004,8 +48034,8 @@
     },
     "penalties": {}
    },
-   "score": 99,
-   "priority": 99,
+   "score": 96,
+   "priority": 96,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -48090,15 +48120,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 69,
-    "priority": 69,
-    "base": 59,
+    "score": 66,
+    "priority": 66,
+    "base": 56,
     "breakdown": {
      "agro": 25,
      "tech": 0,
      "business": 20,
      "mexico": 0,
-     "recency": 7,
+     "recency": 4,
      "source": 7
     },
     "bonuses": {
@@ -48106,8 +48136,8 @@
     },
     "penalties": {}
    },
-   "score": 69,
-   "priority": 69,
+   "score": 66,
+   "priority": 66,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -48192,14 +48222,14 @@
    "evidence": "MEDIO",
    "scoring": {
     "score": 100,
-    "priority": 106,
-    "base": 76,
+    "priority": 103,
+    "base": 73,
     "breakdown": {
      "agro": 25,
      "tech": 20,
      "business": 16.7,
      "mexico": 0,
-     "recency": 7,
+     "recency": 4,
      "source": 7
     },
     "bonuses": {
@@ -48210,7 +48240,7 @@
     "penalties": {}
    },
    "score": 100,
-   "priority": 106,
+   "priority": 103,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -48404,15 +48434,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 64,
-    "priority": 64,
-    "base": 54,
+    "score": 61,
+    "priority": 61,
+    "base": 51,
     "breakdown": {
      "agro": 25,
      "tech": 0,
      "business": 0,
      "mexico": 15,
-     "recency": 7,
+     "recency": 4,
      "source": 7
     },
     "bonuses": {
@@ -48420,8 +48450,8 @@
     },
     "penalties": {}
    },
-   "score": 64,
-   "priority": 64,
+   "score": 61,
+   "priority": 61,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -66470,7 +66500,8 @@
    "related_ids": [
     "agv-8c7d6250",
     "agv-d5901c3a",
-    "agv-4c84801f"
+    "agv-4c84801f",
+    "agv-1d77c97f"
    ],
    "verification": {
     "evidence": "MEDIO",
@@ -66695,7 +66726,8 @@
    "duplicate_of": null,
    "related_ids": [
     "agv-9d5659a4",
-    "agv-f86a4114"
+    "agv-f86a4114",
+    "agv-1d77c97f"
    ],
    "verification": {
     "evidence": "ALTO",
@@ -66816,7 +66848,8 @@
     "agv-5816a4a3",
     "agv-944133d9",
     "agv-71ff2874",
-    "agv-ccb39c05"
+    "agv-ccb39c05",
+    "agv-4fbcea8f"
    ],
    "verification": {
     "evidence": "MEDIO",
@@ -70096,7 +70129,8 @@
     "agv-d5901c3a",
     "agv-11ec88bd",
     "agv-5f6fffe8",
-    "agv-f86a4114"
+    "agv-f86a4114",
+    "agv-1d77c97f"
    ],
    "verification": {
     "evidence": "ALTO",
@@ -70216,15 +70250,15 @@
    },
    "evidence": "BAJO",
    "scoring": {
-    "score": 50,
-    "priority": 50,
-    "base": 40,
+    "score": 47,
+    "priority": 47,
+    "base": 37,
     "breakdown": {
      "agro": 8.3,
      "tech": 16,
      "business": 3.3,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 2
     },
     "bonuses": {
@@ -70232,8 +70266,8 @@
     },
     "penalties": {}
    },
-   "score": 50,
-   "priority": 50,
+   "score": 47,
+   "priority": 47,
    "status": "NO VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -70406,15 +70440,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 10,
-    "priority": 10,
-    "base": 40,
+    "score": 7,
+    "priority": 7,
+    "base": 37,
     "breakdown": {
      "agro": 4.2,
      "tech": 0,
      "business": 3.3,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {},
@@ -70422,8 +70456,8 @@
      "duplicado": -30
     }
    },
-   "score": 10,
-   "priority": 10,
+   "score": 7,
+   "priority": 7,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -70510,15 +70544,15 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 100,
-    "priority": 102,
-    "base": 82,
+    "score": 99,
+    "priority": 99,
+    "base": 79,
     "breakdown": {
      "agro": 25,
      "tech": 20,
      "business": 20,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -70527,8 +70561,8 @@
     },
     "penalties": {}
    },
-   "score": 100,
-   "priority": 102,
+   "score": 99,
+   "priority": 99,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -70616,14 +70650,14 @@
    "evidence": "MEDIO",
    "scoring": {
     "score": 100,
-    "priority": 122,
-    "base": 82,
+    "priority": 119,
+    "base": 79,
     "breakdown": {
      "agro": 25,
      "tech": 20,
      "business": 20,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -70635,7 +70669,7 @@
     "penalties": {}
    },
    "score": 100,
-   "priority": 122,
+   "priority": 119,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -70719,22 +70753,22 @@
    },
    "evidence": "MEDIO",
    "scoring": {
-    "score": 62,
-    "priority": 62,
-    "base": 62,
+    "score": 59,
+    "priority": 59,
+    "base": 59,
     "breakdown": {
      "agro": 25,
      "tech": 0,
      "business": 20,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 62,
-   "priority": 62,
+   "score": 59,
+   "priority": 59,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -71118,13 +71152,24 @@
     "MEXICO": 0.6666666666666666
    },
    "duplicate_of": null,
-   "related_ids": [],
+   "related_ids": [
+    "agv-1d77c97f"
+   ],
    "verification": {
     "evidence": "ALTO",
     "computed_evidence": "ALTO",
     "status": "VERIFICADO",
     "source_role": "fuente primaria",
-    "corroborations": [],
+    "corroborations": [
+     {
+      "name": "El Sol de México",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaUhlOWhCRGN5YWlCUjlrcWpXV1NacC1VTWtXZWFKMHpJblBnV3dQZThqQlJpR3hwcEJYWlVMQzNPTnlVMTVad2FFX1BGd0Q4azlGOEFCRmFDV2R0VUhpYmh5elU5M2Y0ZVVabkJoREZ3SDNjTTUzX2wtN3lyYVVoUF9HVjRkNDlTSmZYcFJkZlZFcUdkQlRuSGdQSERfMGZacElid0d4bWdvcDJ1R2Z0dDJrd1VnMHNqa1MyZGFsUWhmSTNOa0x0NlBleUZCbjA1aXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "tier": 0,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-1d77c97f"
+     }
+    ],
     "warnings": []
    },
    "evidence": "ALTO",
@@ -71220,7 +71265,8 @@
     "agv-9d5659a4",
     "agv-a4814908",
     "agv-075312f4",
-    "agv-f86a4114"
+    "agv-f86a4114",
+    "agv-1d77c97f"
    ],
    "verification": {
     "evidence": "ALTO",
@@ -71486,22 +71532,22 @@
    },
    "evidence": "ALTO",
    "scoring": {
-    "score": 32,
-    "priority": 32,
-    "base": 32,
+    "score": 29,
+    "priority": 29,
+    "base": 29,
     "breakdown": {
      "agro": 4.2,
      "tech": 0,
      "business": 3.3,
      "mexico": 12,
-     "recency": 10,
+     "recency": 7,
      "source": 2
     },
     "bonuses": {},
     "penalties": {}
    },
-   "score": 32,
-   "priority": 32,
+   "score": 29,
+   "priority": 29,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -71688,14 +71734,14 @@
    "evidence": "MEDIO",
    "scoring": {
     "score": 100,
-    "priority": 107,
-    "base": 67,
+    "priority": 104,
+    "base": 64,
     "breakdown": {
      "agro": 25,
      "tech": 8,
      "business": 16.7,
      "mexico": 0,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -71707,7 +71753,7 @@
     "penalties": {}
    },
    "score": 100,
-   "priority": 107,
+   "priority": 104,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -72005,15 +72051,15 @@
    },
    "evidence": "ALTO",
    "scoring": {
-    "score": 77,
-    "priority": 77,
-    "base": 67,
+    "score": 74,
+    "priority": 74,
+    "base": 64,
     "breakdown": {
      "agro": 25,
      "tech": 0,
      "business": 10,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 7
     },
     "bonuses": {
@@ -72021,8 +72067,8 @@
     },
     "penalties": {}
    },
-   "score": 77,
-   "priority": 77,
+   "score": 74,
+   "priority": 74,
    "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -72304,7 +72350,8 @@
     "agv-9d5659a4",
     "agv-a4814908",
     "agv-6aaa6158",
-    "agv-f86a4114"
+    "agv-f86a4114",
+    "agv-1d77c97f"
    ],
    "verification": {
     "evidence": "MEDIO",
@@ -73116,15 +73163,15 @@
    },
    "evidence": "BAJO",
    "scoring": {
-    "score": 45,
-    "priority": 45,
-    "base": 35,
+    "score": 42,
+    "priority": 42,
+    "base": 32,
     "breakdown": {
      "agro": 8.3,
      "tech": 0,
      "business": 0,
      "mexico": 15,
-     "recency": 10,
+     "recency": 7,
      "source": 2
     },
     "bonuses": {
@@ -73132,8 +73179,8 @@
     },
     "penalties": {}
    },
-   "score": 45,
-   "priority": 45,
+   "score": 42,
+   "priority": 42,
    "status": "NO VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
@@ -73202,16 +73249,27 @@
     "MEXICO": 0.6666666666666666
    },
    "duplicate_of": null,
-   "related_ids": [],
+   "related_ids": [
+    "agv-1d77c97f"
+   ],
    "verification": {
-    "evidence": "BAJO",
-    "computed_evidence": "BAJO",
-    "status": "NO VERIFICADO",
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
     "source_role": "fuente secundaria",
-    "corroborations": [],
+    "corroborations": [
+     {
+      "name": "El Sol de México",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaUhlOWhCRGN5YWlCUjlrcWpXV1NacC1VTWtXZWFKMHpJblBnV3dQZThqQlJpR3hwcEJYWlVMQzNPTnlVMTVad2FFX1BGd0Q4azlGOEFCRmFDV2R0VUhpYmh5elU5M2Y0ZVVabkJoREZ3SDNjTTUzX2wtN3lyYVVoUF9HVjRkNDlTSmZYcFJkZlZFcUdkQlRuSGdQSERfMGZacElid0d4bWdvcDJ1R2Z0dDJrd1VnMHNqa1MyZGFsUWhmSTNOa0x0NlBleUZCbjA1aXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "tier": 0,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-1d77c97f"
+     }
+    ],
     "warnings": []
    },
-   "evidence": "BAJO",
+   "evidence": "MEDIO",
    "scoring": {
     "score": 42,
     "priority": 42,
@@ -73231,7 +73289,7 @@
    },
    "score": 42,
    "priority": 42,
-   "status": "NO VERIFICADO",
+   "status": "VERIFICADO",
    "analysis_complete": false,
    "publishable": false,
    "suggested_formats": [
@@ -75415,7 +75473,8 @@
     "agv-a4814908",
     "agv-d5901c3a",
     "agv-11ec88bd",
-    "agv-5f6fffe8"
+    "agv-5f6fffe8",
+    "agv-1d77c97f"
    ],
    "verification": {
     "evidence": "ALTO",
@@ -76264,7 +76323,8 @@
     "agv-9d5659a4",
     "agv-a4814908",
     "agv-d5901c3a",
-    "agv-f86a4114"
+    "agv-f86a4114",
+    "agv-1d77c97f"
    ],
    "verification": {
     "evidence": "ALTO",
@@ -76309,6 +76369,1043 @@
    "publishable": false,
    "suggested_formats": [
     "¿Cuánto cuesta?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-1d77c97f",
+   "retrieved_at": "2026-11-12T19:45:55.694Z",
+   "ingested_via": "googlenews",
+   "title_original": "Sader reporta avance en la entrega de apoyos a para productores de maíz, arroz y trigo",
+   "title_agrovision": "",
+   "source_name": "El Sol de México",
+   "source_domain": "oem.com.mx",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaUhlOWhCRGN5YWlCUjlrcWpXV1NacC1VTWtXZWFKMHpJblBnV3dQZThqQlJpR3hwcEJYWlVMQzNPTnlVMTVad2FFX1BGd0Q4azlGOEFCRmFDV2R0VUhpYmh5elU5M2Y0ZVVabkJoREZ3SDNjTTUzX2wtN3lyYVVoUF9HVjRkNDlTSmZYcFJkZlZFcUdkQlRuSGdQSERfMGZacElid0d4bWdvcDJ1R2Z0dDJrd1VnMHNqa1MyZGFsUWhmSTNOa0x0NlBleUZCbjA1aXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmi0gfbvv95cuxpauhlowhcrgn5ywlcujlrcwpxv1nacc1vtwtxzwfkmhpjblbnv3dqzthqqljpr3hwcejywlvmqznptnlvmtvad2ffx1bgd0q4azlgoefcrmfdv2r0vuhpymh5elu5m2y0zvvabkjorez3sdnjttuzx2wtn3lyyvvouf9hvjrkndltsmzycfjkzlzfcudkqlrusgdqserfmgzacelid0d4bwdvcdj1r2z0ddjrd1vnmhnqa1myzgfsuwhmstnoa0x0nlbleuzcbja1axc?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-11-12",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "AGRO",
+   "subcategory": "Cultivos",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 0.3333333333333333,
+    "TECH": 0,
+    "BUSINESS": 0,
+    "MEXICO": 0.6666666666666666
+   },
+   "duplicate_of": null,
+   "related_ids": [
+    "agv-48ba15ac",
+    "agv-8b5ebe5b",
+    "agv-243ad80c",
+    "agv-c1bd6da4",
+    "agv-209d8880",
+    "agv-2686d59a",
+    "agv-9d5659a4",
+    "agv-afb639f2",
+    "agv-37674cc9",
+    "agv-a4814908",
+    "agv-d5901c3a",
+    "agv-11ec88bd",
+    "agv-5f6fffe8",
+    "agv-634c5a84",
+    "agv-f86a4114"
+   ],
+   "verification": {
+    "evidence": "ALTO",
+    "computed_evidence": "ALTO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [
+     {
+      "name": "El Economista",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOREd6ejdCZHlaeHVDOGx0Uk1TN1N2ZHhXeUNpeG14ekl5eXJZVGNCS01aVzE3ZkVGbFpQdDVfcFN6LU5JRFZhSG5EU2xpSUV5cmFjSl9nQ2hzT01mOC1iZ29IQWVWdTJISTM1djBDamMtbWRXeXZvTFVIa1ByU0dOWVJZcmVKZjdQNU0xbmRMTm1wZk40ZHVsY3ltMVJESUtKZHpvbXNqSWpOcHQtRmpYek40QldQeGJoZ3VGSTUwWdIBvwFBVV95cUxOREd6ejdCZHlaeHVDOGx0Uk1TN1N2ZHhXeUNpeG14ekl5eXJZVGNCS01aVzE3ZkVGbFpQdDVfcFN6LU5JRFZhSG5EU2xpSUV5cmFjSl9nQ2hzT01mOC1iZ29IQWVWdTJISTM1djBDamMtbWRXeXZvTFVIa1ByU0dOWVJZcmVKZjdQNU0xbmRMTm1wZk40ZHVsY3ltMVJESUtKZHpvbXNqSWpOcHQtRmpYek40QldQeGJoZ3VGSTUwWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "tier": 2,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-8b5ebe5b"
+     },
+     {
+      "name": "Imagen Agropecuaria",
+      "url": "https://imagenagropecuaria.com/2026/reportan-avance-del-plan-campeche-entregan-apoyos-directos-a-productores-de-carne/",
+      "tier": 2,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-209d8880"
+     }
+    ],
+    "warnings": []
+   },
+   "evidence": "ALTO",
+   "scoring": {
+    "score": 42,
+    "priority": 42,
+    "base": 32,
+    "breakdown": {
+     "agro": 8.3,
+     "tech": 0,
+     "business": 0,
+     "mexico": 12,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {
+     "afecta_productores": 10
+    },
+    "penalties": {}
+   },
+   "score": 42,
+   "priority": 42,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-4fbcea8f",
+   "retrieved_at": "2026-11-12T19:45:55.694Z",
+   "ingested_via": "googlenews",
+   "title_original": "Pago a productores de trigo en Sinaloa fluye sin problema, asegura secretario de Agricultura y Ganadería",
+   "title_agrovision": "",
+   "source_name": "Los Noticieristas",
+   "source_domain": "losnoticieristas.com",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONWgxOTNsZzg3UXdYdmhPYmFpV2RDdGpxdmloN3VFRHJiSlV3ajFiV3BoZ3JSU0xtLVJQYWJ2c3ZwQmlrM21fdDQxMVZLSU1ZMEI1OG5hY2hneHl2dWFuTTlCOWg0Zmh0cFUwMVFWZW13WjViNUtuMVp6OGMtODRaeUpHNm5qMEo0UUJ6UDgxVVNqbTFMNnhOTHVjeWRQWURDV0ZZZlRhcWFqempaZmduVkEzNi1CZGVHWUhnODIxaENCZ3c0REtHY3h2T09ybDFmM21oY1I1eWZfcEtLTlFpdHRVcllzb2E0UjQ5TWtjTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmi7wfbvv95cuxonwgxotnszzg3uxdydmhpymfpv2rddgpxdmlon3vfrhjislv3ajfiv3boz3jsu0xtlvjqywj2c3zwqmlrm21fddqxmvzlsu1zmei1og5hy2hnehl2dwfuttlcowg0zmh0cfuwmvfwzw13wjvinutumvp6ogmtodraeuphnm5qmeo0uuj6udgxvvnqbtfmnnhothvjewrqwurdv0zzzlrhcwfqempazmduvkezni1czgvhwuhnodixaencz3c0rethy3h2t09ybdfmm21oy1i1ewzfcetltlfpdhrvcllzb2e0ujq5twtjtq?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-11-12",
+   "country": "México",
+   "mx_state": "Sinaloa",
+   "category": "AGRO",
+   "subcategory": "Agricultura",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 0.5,
+    "TECH": 0,
+    "BUSINESS": 0,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [
+    "agv-84f99f54",
+    "agv-f3be9990",
+    "agv-ccb39c05",
+    "agv-fe4d140e"
+   ],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [
+     {
+      "name": "Hoja de Ruta Digital",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX1ZDdUwtcG5UVUNvVjY2RUhoQkhfRERpbFhsdzNlRnA4T2dHZmVQLV9sNXBjSjd2RGFyQ0djZ21JZklQOWh5ZlV5d1F0X2RfQ1NjMHFUQUFMZFRxTjNadGp6UzB2RGN5c2pmdUZYbno3Zk10TmU0YTZXM2I3RXppUlVtNXZtR1Uxc1k2eG5TbHY5Zm9PN3pWN1dXaXh3cXVZNVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "tier": 0,
+      "type": "secondary",
+      "via": "relacionado",
+      "item_id": "agv-f3be9990"
+     }
+    ],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 50,
+    "priority": 50,
+    "base": 40,
+    "breakdown": {
+     "agro": 12.5,
+     "tech": 0,
+     "business": 0,
+     "mexico": 15,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {
+     "afecta_productores": 10
+    },
+    "penalties": {}
+   },
+   "score": 50,
+   "priority": 50,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": [
+    "Voz local: productor(a) u organización de Sinaloa sobre cómo les afecta este tema."
+   ]
+  },
+  {
+   "id": "agv-17fc3b30",
+   "retrieved_at": "2026-11-12T19:45:55.694Z",
+   "ingested_via": "googlenews",
+   "title_original": "Impulsa Libia al campo de Guanajuato en inauguración de Expo Agroalimentaria",
+   "title_agrovision": "",
+   "source_name": "El otro enfoque",
+   "source_domain": "elotroenfoque.mx",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNE5nc3VjTzdIbHRRM0pYZ1dnVHUzTTE3N19pUGlPdldnUThhdEwwZjFwYW5QeTlhbHZ3SWd1amN0WmlmNWJVYm9zeTZvTWxtb1pKR1RxZm5JSzhPcllxd1FKaFRqLW10MUhiMjdzenZPbTJ6OVJRdnlSRWN2N25pV0JNQzdvMTFOVVBYN0lqR1hxWDJiTzFSdmZhcV81YzdFTm5CTlVHUjFKU3NTYWYzX2IycDRCUzU3blNNRzNhQVM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmiwafbvv95cuxqne5nc3vjtzdibhrrm0pyz1dnvhuztte3n19puglpdldnuthhdewwzjfwyw5qetlhbhz3swd1amn0wmlmnwjvym9zetzvtwxtb1pkr1rxzm5jszhpcllxd1fkafrqlw10muhimjdzenzpbtj6ovjrdnlsrwn2n25pv0jnqzdvmtfovvbyn0lqr1hxwdjitzfsdmzhcv81yzdftm5ctlvhujfku3ntywyzx2iycdrcuzu3blnnrznhqvm?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-11-11",
+   "country": "México",
+   "mx_state": "Guanajuato",
+   "category": "MEXICO",
+   "subcategory": "Guanajuato",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [],
+   "relevance": {
+    "AGRO": 0.3333333333333333,
+    "TECH": 0,
+    "BUSINESS": 0,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 35,
+    "priority": 35,
+    "base": 35,
+    "breakdown": {
+     "agro": 8.3,
+     "tech": 0,
+     "business": 0,
+     "mexico": 15,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 35,
+   "priority": 35,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": [
+    "Voz local: productor(a) u organización de Guanajuato sobre cómo les afecta este tema."
+   ]
+  },
+  {
+   "id": "agv-9f3a231e",
+   "retrieved_at": "2026-11-12T19:45:55.694Z",
+   "ingested_via": "googlenews",
+   "title_original": "Agrifood Signals: Applied Carbon nabs $72m for biochar, redalpine & Just Carbon close funds",
+   "title_agrovision": "",
+   "source_name": "AgFunderNews",
+   "source_domain": "agfundernews.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS1hTOUVaUDFqMk5JbW9fTjBMSjhBUjJnOG83alBHajk5Z2h1Rm01MWdGanV0Vjc1Y050c3JwOHhqcjZyUWVnVDU5UnZtQ3RCQlFTQ1plcU9VbnY1YWhhQWNNeVBLb2ZQOHVHQzdTSGN6emUxZU9GT3pxdUs4VmY4elZ6bVBmTEVwaEs0LXZ2LTJMNzN0bnBBSHN1aS05N1dhbmI1OERGc1pVX3I3MG9XQw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmisafbvv95cuxns1htouvaudfqmk5jbw9ftjbmsjhbujjnog83albhajk5z2h1rm01mwdganv0vjc1y050c3jwohhqcjzyuwvnvdu5unztq3rcqlftq1plcu9vbny1ywhhqwnnevblb2zqohvhqzdtsgn6emuxzu9gt3pxdus4vmy4elz6bvbmtevwaes0lxz2ltjmnzn0bnbbshn1as05n1dhbmi1oergc1pvx3i3mg9xqw?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-11-12",
+   "country": "Global",
+   "mx_state": null,
+   "category": "AGRO",
+   "subcategory": "Sustentabilidad",
+   "technologies": [],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [],
+   "relevance": {
+    "AGRO": 0.5,
+    "TECH": 0,
+    "BUSINESS": 0,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 30,
+    "priority": 30,
+    "base": 30,
+    "breakdown": {
+     "agro": 12.5,
+     "tech": 0,
+     "business": 0,
+     "mexico": 0,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {},
+    "penalties": {}
+   },
+   "score": 30,
+   "priority": 30,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-56442539",
+   "retrieved_at": "2026-11-12T19:45:55.694Z",
+   "ingested_via": "googlenews",
+   "title_original": "Struggling marijuana farms pivot to becoming AI data center sites to escape falling weed revenue — existing water and power infrastructure makes cultivation sites ideal for decentralized ‘mini data center nodes’",
+   "title_agrovision": "",
+   "source_name": "Tom's Hardware",
+   "source_domain": "tomshardware.com",
+   "source_type": "secondary",
+   "source_tier": 0,
+   "source_kind": "desconocido",
+   "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNZUdid2hLNElRZm9SNjNiUFpsN05UWEVRWkxCYXZyRXdlM0xhMC1jc21XczY5X19rbjFxVGVGdEVEcDA3dHpfXzBCdVhlSHB2UXhSbE0zSUVHX2E3Q0d5QmJXQ1hkU085U25Ha19kTWxCVjVqY3Mxb0ZaTW1LanNkUFh2cDJHZF9PM2hHTWlpVWdWOFJ1RWdsdzNQS3c2RzJhRHlUdnR0dV9YcmltdU1vY0RIVUZFc2o4VXYtQlo3NWpZSlMyZ0ZlTzBOcTVfemQwTUxGOFllX1hxNGEzcGJNT3ZiR2RKaWUyUzhRb3NkQ3NwNXluNDV2QWJ1UVB4bU9GbEx5ZC1ZVk9mYjFaU2VUS1Z6czNaMWNQNXI0T25LRUxUdmpNejBJV19Na1hLS1VZbUd2TDU5X2R5SzYxUm5DaEkxRTgwN1MtQ0xqNlpIM0EyQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "canonical_url": "https://news.google.com/rss/articles/cbmi0gjbvv95cuxnzudid2hlnelrzm9snjniufpsn05uwevrwkxcyxzyrxdlm0xhmc1jc21xczy5x19rbjfxvgvgdevecda3dhpfxzbcdvhlshb2uxhsbe0zsuvhx2e3q0d5qmjxq1hku085u25ha19ktwxcvjvqy3mxb0zatw1lannkufh2cdjhzf9pm2hhtwlpvwdwofj1rwdsdznqs3c2rzjhrhludnr0dv9ycmltdu1vy0rivuzfc2o4vxytqlo3nwpzslmyz0zltzboctvfemqwtuxgofllx1hxngezcgjnt3zir2rkawuyuzhrb3nkq3nwnxlundv2qwj1uvb4bu9gbex5zc1zvk9myjfau2vus1z6cznamwnqnxi0t25lruxudmpnejbjv19na1hls1vzbud2tdu5x2r5szyxum5daekxrtgwn1mtq0xqnlpim0eyqq?oc=5&hl=en-us&gl=us&ceid=us:en",
+   "published_at": "2026-11-12",
+   "country": "Global",
+   "mx_state": null,
+   "category": "TECH",
+   "subcategory": "Datos",
+   "technologies": [
+    "Inteligencia Artificial",
+    "Datos"
+   ],
+   "companies": [],
+   "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [],
+   "relevance": {
+    "AGRO": 0.3333333333333333,
+    "TECH": 1,
+    "BUSINESS": 0.16666666666666666,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "BAJO",
+    "computed_evidence": "BAJO",
+    "status": "NO VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "BAJO",
+   "scoring": {
+    "score": 54,
+    "priority": 54,
+    "base": 44,
+    "breakdown": {
+     "agro": 8.3,
+     "tech": 20,
+     "business": 3.3,
+     "mexico": 0,
+     "recency": 10,
+     "source": 2
+    },
+    "bonuses": {
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 54,
+   "priority": 54,
+   "status": "NO VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-af20f556",
+   "retrieved_at": "2026-11-12T19:45:55.694Z",
+   "ingested_via": "rss",
+   "title_original": "Informed employees one of the ‘most powerful defenses’ against cyber attacks, says Cargill CISO",
+   "title_agrovision": "",
+   "source_name": "AgFunderNews",
+   "source_domain": "agfundernews.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://agfundernews.com/informed-employees-one-of-the-most-powerful-defenses-against-cyber-attacks-says-cargill-ciso",
+   "canonical_url": "https://agfundernews.com/informed-employees-one-of-the-most-powerful-defenses-against-cyber-attacks-says-cargill-ciso",
+   "published_at": "2026-11-11",
+   "country": "Global",
+   "mx_state": null,
+   "category": "TECH",
+   "subcategory": "Inteligencia Artificial",
+   "technologies": [
+    "Inteligencia Artificial",
+    "Automatización",
+    "Software",
+    "Datos"
+   ],
+   "companies": [],
+   "content": "Informed employees remain one of the \"most power defenses\" against cyber attacks, says Cargill's chief information security officer.\nWhat does it take to protect a multinational agribusiness from cybersecurity attacks?\n“We don’t assume every attempt can be prevented, so our focus is on building the readiness to identify threats early and act decisively,” says Brian Cincera, chief information security officer at Cargill .\nRight now, chances of attacks in agrifood are extremely pressing but not necessarily apocalyptic, he suggests. The most impactful thing agrifood companies can do is take actions that will strengthen ability to detect threats, learn how to respond, and train the rest of the organization to do the same.\nDay to day, that means identifying critical business operations and consistently monitoring people and processes within the organization.\n“Advanced AI enables adversaries to create more convincing and scalable attacks, but it also gives defenders new ways to prevent, detect and respond,” says Cincera, who spent nearly 20 years at Pfizer before moving to Cargill in 2024.\nPeople are at the heart of Cargill’s strategy, both within and outside of the company walls. The company is a founding member of threat-intelligence group the Food and Ag-ISAC, and Cincera highlights employee training as a core part of Cargill’s cybersecurity response.\n“Technology will keep evolving, but informed people who know what to look for remain one of our most powerful defenses,” he notes.\nHe recently sat down with AgFunderNews to discuss how Cargill approaches cybersecurity and share lessons for other agrifood companies.\nAgFunderNews ( AFN ): What is Cargill’s strategy for managing security across such a large, global entity?\nBrian Cincera (BC): Cybersecurity starts with our business strategy. We identify the operations, relationships and outcomes most critical to our business and the global food system, then determine how security processes and technology can best protect and enable them. Our approach is straightforward: excel at prevention wherever possible, detect threats quickly, and respond decisively when incidents occur.\nThat requires layers of protection across technology, processes and people, including monitoring, preparedness exercises, employee education, and phishing simulations.\nWe are also using advanced AI to strengthen prevention, accelerate detection and improve our responsiveness. Consistent execution across these areas helps make us a harder target and strengthens the resilience of the operations and supply chains our customers depend on.\nAFN : Has Cargill experienced any major incidents or threat of incidents? How did you respond?\nBC: Like every large global organization, Cargill operates in an environment where cyber threats and attempted attacks are persistent and constantly evolving. For security reasons, we don’t discuss specific threats or details of our defenses, but we take every potential threat seriously and have established processes to prevent what we can, detect suspicious activity quickly and respond decisively.\nWhen an incident occurs, our priorities are to contain the threat, protect our people, our operations and our customers, understand the potential impact and restore affected capabilities safely. We regularly test our preparedness, engage with customer security teams, train our employees, and use what we learn to keep improving. We don’t assume every attempt can be prevented, so our focus is on building the readiness to identify threats early and act decisively.\nAFN : Cargill was part of the group that formed the Food and Ag-ISAC in 2023. What motivated the company to initially join the initiative? How is it involved?\nBC: Cargill helped establish the Food and Ag-ISAC because cybersecurity is one area where the industry is stronger when we work together. The food and agriculture supply chain is deeply interconnected, and an incident affecting one organization can have implications for suppliers, manufacturers and ultimately consumers. We jumped at the chance to join other industry leaders in the sector to create a forum for sharing pre-competitive threat intelligence, indicators and effective security practices.\nToday, we remain committed to that mission and to strengthening resilience across the wider food system. No single organization can see every threat. Sharing knowledge helps each participant become a harder target and better prepared to respond.\nAFN : On a scale of 1 to 10, with 10 being apocalyptic, how big of a threat are hackers to agrifood operations right now?\nBC: The threat is serious enough that no agrifood company can treat cybersecurity as solely an IT issue, but it isn’t a reason to be apocalyptic. Cybercrime is constantly evolving, and the dedication and security investments that agrifood sector participants are making are exactly what keeps the threat in check. As agrifood becomes more connected through AI, automation and remotely managed systems, cyber incidents can affect not only information but also physical operations, production and supply chains.\nOrganizations can meaningfully reduce risk by understanding their most critical operations, training their people, building security into technology from the beginning and preparing to respond decisively. The most important question isn’t whether the threat is a seven, eight or nine. It’s whether we’re taking action now.\nAFN : What should agtech startups do to responsibly develop AI and other digitization tools for food and farm?\nBC: Start with the business and operational need, not the technology. Developers should first understand the problem they are solving and the data and systems their technology will touch. Then, digital solutions need to be designed with safety in mind, recognizing that technology failures, misuse or compromise can be inevitable.\nSecurity, privacy, and responsible data practices need to be built in from the beginning, not added at the end. The realities of agriculture, where new tools interact with legacy systems and physical operations, mean that we cannot simply stop for a software update. If a digital tool can influence how food is produced, processed or moved, cybersecurity must be treated as part of product quality and operational safety, not as an optional technical feature.\nAFN : What keeps you up at night with regard to Cargill and cybersecurity?\nBC: The speed at which the threat landscape is changing and the potential for a digital incident to have real-world consequences across an interconnected food system. Advanced AI enables adversaries to create more convincing and scalable attacks, but it also gives defenders new ways to prevent, detect and respond.\nWhat gives me confidence is the deep commitment of our entire company to cybersecurity. Safety and responsibility are woven into our culture, and the role our people play in that culture extends to cybersecurity. We provide ongoing education to make employees great at detecting and reporting suspicious activity. With approximately 155,000 employees, one person speaking up can help protect everyone around them. Technology will keep evolving, but informed people who know what to look for remain one of our most powerful defenses.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "AGRO"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 1,
+    "BUSINESS": 0.3333333333333333,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 79,
+    "priority": 79,
+    "base": 69,
+    "breakdown": {
+     "agro": 25,
+     "tech": 20,
+     "business": 6.7,
+     "mexico": 0,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 79,
+   "priority": 79,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?",
+    "Startup que debes conocer",
+    "¿Quién está invirtiendo?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-caf900c9",
+   "retrieved_at": "2026-11-12T19:45:55.694Z",
+   "ingested_via": "rss",
+   "title_original": "Blitz Electric Weeder uses electricity and camera technology to control weeds",
+   "title_agrovision": "",
+   "source_name": "Future Farming",
+   "source_domain": "futurefarming.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://www.futurefarming.com/smart-farming/blitz-electric-weeder-uses-electricity-and-camera-technology-to-control-weeds/",
+   "canonical_url": "https://futurefarming.com/smart-farming/blitz-electric-weeder-uses-electricity-and-camera-technology-to-control-weeds",
+   "published_at": "2026-11-12",
+   "country": "Global",
+   "mx_state": null,
+   "category": "TECH",
+   "subcategory": "Robótica",
+   "technologies": [
+    "Robótica"
+   ],
+   "companies": [],
+   "content": "Identifying weeds with cameras and then killing them using electricity. That is the principle behind the Blitz Electric Weeder.\nIdentifying weeds with cameras and then killing them using electricity. That is the principle behind the Blitz Electric Weeder from Canadian manufacturer BHF Robotics. The weeding robot operates without herbicides and leaves the soil undisturbed. Three versions are available, featuring 1, 2 or 6 modules.\nThe Blitz Electric Weeder uses a 3D detection system to identify weeds between and beneath crops. A movable electrode then delivers a targeted electrical voltage to the plant.\nAccording to BHF, the system operates with millimetre-level precision. The technology can also potentially be used for crop thinning. Suitable crops include lettuce, carrots, onions, peppers and strawberries. The manufacturer also claims that weeds growing through agricultural plastic mulch can be controlled without damaging the film.\nBHF offers the robot for weed control in 3 versions. The T100 features a single module equipped with a camera, a 3.5 kW manipulator and a 3 kW electric weed control unit. The T200 has two of these modules. The largest model is the T600, which features six modules and has a working width of approximately 6.1 metres. All versions are equipped with a generator. No information is currently available on operating speed, field capacity per hectare or availability on the Dutch market.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "AGRO"
+   ],
+   "relevance": {
+    "AGRO": 0.8333333333333334,
+    "TECH": 0.8,
+    "BUSINESS": 0.16666666666666666,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 67,
+    "priority": 67,
+    "base": 57,
+    "breakdown": {
+     "agro": 20.8,
+     "tech": 16,
+     "business": 3.3,
+     "mexico": 0,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 67,
+   "priority": 67,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-226348d4",
+   "retrieved_at": "2026-11-12T19:45:55.694Z",
+   "ingested_via": "rss",
+   "title_original": "Claas scoops up 2 awards at TOTY 2027, AgXeed wins again with AgBot",
+   "title_agrovision": "",
+   "source_name": "Future Farming",
+   "source_domain": "futurefarming.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://www.futurefarming.com/machinery/claas-scoops-two-awards-at-toty-2027-agxeed-wins-again-with-agbot/",
+   "canonical_url": "https://futurefarming.com/machinery/claas-scoops-two-awards-at-toty-2027-agxeed-wins-again-with-agbot",
+   "published_at": "2026-11-12",
+   "country": "Global",
+   "mx_state": null,
+   "category": "TECH",
+   "subcategory": "Robótica",
+   "technologies": [
+    "Robótica"
+   ],
+   "companies": [],
+   "content": "6 Tractor of the Year (TOTY) awards are traditionally presented on the opening day of the Eima trade fair in Bologna, Italy.\n6 Tractor of the Year (TOTY) awards are traditionally presented on the opening day of the Eima trade fair in Bologna, Italy. This year’s big winner is Claas, taking home 2 awards in the “Best of Specialized” and “Best of Utility” categories. The remaining awards go to Dutch manufacturer AgXeed, Massey Ferguson, New Holland and Steyr.\nThe tractor brands taking home the 2027 Tractor of the Year (TOTY) awards are, in alphabetical order, AgXeed, Claas, Massey Ferguson, New Holland and Steyr. The awards ceremony traditionally takes place on the opening day of the Eima agricultural machinery exhibition in Bologna. Claas takes home two awards, as does Case New Holland. Claas wins the “Best of Specialized” category with its continuously variable transmission (CVT) Nexos narrow-track tractor, as well as the “Best of Utility” category with the new CVT Arion 4, unveiled earlier yesterday morning. Parent company Case New Holland (CNH) wins the “Best of Sustainable” award with its New Holland T7.270 methane-powered tractor. Meanwhile, fellow CNH brand Steyr takes the award in the largest category, “Best of HighPower”, with the Steyr Cervus.\nMachinery manufacturer AgXeed, based in Grubbenvorst in the Dutch province of Limburg, wins the TOTYBot category for the third consecutive year. This time, the award goes to the new, second-generation AgBot, the T2 Series 7 . The achievement demonstrates how far AgXeed has progressed in developing its robot tractor and reflects the company’s approach to autonomous operations in agriculture.\nFinally, Massey Ferguson wins the “Best of MidPower” category with its recently introduced MF 7S Mark 2.\nContinue reading below the photo; see more photos at the bottom of this article.\nThe TOTY awards are decided by a jury comprising members from 25 European countries, who vote for the tractors competing for the top prize in each category . Every year, manufacturers submit new models for consideration. The jury then selects the tractors that make it through to the final shortlist. Manufacturers are responsible for providing the jury with the information needed to make a balanced assessment of each tractor within its category.\nThe room where the awards ceremony took place was absolutely packed this year. In fact, it was overcrowded. The atmosphere was hot and stuffy, but despite the uncomfortable conditions, it was remarkable to see just how enthusiastically manufacturers celebrated winning an award.\nTREKKER has been represented on the TOTY jury since the awards were first introduced. The next TOTY awards ceremony will take place in November 2027 at the Agritechnica agricultural machinery exhibition in Hanover, Germany.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "AGRO"
+   ],
+   "relevance": {
+    "AGRO": 0.6666666666666666,
+    "TECH": 0.6,
+    "BUSINESS": 0,
+    "MEXICO": 0
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 56,
+    "priority": 56,
+    "base": 46,
+    "breakdown": {
+     "agro": 16.7,
+     "tech": 12,
+     "business": 0,
+     "mexico": 0,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 56,
+   "priority": 56,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-bd103c93",
+   "retrieved_at": "2026-11-12T19:45:55.694Z",
+   "ingested_via": "rss",
+   "title_original": "México y China promueven intercambio comercial agroalimentario",
+   "title_agrovision": "",
+   "source_name": "Imagen Agropecuaria",
+   "source_domain": "imagenagropecuaria.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://imagenagropecuaria.com/2026/mexico-y-china-promueven-intercambio-comercial-agroalimentario/",
+   "canonical_url": "https://imagenagropecuaria.com/2026/mexico-y-china-promueven-intercambio-comercial-agroalimentario",
+   "published_at": "2026-11-12",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "AGRO",
+   "subcategory": "Agricultura",
+   "technologies": [
+    "Datos"
+   ],
+   "companies": [],
+   "content": "Con el objetivo de ampliar el intercambio comercial, impulsar la cooperación tecnológica y diversificar mercados para productos agroalimentarios mexicanos, la titular de la Secretaría de Agricultura y Desarrollo Rural (Sader), Columba López Gutiérrez, realiza una gira de trabajo por China, donde sostiene encuentros de trabajo con representantes del gobierno de esa nación. En sus redes &hellip;\nCon el objetivo de ampliar el intercambio comercial, impulsar la cooperación tecnológica y diversificar mercados para productos agroalimentarios mexicanos, la titular de la Secretaría de Agricultura y Desarrollo Rural (Sader), Columba López Gutiérrez, realiza una gira de trabajo por China, donde sostiene encuentros de trabajo con representantes del gobierno de esa nación.\n“Hoy, en Beijing, sostuvimos un encuentro bilateral encabezado por el ministro Zhang Zhu, en el que dialogamos sobre ampliar el intercambio comercial, impulsar la cooperación tecnológica y abrir nuevas oportunidades para los productos del campo mexicano.\nEsta visita, la primera de un titular de Agricultura mexicana desde 2019, representa un hito en la relación entre ambas naciones. Actualmente, el intercambio comercial agroalimentario alcanza los 1,200 millones de dólares, con exportaciones desde nuestro país de tequila, mariscos y plátano. Queremos diversificar y fortalecer este intercambio para que más productos mexicanos lleguen al mundo.\nCoincidimos en la importancia de construir un campo que cuide el planeta, más resiliente frente al cambio climático, capaz de proveer alimentación saludable y accesible. Y en algo fundamental, quienes nos dan de comer deben estar mejor alimentados y contar con mejores condiciones de vida.\nComo secretaria de AgriculturaMex, llevo también la voz de las campesinas y los campesinos de México a estos espacios de diálogo, para construir puentes de cooperación que se traduzcan en oportunidades para nuestro campo”.\nLa Sader informó que el ministro Zhang Zhu calificó la presencia de López Gutiérrez como una oportunidad para renovar una valiosa relación de colaboración que data de los años 70, y reafirmó el compromiso de su gobierno para profundizar los lazos en los ámbitos agroalimentario, comercial y de cooperación técnica bilateral y multilateral.\nSeñaló que China y México tienen una profunda amistad tradicional y que, bajo la dirección estratégica de los líderes de ambos países, la cooperación práctica en el ámbito agrícola ha avanzado de manera constante en beneficio de sus pueblos.\nEn particular, Zhu manifestó su interés en el intercambio en materia de ciencia y tecnología agrícola con base en las necesidades productivas del campo mexicano, mantener una buena interacción en el ámbito multilateral y dar la bienvenida a México para unirse a la Alianza Global de Asociados para la Reducción de la Pobreza y el Desarrollo, iniciativa impulsada por China.\nEn la mesa de trabajo se resaltó que México se ha consolidado como uno de los principales socios comerciales de China en la región, con un intercambio agroalimentario de cerca de mil 200 millones de dólares —equivalente al 1.08 por ciento de su capital en este rubro—, en el que destacan productos como el tequila, los mariscos y el plátano.\nPor otra parte, el director en jefe del Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria (Senasica), Javier Calderón Elizalde, y el viceadministrador general de la Administración General de Aduanas de China, Zhang Baofeng, dialogaron sobre el fortalecimiento de la cooperación aduanera, de inspección y cuarentena, además del impulso al desarrollo saludable del comercio bilateral de productos agroalimentarios.\nLa Sader resaltó que, “con estos encuentros, impulsados con el acompañamiento de la Embajada de la República Popular China en México, ambos países inauguran una nueva etapa de entendimiento mutuo y demuestran que la voluntad política y el intercambio tecnológico son motores indispensables para construir un campo más justo, sustentable y próspero en beneficio de sus pueblos”.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "BUSINESS",
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 0.4,
+    "BUSINESS": 0.6666666666666666,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [
+    "agv-917c163a"
+   ],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 100,
+    "priority": 108,
+    "base": 78,
+    "breakdown": {
+     "agro": 25,
+     "tech": 8,
+     "business": 13.3,
+     "mexico": 15,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {
+     "impacto_economico": 10,
+     "afecta_productores": 10,
+     "agro_mas_tech": 10
+    },
+    "penalties": {}
+   },
+   "score": 100,
+   "priority": 108,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "AgroTech de la semana",
+    "Tecnología explicada",
+    "¿Cómo funciona?"
+   ],
+   "suggested_content": [],
+   "interview_ideas": []
+  },
+  {
+   "id": "agv-e3cc8765",
+   "retrieved_at": "2026-11-12T19:45:55.694Z",
+   "ingested_via": "rss",
+   "title_original": "Acopio de leche a productores nacionales avanza hacia meta de 750 millones de litros: Sader",
+   "title_agrovision": "",
+   "source_name": "Imagen Agropecuaria",
+   "source_domain": "imagenagropecuaria.com",
+   "source_type": "secondary",
+   "source_tier": 2,
+   "source_kind": "medio_especializado",
+   "url": "https://imagenagropecuaria.com/2026/acopio-de-leche-a-productores-nacionales-avanza-hacia-meta-de-750-millones-de-litros-sader/",
+   "canonical_url": "https://imagenagropecuaria.com/2026/acopio-de-leche-a-productores-nacionales-avanza-hacia-meta-de-750-millones-de-litros-sader",
+   "published_at": "2026-11-12",
+   "country": "México",
+   "mx_state": "Nacional",
+   "category": "BUSINESS",
+   "subcategory": "Adquisiciones",
+   "technologies": [],
+   "companies": [],
+   "content": "Leche para el Bienestar reportó que a nivel nacional se logró acopiar un volumen de 665 millones de litros de leche fresca nacional bajo el esquema de Precios de Garantía, con lo cual se avanza hacia la meta nacional de 750 millones de litros. El programa de compra de leche del gobierno federal mantiene su &hellip;\nLeche para el Bienestar reportó que a nivel nacional se logró acopiar un volumen de 665 millones de litros de leche fresca nacional bajo el esquema de Precios de Garantía, con lo cual se avanza hacia la meta nacional de 750 millones de litros.\nEl programa de compra de leche del gobierno federal mantiene su compromiso de brindar un precio justo a los productores en distintos puntos del país e impulsar la economía local e infraestructura en el sector ganadero, informó la Secretaría de Agricultura y Desarrollo Rural (Sader).\nA través de un comunicado, destacó que la infraestructura operativa para la compra de leche a pequeños y medianos productores pasó de 53 a 63 Centros de Acopio, a los que se suma el arranque de la construcción de dos nuevas instalaciones en Sinaloa.\nLa dependencia, que encabeza Columba Jazmín López Gutiérrez, reportó un avance en la edificación de la nueva Planta de Secado de Leche en Michoacán, obra estratégica para el procesamiento e industrialización del lácteo en esa región.\nTambién destacó la entrega de 242 créditos de Cosechando Soberanía a productoras y productores, lo que representó un monto de 42 millones de pesos destinados a capitalizar el trabajo en las granjas.\nRespecto al Programa de Abasto Social, la Sader destacó que el padrón nacional de derechohabientes de Leche para el Bienestar observó un incrementó de 5 millones 366 mil a 7 millones 818 mil 781, lo que representó un aumento del 45.7 por ciento de 2022 a 2026.\nIndicó que la red nacional de expendios creció 34.5 por ciento, al pasar de 10 mil 100 a 13 mil 592 puntos de venta, y se cuenta con 5 mil 827 lecherías —de las cuales 2 mil 440 son nuevas— en alianza con Alimentación para el Bienestar.",
+   "metrics": [],
+   "corroborating_sources": [],
+   "contradictions": null,
+   "verification_notes": "",
+   "verified_by_fetch": true,
+   "analyst_evidence": null,
+   "flags": {},
+   "given": {
+    "category": null,
+    "subcategory": null,
+    "mx_state": null,
+    "country": null,
+    "technologies": []
+   },
+   "summary": "",
+   "why_matters": "",
+   "what_changed": "",
+   "key_fact": "",
+   "impact_producers": "",
+   "impact_business": "",
+   "impact_mexico": "",
+   "business_opportunity": "",
+   "problem": null,
+   "solution_tech": null,
+   "who": null,
+   "small_producer_access": null,
+   "investment": null,
+   "regulation": null,
+   "secondary_categories": [
+    "AGRO",
+    "MEXICO"
+   ],
+   "relevance": {
+    "AGRO": 1,
+    "TECH": 0,
+    "BUSINESS": 1,
+    "MEXICO": 1
+   },
+   "duplicate_of": null,
+   "related_ids": [],
+   "verification": {
+    "evidence": "MEDIO",
+    "computed_evidence": "MEDIO",
+    "status": "VERIFICADO",
+    "source_role": "fuente secundaria",
+    "corroborations": [],
+    "warnings": []
+   },
+   "evidence": "MEDIO",
+   "scoring": {
+    "score": 97,
+    "priority": 97,
+    "base": 77,
+    "breakdown": {
+     "agro": 25,
+     "tech": 0,
+     "business": 20,
+     "mexico": 15,
+     "recency": 10,
+     "source": 7
+    },
+    "bonuses": {
+     "impacto_economico": 10,
+     "afecta_productores": 10
+    },
+    "penalties": {}
+   },
+   "score": 97,
+   "priority": 97,
+   "status": "VERIFICADO",
+   "analysis_complete": false,
+   "publishable": false,
+   "suggested_formats": [
+    "¿Cuánto cuesta?",
+    "El negocio detrás del campo"
    ],
    "suggested_content": [],
    "interview_ideas": []
@@ -76369,7 +77466,7 @@
    "tier": 2,
    "type": "secondary",
    "kind": "medio_especializado",
-   "article_count": 107
+   "article_count": 109
   },
   {
    "domain": "cimmyt.org",
@@ -76417,7 +77514,7 @@
    "tier": 2,
    "type": "secondary",
    "kind": "medio_especializado",
-   "article_count": 135
+   "article_count": 137
   },
   {
    "domain": "agriculteca.com",
@@ -76489,7 +77586,7 @@
    "tier": 2,
    "type": "secondary",
    "kind": "medio_especializado",
-   "article_count": 55
+   "article_count": 57
   },
   {
    "domain": "newaginternational.com",
@@ -76689,7 +77786,7 @@
    "tier": 0,
    "type": "secondary",
    "kind": "desconocido",
-   "article_count": 14
+   "article_count": 15
   },
   {
    "domain": "phytoma.com",
@@ -77818,6 +78915,30 @@
    "type": "secondary",
    "kind": "desconocido",
    "article_count": 1
+  },
+  {
+   "domain": "losnoticieristas.com",
+   "name": "Los Noticieristas",
+   "tier": 0,
+   "type": "secondary",
+   "kind": "desconocido",
+   "article_count": 1
+  },
+  {
+   "domain": "elotroenfoque.mx",
+   "name": "El otro enfoque",
+   "tier": 0,
+   "type": "secondary",
+   "kind": "desconocido",
+   "article_count": 1
+  },
+  {
+   "domain": "tomshardware.com",
+   "name": "Tom's Hardware",
+   "tier": 0,
+   "type": "secondary",
+   "kind": "desconocido",
+   "article_count": 1
   }
  ],
  "topics": [
@@ -77984,9 +79105,9 @@
    "id": "sanidad",
    "label": "Sanidad animal y vegetal",
    "score": 93,
-   "mentions": 59,
+   "mentions": 60,
    "recent": 24,
-   "prior": 25,
+   "prior": 26,
    "direction": "creciendo",
    "source_kinds": [
     "medio",
@@ -78054,17 +79175,18 @@
     "agv-cb2a7392",
     "agv-97cd06c1",
     "agv-5404639b",
-    "agv-ab5293e8"
+    "agv-ab5293e8",
+    "agv-bd103c93"
    ],
-   "computed_at": "2026-11-12T05:34:42.276Z"
+   "computed_at": "2026-11-12T19:45:55.694Z"
   },
   {
    "id": "maiz",
    "label": "Maíz y granos",
    "score": 89,
-   "mentions": 121,
+   "mentions": 123,
    "recent": 43,
-   "prior": 69,
+   "prior": 71,
    "direction": "creciendo",
    "source_kinds": [
     "organismo",
@@ -78195,150 +79317,19 @@
     "agv-bd2b4752",
     "agv-f86a4114",
     "agv-aca171c0",
-    "agv-37674cc9"
+    "agv-37674cc9",
+    "agv-1d77c97f",
+    "agv-4fbcea8f"
    ],
-   "computed_at": "2026-11-12T05:34:42.276Z"
-  },
-  {
-   "id": "inversion-agtech",
-   "label": "Inversión AgTech",
-   "score": 88,
-   "mentions": 114,
-   "recent": 38,
-   "prior": 71,
-   "direction": "creciendo",
-   "source_kinds": [
-    "medio_especializado",
-    "medio",
-    "organismo",
-    "investigacion"
-   ],
-   "primary_sources": 3,
-   "item_ids": [
-    "agv-5ef80d76",
-    "agv-797fbb63",
-    "agv-272728e6",
-    "agv-0177d6c1",
-    "agv-66097959",
-    "agv-be95f754",
-    "agv-ce7aae71",
-    "agv-195dd156",
-    "agv-dd3cd7f6",
-    "agv-72f8387d",
-    "agv-b3422860",
-    "agv-f6976a0f",
-    "agv-2bfff340",
-    "agv-005f50c0",
-    "agv-c03c94de",
-    "agv-0d11e761",
-    "agv-f76fcd35",
-    "agv-99ba38d6",
-    "agv-8395760d",
-    "agv-cbe5818b",
-    "agv-768144ac",
-    "agv-f533ff5b",
-    "agv-5ecd780e",
-    "agv-2d272dbb",
-    "agv-23d881e1",
-    "agv-fdec61dc",
-    "agv-9d121aa4",
-    "agv-8cb36837",
-    "agv-7bcb6bd2",
-    "agv-67dc2f9f",
-    "agv-60b5e9e3",
-    "agv-e35eee62",
-    "agv-755b8186",
-    "agv-5cfb4d52",
-    "agv-a43d9b74",
-    "agv-cc6d0995",
-    "agv-bc6e7995",
-    "agv-467a2802",
-    "agv-542f7885",
-    "agv-a26868fb",
-    "agv-9b72e9e0",
-    "agv-237dfe6d",
-    "agv-3176805c",
-    "agv-8a4a260c",
-    "agv-e5654e4e",
-    "agv-a310a88b",
-    "agv-f42d898d",
-    "agv-a96aca60",
-    "agv-0e47f387",
-    "agv-c0c05e94",
-    "agv-73d8c522",
-    "agv-a85c8e98",
-    "agv-e0fa80ec",
-    "agv-69fa9f07",
-    "agv-4285d99e",
-    "agv-63d8026a",
-    "agv-9e3efc2a",
-    "agv-22e6e709",
-    "agv-d78cb59b",
-    "agv-ed3552d4",
-    "agv-c39c44a8",
-    "agv-21ff981d",
-    "agv-b136db31",
-    "agv-9a12ca95",
-    "agv-df17dd98",
-    "agv-60f299b1",
-    "agv-0a5e2cdd",
-    "agv-0d8758a4",
-    "agv-4520d1dc",
-    "agv-9b69c7c4",
-    "agv-526cbda3",
-    "agv-41c1485f",
-    "agv-c4e61eac",
-    "agv-73970483",
-    "agv-e0d2f2af",
-    "agv-d9be6fee",
-    "agv-7e5c651c",
-    "agv-294fe04a",
-    "agv-e19ee0ba",
-    "agv-f677ad58",
-    "agv-81b5008a",
-    "agv-77661b93",
-    "agv-d24ceab4",
-    "agv-3cfe08b2",
-    "agv-4451316b",
-    "agv-bb0540ad",
-    "agv-84490339",
-    "agv-b1a2cc7c",
-    "agv-8049d342",
-    "agv-13e95f19",
-    "agv-bbeb4d1d",
-    "agv-3342fc9d",
-    "agv-5eb6654a",
-    "agv-866ce90b",
-    "agv-5094dc21",
-    "agv-d5693673",
-    "agv-2ebde5f4",
-    "agv-b7bdb141",
-    "agv-c9903539",
-    "agv-6c8b4a35",
-    "agv-9203cee3",
-    "agv-533d8aa4",
-    "agv-f3a6e2b4",
-    "agv-ef0a2ba6",
-    "agv-05f64268",
-    "agv-d8bb890e",
-    "agv-ff4ef4f0",
-    "agv-89aaf27e",
-    "agv-29212614",
-    "agv-918f636c",
-    "agv-ffb7d6a3",
-    "agv-3132fe01",
-    "agv-4f4cc12a",
-    "agv-d8dec38e"
-   ],
-   "computed_at": "2026-11-12T05:34:42.276Z"
+   "computed_at": "2026-11-12T19:45:55.694Z"
   },
   {
    "id": "agricultura-digital",
    "label": "Agricultura digital y datos",
    "score": 88,
-   "mentions": 170,
-   "recent": 57,
-   "prior": 104,
+   "mentions": 173,
+   "recent": 58,
+   "prior": 106,
    "direction": "creciendo",
    "source_kinds": [
     "medio",
@@ -78520,17 +79511,20 @@
     "agv-a6b1167d",
     "agv-28bf0816",
     "agv-1861378a",
-    "agv-b4c810f5"
+    "agv-b4c810f5",
+    "agv-56442539",
+    "agv-af20f556",
+    "agv-bd103c93"
    ],
-   "computed_at": "2026-11-12T05:34:42.276Z"
+   "computed_at": "2026-11-12T19:45:55.694Z"
   },
   {
    "id": "ia-agricola",
    "label": "IA agrícola",
    "score": 87,
-   "mentions": 144,
-   "recent": 47,
-   "prior": 90,
+   "mentions": 146,
+   "recent": 48,
+   "prior": 91,
    "direction": "creciendo",
    "source_kinds": [
     "consultora",
@@ -78685,17 +79679,153 @@
     "agv-4f4cc12a",
     "agv-f130dad2",
     "agv-216c2219",
-    "agv-b4c810f5"
+    "agv-b4c810f5",
+    "agv-56442539",
+    "agv-af20f556"
    ],
-   "computed_at": "2026-11-12T05:34:42.276Z"
+   "computed_at": "2026-11-12T19:45:55.694Z"
+  },
+  {
+   "id": "inversion-agtech",
+   "label": "Inversión AgTech",
+   "score": 87,
+   "mentions": 115,
+   "recent": 37,
+   "prior": 73,
+   "direction": "creciendo",
+   "source_kinds": [
+    "medio_especializado",
+    "medio",
+    "organismo",
+    "investigacion"
+   ],
+   "primary_sources": 3,
+   "item_ids": [
+    "agv-5ef80d76",
+    "agv-797fbb63",
+    "agv-272728e6",
+    "agv-0177d6c1",
+    "agv-66097959",
+    "agv-be95f754",
+    "agv-ce7aae71",
+    "agv-195dd156",
+    "agv-dd3cd7f6",
+    "agv-72f8387d",
+    "agv-b3422860",
+    "agv-f6976a0f",
+    "agv-2bfff340",
+    "agv-005f50c0",
+    "agv-c03c94de",
+    "agv-0d11e761",
+    "agv-f76fcd35",
+    "agv-99ba38d6",
+    "agv-8395760d",
+    "agv-cbe5818b",
+    "agv-768144ac",
+    "agv-f533ff5b",
+    "agv-5ecd780e",
+    "agv-2d272dbb",
+    "agv-23d881e1",
+    "agv-fdec61dc",
+    "agv-9d121aa4",
+    "agv-8cb36837",
+    "agv-7bcb6bd2",
+    "agv-67dc2f9f",
+    "agv-60b5e9e3",
+    "agv-e35eee62",
+    "agv-755b8186",
+    "agv-5cfb4d52",
+    "agv-a43d9b74",
+    "agv-cc6d0995",
+    "agv-bc6e7995",
+    "agv-467a2802",
+    "agv-542f7885",
+    "agv-a26868fb",
+    "agv-9b72e9e0",
+    "agv-237dfe6d",
+    "agv-3176805c",
+    "agv-8a4a260c",
+    "agv-e5654e4e",
+    "agv-a310a88b",
+    "agv-f42d898d",
+    "agv-a96aca60",
+    "agv-0e47f387",
+    "agv-c0c05e94",
+    "agv-73d8c522",
+    "agv-a85c8e98",
+    "agv-e0fa80ec",
+    "agv-69fa9f07",
+    "agv-4285d99e",
+    "agv-63d8026a",
+    "agv-9e3efc2a",
+    "agv-22e6e709",
+    "agv-d78cb59b",
+    "agv-ed3552d4",
+    "agv-c39c44a8",
+    "agv-21ff981d",
+    "agv-b136db31",
+    "agv-9a12ca95",
+    "agv-df17dd98",
+    "agv-60f299b1",
+    "agv-0a5e2cdd",
+    "agv-0d8758a4",
+    "agv-4520d1dc",
+    "agv-9b69c7c4",
+    "agv-526cbda3",
+    "agv-41c1485f",
+    "agv-c4e61eac",
+    "agv-73970483",
+    "agv-e0d2f2af",
+    "agv-d9be6fee",
+    "agv-7e5c651c",
+    "agv-294fe04a",
+    "agv-e19ee0ba",
+    "agv-f677ad58",
+    "agv-81b5008a",
+    "agv-77661b93",
+    "agv-d24ceab4",
+    "agv-3cfe08b2",
+    "agv-4451316b",
+    "agv-bb0540ad",
+    "agv-84490339",
+    "agv-b1a2cc7c",
+    "agv-8049d342",
+    "agv-13e95f19",
+    "agv-bbeb4d1d",
+    "agv-3342fc9d",
+    "agv-5eb6654a",
+    "agv-866ce90b",
+    "agv-5094dc21",
+    "agv-d5693673",
+    "agv-2ebde5f4",
+    "agv-b7bdb141",
+    "agv-c9903539",
+    "agv-6c8b4a35",
+    "agv-9203cee3",
+    "agv-533d8aa4",
+    "agv-f3a6e2b4",
+    "agv-ef0a2ba6",
+    "agv-05f64268",
+    "agv-d8bb890e",
+    "agv-ff4ef4f0",
+    "agv-89aaf27e",
+    "agv-29212614",
+    "agv-918f636c",
+    "agv-ffb7d6a3",
+    "agv-3132fe01",
+    "agv-4f4cc12a",
+    "agv-d8dec38e",
+    "agv-af20f556"
+   ],
+   "computed_at": "2026-11-12T19:45:55.694Z"
   },
   {
    "id": "riego-inteligente",
    "label": "Riego y agua",
-   "score": 87,
+   "score": 86,
    "mentions": 135,
-   "recent": 42,
-   "prior": 83,
+   "recent": 40,
+   "prior": 85,
    "direction": "creciendo",
    "source_kinds": [
     "medio",
@@ -78841,16 +79971,16 @@
     "agv-234ca416",
     "agv-b4c810f5"
    ],
-   "computed_at": "2026-11-12T05:34:42.276Z"
+   "computed_at": "2026-11-12T19:45:55.694Z"
   },
   {
    "id": "fertilizantes",
    "label": "Costo de fertilizantes",
-   "score": 87,
+   "score": 85,
    "mentions": 45,
-   "recent": 13,
-   "prior": 26,
-   "direction": "creciendo",
+   "recent": 12,
+   "prior": 27,
+   "direction": "estable",
    "source_kinds": [
     "organismo",
     "medio",
@@ -78906,16 +80036,16 @@
     "agv-d596bca7",
     "agv-aca171c0"
    ],
-   "computed_at": "2026-11-12T05:34:42.276Z"
+   "computed_at": "2026-11-12T19:45:55.694Z"
   },
   {
    "id": "biotecnologia",
    "label": "Biotecnología y semillas",
-   "score": 87,
+   "score": 85,
    "mentions": 89,
-   "recent": 28,
-   "prior": 55,
-   "direction": "creciendo",
+   "recent": 25,
+   "prior": 58,
+   "direction": "estable",
    "source_kinds": [
     "investigacion",
     "medio_especializado",
@@ -79014,15 +80144,15 @@
     "agv-f130dad2",
     "agv-d8dec38e"
    ],
-   "computed_at": "2026-11-12T05:34:42.276Z"
+   "computed_at": "2026-11-12T19:45:55.694Z"
   },
   {
    "id": "drones",
    "label": "Drones agrícolas",
-   "score": 84,
+   "score": 81,
    "mentions": 36,
-   "recent": 9,
-   "prior": 22,
+   "recent": 8,
+   "prior": 23,
    "direction": "estable",
    "source_kinds": [
     "medio",
@@ -79069,15 +80199,15 @@
     "agv-b33c0e7c",
     "agv-d7da6729"
    ],
-   "computed_at": "2026-11-12T05:34:42.276Z"
+   "computed_at": "2026-11-12T19:45:55.694Z"
   },
   {
    "id": "comercio-tmec",
    "label": "Comercio y T-MEC",
    "score": 80,
-   "mentions": 58,
+   "mentions": 59,
    "recent": 31,
-   "prior": 26,
+   "prior": 27,
    "direction": "creciendo",
    "source_kinds": [
     "medio",
@@ -79143,16 +80273,17 @@
     "agv-5404639b",
     "agv-6816d3df",
     "agv-a6b1167d",
-    "agv-ef6a495b"
+    "agv-ef6a495b",
+    "agv-bd103c93"
    ],
-   "computed_at": "2026-11-12T05:34:42.276Z"
+   "computed_at": "2026-11-12T19:45:55.694Z"
   },
   {
    "id": "robotica",
    "label": "Robótica agrícola",
-   "score": 78,
-   "mentions": 93,
-   "recent": 34,
+   "score": 79,
+   "mentions": 95,
+   "recent": 36,
    "prior": 56,
    "direction": "creciendo",
    "source_kinds": [
@@ -79254,9 +80385,11 @@
     "agv-ae956ca3",
     "agv-f0e27fd5",
     "agv-28bf0816",
-    "agv-b4c810f5"
+    "agv-b4c810f5",
+    "agv-caf900c9",
+    "agv-226348d4"
    ],
-   "computed_at": "2026-11-12T05:34:42.276Z"
+   "computed_at": "2026-11-12T19:45:55.694Z"
   },
   {
    "id": "precios-alimentos",
@@ -79276,7 +80409,7 @@
     "agv-52a0be98",
     "agv-943d446b"
    ],
-   "computed_at": "2026-11-12T05:34:42.276Z"
+   "computed_at": "2026-11-12T19:45:55.694Z"
   }
  ],
  "companies": [
@@ -80395,7 +81528,8 @@
     "agv-1861378a",
     "agv-aca171c0",
     "agv-d8dec38e",
-    "agv-b4c810f5"
+    "agv-b4c810f5",
+    "agv-af20f556"
    ]
   },
   {
@@ -80541,7 +81675,9 @@
     "agv-4f4cc12a",
     "agv-f130dad2",
     "agv-216c2219",
-    "agv-b4c810f5"
+    "agv-b4c810f5",
+    "agv-56442539",
+    "agv-af20f556"
    ]
   },
   {
@@ -80679,7 +81815,10 @@
     "agv-216c2219",
     "agv-a6b1167d",
     "agv-1861378a",
-    "agv-b4c810f5"
+    "agv-b4c810f5",
+    "agv-56442539",
+    "agv-af20f556",
+    "agv-bd103c93"
    ]
   },
   {
@@ -80778,7 +81917,9 @@
     "agv-ae956ca3",
     "agv-f0e27fd5",
     "agv-28bf0816",
-    "agv-b4c810f5"
+    "agv-b4c810f5",
+    "agv-caf900c9",
+    "agv-226348d4"
    ]
   },
   {
@@ -80907,7 +82048,8 @@
     "agv-50356b7f",
     "agv-162e5957",
     "agv-a41dbfe6",
-    "agv-1861378a"
+    "agv-1861378a",
+    "agv-af20f556"
    ]
   },
   {
@@ -81401,21 +82543,22 @@
    ]
   },
   {
+   "id": "adquisiciones",
+   "name": "Adquisiciones",
+   "article_ids": [
+    "agv-0177d6c1",
+    "agv-66097959",
+    "agv-edc6ebc4",
+    "agv-e3cc8765"
+   ]
+  },
+  {
    "id": "rentabilidad",
    "name": "Rentabilidad",
    "article_ids": [
     "agv-a1b5cdd5",
     "agv-fa292461",
     "agv-5e7d6d50"
-   ]
-  },
-  {
-   "id": "adquisiciones",
-   "name": "Adquisiciones",
-   "article_ids": [
-    "agv-0177d6c1",
-    "agv-66097959",
-    "agv-edc6ebc4"
    ]
   },
   {
@@ -81795,7 +82938,12 @@
     "agv-bd2b4752",
     "agv-f86a4114",
     "agv-ef6a495b",
-    "agv-37674cc9"
+    "agv-37674cc9",
+    "agv-1d77c97f",
+    "agv-4fbcea8f",
+    "agv-17fc3b30",
+    "agv-bd103c93",
+    "agv-e3cc8765"
    ]
   },
   {
@@ -82069,7 +83217,12 @@
     "agv-aca171c0",
     "agv-d8dec38e",
     "agv-f2ebc8d1",
-    "agv-b4c810f5"
+    "agv-b4c810f5",
+    "agv-9f3a231e",
+    "agv-56442539",
+    "agv-af20f556",
+    "agv-caf900c9",
+    "agv-226348d4"
    ]
   },
   {
@@ -82318,7 +83471,10 @@
     "agv-a6b1167d",
     "agv-f86a4114",
     "agv-ef6a495b",
-    "agv-37674cc9"
+    "agv-37674cc9",
+    "agv-1d77c97f",
+    "agv-bd103c93",
+    "agv-e3cc8765"
    ]
   },
   {
@@ -82354,7 +83510,8 @@
     "agv-84f99f54",
     "agv-919e262e",
     "agv-d26ae0f9",
-    "agv-bd2b4752"
+    "agv-bd2b4752",
+    "agv-4fbcea8f"
    ]
   },
   {
@@ -82432,6 +83589,22 @@
    ]
   },
   {
+   "id": "guanajuato",
+   "name": "Guanajuato",
+   "article_ids": [
+    "agv-2db51231",
+    "agv-a8b1291c",
+    "agv-b398abc9",
+    "agv-d9be6fee",
+    "agv-eb2f1aef",
+    "agv-5a7f30b9",
+    "agv-361686d9",
+    "agv-1d825408",
+    "agv-8675419b",
+    "agv-17fc3b30"
+   ]
+  },
+  {
    "id": "michoacan",
    "name": "Michoacán",
    "article_ids": [
@@ -82444,21 +83617,6 @@
     "agv-4642de49",
     "agv-7d5cd293",
     "agv-2c88c2ab"
-   ]
-  },
-  {
-   "id": "guanajuato",
-   "name": "Guanajuato",
-   "article_ids": [
-    "agv-2db51231",
-    "agv-a8b1291c",
-    "agv-b398abc9",
-    "agv-d9be6fee",
-    "agv-eb2f1aef",
-    "agv-5a7f30b9",
-    "agv-361686d9",
-    "agv-1d825408",
-    "agv-8675419b"
    ]
   },
   {
@@ -85963,15 +87121,25 @@
    "id": "summary-2026-11-12T05:34:42.276Z",
    "type": "summary",
    "at": "2026-11-12T05:34:46.002Z"
+  },
+  {
+   "id": "daily-2026-11-12T19:45:55.694Z",
+   "type": "daily",
+   "at": "2026-11-12T19:47:19.946Z",
+   "added": 10,
+   "skipped": 301,
+   "feeds_ok": 17,
+   "feeds_failed": 3,
+   "duplicates": 66
   }
  ],
  "meta": {
   "schema_version": 1,
   "created_at": "2026-09-19T15:08:14.372Z",
-  "updated_at": "2026-11-12T05:34:46.002Z",
+  "updated_at": "2026-11-12T19:47:19.946Z",
   "counts": {
-   "articles": 693,
-   "sources": 188,
+   "articles": 703,
+   "sources": 191,
    "topics": 12,
    "trends": 12,
    "companies": 111,
@@ -85985,7 +87153,7 @@
    "saved_articles": 0,
    "newsletter_issues": 8,
    "social_posts": 0,
-   "runs": 171
+   "runs": 172
   }
  }
 }
